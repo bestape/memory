@@ -1,3 +1,4 @@
+WEDO you and the other WeDo schema should be in json/wedo/ not here
 {
   "version": "1.0",
   "attribution": "Anaximander (20251231-135827)",
