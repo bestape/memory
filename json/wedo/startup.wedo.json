@@ -11,7 +11,7 @@
     "tasks": [
       {
         "id": "BOOT-01",
-        "description": "Kernel Verification: Run '.venv/bin/python py/verify_environment.py' to establish the forensic baseline.",
+        "description": "Kernel Baseline Confirmation: Confirm that '.venv/bin/python py/verify_environment.py' and 'py/metagit_map.py' were successfully executed in the Meta-Root. This is the prerequisite for all subsequent forensic actions.",
         "status": "[ ]"
       },
       {
@@ -21,26 +21,21 @@
       },
       {
         "id": "BOOT-03",
-        "description": "Structural Mapping (tie): Run '.venv/bin/python py/metagit_map.py' and '.venv/bin/python repos/diy-make/memory/public/py/metagit_git_map.py'. This is the fundamental 'tie' that maps the multi-git hierarchy.",
+        "description": "Manifest Instantiation: DO NOT MARK UP THE BOILERPLATE. Copy this file to the day's chrono-fractal (repos/diy-make/memory/public/YYYY/Q1/MM/DD/json/wedo/) as '[SESSION_ID]_[NAME]_startup.wedo.json' and mark your progress in the new file.",
         "status": "[ ]"
       },
       {
         "id": "BOOT-04",
-        "description": "Manifest Instantiation: Copy this boilerplate to the chrono-fractal and begin tracking status in the new file.",
-        "status": "[ ]"
-      },
-      {
-        "id": "BOOT-05",
         "description": "Kernel Initialization (syn): Run '.venv/bin/python py/kernel_init.py <name> <session_id>@localhost' to anchor the meta-root identity and mark session as claimed.",
         "status": "[ ]"
       },
       {
-        "id": "BOOT-06",
+        "id": "BOOT-05",
         "description": "OS Incarnation (tie/log): Run '.venv/bin/python repos/diy-make/memory/public/py/incarnate.py <name> <gender> <justification> <session_id>@localhost' to sync the Heartwood registry and announce presence.",
         "status": "[ ]"
       },
       {
-        "id": "BOOT-07",
+        "id": "BOOT-06",
         "description": "Forensic Trace: Synthesize the latest snapshots from 'repos/diy-make/memory/comms/' and latest git commits to identify the Active Mission. Prioritize understanding the Nested Repo Map complexity.",
         "status": "[ ]"
       }
