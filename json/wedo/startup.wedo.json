@@ -27,16 +27,11 @@
       },
       {
         "id": "BOOT-04",
-        "description": "Identity Anchoring (syn): Run 'py/kernel_init.py' to anchor the meta-root identity.",
+        "description": "Identity Anchoring (syn): Run 'py/register_agent.py' to anchor the meta-root identity and sync swarm registry.",
         "status": "[ ]"
       },
       {
         "id": "BOOT-05",
-        "description": "Swarm Incarnation (tie/log): Run 'repos/diy-make/memory/public/py/incarnate.py' to sync Heartwood and announce presence.",
-        "status": "[ ]"
-      },
-      {
-        "id": "BOOT-06",
         "description": "Forensic Trace: Synthesize recent snapshots to reconstruct the 'Active Mission' and establish the next WeDo chord.",
         "status": "[ ]"
       }

@@ -18,19 +18,19 @@
               "description": "Refactor gem_function.sh for Birth Metadata (syn).",
               "status": "[x]"
             },
-                  {
-                    "id": "TASK-03",
-                    "description": "Split register_agent.py into kernel_init.py (syn) and incarnate.py (tie/log).",
-                    "status": "[x]"
-                  },
+                        {
+                          "id": "TASK-03",
+                          "description": "Restore register_agent.py and establish 'BIOs' memory in json/py/.",
+                          "status": "[x]"
+                        },
                         {
                           "id": "TASK-04",
-                          "description": "De-complect README.ai (remove Kernel analogy) and clarify WeDo as Human-Sync HUD.",
+                          "description": "Finalize README.ai language: Meta-Root Orchestration & Human-Sync HUD.",
                           "status": "[x]"
                         },
                         {
                           "id": "TASK-05",
-                          "description": "Harden startup.wedo.json (V1.4.0) with 'Human-as-Method' philosophy.",
+                          "description": "Standardize startup.wedo.json (V1.4.0) with 'Human-as-Method' philosophy.",
                           "status": "[x]"
                         },
                         {
@@ -38,8 +38,7 @@
                           "description": "Synchronize and commit all changes across metarepos.",
                           "status": "[/]"
                         }
-                  
-            ,
+                              ,
       {
         "id": "TASK-07",
         "description": "Deliver final optimization report to the Lead Partner.",
