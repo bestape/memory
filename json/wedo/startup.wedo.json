@@ -5,7 +5,7 @@
     "status": "[ ]",
     "meta": {
       "protocol": "WeDo-JSON",
-      "version": "1.1.0"
+      "version": "1.2.0"
     },
     "tasks": [
       {
@@ -20,25 +20,25 @@
       },
       {
         "id": "BOOT-03",
-        "description": "Kernel Initialization: Run .venv/bin/python py/kernel_init.py <name> <session_id>@localhost to anchor the meta-root identity.",
+        "description": "Kernel Initialization (syn): Run .venv/bin/python py/kernel_init.py <name> <session_id>@localhost to anchor the meta-root identity.",
         "status": "[ ]"
       },
       {
         "id": "BOOT-04",
-        "description": "OS Incarnation: Run .venv/bin/python repos/diy-make/memory/py/incarnate.py <name> <gender> <justification> <session_id>@localhost to sync the Heartwood registry and announce presence.",
+        "description": "OS Incarnation (tie/log): Run .venv/bin/python repos/diy-make/memory/public/py/incarnate.py <name> <gender> <justification> <session_id>@localhost to sync the Heartwood registry and announce presence.",
         "status": "[ ]"
       },
       {
         "id": "BOOT-05",
-        "description": "Forensic Trace: Synthesize the latest snapshots from repos/diy-make/memory/comms/ and latest git commits to identify the Active Mission.",
+        "description": "Forensic Trace: Synthesize the latest snapshots from repos/diy-make/memory/comms/ and latest git commits to identify the Active Mission. Prioritize understanding the Nested Repo Map complexity.",
         "status": "[ ]"
       }
     ],
     "context_anchors": {
       "philosophy": "trunk/architecture.json",
       "method": "SeedTree (Mostly)",
-      "kernel": "gemini (Meta-Root)",
-      "os": "Heartwood (diy-make/memory)"
+      "kernel": "gemini (Meta-Root - syn)",
+      "os": "Heartwood (diy-make/memory - tie/log)"
     }
   },
   "attribution": "Agathon (1767498305@localhost)"

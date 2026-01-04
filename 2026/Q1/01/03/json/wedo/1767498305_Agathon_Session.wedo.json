@@ -13,26 +13,27 @@
         "description": "Initialize as Agathon and verify environment.",
         "status": "[x]"
       },
-      {
-        "id": "TASK-02",
-        "description": "Refactor gem_function.sh for Birth Metadata (Sync).",
-        "status": "[x]"
-      },
-      {
-        "id": "TASK-03",
-        "description": "Split register_agent.py into kernel_init.py (Kernel) and incarnate.py (OS).",
-        "status": "[x]"
-      },
-      {
-        "id": "TASK-04",
-        "description": "Establish WeDo naming convention in Heartwood naming_conventions.json.",
-        "status": "[x]"
-      },
-      {
-        "id": "TASK-05",
-        "description": "Create startup.wedo.json manifest in Heartwood.",
-        "status": "[x]"
-      },
+            {
+              "id": "TASK-02",
+              "description": "Refactor gem_function.sh for Birth Metadata (syn).",
+              "status": "[x]"
+            },
+            {
+              "id": "TASK-03",
+              "description": "Split register_agent.py into kernel_init.py (syn) and incarnate.py (tie/log).",
+              "status": "[x]"
+            },
+            {
+              "id": "TASK-04",
+              "description": "Establish WeDo naming convention and map complexity in Heartwood.",
+              "status": "[x]"
+            },
+            {
+              "id": "TASK-05",
+              "description": "Create startup.wedo.json manifest in public/json/wedo/.",
+              "status": "[x]"
+            }
+      ,
       {
         "id": "TASK-06",
         "description": "Synchronize and commit all changes across metarepos.",
