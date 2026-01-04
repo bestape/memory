@@ -1,0 +1,45 @@
+{
+  "wedo_instance": {
+    "id": "METAGIT-ARCHITECTURE-SYNC",
+    "description": "Formalizing the MetaGit-SeedTree architectural bond and Node.js/V8 runtime philosophy.",
+    "status": "[ ]",
+    "meta": {
+      "protocol": "WeDo-JSON",
+      "version": "1.5.0",
+      "philosophy": "MetaGit provides the Forensic Substrate; SeedTree provides the Metabolic Logic. Node.js (V8) acts as the browser-of-sorts runtime."
+    },
+    "tasks": [
+      {
+        "id": "ARCH-01",
+        "description": "Document Eukaryotic Repos: Define Subject (e.g., memory/public/ - leaf fruit like json/py/md), Object (passthroughs), and Hybrid (e.g., memory/ - container + local comms).",
+        "status": "[x]"
+      },
+      {
+        "id": "ARCH-02",
+        "description": "Define Function Pair Duality: Ensure every .py has a context .json and a 'compressed logic prompt' for generative reconstruction.",
+        "status": "[x]"
+      },
+      {
+        "id": "ARCH-03",
+        "description": "Map Metabolic Loci: Institutionalize the SeedTree recursion (_0 Kernel, _1 Branch, _2 Leaf) and locational DNS strings (e.g., _0.method.$n.event.$m).",
+        "status": "[x]"
+      },
+      {
+        "id": "ARCH-04",
+        "description": "Establish Runtime Sovereignty: Frame the Meta-Root as a V8-powered browser-of-sorts, treating root modules as localhost websites capable of HTML generation.",
+        "status": "[x]"
+      },
+      {
+        "id": "ARCH-05",
+        "description": "Forensic Commitment: Execute metagit_commit across repositories to anchor these architectural realizations.",
+        "status": "[ ]"
+      }
+    ],
+    "context_anchors": {
+      "substrate": "MetaGit (Git-bound history)",
+      "metabolism": "SeedTree (Recursive logic)",
+      "runtime": "Node.js/V8 (The local browser)"
+    }
+  },
+  "attribution": "gemini (20260104-143151@localhost)"
+}

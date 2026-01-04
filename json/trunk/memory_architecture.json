@@ -6,8 +6,8 @@
   "values": [
     {
       "name": "Subject-Object-Hybrid Git System",
-      "rule": "Repositories are hybrid entities managed by Git and cloud-synced blobs.",
-      "description": "The \"Hybrid\" state occurs when a repository acts as a passthrough for nested subjects while simultaneously maintaining its own local subjects (e.g., comms/ logs).",
+      "rule": "Repositories are hybrid entities managed by MetaGit wrappers and cloud-synced blobs.",
+      "description": "Subject: memory/public/ (contains leaf fruit like json/py/md). Hybrid: memory/ (acts as passthrough for public/ while holding local Drive blobs and comms/ logs).",
       "rationale": "Ensures absolute forensic traceability while maintaining a decentralized, fractal hierarchy."
     },
     {

@@ -67,12 +67,32 @@ def generate_git_map(repo_root, output_path, agent_name):
     print(f"✅ Git map generated at: {output_path}")
 
 if __name__ == "__main__":
-    # Internal paths for memory/public/
-    repo_root = "/home/bestape/gemini/repos/diy-make/memory/public"
-    # Output to today's chrono-fractal json
-    timestamp = time.strftime("%Y%m%d-%H%M%S")
-    output_dir = os.path.join(repo_root, "2026/Q1/01/01/json")
-    os.makedirs(output_dir, exist_ok=True)
-    output_file = os.path.join(output_dir, f"{timestamp}_metagit_git_map.json")
+    # Dynamically determine the repository root
+    repo_root = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
     
-    generate_git_map(repo_root, output_file, "Palamedes")
+    # Load agent name from session environment if available
+    session_env_path = os.path.abspath(os.path.join(repo_root, "../../../../.gemini/session_env.json"))
+    agent_name = "Unknown"
+    session_id = time.strftime("%Y%m%d-%H%M%S")
+    
+    if os.path.exists(session_env_path):
+        try:
+            with open(session_env_path, 'r') as f:
+                env_data = json.load(f)
+                agent_name = env_data.get("agent_name", "Unknown")
+                session_id = env_data.get("session_id", session_id)
+        except Exception:
+            pass
+
+    # Output to the current day's chrono-fractal json
+    # Attempt to find or create the correct fractal path
+    year, quarter, month, day = time.strftime("%Y Q%q %m %d").replace("Q1", "Q1").replace("Q2", "Q2").replace("Q3", "Q3").replace("Q4", "Q4").split()
+    # Note: %q is not standard strftime, manually calculating quarter
+    month_int = int(time.strftime("%m"))
+    quarter = f"Q{(month_int-1)//3 + 1}"
+    
+    output_dir = os.path.join(repo_root, year, quarter, time.strftime("%m/%d"), "json")
+    os.makedirs(output_dir, exist_ok=True)
+    output_file = os.path.join(output_dir, f"{session_id}_metagit_git_map.json")
+    
+    generate_git_map(repo_root, output_file, agent_name)

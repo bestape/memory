@@ -1,47 +1,45 @@
 {
-  "version": "1.2",
-  "attribution": "Pyrrho (20260102-231500)",
+  "version": "1.5.0",
+  "attribution": "gemini (20260104-143151)",
   "title": "System Architecture & Design Philosophy",
   "description": "Foundational principles for designing modular, scalable, and forensic-ready agent systems. Focuses on 'De-complecting' complexity.",
   "values": [
     {
+      "name": "V8 Browser-of-Sorts Runtime",
+      "rule": "Frame the Meta-Root as a V8-powered browser-of-sorts. Root modules (e.g., memory/public/) are localhost websites capable of HTML generation.",
+      "rationale": "Leverages Node.js connectivity and V8 performance to transform repositories into interactive, addressable web-like entities.",
+      "substrate": "Nerves (Life)"
+    },
+    {
       "name": "Simplicity over Easiness (Hickey Principle)",
       "rule": "Prioritize objective simplicity (the absence of complexity/entanglement) over subjective easiness (familiarity). Actively 'de-complect' concerns to create systems that are easier to reason about.",
-      "rationale": "Simple systems are auditable and resilient. Easy systems often hide hidden complexity that leads to technical debt.",
-      "example": "The decision to flatten principles/ and rules/ into trunk/ to reduce navigational entanglement."
+      "rationale": "Simple systems are auditable and resilient. Easy systems often hide hidden complexity that leads to technical debt."
     },
     {
       "name": "Declarative/Imperative Duality",
       "rule": "Employ a dual approach. Imperative code is guided by metadeclarative comments within the same file.",
-      "rationale": "Ensures that the 'Why' (declaration) is never separated from the 'What' (execution).",
-      "example": "Using MCP headers in Python scripts to declare intent before the logic begins."
+      "rationale": "Ensures that the 'Why' (declaration) is never separated from the 'What' (execution)."
     },
     {
       "name": "Unix Modularity",
       "rule": "Each script and JSON artifact should have a singular, clear purpose. Composition over monoliths.",
-      "rationale": "The agent itself acts as the \"pipe\" between different tools and scripts, orchestrating complex workflows by passing output from one tool as input to another.",
-      "example": "The metagit_commit.py wrapper performing secret scanning and size checks before executing the git commit.",
-      "citations": [
-        { "title": "HSD Artificial Life Report", "path": "2025/Q4/12/21/md/20251221_HSD_Artificial_Life_Report.md", "description": "Links Unix modularity to biological components (Ribosomes/Polymerase)." }
-      ]
+      "rationale": "The agent itself acts as the \"pipe\" between different tools and scripts, orchestrating complex workflows."
     },
     {
       "name": "Boomerang Orchestration",
       "rule": "Agents must return to the user for steering after significant milestones or deviations.",
-      "rationale": "The human-in-the-loop is the ultimate driver. The boomerang ensures session velocity remains aligned with strategic goals.",
-      "example": "Pyrrho's 1-by-1 step execution of the Heartwood reordering."
+      "rationale": "The human-in-the-loop is the ultimate driver. The boomerang ensures session velocity remains aligned with strategic goals."
     },
     {
       "name": "Fractal Memory",
       "rule": "Knowledge is structured hierarchically, from temporal logs to permanent Heartwood principles.",
-      "rationale": "Monotonic growth ensures that every session turn contributes to the long-term wisdom of the firm.",
-      "example": "The chrono-fractal organization of YYYY/Q1/MM/DD."
+      "rationale": "Monotonic growth ensures that every session turn contributes to the long-term wisdom of the firm."
     },
     {
       "name": "Eukaryotic Repository Model",
-      "rule": "Repositories are hybrid \"Subject-Object-Hybrid\" entities managed by Git and cloud-synced blobs.",
-      "rationale": "Distinguishing between git-managed logic and synced data layers ensures absolute forensic traceability and low-latency operations.",
-      "description": "Repositories are implemented as a Subject-Object Git system. \"Subject\" repos contain actual content; \"Object\" repos act as containers or \"passthroughs,\" ignoring subdirectories via .gitignore. This creates a fractal, decentralized hierarchy. The \"Hybrid\" state occurs when a repository acts as a passthrough for nested subjects while simultaneously maintaining its own local subjects (e.g., comms/ logs)."
+      "rule": "Repositories are Subject-Object-Hybrid entities managed by MetaGit wrappers.",
+      "rationale": "Distinguishing between git-managed logic and synced data layers ensures absolute forensic traceability.",
+      "description": "Subject: Contains logical 'fruit' (json/py/md leaves). Object: Organizational passthroughs managing nested structures via .gitignore. Hybrid: Containers for nested subjects that also hold local subjects (e.g., memory/ - container + local comms)."
     }
   ]
 }

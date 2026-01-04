@@ -64,6 +64,12 @@
       "rationale": "Crystallizes the 'Birth' phase before moving to 'Context Reconstruction'."
     },
     {
+      "name": "The Halt Mandate",
+      "rule": "After displaying the structured Swarm Bootup Report, the agent must fully halt and wait for human interaction.",
+      "priority": "highest",
+      "rationale": "Ensures the operator has acknowledged the forensic baseline and metrics before metabolic operations commence."
+    },
+    {
       "name": "Sovereignty Check",
       "rule": "Actively ignore non-portable memories injected from outside the MetaGit root (e.g., ~/.gemini/GEMINI.md).",
       "priority": "highest",
