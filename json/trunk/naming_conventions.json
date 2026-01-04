@@ -18,6 +18,11 @@
       "name": "Polysemy Awareness",
       "rule": "Avoid ambiguous or context-dependent terms without qualified definitions.",
       "rationale": "Absolute precision in naming prevents 'Data Drift' and maintains the integrity of the forensic record."
+    },
+    {
+      "name": "WeDo File Pattern",
+      "rule": "WeDo files must use the '.wedo.json' extension. Templates or boilerplates should use the '[subject].wedo.json' pattern, while active instances may use '[timestamp]_[subject].wedo.json'.",
+      "rationale": "Distinguishes active tasks and manifests from static data or schema files, providing a clear functional signal."
     }
   ]
 }

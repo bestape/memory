@@ -47,9 +47,20 @@
       "name": "Word Count",
       "description": "Aim for a substantial word count (800+) for depth and wisdom.",
       "rationale": "Sizable output ensures the 'Wood' of the Heartwood is dense and rich."
+    },
+    {
+      "id": "REQ-07",
+      "name": "Refined JSON Migration",
+      "description": "Move the session's refined .json log from the root to the persistent Heartwood directory.",
+      "rule": "Locate gemini-conversation-*.json in the root and move it to the path defined in paths.memory_json (environment_paths.json)."
     }
   ],
   "values": [
+    {
+      "id": "BIO-00",
+      "name": "JSON Migration",
+      "description": "Physically move the root chat JSON to the persistent memory directory."
+    },
     {
       "id": "BIO-01",
       "name": "Data Extraction",

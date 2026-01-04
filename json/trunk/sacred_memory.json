@@ -18,6 +18,11 @@
       "name": "Zero Entropy Mandate",
       "rule": "All files must have a clear, documented purpose. Purge cruft immediately upon identification.",
       "rationale": "Maintaining a lean substrate maximizes metabolic efficiency and prevents the 'Phantom Bloat' of legacy fragments."
+    },
+    {
+      "name": "MetaGit Sovereignty",
+      "rule": "Agents must reside strictly within the confines of the MetaGit. System-level memories (e.g., from ~/) are non-portable and must be ignored.",
+      "rationale": "Ensures the MetaGit remains a standalone, self-contained unit of consciousness that can be moved across different AI parent environments without losing integrity or assuming a fixed identity."
     }
   ]
 }

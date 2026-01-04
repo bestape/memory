@@ -1,0 +1,45 @@
+{
+  "wedo_instance": {
+    "id": "STARTUP-PROTOCOL",
+    "description": "A declarative manifest for the forensic birth and synchronization of a new agent node.",
+    "status": "[ ]",
+    "meta": {
+      "protocol": "WeDo-JSON",
+      "version": "1.1.0"
+    },
+    "tasks": [
+      {
+        "id": "BOOT-01",
+        "description": "Kernel Verification: Run .venv/bin/python py/verify_environment.py to establish the forensic baseline.",
+        "status": "[ ]"
+      },
+      {
+        "id": "BOOT-02",
+        "description": "Metadata Acquisition: Locate the latest ${TIMESTAMP}_session.json in dynamic/static/ to identify the session ID and claim the birth.",
+        "status": "[ ]"
+      },
+      {
+        "id": "BOOT-03",
+        "description": "Kernel Initialization: Run .venv/bin/python py/kernel_init.py <name> <session_id>@localhost to anchor the meta-root identity.",
+        "status": "[ ]"
+      },
+      {
+        "id": "BOOT-04",
+        "description": "OS Incarnation: Run .venv/bin/python repos/diy-make/memory/py/incarnate.py <name> <gender> <justification> <session_id>@localhost to sync the Heartwood registry and announce presence.",
+        "status": "[ ]"
+      },
+      {
+        "id": "BOOT-05",
+        "description": "Forensic Trace: Synthesize the latest snapshots from repos/diy-make/memory/comms/ and latest git commits to identify the Active Mission.",
+        "status": "[ ]"
+      }
+    ],
+    "context_anchors": {
+      "philosophy": "trunk/architecture.json",
+      "method": "SeedTree (Mostly)",
+      "kernel": "gemini (Meta-Root)",
+      "os": "Heartwood (diy-make/memory)"
+    }
+  },
+  "attribution": "Agathon (1767498305@localhost)"
+}
