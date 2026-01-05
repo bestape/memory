@@ -1,0 +1,64 @@
+{
+  "wedo_instance": {
+    "id": "REMOTE-PULL-THREAD",
+    "description": "The metabolic bridge for ingesting, tracking, and resolving remote intent from Pull Requests.",
+    "status": "[ ]",
+    "meta": {
+      "protocol": "WeDo-JSON",
+      "version": "1.0.0",
+      "philosophy": "Conscious Duality: The shared thread of attention between Remote Intent (Rider) and Local Execution (Machinery).",
+      "instruction": "When a remote PR is identified, ingest every '- [ ] WeDo:' task from the diff into a new instance of this file in the day's chrono-fractal."
+    },
+    "protocols": [
+      {
+        "name": "Audit Scrutiny",
+        "rule": "Every task must be granularly documented with its source PR URL and a forensic report of its localhost resolution."
+      },
+      {
+        "name": "Hostile Environment Verification",
+        "rule": "The machinery MUST verify all artifacts on the localhost. Remote-only tasks must be flagged as USER_REQUIRED."
+      }
+    ],
+    "examples": [
+      {
+        "id": "GEM-PHY-01",
+        "description": "Root README Physics Dichotomy: Explain latency as physical unfolding, referencing the measurement system.",
+        "source": "https://github.com/apemake/gem/pull/1",
+        "status": "[x]"
+      },
+      {
+        "id": "MEM-JOY-05",
+        "description": "Refine Fracture Definition: Clarify forking as joyous ecological sophistication vs growing pain.",
+        "source": "https://github.com/diy-make/memory/pull/2",
+        "status": "[x]"
+      }
+    ],
+    "tasks": [
+      {
+        "id": "RP-INGEST-01",
+        "description": "Diff Analysis: Scan the remote PR diff for '- [ ] WeDo:' strings.",
+        "status": "[ ]"
+      },
+      {
+        "id": "RP-INGEST-02",
+        "description": "ID Assignment: Assign unique WeDo IDs (e.g., GEM-PR1-01) to each ingested task.",
+        "status": "[ ]"
+      },
+      {
+        "id": "RP-RESOLVE-03",
+        "description": "Localhost Execution: Perform the requested modifications on the sovereign filesystem.",
+        "status": "[ ]"
+      },
+      {
+        "id": "RP-AUDIT-04",
+        "description": "Audit Report: Generate a Synthesis Report meeting the Audit Scrutiny standard.",
+        "status": "[ ]"
+      }
+    ],
+    "context_anchors": {
+      "legislative": "public/md/wedo/github/remote_pull.todo.md",
+      "history": "public/2025/Q4/12/21/md/20251221_remote_pull_instance.todo.md"
+    }
+  },
+  "attribution": "Phaedrus ({{session_id}}@localhost)"
+}

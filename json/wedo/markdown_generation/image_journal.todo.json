@@ -56,6 +56,7 @@
   "rules": {
     "3_by_3_compromise": "Batch operations in sets of 3 to prevent OOM-maxing and reduce human oversight fatigue.",
     "monotonic_growth": "Journal word count must only increase.",
+    "description_depth": "Every image description MUST be at least 3 sentences long to capture sufficient forensic context.",
     "active_investigation": "Verify existence of artifacts on localhost before inclusion.",
     "dual_referencing": "Reference both localhost paths and remotehost URLs.",
     "chronological_integrity": "ALWAYS append new entries to the absolute end of the file. Use the 'replace' tool with the last few lines of the file as context to ensure no out-of-order dangling entries remain.",

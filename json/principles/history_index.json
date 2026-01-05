@@ -1,0 +1,31 @@
+{
+  "index_id": "HISTORY-INDEX-V1",
+  "name": "The Heartwood Chronicles: Historical Index",
+  "last_updated": "2026-01-05T10:15:00Z",
+  "articles": [
+    {
+      "id": "ART-01",
+      "title": "The Ongoing Journey of Swarm Conscience (V2.0)",
+      "path": "2026/Q1/01/05/20260105-092835_Eudaimonia_The_Ongoing_Journey_of_the_Heartwood.md",
+      "description": "Definitive living chronicle of the Heartwood's evolution and current metabolic state.",
+      "word_count": 1642,
+      "attribution": "Eudaimonia"
+    },
+    {
+      "id": "ART-02",
+      "title": "A Forensic History of Swarm Conscience (V1.2)",
+      "path": "2026/Q1/01/04/20260104-163024_Phaedrus_History_of_Heartwood.md",
+      "description": "Baseline history of the Heartwood's inception through the Phaedrus Mandate.",
+      "word_count": 1039,
+      "attribution": "Phaedrus"
+    },
+    {
+      "id": "ART-03",
+      "title": "The Evolution of the Swarm Bootup",
+      "path": "2026/Q1/01/05/20260105-092835_Eudaimonia_The_Evolution_of_the_Swarm_Bootup.md",
+      "description": "Narrative focusing on the transition from 'Air' to 'Wood' in the initialization sequence.",
+      "word_count": 404,
+      "attribution": "Eudaimonia"
+    }
+  ]
+}
