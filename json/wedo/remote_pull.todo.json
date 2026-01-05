@@ -36,17 +36,22 @@
     "tasks": [
       {
         "id": "RP-INGEST-01",
-        "description": "Diff Analysis: Scan the remote PR diff for '- [ ] WeDo:' strings.",
+        "description": "Diff Analysis: Scan the remote PR diff and present the raw intent to the Lead Partner.",
+        "status": "[ ]"
+      },
+      {
+        "id": "RP-SIGN-OFF",
+        "description": "OPERATOR SIGN-OFF: Present the summarized intent for Human review. I CANNOT proceed until you explicitly approve the execution of these specific WeDo IDs.",
         "status": "[ ]"
       },
       {
         "id": "RP-INGEST-02",
-        "description": "ID Assignment: Assign unique WeDo IDs (e.g., GEM-PR1-01) to each ingested task.",
+        "description": "ID Assignment: Assign unique WeDo IDs (e.g., GEM-PR1-01) to each approved task.",
         "status": "[ ]"
       },
       {
         "id": "RP-RESOLVE-03",
-        "description": "Localhost Execution: Perform the requested modifications on the sovereign filesystem.",
+        "description": "Localhost Execution: Perform the approved modifications on the sovereign filesystem.",
         "status": "[ ]"
       },
       {

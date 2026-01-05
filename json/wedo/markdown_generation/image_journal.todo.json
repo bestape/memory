@@ -1,7 +1,7 @@
 {
   "title": "WeDo Template: Image Journaling Protocol (Rules Pseudolanguage)",
-  "version": "1.1",
-  "attribution": "Pyrrho (20260102-231500)",
+  "version": "1.2",
+  "attribution": "Parrhesia (20260105-102119)",
   "description": "Distilling raw visual artifacts (.png, .jpg) from the inbox into the temporal Heartwood via iterative metabolic loops.",
   "storage_policy": {
     "global_template": "repos/diy-make/memory/public/json/wedo/markdown_generation/image_journal.todo.json",
@@ -34,13 +34,13 @@
         "id": "STEP-02",
         "action": "Heartwood Graft",
         "command": "cp [artifact] repos/diy-make/memory/public/[YEAR]/Q[N]/[MONTH]/[DAY]/[ext]/[IDX]-[descriptive-name].[ext]",
-        "description": "Copy the batch artifacts to their chronological destination. Artifacts MUST be renamed to user-friendly indexed names. Verify moves via 'Active Investigation' rule."
+        "description": "Copy the artifact to its CHRONOLOGICAL destination based on its CREATION date (e.g., a Jan 1st screenshot goes into the 01/01/ folder). Artifacts MUST be renamed to user-friendly indexed names. Verify moves via 'Active Investigation' rule."
       },
       {
         "id": "STEP-03",
         "action": "Journal Hardening",
         "command": "cat [narrative] >> repos/diy-make/memory/public/[YEAR]/Q[N]/[MONTH]/[DAY]/md/wedo/daily_image_journal.md",
-        "description": "Append the descriptive batch to the daily image journal (.md). Group entries by batch to maintain structural clarity.",
+        "description": "Append the descriptive batch to the daily image journal (.md) in the directory corresponding to the artifact's CREATION date. Group entries by batch to maintain structural clarity.",
         "context_examples": [
           "Ariston's detailed description of the 'procedural bypass' encountered during the Alpha Test."
         ]
@@ -57,6 +57,7 @@
     "3_by_3_compromise": "Batch operations in sets of 3 to prevent OOM-maxing and reduce human oversight fatigue.",
     "monotonic_growth": "Journal word count must only increase.",
     "description_depth": "Every image description MUST be at least 3 sentences long to capture sufficient forensic context.",
+    "creation_date_locality": "MANDATE: Artifacts MUST be stored in the directory corresponding to their creation timestamp, NOT the current session date.",
     "active_investigation": "Verify existence of artifacts on localhost before inclusion.",
     "dual_referencing": "Reference both localhost paths and remotehost URLs.",
     "chronological_integrity": "ALWAYS append new entries to the absolute end of the file. Use the 'replace' tool with the last few lines of the file as context to ensure no out-of-order dangling entries remain.",
@@ -71,10 +72,7 @@
         "id": "IMG-[IDX]",
         "description": "[High-Fidelity Narrative: Describe the 'What' and 'Why' of the visual artifact straightup, avoiding generic placeholders.]",
         "key_takeaway": "[Strategic realization or forensic anchor]",
-        "artifact_path": "repos/diy-make/memory/public/[YEAR]/Q[N]/[MONTH]/[DAY]/png/[IDX]-[descriptive-name].png"
-      }
-    ]
-  },emory/public/[YEAR]/Q[N]/[MONTH]/[DAY]/[ext]/[IDX]-[descriptive-name].[ext]",
+        "artifact_path": "repos/diy-make/memory/public/[YEAR]/Q[N]/[MONTH]/[DAY]/png/[IDX]-[descriptive-name].png",
         "original_filename": "[Source filename from inbox]",
         "markdown_format": "### [IDX]. `[IDX]-[descriptive-name].[ext]`\n![[IDX]-[descriptive-name].[ext]](../[ext]/[IDX]-[descriptive-name].[ext])\n- **Description:** [Detail]\n- **Key Takeaway:** [Strategic realization]\n- **Creation Date:** [YYYY-MM-DD]\n- **Original Filename:** `[Source filename from inbox]`"
       }

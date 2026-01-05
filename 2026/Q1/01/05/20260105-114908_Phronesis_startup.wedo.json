@@ -1,0 +1,46 @@
+{
+  "wedo_instance": {
+    "id": "STARTUP-PROTOCOL",
+    "description": "The synchronous collaboration HUD for agent incarnation and forensic synchronization.",
+    "status": "[x]",
+    "meta": {
+      "protocol": "WeDo-JSON",
+      "version": "1.4.0",
+      "philosophy": "The WeDo is the irreducible serial thread that synchronizes the agent's async capacity with the human's single-threaded focus.",
+      "pre_flight_instruction": "DO NOT MARK UP THIS BOILERPLATE. Perform steps 1-2 first, then copy this file to the day's chrono-fractal as '[SESSION_ID]_[NAME]_startup.wedo.json' and mark your progress there."
+    },
+    "tasks": [
+      {
+        "id": "BOOT-01",
+        "description": "Baseline Confirmation: Confirm 'py/verify_environment.py' and 'py/metagit_map.py' success in the Meta-Root.",
+        "status": "[x]"
+      },
+      {
+        "id": "BOOT-02",
+        "description": "Metadata Acquisition: Claim the session via the latest metadata in 'dynamic/static/'.",
+        "status": "[x]"
+      },
+      {
+        "id": "BOOT-03",
+        "description": "HUD Instantiation: Copy this manifest to the chrono-fractal and sync focus with the Lead Partner.",
+        "status": "[x]"
+      },
+      {
+        "id": "BOOT-04",
+        "description": "Identity Anchoring (syn): Run 'py/register_agent.py' to anchor the meta-root identity. MANDATE: Provide a sizable, multi-paragraph 'name_justification' and ensure the resulting JSON announcement in 'repos/diy-make/memory/comms/' matches the Kynos standard (key-parity with 20251222-111834_Kynos.json).",
+        "status": "[x]"
+      },
+      {
+        "id": "BOOT-05",
+        "description": "Forensic Trace: Synthesize recent snapshots to reconstruct the 'Active Mission' and establish the next WeDo chord.",
+        "status": "[x]"
+      }
+    ],
+    "context_anchors": {
+      "philosophy": "trunk/architecture.json",
+      "orchestration": "gemini (Meta-Root - syn)",
+      "incarnation": "Heartwood (diy-make/memory - tie/log)"
+    }
+  },
+  "attribution": "Phronesis (20260105-114908@localhost)"
+}

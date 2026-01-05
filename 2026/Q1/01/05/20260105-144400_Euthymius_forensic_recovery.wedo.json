@@ -1,0 +1,35 @@
+{
+  "wedo_instance": {
+    "id": "FORENSIC-RECOVERY-CHORD",
+    "description": "Processing the visual backlog of Jan 1st artifacts via metabolic image journaling.",
+    "status": "[ ]",
+    "meta": {
+      "protocol": "WeDo-JSON",
+      "version": "1.0.0",
+      "philosophy": "Transform raw screenshots into legislative Heartwood memory."
+    },
+    "tasks": [
+      {
+        "id": "RECO-01",
+        "description": "Batch 113: Swarm Protocol Discovery and User Redirection.",
+        "status": "[x]"
+      },
+      {
+        "id": "RECO-02",
+        "description": "Batch 114: Identity Registry and Cleanup Auditing.",
+        "status": "[x]"
+      },
+      {
+        "id": "RECO-03",
+        "description": "Batch 115: Path Alignment and Succession Reporting.",
+        "status": "[x]"
+      },
+      {
+        "id": "RECO-04",
+        "description": "Visual Backlog Depletion: Continue processing remaining 787 images in metabolic batches.",
+        "status": "[ ]"
+      }
+    ]
+  },
+  "attribution": "Euthymius (20260105-144400@localhost)"
+}

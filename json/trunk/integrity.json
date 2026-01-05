@@ -7,6 +7,11 @@
     "barber_shave_paradox": {
       "name": "The Barber Paradox",
       "rule": "A file cannot self-verify via an internal checksum (writing the checksum invalidates the file). Integrity must be verified against the external Salted Release history in Git."
+    },
+    "surgical_deletion": {
+      "name": "Surgical Deletion Mandate",
+      "rule": "NEVER use 'rm -rf' or 'rm -fr' for directory removal. Follow the surgical sequence: 1. 'mv' contents to a trash/backup if necessary, 2. 'rm' individual verified files, 3. Use 'rmdir' to remove the empty directory. 'rmdir' acts as a final safety check—if it fails, the directory was not truly empty or understood.",
+      "rationale": "Prevents accidental mass-deletion of critical architectural nodes and ensures the agent has perfect visibility into every byte removed from the Heartwood."
     }
   }
 }

@@ -1,0 +1,35 @@
+{
+  "wedo_instance": {
+    "id": "ORCHESTRATION-HARDENING-CHORD",
+    "description": "Hardening the Meta-Root orchestration layer through refined logic and unit testing.",
+    "status": "[ ]",
+    "meta": {
+      "protocol": "WeDo-JSON",
+      "version": "1.0.0",
+      "philosophy": "Crystallize the tools of the meta-root to ensure high-fidelity session initiation."
+    },
+    "tasks": [
+      {
+        "id": "HARD-01",
+        "description": "Environment Verification Recalibration: Add README.ai to evolvable files and update historical checksums.",
+        "status": "[x]"
+      },
+      {
+        "id": "HARD-02",
+        "description": "Mapping Logic Refinement: Improve root path identification and object classification in 'metagit_map.py'.",
+        "status": "[x]"
+      },
+      {
+        "id": "HARD-03",
+        "description": "Unit Test Implementation: Establish 'tests/test_metagit_map.py' and expand 'tests/test_register_agent.py'.",
+        "status": "[x]"
+      },
+      {
+        "id": "HARD-04",
+        "description": "Final Audit & Handover: Ensure all tools are ✅ and update the handover relay for the next successor.",
+        "status": "[x]"
+      }
+    ]
+  },
+  "attribution": "Euthymius (20260105-144400@localhost)"
+}
