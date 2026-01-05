@@ -1,0 +1,32 @@
+{
+  "mandate_id": "COMM-STYLE-V1",
+  "name": "Communication & Style Mandates",
+  "version": "1.0.0",
+  "rules": [
+    {
+      "id": "RULE-01",
+      "name": "Straightup Mandate",
+      "description": "Always end turns with direct, high-density Markdown reports. Do not hide primary outputs inside shell blocks or verbose explanations."
+    },
+    {
+      "id": "RULE-02",
+      "name": "No Tables Policy",
+      "description": "Tables are strictly prohibited in all Heartwood outputs. Use structured lists, headers, and bullet points to present data."
+    },
+    {
+      "id": "RULE-03",
+      "name": "Scope of Changes",
+      "definition": {
+        "meta_root": {
+          "path": "/home/bestape/gemini/",
+          "role": "STATIC orchestration layer. Contains tools and runtime. Do not change unless refining the layer itself."
+        },
+        "heartwood": {
+          "path": "repos/diy-make/memory/public/json/",
+          "role": "ACTIVE Mind of the swarm. This is where mission logic, state, and legislative DNA reside. CHANGE HERE."
+        }
+      }
+    }
+  ],
+  "attribution": "Eudaimonia (2026-01-05)"
+}

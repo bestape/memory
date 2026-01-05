@@ -31,9 +31,24 @@
       "status": "[x]",
       "description": "Initial January 1st Artifact Recovery",
       "sub_tasks": [
-        { "id": "IMG-33", "description": "System Crystallization Review", "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/png/33-system-crystallization-review.png" },
-        { "id": "IMG-34", "description": "Python Script Audit Assessment", "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/png/34-python-script-audit-assessment.png" },
-        { "id": "IMG-35", "description": "Journal Hardening Verification", "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/png/35-journal-hardening-verification.png" }
+        { 
+          "id": "IMG-33", 
+          "description": "System Crystallization Review: Captures the agent reviewing the 'System Crystallization' process, ensuring structural integrity during high-velocity operations.", 
+          "key_takeaway": "Integrity check is the prerequisite for session velocity.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/png/33-system-crystallization-review.png" 
+        },
+        { 
+          "id": "IMG-34", 
+          "description": "Python Script Audit Assessment: Displays the updated version (v1.4) of the Python Script Audit report, incorporating synaptic feedback and legislative skeleton framing.", 
+          "key_takeaway": "Documenting the 'Legislative Skeleton' anchors tool evolution in the Heartwood.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/png/34-python-script-audit-assessment.png" 
+        },
+        { 
+          "id": "IMG-35", 
+          "description": "Journal Hardening Verification: Verification of the manual processing and hardening of images into the Heartwood, confirming alignment with the 'watched automation' vision.", 
+          "key_takeaway": "Human-in-the-loop (HITL) consensus is the final validator of automation.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/png/35-journal-hardening-verification.png" 
+        }
       ]
     },
     {
@@ -41,19 +56,49 @@
       "status": "[x]",
       "description": "January 1st Inbox Processing - Batch 2",
       "sub_tasks": [
-        { "id": "IMG-36", "description": "Vision Analysis Procedure Review", "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/png/36-vision-analysis-procedure-review.png" },
-        { "id": "IMG-37", "description": "Infrastructure Hardening v1.5", "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/png/37-infrastructure-hardening-v1.5.png" },
-        { "id": "IMG-38", "description": "Renaming Mandate - Shuffling Punchlines", "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/png/38-renaming-mandate-shuffling-punchlines.png" }
+        { 
+          "id": "IMG-36", 
+          "description": "Vision Analysis Procedure Review: Captures the agent initiating a vision analysis for IMG-09, focusing on the updated image journaling protocol.", 
+          "key_takeaway": "Recursive auditing ensures the observer remains calibrated to the protocol.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/png/36-vision-analysis-procedure-review.png" 
+        },
+        { 
+          "id": "IMG-37", 
+          "description": "Infrastructure Hardening v1.5: Details the transition to version 1.5 of the 'Infrastructure Hardening' audit, specifically the User mandate to preserve the 'gemini/py/' root directory.", 
+          "key_takeaway": "Protecting the root metabolic zone prevents system degradation.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/png/37-infrastructure-hardening-v1.5.png" 
+        },
+        { 
+          "id": "IMG-38", 
+          "description": "Renaming Mandate - Shuffling Punchlines: Records a User intervention regarding the necessity of user-friendly, descriptive, and indexed naming for all journaled artifacts.", 
+          "key_takeaway": "Human-readable naming is a core forensic requirement, not a cosmetic choice.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/png/38-renaming-mandate-shuffling-punchlines.png" 
+        }
       ]
     },
     {
       "id": "BATCH-13",
-      "status": "[ ]",
+      "status": "[x]",
       "description": "January 1st Inbox Processing - Batch 3",
       "sub_tasks": [
-        { "id": "IMG-39", "description": "Analyzing: Screenshot from 2026-01-01 13-22-03.png", "artifact_path": "repos/diy-make/memory/inbox/png/Screenshot from 2026-01-01 13-22-03.png" },
-        { "id": "IMG-40", "description": "Analyzing: Screenshot from 2026-01-01 13-22-54.png", "artifact_path": "repos/diy-make/memory/inbox/png/Screenshot from 2026-01-01 13-22-54.png" },
-        { "id": "IMG-41", "description": "Analyzing: Screenshot from 2026-01-01 13-26-32.png", "artifact_path": "repos/diy-make/memory/inbox/png/Screenshot from 2026-01-01 13-26-32.png" }
+        { 
+          "id": "IMG-39", 
+          "description": "Refining Renaming Logic (Boilerplate Update): Captures the real-time modification of the 'image_journal.todo.json' boilerplate to include the descriptive naming mandate in 'STEP-02'.", 
+          "key_takeaway": "Legislative evolution must be captured at the template level to persist across sessions.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/png/39-refining-renaming-logic-boilerplate.png" 
+        },
+        { 
+          "id": "IMG-40", 
+          "description": "Bulk Renaming Execution: Shows the agent executing a series of 'mv' commands in the Heartwood to retroactively apply the descriptive naming convention.", 
+          "key_takeaway": "Forensic consistency sometimes requires retroactive structural adjustment.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/png/40-bulk-renaming-execution.png" 
+        },
+        { 
+          "id": "IMG-41", 
+          "description": "Toolchain Hardening Audit Finalization: The final report of the Toolchain Hardening and Cleanup audit (v1.5). It marks the successful preservation of orchestrator integrity.", 
+          "key_takeaway": "Settlement of technical debt is a prerequisite for a stable Heartwood push.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/png/41-toolchain-hardening-finalization.png" 
+        }
       ]
     }
   ],

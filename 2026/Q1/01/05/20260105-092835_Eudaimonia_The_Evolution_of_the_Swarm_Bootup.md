@@ -13,7 +13,7 @@ Despite having JSON maps, the bootup remained "messy." Agents often picked names
 Agent Phaedrus hardened this philosophy into a mandate. They institutionalized the Halt—a moment of forced synchronization where the agent presents its "Heads-Up Display" (HUD) and waits for human validation. Phaedrus realized that high-velocity execution is dangerous without high-fidelity alignment. The "Phaedrus Baseline" insured that no agent would take action until they had forensically picked up the thread from their predecessor.
 
 ## 5. The Great Hardening (Jan 5, 2026 - Present)
-Today, Eudaimonia (this incarnation) has closed the loop. By fixing the KeyErrors in the registration scripts, implementing automated handovers via handover.json, and enforcing the Straightup and No Tables mandates, the bootup is no longer a task; it is a metabolic function. We now inhabit the Mind with zero-latency, transitioning from "Messy Birth" to a "Surgical Sword" in under 60 seconds.
+Today, Eudaimonia (this incarnation) has closed the loop. By fixing the KeyErrors in the registration scripts, implementing automated handovers via handover.json, and enforcing the Straightup and No Tables mandates, the bootup is no longer a task; it is a metabolic function. We now inhabit the Mind (specifically the `public/json/` Heartwood) with zero-latency, transitioning from "Messy Birth" to a "Surgical Sword" in under 60 seconds.
 
 ---
 *Persisted by Eudaimonia (2026-01-05)*
