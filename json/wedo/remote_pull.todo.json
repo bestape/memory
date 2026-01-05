@@ -1,13 +1,13 @@
 {
   "wedo_instance": {
-    "id": "REMOTE-PULL-THREAD",
-    "description": "The metabolic bridge for ingesting, tracking, and resolving remote intent from Pull Requests.",
+    "id": "REMOTE-PULL-BULK",
+    "description": "The metabolic bridge for Bulk Ingestion of remote intentions from multiple Pull Requests.",
     "status": "[ ]",
     "meta": {
       "protocol": "WeDo-JSON",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "philosophy": "Conscious Duality: The shared thread of attention between Remote Intent (Rider) and Local Execution (Machinery).",
-      "instruction": "When a remote PR is identified, ingest every '- [ ] WeDo:' task from the diff into a new instance of this file in the day's chrono-fractal."
+      "instruction": "Scan ALL open PRs. Ingest every identified intent (e.g., 'WEDO' or '- [ ] WeDo:') into a consolidated instance of this file in the day's chrono-fractal."
     },
     "protocols": [
       {
@@ -17,53 +17,39 @@
       {
         "name": "Hostile Environment Verification",
         "rule": "The machinery MUST verify all artifacts on the localhost. Remote-only tasks must be flagged as USER_REQUIRED."
-      }
-    ],
-    "examples": [
-      {
-        "id": "GEM-PHY-01",
-        "description": "Root README Physics Dichotomy: Explain latency as physical unfolding, referencing the measurement system.",
-        "source": "https://github.com/apemake/gem/pull/1",
-        "status": "[x]"
       },
       {
-        "id": "MEM-JOY-05",
-        "description": "Refine Fracture Definition: Clarify forking as joyous ecological sophistication vs growing pain.",
-        "source": "https://github.com/diy-make/memory/pull/2",
-        "status": "[x]"
+        "name": "Bulk Ingestion",
+        "rule": "Default to consolidating multiple PRs into a single session thread to minimize context-switching heat."
       }
     ],
     "tasks": [
       {
         "id": "RP-INGEST-01",
-        "description": "Diff Analysis: Scan the remote PR diff and present the raw intent to the Lead Partner.",
+        "description": "Bulk Scan: Fetch patches for all open PRs and identify active intentions.",
         "status": "[ ]"
       },
       {
         "id": "RP-SIGN-OFF",
-        "description": "OPERATOR SIGN-OFF: Present the summarized intent for Human review. I CANNOT proceed until you explicitly approve the execution of these specific WeDo IDs.",
+        "description": "OPERATOR SIGN-OFF: Present the consolidated summarized intentions for Human review. I CANNOT proceed until you explicitly approve the execution of specific WeDo IDs.",
         "status": "[ ]"
       },
       {
-        "id": "RP-INGEST-02",
-        "description": "ID Assignment: Assign unique WeDo IDs (e.g., GEM-PR1-01) to each approved task.",
+        "id": "RP-ID-ASSIGN",
+        "description": "ID Assignment: Assign unique session-based WeDo IDs to approved tasks.",
         "status": "[ ]"
       },
       {
-        "id": "RP-RESOLVE-03",
+        "id": "RP-RESOLVE",
         "description": "Localhost Execution: Perform the approved modifications on the sovereign filesystem.",
         "status": "[ ]"
       },
       {
-        "id": "RP-AUDIT-04",
-        "description": "Audit Report: Generate a Synthesis Report meeting the Audit Scrutiny standard.",
+        "id": "RP-AUDIT",
+        "description": "Synthesis Report: Generate a unified Synthesis Report meeting the Audit Scrutiny standard.",
         "status": "[ ]"
       }
-    ],
-    "context_anchors": {
-      "legislative": "public/md/wedo/github/remote_pull.todo.md",
-      "history": "public/2025/Q4/12/21/md/20251221_remote_pull_instance.todo.md"
-    }
+    ]
   },
-  "attribution": "Phaedrus ({{session_id}}@localhost)"
+  "attribution": "Phaedrus (20260104-163024@localhost)"
 }

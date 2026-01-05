@@ -1535,6 +1535,206 @@
           "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/01/png/407-agent-merges-data-standards-fragments-into-hardened-schema.png"
         }
       ]
+    },
+    {
+      "id": "BATCH-136",
+      "status": "[x]",
+      "description": "Forensic Recovery: SeedTree Grammar Purge and Job Protocol Audit (Jan 1st)",
+      "sub_tasks": [
+        { 
+          "id": "IMG-396", 
+          "description": "Agent queues legacy 'SeedTree_Recursive_Grammar.json' for purge. Moving toward a lean, hardened root filesystem.", 
+          "key_takeaway": "Decommissioning legacy grammar files is a prerequisite for achieving 'Absolute Zero' structural noise in the Heartwood root.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/01/png/396-agent-queues-seedtree-grammar-for-purge.png"
+        },
+        { 
+          "id": "IMG-397", 
+          "description": "Agent audits the legacy root version of the job takeover protocol. Confirmed redundancy with the rules/ hardened branch.", 
+          "key_takeaway": "Auditing root-level protocols identifies redundant 'Air' that must be purged to maintain the firm's structural proportionality.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/01/png/397-agent-audits-legacy-job-takeover-protocol.png"
+        },
+        { 
+          "id": "IMG-398", 
+          "description": "Audit Entry 03: local_paths.json. Observation of missing metadata and recommendation for relocation to configuration/.", 
+          "key_takeaway": "Relocating path configurations to dedicated directories increases the navigational efficiency of the metarepo for both humans and agents.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/01/png/398-audit-entry-03-local-paths-json-review.png"
+        }
+      ]
+    },
+    {
+      "id": "BATCH-137",
+      "status": "[x]",
+      "description": "Forensic Recovery: Glossary Review and Environment Path Polish (Jan 1st)",
+      "sub_tasks": [
+        { 
+          "id": "IMG-399", 
+          "description": "Audit Entry 04: glossary.json review. Identifying the need for 'Lost Queue' and 'Deferred Deletion' terms.", 
+          "key_takeaway": "Expanding the glossary with new operational terminology ensures that the swarm's evolving methodology is codified in its standard language.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/01/png/399-audit-entry-04-glossary-json-review.png"
+        },
+        { 
+          "id": "IMG-400", 
+          "description": "Agent updates 'environment_paths.json' with a critical note identifying it as a 'pointer superhub' requiring a deep audit.", 
+          "key_takeaway": "Flagging critical 'Superhub' files prevents architectural fragility by alerting agents to the widespread dependencies of specific path configurations.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/01/png/400-agent-updates-environment-paths-pointer-note.png"
+        },
+        { 
+          "id": "IMG-401", 
+          "description": "Agent updates the audit WeDo manifest to include the glossary script purge. Ensuring total metabolic coverage.", 
+          "key_takeaway": "Dynamic task list updates are essential for maintaining 100% forensic transparency during the decommissioning of redundant scripts.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/01/png/401-agent-updates-audit-redo-with-glossary-purge.png"
+        }
+      ]
+    },
+    {
+      "id": "BATCH-138",
+      "status": "[x]",
+      "description": "Forensic Recovery: Metagit Map Strategy and Script Creation (Jan 1st)",
+      "sub_tasks": [
+        { 
+          "id": "IMG-402", 
+          "description": "Audit Entry 05: memory_metagit_map.json review. Identification of deprecated comms/ mapping and redundant scripts.", 
+          "key_takeaway": "Auditing internal DNS maps is critical for ensuring that the agent's spatial model of the metarepo remains accurate and high-fidelity.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/01/png/402-audit-entry-05-memory-metagit-map-review.png"
+        },
+        { 
+          "id": "IMG-403", 
+          "description": "User redirects agent on mapping strategy: rename the mapping script and move map instances to chrono-fractal json/ zones.", 
+          "key_takeaway": "Relocating mapping instances to chrono-fractal directories prevents root-level clutter and promotes a 'fractal' approach to repository metadata.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/01/png/403-user-redirects-on-metagit-mapping-strategy.png"
+        },
+        { 
+          "id": "IMG-404", 
+          "description": "Agent reads 'metagit_metarepo_map.py' in the orchestrator root to understand and replicate the map generation logic.", 
+          "key_takeaway": "Replicating established tool patterns from the meta-root ensures architectural consistency across different layers of the metarepo ecosystem.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/01/png/404-agent-reads-metagit-metarepo-map-logic.png"
+        }
+      ]
+    },
+    {
+      "id": "BATCH-139",
+      "status": "[x]",
+      "description": "Forensic Recovery: Git Map Generation and Domain Knowledge Audit (Jan 1st)",
+      "sub_tasks": [
+        { 
+          "id": "IMG-405", 
+          "description": "Agent creates 'metagit_git_map.py' in public/py/. Implementing repo-local mapping with chrono-fractal output redirection.", 
+          "key_takeaway": "Automating the generation of chrono-fractal maps provides a high-resolution forensic record of filesystem state at specific points in time.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/01/png/405-agent-creates-metagit-git-map-py-script.png"
+        },
+        { 
+          "id": "IMG-406", 
+          "description": "Agent executes the new mapping script to generate the initial git map JSON in today's chronological folder.", 
+          "key_takeaway": "Physical verification of new tool output confirms the successful implementation of user-mandated structural improvements.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/01/png/406-agent-generates-local-git-map-json.png"
+        },
+        { 
+          "id": "IMG-407", 
+          "description": "Audit Entry 06: domain_specific_knowledge.json review. Confirmed redundancy with knowledge_data/ hardened ontology.", 
+          "key_takeaway": "Final verification of redundant root fragments is the definitive prerequisite for the total metabolic cleanup of the Heartwood substrate.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/01/png/407-audit-entry-06-domain-specific-knowledge-review.png"
+        }
+      ]
+    },
+    {
+      "id": "BATCH-140",
+      "status": "[x]",
+      "description": "Forensic Recovery: Startup Task Refinement and Domain Knowledge Purge (Jan 1st)",
+      "sub_tasks": [
+        { 
+          "id": "IMG-408", 
+          "description": "Agent updates the startup protocol to include the 'Chrono-Fractal Git Map Audit' task. Redirecting map instances to the leaf repository's json/ directories.", 
+          "key_takeaway": "Fractal mapping standards ensure that repository-local metadata is stored within the repo itself, maintaining clean separation from the base orchestrator.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/01/png/408-agent-structures-chrono-fractal-startup-tasks.png"
+        },
+        { 
+          "id": "IMG-409", 
+          "description": "Agent updates the audit manifest to include the 'domain_specific_knowledge.json' purge. Ensuring all root fragments are metabolized.", 
+          "key_takeaway": "Maintaining 100% parity between logical consolidation and physical task tracking is the only way to achieve a truly lean Heartwood.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/01/png/409-agent-updates-audit-redo-with-domain-knowledge-purge.png"
+        },
+        { 
+          "id": "IMG-410", 
+          "description": "Audit Entries 07 & 08: glossary.py and memory_metagit_map.py review. Confirmed location violations and redundancy; queued for deletion.", 
+          "key_takeaway": "Rigorous location auditing identifies 'Principle Violations' where scripts are stored in data directories, forcing their relocation or removal.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/01/png/410-audit-entries-07-08-redundant-script-review.png"
+        }
+      ]
+    },
+    {
+      "id": "BATCH-141",
+      "status": "[x]",
+      "description": "Forensic Recovery: Root Check Finalization and Workflow Hardening (Jan 1st)",
+      "sub_tasks": [
+        { 
+          "id": "IMG-411", 
+          "description": "Agent initiates final commit for the 'Root Check' phase, staging modified startup protocols and hardened mapping scripts.", 
+          "key_takeaway": "Intermediate commits serve as 'Checkpoint Nodes' during long-duration sessions, preventing massive context loss in the event of an OOM crash.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/01/png/411-agent-executes-root-check-final-commit.png"
+        },
+        { 
+          "id": "IMG-412", 
+          "description": "Commit success! Terminal shows deletion of legacy principles and scripts. Substrate now consists of 18 hardened root items.", 
+          "key_takeaway": "The transition from hundreds of fragments to a dozen hardened nodes marks the successful attainment of architectural neg-entropy.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/01/png/412-commit-success-hash-40c4348-root-polish.png"
+        },
+        { 
+          "id": "IMG-413", 
+          "description": "Audit Entry 09: logic/modules/screenshot_organizer.json review. plan to correct script_path and add rationale/metadata.", 
+          "key_takeaway": "Logic nodes require the same level of metadata hardening as data nodes to ensure that the swarm's functional sub-trees are auditable.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/01/png/413-audit-entry-09-screenshot-organizer-hardening.png"
+        }
+      ]
+    },
+    {
+      "id": "BATCH-142",
+      "status": "[x]",
+      "description": "Forensic Recovery: Workflow Enhancement and Personality Audit (Jan 1st)",
+      "sub_tasks": [
+        { 
+          "id": "IMG-414", 
+          "description": "Audit Entry 10: logic/workflows/daily_reporting_workflow.json review. Identified need for structural detail in 'steps' (objects instead of strings).", 
+          "key_takeaway": "Hardening workflows requires transforming flat lists into rich, machine-readable objects that define both purpose and functional triggers.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/01/png/414-audit-entry-10-daily-reporting-workflow-review.png"
+        },
+        { 
+          "id": "IMG-415", 
+          "description": "Agent updates workflow steps with detailed rationale and scripting logic. Version incremented to 1.2.", 
+          "key_takeaway": "Injecting rationale into workflows turns them from static instructions into an active part of the swarm's 'Fractal Memory'.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/01/png/415-agent-updates-workflow-steps-with-rationale.png"
+        },
+        { 
+          "id": "IMG-416", 
+          "description": "Audit Entry 11: personality/ directory review. Identification of redundant trait fragments (e.g., 'Pushback') already merged into core principles.", 
+          "key_takeaway": "Auditing the 'Personality' layer ensures that the swarm's unique character is distilled into hardened standards rather than fragmented across redundant files.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/01/png/416-audit-entry-11-personality-trait-redundancy-check.png"
+        }
+      ]
+    },
+    {
+      "id": "BATCH-143",
+      "status": "[x]",
+      "description": "Forensic Recovery: Substrate Polish and Knowledge Codification (Jan 1st)",
+      "sub_tasks": [
+        { 
+          "id": "IMG-417", 
+          "description": "The 'Final Turn' before the Great Purge. Agent performs a final alignment check of logic scripts versus JSON assets.", 
+          "key_takeaway": "Alignment checks prevent the creation of 'Ghost Nodes' where data is removed but functional references remain in orphaned scripts.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/01/png/417-final-turn-before-great-purge-alignment-check.png"
+        },
+        { 
+          "id": "IMG-418", 
+          "description": "Final Forensic Polish Summary: Logic polished, script locality corrected, knowledge codified into unified ontologies.", 
+          "key_takeaway": "Achieving 'Substrate Fully Hardened' state is the definitive success metric for the Palamedes forensic audit mission.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/01/png/418-final-forensic-polish-summary-substrate-hardened.png"
+        },
+        { 
+          "id": "IMG-419", 
+          "description": "Agent initiates Entry 13: Codifying Hard-Won Knowledge. Consolidating logic from snippets into hardened standards for Python ops and React UI components.", 
+          "key_takeaway": "Directly codifying technical 'Snippets' into hardened standards ensures that operational wisdom is physically persistent and accessible to the entire swarm.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/01/png/419-audit-entry-13-codifying-hard-won-knowledge.png"
+        }
+      ]
     }
   ],
   "attribution": "Euthymius (20260105-144400)"
