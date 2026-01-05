@@ -68,9 +68,12 @@
     "sub_tasks": [
       {
         "id": "IMG-[IDX]",
-        "description": "[Detail]",
-        "key_takeaway": "[Strategic realization]",
-        "artifact_path": "repos/diy-make/memory/public/[YEAR]/Q[N]/[MONTH]/[DAY]/[ext]/[IDX]-[descriptive-name].[ext]",
+        "description": "[High-Fidelity Narrative: Describe the 'What' and 'Why' of the visual artifact straightup, avoiding generic placeholders.]",
+        "key_takeaway": "[Strategic realization or forensic anchor]",
+        "artifact_path": "repos/diy-make/memory/public/[YEAR]/Q[N]/[MONTH]/[DAY]/png/[IDX]-[descriptive-name].png"
+      }
+    ]
+  },emory/public/[YEAR]/Q[N]/[MONTH]/[DAY]/[ext]/[IDX]-[descriptive-name].[ext]",
         "original_filename": "[Source filename from inbox]",
         "markdown_format": "### [IDX]. `[IDX]-[descriptive-name].[ext]`\n![[IDX]-[descriptive-name].[ext]](../[ext]/[IDX]-[descriptive-name].[ext])\n- **Description:** [Detail]\n- **Key Takeaway:** [Strategic realization]\n- **Creation Date:** [YYYY-MM-DD]\n- **Original Filename:** `[Source filename from inbox]`"
       }

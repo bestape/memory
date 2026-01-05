@@ -1,0 +1,61 @@
+{
+  "title": "Eudaimon Image Journaling - 2026-01-04",
+  "description": "Distilling raw visual artifacts from the inbox into the temporal Heartwood via 3-by-3 metabolic batches.",
+  "meta": {
+    "agent": "Eudaimon",
+    "session_id": "20260104-192954",
+    "status": "active"
+  },
+  "storage_policy": {
+    "global_template": "repos/diy-make/memory/public/json/wedo/markdown_generation/image_journal.todo.json",
+    "temporal_instance": "repos/diy-make/memory/public/2026/Q1/04/json/Eudaimon_20260104-192954_image_journal.todo.json"
+  },
+  "required_files": {
+    "formatter": "py/format_todo.py",
+    "meta_protocol": "repos/diy-make/memory/public/json/wedo/meta_wedo.todo.json"
+  },
+  "process_protocol": {
+    "source_inbox": "repos/diy-make/memory/inbox/png/",
+    "loop_instructions": "Execute the following sequence in 3-by-3 metabolic batches:",
+    "steps": [
+      { "id": "STEP-00", "action": "Display ToDo" },
+      { "id": "STEP-01", "action": "Metabolic Batch Analysis" },
+      { "id": "STEP-02", "action": "Heartwood Graft" },
+      { "id": "STEP-03", "action": "Journal Hardening" },
+      { "id": "STEP-04", "action": "Inbox Clearance" }
+    ]
+  },
+  "tasks": [
+    {
+      "id": "BATCH-11",
+      "status": "[x]",
+      "description": "Initial January 1st Artifact Recovery",
+      "sub_tasks": [
+        { "id": "IMG-33", "description": "System Crystallization Review", "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/png/33-system-crystallization-review.png" },
+        { "id": "IMG-34", "description": "Python Script Audit Assessment", "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/png/34-python-script-audit-assessment.png" },
+        { "id": "IMG-35", "description": "Journal Hardening Verification", "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/png/35-journal-hardening-verification.png" }
+      ]
+    },
+    {
+      "id": "BATCH-12",
+      "status": "[x]",
+      "description": "January 1st Inbox Processing - Batch 2",
+      "sub_tasks": [
+        { "id": "IMG-36", "description": "Vision Analysis Procedure Review", "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/png/36-vision-analysis-procedure-review.png" },
+        { "id": "IMG-37", "description": "Infrastructure Hardening v1.5", "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/png/37-infrastructure-hardening-v1.5.png" },
+        { "id": "IMG-38", "description": "Renaming Mandate - Shuffling Punchlines", "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/png/38-renaming-mandate-shuffling-punchlines.png" }
+      ]
+    },
+    {
+      "id": "BATCH-13",
+      "status": "[ ]",
+      "description": "January 1st Inbox Processing - Batch 3",
+      "sub_tasks": [
+        { "id": "IMG-39", "description": "Analyzing: Screenshot from 2026-01-01 13-22-03.png", "artifact_path": "repos/diy-make/memory/inbox/png/Screenshot from 2026-01-01 13-22-03.png" },
+        { "id": "IMG-40", "description": "Analyzing: Screenshot from 2026-01-01 13-22-54.png", "artifact_path": "repos/diy-make/memory/inbox/png/Screenshot from 2026-01-01 13-22-54.png" },
+        { "id": "IMG-41", "description": "Analyzing: Screenshot from 2026-01-01 13-26-32.png", "artifact_path": "repos/diy-make/memory/inbox/png/Screenshot from 2026-01-01 13-26-32.png" }
+      ]
+    }
+  ],
+  "attribution": "Eudaimon (20260104-192954)"
+}
