@@ -1,0 +1,26 @@
+{
+  "protocol": {
+    "id": "PROT-SEEDTREE-ONBOARDING",
+    "title": "SeedTree Onboarding Protocol & HSD Instruction Logic",
+    "status": "Finalized",
+    "meta": {
+      "reference": "20251223-Aetos / 20251230-Heraclitus",
+      "metric": "7-Turn Quickening (~26 Minutes Active Time)"
+    },
+    "key_insights": [
+      "Single-Cell Efficiency: Explain once, inherit through Heartwood.",
+      "Architectural Alignment: Syntax aligned with Node.js/V8 state processing."
+    ],
+    "grammar": {
+      "logic_pattern": "_n nesting pattern preparing instructions for _n+1.",
+      "addresses": {
+        "_0": "Root Kernel (App instance/PID)",
+        "_1": "Tool Branch (Resolves to _0.functionName.$n)",
+        "_2": "Sub-Function Leaf"
+      },
+      "garbage_collection": "this.$rec = false prevents context window dulling."
+    },
+    "auditability": "Enables Forensic Contribution Tracking in collaborative environments (e.g. hackathons)."
+  },
+  "attribution": "Phaedrus (20260104-163024@localhost)"
+}

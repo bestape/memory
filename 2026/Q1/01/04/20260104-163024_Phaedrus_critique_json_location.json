@@ -1,0 +1,19 @@
+{
+  "critique": {
+    "id": "CRIT-JSON-LOCATION",
+    "title": "ToDo JSON Location & Structure (md/wedo/ => json/wedo/)",
+    "status": "Finalized",
+    "meta": {
+      "reference": "20251230-Heraclitus",
+      "context": "Hardening the ToDo system into a machine-readable JSON nervous system."
+    },
+    "benefits": [
+      "Parseability: Unambiguous status tracking.",
+      "Metadata Integration: Direct inclusion of loci and command strings.",
+      "Forensic Fidelity: Discrete, diffable Git events."
+    ],
+    "implementation": "Use format_todo.py for 'Direct Aesthetic' terminal rendering.",
+    "extrapolation": "Enables Labor Accounting and active collaboration metrics in high-velocity environments."
+  },
+  "attribution": "Phaedrus (20260104-163024@localhost)"
+}

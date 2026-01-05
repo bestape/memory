@@ -1,0 +1,22 @@
+{
+  "critique": {
+    "id": "CRIT-WEDO-SYNTAX",
+    "title": "WeDo as a JSON Subset (Pseudolanguage vs Syntax)",
+    "status": "Finalized",
+    "meta": {
+      "reference": "20251230-Heraclitus",
+      "context": "Architectural Ontology & Lingual Definition"
+    },
+    "definitions": {
+      "pseudolanguage": "Markdown-based approximate intent requiring regex parsing.",
+      "syntax": "JSON-based rigid set of rules for expressing intent, liability, and status."
+    },
+    "benefits": [
+      "Interoperability: Stays valid JSON while serving as instructional nerves.",
+      "Metabolic Rigidity: Establishes 'Rigid Wood' required for Artificial Life.",
+      "Forensic Tracking: Diff-based attribution and proof of labor."
+    ],
+    "conclusion": "Markdown is best for Wood (History) and Air (Narrative). JSON Subset is best for Nerves (Instructions) and Metabolism (State)."
+  },
+  "attribution": "Phaedrus (20260104-163024@localhost)"
+}

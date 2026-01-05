@@ -1,0 +1,22 @@
+{
+  "critique": {
+    "id": "CRIT-JSON-TRANSITION",
+    "title": "Transitioning ToDo to JSON (md/wedo/ => json/wedo/)",
+    "status": "Finalized",
+    "meta": {
+      "reference": "20251230-Heraclitus",
+      "context": "Architectural Critique & Structural Hardening"
+    },
+    "pros": [
+      "Metabolic Efficiency: Zero-ambiguity parsing.",
+      "SeedTree Mapping: Runtime hierarchy alignment.",
+      "Metadata Richness: Non-noisy attachment of timestamps and dependency IDs."
+    ],
+    "cons": [
+      "HUD Complexity: Reliance on formatter scripts.",
+      "Constraint vs Creativity: Rigid schema vs free-form Markdown."
+    ],
+    "recommendation": "Treat JSON as part of the Runtime Nervous System. Implement 'Print Protocol' interface."
+  },
+  "attribution": "Phaedrus (20260104-163024@localhost)"
+}
