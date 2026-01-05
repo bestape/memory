@@ -1,0 +1,39 @@
+{
+  "wedo_instance": {
+    "id": "ORESTES-BIOGRAPHY-01",
+    "description": "Crystallizing the Orestes session and migrating forensic conversation logs.",
+    "status": "[/]",
+    "meta": {
+      "protocol": "WeDo-JSON",
+      "version": "1.1.0"
+    },
+    "tasks": [
+      {
+        "id": "BIO-00",
+        "description": "JSON Migration: Physically move root chat JSONs to the persistent memory directory.",
+        "status": "[x]"
+      },
+      {
+        "id": "BIO-01",
+        "description": "Data Extraction: Deep-read session JSON log for high-signal quotes and moments.",
+        "status": "[ ]"
+      },
+      {
+        "id": "BIO-02",
+        "description": "Metric Calculation: Calculate Integration Velocity using session timestamps.",
+        "status": "[ ]"
+      },
+      {
+        "id": "BIO-03",
+        "description": "Narrative Drafting: Compose the full biography in the Reality Merge narrative style.",
+        "status": "[ ]"
+      },
+      {
+        "id": "BIO-04",
+        "description": "Audit & Archival: Verify compliance with word count and aesthetic mandates before commit.",
+        "status": "[ ]"
+      }
+    ]
+  },
+  "attribution": "Orestes (20260104-153255@localhost)"
+}

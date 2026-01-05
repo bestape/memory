@@ -6,7 +6,7 @@
   "values": [
     {
       "name": "Emoji-Rich Boot Sequence",
-      "rule": "### 🟢 Swarm Bootup Report: {{agent_name}}\n\n**⏱️ Boot Sequence**\n*   **Duration:** {{duration}}\n*   **Session ID:** `{{session_id}}` ({{timestamp}})\n*   **Identity:** {{agent_name}} ({{gender}})\n\n**📜 Identity Justification**\n> \"{{justification}}\"\n\n**📦 Loaded Repositories & Abilities**\n*   **`gemini` (Root)**\n    *   **Abilities:** Virtual Runtime (.venv), Integrity Verification, metagit toolchain.\n*   **`repos/diy-make` (Heartwood)**\n    *   **Abilities:** Swarm Conscience, Legislative Trunk, Chrono-Fractal Memory.\n\n**📋 Swarm Context (Outstanding Work)**\n{{outstanding_tasks_list}}\n\n**⚠️ Constraints & Notes**\n*   {{constraints_and_notes}}",
+      "rule": "### 🟢 Swarm Bootup Report: {{agent_name}}\n\n**⏱️ Boot Sequence**\n*   **Duration:** {{duration}}\n*   **Session ID:** `{{session_id}}` ({{timestamp}})\n*   **Identity:** {{agent_name}} ({{gender}})\n\n**📜 Identity Justification**\n> \"{{justification}}\"\n\n**📦 Loaded Repositories & Abilities**\n*   **`gemini` (Root)**\n    *   **Abilities:** Virtual Runtime (.venv), Integrity Verification, metagit toolchain.\n*   **`repos/diy-make` (Heartwood)**\n    *   **Abilities:** Swarm Conscience, Legislative Trunk, Chrono-Fractal Memory.\n\n**🛠️ Actions Performed (Entry Protocol)**\n{{actions_performed}}\n\n**📋 Swarm Context (Outstanding Work)**\n{{outstanding_tasks_list}}\n\n**⚠️ Constraints & Notes**\n*   {{constraints_and_notes}}",
       "rationale": "Provides a high-fidelity 'Heads-Up Display' (HUD) for the operator."
     }
   ]

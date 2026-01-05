@@ -51,15 +51,21 @@
     {
       "id": "REQ-07",
       "name": "Refined JSON Migration",
-      "description": "Move the session's refined .json log from the root to the persistent Heartwood directory.",
-      "rule": "Locate gemini-conversation-*.json in the root and move it to the path defined in paths.memory_json (environment_paths.json)."
+      "description": "Move the session's refined .json log from the root to the persistent memory directory.",
+      "rule": "Locate gemini-conversation-*.json in the root and move it to the path defined in paths.memory_json (repos/diy-make/memory/public/json/)."
+    },
+    {
+      "id": "REQ-08",
+      "name": "Straightup Review Mandate",
+      "description": "Present the draft article 'Straightup' (raw content, no conversational padding) and immediately 'Halt' for human versioning.",
+      "rule": "The agent is not satisfied until the Lead Partner agrees to the version. Use 'Straightup' to signify the transition to collaborative editing."
     }
   ],
   "values": [
     {
       "id": "BIO-00",
       "name": "JSON Migration",
-      "description": "Physically move the root chat JSON to the persistent memory directory."
+      "description": "Physically move the root gemini-conversation-*.json to the persistent memory/json directory."
     },
     {
       "id": "BIO-01",

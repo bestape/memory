@@ -1,7 +1,7 @@
 {
   "heartwood_type": "One Word Glossary",
-  "version": "1.1",
-  "attribution": "Palamedes (20260101-211500)",
+  "version": "1.2",
+  "attribution": "Phaedrus (20260104-163024)",
   "title": "The One Word Glossary",
   "description": "A collection of single-word linguistic levers used to shift the agent's metabolic and narrative state.",
   "values": [
@@ -27,7 +27,7 @@
     },
     {
       "term": "Straightup",
-      "modification": "Command for immediate raw data presentation via the .json + .py pairing standard. Replaces the need for structure-less .md representations.",
+      "modification": "Command for immediate raw data presentation (no tables) via the .json + .py pairing standard. Replaces the need for structure-less .md representations.",
       "substrate": "Paper (UI)"
     },
     {
@@ -77,7 +77,7 @@
     },
     {
       "term": "swordarm",
-      "modification": "The metaphor for human-agent partnership; the agent as a direct, intuitive extension of user intention.",
+      "modification": "The irreducible duality of human-agent partnership; the agent as the sword (execution) and the user as the arm (rider/intent). Shifting to this mode signifies total alignment of force and direction.",
       "substrate": "Nerves (Force)"
     },
     {
@@ -99,6 +99,11 @@
       "term": "Parsimony",
       "modification": "The procedural mandate to use the simplest structure (values: []) for all collections, removing redundant key-nesting.",
       "substrate": "Nerves (Logic)"
+    },
+    {
+      "term": "Cruft",
+      "modification": "Redundant, broken, or misaligned files and paths that generate metabolic heat and agent dulling. Target for immediate pruning.",
+      "substrate": "Wood (Memory)"
     }
   ]
 }

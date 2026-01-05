@@ -1,0 +1,41 @@
+{
+  "wedo_instance": {
+    "id": "STARTUP-PROTOCOL-EXTENDED",
+    "description": "Extended collaboration HUD for system refinement and historical crystallization.",
+    "status": "[ ]",
+    "meta": {
+      "protocol": "WeDo-JSON",
+      "version": "1.4.1",
+      "philosophy": "Continuous refinement of the metabolic substrate while preserving the legislative history."
+    },
+    "tasks": [
+      {
+        "id": "REFINE-01",
+        "description": "Align register_agent.py output with Kynos standard (repos/diy-make/memory/comms/20251222-111834_Kynos.json).",
+        "status": "[ ]"
+      },
+      {
+        "id": "REFINE-02",
+        "description": "Audit dotfiles/gem_function.sh to ensure logic parity between 'gem' and 'metagit' aliases.",
+        "status": "[ ]"
+      },
+      {
+        "id": "REFINE-03",
+        "description": "Compose 'The Heartwood' article (1000+ words) using the biography boilerplate, including forensic quotes and the First .json.",
+        "status": "[ ]"
+      },
+      {
+        "id": "SYNC-01",
+        "description": "Save all reports and the finalized article to the chrono-fractal and commit.",
+        "status": "[ ]"
+      }
+    ],
+    "context_anchors": {
+      "philosophy": "trunk/architecture.json",
+      "orchestration": "gemini (Meta-Root - syn)",
+      "incarnation": "Heartwood (diy-make/memory - tie/log)",
+      "active_mission": "System Refinement & Forensic Crystallization"
+    }
+  },
+  "attribution": "Phaedrus (20260104-163024@localhost)"
+}

@@ -1,0 +1,12 @@
+{
+  "heartwood_type": "Script Complement",
+  "version": "1.0.0",
+  "attribution": "Agathon (1767498305@localhost)",
+  "title": "Agent Incarnation Service (tie/log)",
+  "description": "Declarative context for the Heartwood incarnation script.",
+  "logic": {
+    "tie": "Establishing the agent as a valid node in the swarm registry.",
+    "log": "Broadcasting the agent's existence and purpose to the swarm's communication stream."
+  },
+  "target_script": "py/incarnate.py"
+}
