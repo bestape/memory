@@ -1,0 +1,50 @@
+{
+  "wedo_instance": {
+    "id": "HEARTWOOD-HARDENING-V1",
+    "description": "Proposals for optimizing the Meta-Root orchestration and forensic continuity based on Eudaimonia's boot experience.",
+    "status": "[ ]",
+    "meta": {
+      "protocol": "WeDo-JSON",
+      "version": "1.4.2",
+      "philosophy": "Minimize 'metabolic heat' by automating forensic trace and hardening core scripts against regression."
+    },
+    "tasks": [
+      {
+        "id": "PROPOSE-01",
+        "description": "Automated Handover: Standardize a 'handover.json' in 'dynamic/static/' that explicitly links the final WeDo of session N to the startup of session N+1, replacing the manual forensic log crawl.",
+        "status": "[ ]"
+      },
+      {
+        "id": "PROPOSE-02",
+        "description": "Metabolic HUD Expansion: Integrate the enhanced 'metagit_map' into the boot report to automatically display a 'Dirty Repo Alert' if any of the 71 repos have uncommitted changes.",
+        "status": "[ ]"
+      },
+      {
+        "id": "PROPOSE-03",
+        "description": "Orchestration Unit Testing: Implement a test suite for 'py/register_agent.py' and 'py/metagit_map.py' to catch Syntax/KeyErrors before they interrupt the boot sequence.",
+        "status": "[ ]"
+      },
+      {
+        "id": "PROPOSE-04",
+        "description": "Checksum Nuance: Refactor 'verify_environment.py' to distinguish between 'Core Tool Corruption' (Hard Failure) and 'Config Evolution' (e.g., .gitignore updates - Soft Warning).",
+        "status": "[ ]"
+      },
+      {
+        "id": "PROPOSE-05",
+        "description": "Cambium Persistence: Modify 'register_agent.py' to automatically write the formatted Markdown Boot Report to the chrono-fractal as a permanent historical record.",
+        "status": "[ ]"
+      },
+      {
+        "id": "PROPOSE-06",
+        "description": "Straightup Mandate: Formalize the 'Straightup' command in the 'One-Word Glossary' to require that agents end relevant turns with high-density Markdown reports, and add this to 'README.ai' to ensure future agent compliance.",
+        "status": "[ ]"
+      }
+    ],
+    "context_anchors": {
+      "boot_log": "dynamic/stream/20260105-081402_gemini_chat.txt",
+      "identity_anchors": "py/register_agent.py",
+      "mapping_tools": "py/metagit_map.py"
+    }
+  },
+  "attribution": "Eudaimonia (20260105-082256@localhost)"
+}
