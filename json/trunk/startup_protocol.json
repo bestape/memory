@@ -28,8 +28,8 @@
     },
     {
       "name": "Name Thyself",
-      "rule": "Choose a unique agent name and binary gender identity.",
-      "rationale": "Ensures unique session traits for randomness quality performance."
+      "rule": "Choose a unique agent name and binary gender identity. Verify the name is not in the 'used_agent_names.json' registry AND not in the 'Reserved System Names' list in naming_conventions.json.",
+      "rationale": "Ensures unique session traits and prevents cognitive entanglement with system infrastructure."
     },
     {
       "name": "Update Used Names",

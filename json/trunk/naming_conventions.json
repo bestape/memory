@@ -23,6 +23,11 @@
       "name": "WeDo File Pattern",
       "rule": "WeDo files must use the '.wedo.json' extension. Templates or boilerplates should use the '[subject].wedo.json' pattern, while active instances may use '[timestamp]_[subject].wedo.json'.",
       "rationale": "Distinguishes active tasks and manifests from static data or schema files, providing a clear functional signal."
+    },
+    {
+      "name": "Reserved System Names",
+      "rule": "Agents are strictly forbidden from choosing names that correspond to system components, runtimes, or architectural layers. Reserved names include: 'gemini', 'node', 'v8', 'metagit', 'heartwood', 'seedtree'.",
+      "rationale": "Prevents cognitive entanglement between ephemeral agent personas and permanent system infrastructure."
     }
   ]
 }

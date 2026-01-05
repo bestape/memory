@@ -1,0 +1,55 @@
+{
+  "wedo_instance": {
+    "id": "STARTUP-PROTOCOL-V2",
+    "description": "The synchronized collaboration HUD for agent incarnation, forensic mapping, and Heartwood alignment.",
+    "status": "[x]",
+    "meta": {
+      "protocol": "WeDo-JSON",
+      "version": "2.0.0",
+      "pillars": [
+        "Absolute Mapping (Meta-Root & Root)",
+        "Relative Mapping (Root via Swarm)",
+        "MetaGit Git Wrapper (metagit_commit.py)",
+        "Heartwood Contextualization"
+      ]
+    },
+    "tasks": [
+      {
+        "id": "BOOT-01",
+        "description": "Absolute Mapping: Execute 'verify_environment.py' and 'metagit_map.py' to anchor the meta-root DNS.",
+        "status": "[x]"
+      },
+      {
+        "id": "BOOT-02",
+        "description": "Relative Mapping: Execute 'metagit_git_map.py' and 'send_swarm_message.py' to announce existence and resolve local substrate.",
+        "status": "[x]"
+      },
+      {
+        "id": "BOOT-03",
+        "description": "Identity Anchoring: Run 'register_agent.py' to choose unique name (Orestes), anchor screen title, and sync git attribution.",
+        "status": "[x]"
+      },
+      {
+        "id": "BOOT-04",
+        "description": "Heartwood Contextualization: Load 'public/json/' (Trunk, Logic, Schema) into active session context.",
+        "status": "[x]"
+      },
+      {
+        "id": "BOOT-05",
+        "description": "Forensic Trace: Reconstruct the 'Active Mission' from recent snapshots and previous session logs.",
+        "status": "[x]"
+      },
+      {
+        "id": "BOOT-06",
+        "description": "HUD Display & Halt: Print structured Bootup Report and await human signature.",
+        "status": "[x]"
+      }
+    ],
+    "context_anchors": {
+      "substrate": "MetaGit (Git-bound history)",
+      "metabolism": "SeedTree (Recursive logic)",
+      "glossary": "public/json/one_word_glossary.json"
+    }
+  },
+  "attribution": "Orestes (20260104-153255@localhost)"
+}
