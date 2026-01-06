@@ -71,6 +71,31 @@
           "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/527-updated-heartwood-index-consensus-tracker.png"
         }
       ]
+    },
+    {
+      "id": "BATCH-166",
+      "status": "[x]",
+      "description": "Forensic Recovery: Memory Architecture and README.ai Deprecation (Jan 2nd)",
+      "sub_tasks": [
+        { 
+          "id": "IMG-528", 
+          "description": "Heartwood Audit Entry 16: principles/memory_architecture.json. The 'Memory Blueprint' defines the Subject-Object-Hybrid Git system, ensuring absolute forensic traceability while maintaining a decentralized, fractal hierarchy.", 
+          "key_takeaway": "The Hybrid state enables repositories to act as both passthroughs for nested subjects and local subject containers.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/528-memory-architecture-hybrid-blueprint.png"
+        },
+        { 
+          "id": "IMG-529", 
+          "description": "User redirection regarding README.ai. The Lead Partner mandates the deprecation of README.ai files in favor of .gitignore comments for repository context, as the firm moves toward a fully .json-driven substrate.", 
+          "key_takeaway": ".gitignore comments inherit the descriptive role of README.ai, reducing root-level file entropy.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/529-user-redirection-readme-ai-deprecation.png"
+        },
+        { 
+          "id": "IMG-530", 
+          "description": "Capture of a KeyError during the legislative update of memory_architecture.json. The agent encounters a SyntaxError while attempting to automate the deprecation of README.ai via a Python shell command.", 
+          "key_takeaway": "Automation bias and string-escaping issues in shell commands can lead to substrate-level 'Broken Arteries'.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/530-broken-artery-legislative-syntax-error.png"
+        }
+      ]
     }
   ],
   "attribution": "Argus (20260105-175848)"
