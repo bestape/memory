@@ -1,0 +1,58 @@
+{
+  "title": "Orchestration Tool Registry",
+  "version": "1.0.0",
+  "attribution": "Argus (20260105-175848@localhost)",
+  "description": "The definitive map of .py tools used for substrate maintenance, agent synchronization, and repository orchestration.",
+  "tools": [
+    {
+      "name": "verify_environment.py",
+      "context": "Meta-Root",
+      "description": "Validates the physical and structural baseline (venv, dependencies, checksums). Supports --maintenance flag."
+    },
+    {
+      "name": "metagit_map.py",
+      "context": "Meta-Root",
+      "description": "Generates the internal DNS/mapping of all repositories. Optimized with differential caching."
+    },
+    {
+      "name": "register_agent.py",
+      "context": "Meta-Root",
+      "description": "Anchors agent identity, Screen title, and Git config. Implements collision prevention locks."
+    },
+    {
+      "name": "heartwood.py",
+      "context": "Meta-Root (Agnostic)",
+      "description": "The official lens for legislative interpretation. Compiles JSON DNA into runtime reports."
+    },
+    {
+      "name": "where_is.py",
+      "context": "Root",
+      "description": "Structured repository and context discovery tool. Queries the metarepo map by keyword."
+    },
+    {
+      "name": "instantiate_hud.py",
+      "context": "Meta-Root",
+      "description": "Automates the migration of WeDo templates to the daily chrono-fractal RNA layer."
+    },
+    {
+      "name": "context_prefetch.py",
+      "context": "Root",
+      "description": "Prepares recent logs and articles for successional context inheritance."
+    },
+    {
+      "name": "metagit_commit.py",
+      "context": "Meta-Root",
+      "description": "Surgical commit wrapper ensuring strict identity attribution and forensic high-fidelity."
+    },
+    {
+      "name": "metagit_pulse.py",
+      "context": "Meta-Root",
+      "description": "Monitors metabolic heat across the metarepo, identifying dirty repositories and divergent heads."
+    },
+    {
+      "name": "harden_substrate.py",
+      "context": "Root",
+      "description": "Refines and stabilizes the filesystem structure based on Heartwood standards."
+    }
+  ]
+}

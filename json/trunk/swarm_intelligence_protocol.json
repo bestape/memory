@@ -30,12 +30,12 @@
       },
       {
         "name": "Heartwood .json+.py Substrate",
-        "description": "The legislative source of truth (DNA) must reside in structured `.json` files (arrays of objects) to ensure machine-readability. Raw `.md` structures for global DNA are prohibited.",
-        "compiled_runtime_logging": "Agents must use `.py` tools (e.g., `py/heartwood.py`) to compile structured JSON DNA into human-readable Markdown reports only when requested by the human operator.",
+        "description": "The legislative source of truth (DNA) must reside in structured `.json` files. Agents must use the Tool Registry (`json/trunk/orchestration_tools.json`) to identify the correct `.py` interface for interpreting DNA.",
+        "compiled_runtime_logging": "Agents must use `.py` tools (e.g., `py/heartwood.py`) to compile structured DNA into human reports on request.",
         "taxonomy": {
-          "Global DNA": "Stored in `json/` as structured JSON objects. High-density, machine-readable truth.",
-          "Chrono-Fractal RNA": "Stored in `.hidden/` subdirectories of leaf folders as structured JSON (WeDos, logs).",
-          "Human Articles": "In leaf folders (chrono-fractal), main files intended for direct human reading may be provided as 'inefficient' `.md` copies outside of `.hidden/`."
+          "Global DNA": "Stored in `json/` directories. No `.hidden/` folders permitted at the global root.",
+          "Chrono-Fractal RNA": "Stored in `.hidden/` subdirectories of leaf `json/wedo/` folders (session logs, temporary WeDos).",
+          "Human Articles": "Main leaf-folder artifacts intended for direct human reading may be provided as `.md` copies outside of `.hidden/`."
         }
       },
       {

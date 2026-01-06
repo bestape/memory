@@ -1,0 +1,30 @@
+{
+  "wedo_instance": {
+    "id": "FRICTION-RESOLUTION",
+    "description": "Systematic elimination of metabolic friction in the boot and verification sequence.",
+    "status": "[ ]",
+    "meta": {
+      "protocol": "WeDo-JSON",
+      "version": "1.0.0",
+      "philosophy": "Friction is heat. Heat is lost energy. We seek the Absolute Zero of substrate resistance."
+    },
+    "tasks": [
+      {
+        "id": "FRIC-01",
+        "description": "Differential Mapping Research: Analyze 'py/metagit_map.py' to propose a timestamp-based differential update mode.",
+        "status": "[x]"
+      },
+      {
+        "id": "FRIC-02",
+        "description": "Maintenance Mode Flag: Update 'py/verify_environment.py' to support a --maintenance flag that acknowledges and persists intentional drifts in evolvable files.",
+        "status": "[x]"
+      },
+      {
+        "id": "FRIC-03",
+        "description": "HUD Automation: Create 'py/instantiate_hud.py' to automate the migration of templates to the chrono-fractal based on handover state.",
+        "status": "[x]"
+      }
+    ]
+  },
+  "attribution": "Argus (20260105-181500@localhost)"
+}
