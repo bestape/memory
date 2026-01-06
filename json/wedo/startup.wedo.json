@@ -50,6 +50,11 @@
         "id": "BOOT-05",
         "description": "Forensic Trace: Synthesize recent snapshots to reconstruct the 'Active Mission' and establish the next WeDo chord.",
         "status": "[ ]"
+      },
+      {
+        "id": "BOOT-06",
+        "description": "Bootup Report Generation: Generate and share the official Bootup Report according to the Argus Standard (json/principles/bootup_report_standard.json).",
+        "status": "[ ]"
       }
     ],
     "context_anchors": {
