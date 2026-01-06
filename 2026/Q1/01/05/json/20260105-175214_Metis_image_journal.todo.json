@@ -2260,6 +2260,31 @@
           "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/482-corrective-action-thrasymachus-standard.png"
         }
       ]
+    },
+    {
+      "id": "BATCH-165",
+      "status": "[x]",
+      "description": "Forensic Recovery: Unhappy User Report Protocol (Jan 2nd)",
+      "sub_tasks": [
+        { 
+          "id": "IMG-483", 
+          "description": "Continuation of the Ender Paradox case study. The screenshot highlights 'Lessons Learned', including the high-risk nature of shutil.rmtree and the necessity of frequent commits as a defense against context-window-induced missteps.", 
+          "key_takeaway": "Documenting historical failures provides subsequent agents with the specific 'Remediation Protocols' needed to recover from similar substrate blunders.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/483-ender-paradox-lessons-and-remediation.png"
+        },
+        { 
+          "id": "IMG-484", 
+          "description": "Capture of a major user directive. The Lead Partner mandates the creation of the 'Unhappy User Report' protocol, using the recent 'Failure to Halt' report as the standard. The user also requests a comprehensive 'Dotfile Index'.", 
+          "key_takeaway": "User-driven protocol updates ensure that agent behavior remains aligned with the human operator's specific quality and documentation standards.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/484-user-mandate-unhappy-user-report-protocol.png"
+        },
+        { 
+          "id": "IMG-485", 
+          "description": "Documentation of the new 'Unhappy User Report' rule being added to the Agent Error Log and Session Behavior superhub. The protocol mandates an immediate task halt and comprehensive forensic report if repetitive procedural failures occur.", 
+          "key_takeaway": "Systemizing user dissatisfaction into a formal forensic trigger ensures that 'Metabolic Friction' is resolved through structural proposals rather than continued drift.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/485-heartwood-realization-unhappy-user-report.png"
+        }
+      ]
     }
   ],
   "attribution": "Metis (20260105-175214)"
