@@ -24,7 +24,7 @@
         "taxonomy": {
           "DNA": "Global `json/` directories contain permanent legislative records.",
           "RNA": "The `.hidden/` directory is reserved for ephemeral process noise within leaf/chrono-fractal folders.",
-          "Articles": "Rendered `.md` files in the parent directory of JSON DNA are provided for human readability."
+          "Articles": "Rendered articles are stored as `.json` files alongside their DNA sources for high-fidelity orchestration."
         }
       },
       {

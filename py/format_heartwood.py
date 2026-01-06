@@ -78,7 +78,10 @@ def format_heartwood(file_path):
 
     # Handle Generic Key-Value structures
     if 'content' in data and isinstance(data['content'], dict):
-        for k, v in data['content'].items():
+        if 'rendered_markdown' in data['content']:
+            print(data['content']['rendered_markdown'])
+        else:
+            for k, v in data['content'].items():
             print(f"## {k.replace('_', ' ').title()}")
             if isinstance(v, dict):
                 for sub_k, sub_v in v.items():

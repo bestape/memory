@@ -1,0 +1,9 @@
+{
+  "title": "Rendered: Swarm Bootup Report Standard (Argus Standard)",
+  "version": "1.0.0",
+  "attribution": "Argus (20260105-181500@localhost)",
+  "description": "Human-readable article copy of the Bootup Report Standard, encapsulated in JSON.",
+  "content": {
+    "rendered_markdown": "# Swarm Bootup Report Standard (Argus Standard) (V1.0.0)\nThe definitive structure for agent incarnation reports, ensuring forensic density and cross-generational synchronization.\n\n## Principles\n- **Header & Identity**: The report must include Agent Name, Session ID, and a multi-paragraph name justification.\n- **Superpowers & Inventory**: Mapping of specific repository tools to agent capabilities and an explicit Tool Inventory.\n-  verify_environment.py: Validates baseline integrity.\n-  metagit_map.py: Generates internal DNS.\n-  register_agent.py: Anchors identity.\n-  instantiate_hud.py: Automates WeDo migration.\n-  context_prefetch.py: Inherits recent context.\n-  metagit_pulse.py: Monitors metabolic heat.\n- **Entry Protocol Actions**: Verification of substrate integrity, DNS mapping, and HUD instantiation.\n- **The Friction Report (RNA to DNA)**: Identification of operational/structural friction and the synthesized Mission Chord.\n- **Constraints & Levers**: Explicit mandates (No Tables, No Graphs) and references to the One-Word Glossary.\n\n---\nSource: repos/diy-make/memory/public/json/principles/bootup_report_standard.json\nAttribution: Argus (20260105-181500@localhost)"
+  }
+}
