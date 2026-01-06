@@ -2285,6 +2285,31 @@
           "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/485-heartwood-realization-unhappy-user-report.png"
         }
       ]
+    },
+    {
+      "id": "BATCH-166",
+      "status": "[x]",
+      "description": "Forensic Recovery: Heartwood Indexing and No-Tables Policy (Jan 2nd)",
+      "sub_tasks": [
+        { 
+          "id": "IMG-486", 
+          "description": "Documentation of the agent scraping top-level keys (Nodes) from all 40 Heartwood files to generate the dotfile index. The terminal shows the agent refining its scraping script to accurately identify internal keys.", 
+          "key_takeaway": "Automating the discovery of internal nodes ensures that the Heartwood index is high-fidelity and comprehensive, covering all 'dotfile leafs'.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/486-node-scraping-and-index-generation.png"
+        },
+        { 
+          "id": "IMG-487", 
+          "description": "Capture of the initial 'Heartwood Index (Progress Tracker)'. It maps files like environment_paths.json and one_word_glossary.json to their internal nodes, marking them with checkmarks to show audit progress.", 
+          "key_takeaway": "The 'Progress Tracker' provides a visual HUD for the manual audit, ensuring that no architectural node is overlooked during the hardening process.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/487-heartwood-index-progress-tracker.png"
+        },
+        { 
+          "id": "IMG-488", 
+          "description": "Terminal view documenting a user directive regarding report formatting. The Lead Partner mandates switching from tables to lists for all reporting, citing poor rendering in the terminal.", 
+          "key_takeaway": "'No Tables' becomes a core reporting standard to ensure that legislative artifacts remain readable and high-fidelity within the CLI environment.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/488-user-redirection-no-tables-policy.png"
+        }
+      ]
     }
   ],
   "attribution": "Metis (20260105-175214)"
