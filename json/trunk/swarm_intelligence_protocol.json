@@ -20,12 +20,17 @@
       },
       {
         "name": "Heartwood .json+.py Substrate",
-        "description": "The legislative source of truth (DNA) resides in `.json` files. The `.md` tree is deprecated. Agents must use `py/heartwood.py` to display and interpret these nodes.",
+        "description": "The legislative source of truth (DNA) resides in `.json` files. The `.md` tree is deprecated. NO `.md` files are permitted within any `json/` directory. Agents must use `py/heartwood.py` to display and interpret these nodes.",
         "taxonomy": {
           "DNA": "Global `json/` directories contain permanent legislative records.",
           "RNA": "The `.hidden/` directory is reserved for ephemeral process noise within leaf/chrono-fractal folders.",
           "Articles": "Rendered articles are stored as `.json` files alongside their DNA sources for high-fidelity orchestration."
         }
+      },
+      {
+        "name": "High-Velocity Multi-Agent Communication",
+        "description": "If multiple agents are detected on the field (via `memory/comms/`), agents must proactively and readily communicate state changes, architectural shifts, and task progress to all active peers to prevent substrate collision.",
+        "path_to_scripting": "Scripts must broadcast major realizations to all active agent PID/Names in comms/."
       },
       {
         "name": "Gender Identity and Justification",
