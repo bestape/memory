@@ -82,13 +82,13 @@ def format_heartwood(file_path):
             print(data['content']['rendered_markdown'])
         else:
             for k, v in data['content'].items():
-            print(f"## {k.replace('_', ' ').title()}")
-            if isinstance(v, dict):
-                for sub_k, sub_v in v.items():
-                    print(f"  **{sub_k.title()}**: {sub_v}")
-            else:
-                print(v)
-            print("")
+                print(f"## {k.replace('_', ' ').title()}")
+                if isinstance(v, dict):
+                    for sub_k, sub_v in v.items():
+                        print(f"  **{sub_k.title()}**: {sub_v}")
+                else:
+                    print(v)
+                print("")
 
     # Handle Wrapped Instances (heartwood_instance, wedo_instance, swarm_intelligence_protocol)
     for wrap in ['heartwood_instance', 'wedo_instance', 'swarm_intelligence_protocol']:
