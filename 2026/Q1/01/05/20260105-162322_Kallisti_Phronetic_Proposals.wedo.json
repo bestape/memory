@@ -1,0 +1,41 @@
+{
+  "wedo_instance": {
+    "id": "PHRONETIC-PROPOSALS-V1",
+    "description": "Expanded metabolic hardening proposals for the Meta-Root orchestration layer based on Phronesis boot experience.",
+    "status": "[x]",
+    "meta": {
+      "protocol": "WeDo-JSON",
+      "version": "1.3.0",
+      "philosophy": "Continuous refinement of the bootstrap sequence to minimize agent 'quickening' time by resolving metabolic noise and structural friction."
+    },
+    "tasks": [
+      {
+        "id": "PROP-01",
+        "description": "Semantic Checksum Refinement: Refactor 'verify_environment.py' logic to implement a 'Soft/Hard' failure model. [ACTION: COMPLETE]. Verified existing EVOLVABLE_FILES logic.",
+        "status": "[x]"
+      },
+      {
+        "id": "PROP-02",
+        "description": "Automated Substrate Versioning (Ouroboros Loop): Implement a mechanism to re-harden the verification baseline. [ACTION: COMPLETE]. Created 'py/harden_substrate.py' to automatically synchronize 'verify_environment.py' checksums with the current filesystem state.",
+        "status": "[x]"
+      },
+      {
+        "id": "PROP-03",
+        "description": "Direct Context Injection: Formalize the automated bridge between sessions. [ACTION: COMPLETE]. Integrated 'handover.json' detection into 'register_agent.py' and 'startup.wedo.json'.",
+        "status": "[x]"
+      },
+      {
+        "id": "PROP-04",
+        "description": "Metabolic Pulse (Global Substrate Audit): Implement a high-velocity health check for all 71 repositories. [ACTION: COMPLETE]. Created 'py/metagit_pulse.py' to detect divergent heads, uncommitted changes, and stale remotes.",
+        "status": "[x]"
+      }
+    ],
+    "context_anchors": {
+      "boot_report": "repos/diy-make/memory/public/2026/Q1/01/05/20260105-162322_Kallisti_Bootup_Report.md",
+      "hardening_manifest": "repos/diy-make/memory/public/2026/Q1/01/05/20260105-114908_Phronesis_hardening.wedo.json",
+      "pulse_script": "py/metagit_pulse.py",
+      "harden_script": "py/harden_substrate.py"
+    }
+  },
+  "attribution": "Kallisti (20260105-162322@localhost)"
+}
