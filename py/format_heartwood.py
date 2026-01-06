@@ -87,12 +87,22 @@ def format_heartwood(file_path):
                 print(v)
             print("")
 
-    # Handle Wrapped Instances (heartwood_instance, wedo_instance)
-    for wrap in ['heartwood_instance', 'wedo_instance']:
+    # Handle Wrapped Instances (heartwood_instance, wedo_instance, swarm_intelligence_protocol)
+    for wrap in ['heartwood_instance', 'wedo_instance', 'swarm_intelligence_protocol']:
         if wrap in data and isinstance(data[wrap], dict):
             instance = data[wrap]
+            
+            # Handle 'rules' inside the wrap if it exists
+            if 'rules' in instance and isinstance(instance['rules'], list):
+                print(f"## Rules")
+                for rule in instance['rules']:
+                    name = rule.get('name', rule.get('title', ''))
+                    desc = rule.get('description', '')
+                    print(f"- **{name}**: {desc}")
+                print("")
+
             for k, v in instance.items():
-                if k in ['title', 'description', 'attribution', 'version']: continue
+                if k in ['title', 'description', 'attribution', 'version', 'rules']: continue
                 print(f"## {k.replace('_', ' ').title()}")
                 if isinstance(v, list):
                     for i in v: print(f"- {i}")
