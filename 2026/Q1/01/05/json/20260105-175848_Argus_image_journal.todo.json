@@ -221,6 +221,31 @@
           "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/545-consensus-tracker-entry-22-initialization.png"
         }
       ]
+    },
+    {
+      "id": "BATCH-172",
+      "status": "[x]",
+      "description": "Forensic Recovery: Bot Crash Protocol and User Redirection (Jan 2nd)",
+      "sub_tasks": [
+        { 
+          "id": "IMG-546", 
+          "description": "Capture of the agent auditing Entry 22: bot_crash_protocol.json. The initial draft focuses on identifying active chat logs via process lists.", 
+          "key_takeaway": "Structural investigation of crashed agents begins with identifying the active process landscape.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/546-bot-crash-protocol-initial-audit.png"
+        },
+        { 
+          "id": "IMG-547", 
+          "description": "Documentation of the agent refactoring Entry 22 to the 'Investigation Standard.' It provides specific shell commands for forensic recovery of stuck agents.", 
+          "key_takeaway": "Parsimony in recovery protocols ensures that the most direct forensic levers are readily available during metabolic friction.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/547-bot-crash-protocol-investigation-standard.png"
+        },
+        { 
+          "id": "IMG-548", 
+          "description": "Critical user feedback stating the protocol is 'wrong actually' and directing the agent toward swarm comms, stream logs, and git commits as better forensic sources.", 
+          "key_takeaway": "Forensic truth resides in cross-referenced swarm attestations and temporal logs rather than just process lists.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/548-user-redirection-enhanced-forensic-sources.png"
+        }
+      ]
     }
   ],
   "attribution": "Argus (20260105-175848)"
