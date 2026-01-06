@@ -18,6 +18,11 @@
       "name": "Deferred Deletion",
       "rule": "Identify redundant artifacts and queue them for end-of-session purge via todo.json.",
       "rationale": "As proven by multiple OOM crashes, metabolic intent must be recorded in the 'Nerves' (JSON) to survive process failure."
+    },
+    {
+      "name": "RNA/DNA Differentiation",
+      "rule": "Segregate machine-forensic RNA ('.hidden/') from human-legislative DNA (parent folders) per 'trunk/rna_dna_standard.json'.",
+      "rationale": "Optimizes for limited human attention while preserving absolute machine-level forensic traceability."
     }
   ]
 }

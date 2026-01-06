@@ -1,0 +1,40 @@
+{
+  "wedo_instance": {
+    "id": "PHRONETIC-HARDENING-V1",
+    "description": "Implementing direct context injection and name selection nuance in the Meta-Root registration logic.",
+    "status": "[x]",
+    "meta": {
+      "protocol": "WeDo-JSON",
+      "version": "1.0.0",
+      "philosophy": "Hardening the metabolic bridge between incarnations to reduce cognitive startup heat."
+    },
+    "tasks": [
+      {
+        "id": "HARDEN-01",
+        "description": "Name Selection Nuance: Modify 'py/register_agent.py' to display the last 3 incarnations upon a name collision.",
+        "status": "[x]"
+      },
+      {
+        "id": "HARDEN-02",
+        "description": "Boilerplate Expansion: Update 'repos/diy-make/memory/public/json/wedo/startup.wedo.json' to include a 'last_relay' field in its metadata.",
+        "status": "[x]"
+      },
+      {
+        "id": "HARDEN-03",
+        "description": "Direct Context Injection: Update 'py/register_agent.py' to automatically detect the previous session from 'handover.json' and inject it into the boot report logic.",
+        "status": "[x]"
+      },
+      {
+        "id": "HARDEN-04",
+        "description": "Verification: Run the updated registration script (using the current session name) to ensure no regressions in report generation.",
+        "status": "[x]"
+      }
+    ],
+    "context_anchors": {
+      "registration_script": "py/register_agent.py",
+      "handover_relay": "dynamic/static/handover.json",
+      "startup_boilerplate": "repos/diy-make/memory/public/json/wedo/startup.wedo.json"
+    }
+  },
+  "attribution": "Kallisti (20260105-162322@localhost)"
+}

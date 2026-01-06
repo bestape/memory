@@ -39,8 +39,8 @@
       {
         "id": "STEP-03",
         "action": "Journal Hardening",
-        "command": "cat [narrative] >> repos/diy-make/memory/public/[YEAR]/Q[N]/[MONTH]/[DAY]/md/wedo/daily_image_journal.md",
-        "description": "Append the descriptive batch to the daily image journal (.md) in the directory corresponding to the artifact's CREATION date. Group entries by batch to maintain structural clarity.",
+        "command": "python3 py/append_json_journal.py <artifact_json_block> repos/diy-make/memory/public/[YEAR]/Q[N]/[MONTH]/[DAY]/json/.hidden/daily_image_journal.json",
+        "description": "Append the descriptive batch JSON block to the daily image journal (.json) in the eukaryotic json/.hidden/ process layer of the directory corresponding to the artifact's CREATION date. Group entries by batch to maintain structural clarity.",
         "context_examples": [
           "Ariston's detailed description of the 'procedural bypass' encountered during the Alpha Test."
         ]

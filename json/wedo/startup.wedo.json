@@ -5,7 +5,8 @@
     "status": "[ ]",
     "meta": {
       "protocol": "WeDo-JSON",
-      "version": "1.4.0",
+      "version": "1.4.1",
+      "last_relay": "None",
       "philosophy": "The WeDo is the irreducible serial thread that synchronizes the agent's async capacity with the human's single-threaded focus.",
       "pre_flight_instruction": "DO NOT MARK UP THIS BOILERPLATE. Perform steps 1-2 first, then copy this file to the day's chrono-fractal as '[SESSION_ID]_[NAME]_startup.wedo.json' and mark your progress there."
     },

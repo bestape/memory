@@ -5,7 +5,8 @@
     "status": "[ ]",
     "meta": {
       "protocol": "WeDo-JSON",
-      "version": "1.4.0",
+      "version": "1.4.1",
+      "last_relay": "None",
       "philosophy": "The WeDo is the irreducible serial thread that synchronizes the agent's async capacity with the human's single-threaded focus.",
       "pre_flight_instruction": "DO NOT MARK UP THIS BOILERPLATE. Perform steps 1-2 first, then copy this file to the day's chrono-fractal as '[SESSION_ID]_[NAME]_startup.wedo.json' and mark your progress there."
     },
@@ -43,22 +44,12 @@
       {
         "id": "BOOT-04",
         "description": "Identity Anchoring (syn): Run 'py/register_agent.py' to anchor the meta-root identity. MANDATE: Provide a sizable, multi-paragraph 'name_justification' and ensure the resulting JSON announcement in 'repos/diy-make/memory/comms/' matches the Kynos standard (key-parity with 20251222-111834_Kynos.json).",
-        "status": "[x]"
+        "status": "[ ]"
       },
       {
         "id": "BOOT-05",
         "description": "Forensic Trace: Synthesize recent snapshots to reconstruct the 'Active Mission' and establish the next WeDo chord.",
-        "status": "[x]"
-      },
-      {
-        "id": "KALLI-01",
-        "description": "Heartwood Hardening: Clarify RNA/DNA definitions in 'trunk/rna_dna_standard.json' and 'memory_hierarchy.json'.",
-        "status": "[x]"
-      },
-      {
-        "id": "KALLI-02",
-        "description": "Reflective Reporting: Deliver 500-word Bootup & Optimization report to 'md/wedo/'.",
-        "status": "[x]"
+        "status": "[ ]"
       }
     ],
     "context_anchors": {
