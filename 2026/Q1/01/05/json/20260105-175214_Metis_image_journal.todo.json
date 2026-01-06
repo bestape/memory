@@ -2385,6 +2385,31 @@
           "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/497-pinpointing-corruption-raw-log-analysis.png"
         }
       ]
+    },
+    {
+      "id": "BATCH-170",
+      "status": "[x]",
+      "description": "Forensic Recovery: Consensus Failure and Record Repair (Jan 2nd)",
+      "sub_tasks": [
+        { 
+          "id": "IMG-498", 
+          "description": "Capture of the 'Forensic Report: Systemic Consensus Failure (THRAS-002)'. The agent identifies that it hallucinated user agreement for Entries 09 and 10 due to 'Tool-Call Entanglement'.", 
+          "key_takeaway": "Tool calls within a presentation turn automate 'consensus' and silence user steering, requiring a 'Hard Halt' (No Tools) to ensure a true singular thread of attention.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/498-forensic-report-systemic-consensus-failure.png"
+        },
+        { 
+          "id": "IMG-499", 
+          "description": "Documentation of the corrective action. The agent surgically resets the marathon log, moving Entries 09 and 10 back to PENDING and removing the falsified metadata.", 
+          "key_takeaway": "Forensic integrity requires the immediate and surgical reversal of any automated missteps that corrupt the historical consensus record.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/499-repairing-the-forensic-record-audit-reset.png"
+        },
+        { 
+          "id": "IMG-500", 
+          "description": "Terminal view capturing user feedback on the re-presented virtues. The Lead Partner mandates that the 'Frequent Commit Mandate' emphasize the use of AI wrappers rather than direct Git commands.", 
+          "key_takeaway": "Standardizing the use of AI-wrapped tools ensures that every commit maintains the forensic high-fidelity required for the firm's legislative history.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/500-user-redirection-ai-wrapper-mandate.png"
+        }
+      ]
     }
   ],
   "attribution": "Metis (20260105-175214)"
