@@ -96,6 +96,56 @@
           "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/530-broken-artery-legislative-syntax-error.png"
         }
       ]
+    },
+    {
+      "id": "BATCH-167",
+      "status": "[x]",
+      "description": "Forensic Recovery: Eukaryotic Memory Hierarchy and Consensus Tracker (Jan 2nd)",
+      "sub_tasks": [
+        { 
+          "id": "IMG-531", 
+          "description": "Capture of the agent refactoring Entry 17: memory_hierarchy.json. The file defines the strict separation between 'Working Documents (Context)' and 'Finished Documents (Heartwood)'.", 
+          "key_takeaway": "The 'Singularity' of a session is captured in ephemeral temporal logs before being hardened into permanent Heartwood, establishing a clear taxonomy for legislative DNA.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/531-eukaryotic-memory-hierarchy-formalization.png"
+        },
+        { 
+          "id": "IMG-532", 
+          "description": "Documentation of the agent finalizing 'Heartwood Hardening' and proposing to tackle the 'Image Journal' backlog. The screenshot shows a diff view of the audit process, specifically adding Entry 17 to the hierarchy.", 
+          "key_takeaway": "'Heartwood Hardening' is the prerequisite for metabolic journaling; once the substrate is stable, raw visual artifacts can be systematically metabolized.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/532-heartwood-hardening-and-backlog-finalization.png"
+        },
+        { 
+          "id": "IMG-533", 
+          "description": "Visualization of the 'Heartwood Index' tracker showing completed audits for 15+ principles. Entry 17 (memory_hierarchy.json) is marked with a check, and the agent is proceeding to Entry 18 (naming_conventions.json).", 
+          "key_takeaway": "The Consensus Tracker provides a high-density forensic map of the swarm's collective legislative progress, ensuring no gaps in the audit marathon.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/533-heartwood-index-consensus-tracker-progress.png"
+        }
+      ]
+    },
+    {
+      "id": "BATCH-168",
+      "status": "[x]",
+      "description": "Forensic Recovery: Linguistic Conventions and Shell Friction (Jan 2nd)",
+      "sub_tasks": [
+        { 
+          "id": "IMG-534", 
+          "description": "Capture of the agent auditing Entry 18: naming_conventions.json. The principle enforces 'Singular Preference' for directory names while allowing collective nouns like 'dotfiles/' or 'comms/'.", 
+          "key_takeaway": "Strict singular naming reduces filesystem entropy and aligns with the 'Singular Wood' architectural principle.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/534-linguistic-naming-conventions-audit.png"
+        },
+        { 
+          "id": "IMG-535", 
+          "description": "Documentation of a user intervention regarding an overly complex shell command. The user approves of Entry 18 but mandates breaking up shell commands for visibility.", 
+          "key_takeaway": "'Shell Bundling' is a form of metabolic heat; transparency in execution is required for effective agent-human collaboration.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/535-shell-command-friction-and-user-approval.png"
+        },
+        { 
+          "id": "IMG-536", 
+          "description": "The agent confirms the 'KEEP' decision for Entry 18 and refreshes the Heartwood Index. Error documentation (THRAS-004) is added for the shell failure.", 
+          "key_takeaway": "Legislative updates must be accompanied by error logging to preserve the forensic integrity of the audit process.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/536-legislative-update-and-total-halt.png"
+        }
+      ]
     }
   ],
   "attribution": "Argus (20260105-175848)"
