@@ -45,8 +45,8 @@ def format_heartwood(file_path):
                 print(f"### Example:\n> \"{example.get('text', '')}\"\nContext: {example.get('context', '')}")
             print("")
 
-    # Handle Lists (virtues, principles, rules, tasks)
-    for key in ['values', 'virtues', 'principles', 'rules', 'tasks', 'steps', 'improvements']:
+    # Handle Lists (virtues, principles, rules, tasks, tools)
+    for key in ['values', 'virtues', 'principles', 'rules', 'tasks', 'steps', 'improvements', 'tools']:
         if key in data and isinstance(data[key], list):
             print(f"## {key.title()}")
             for item in data[key]:
@@ -54,9 +54,11 @@ def format_heartwood(file_path):
                     name = item.get('name', item.get('title', item.get('id', '')))
                     rule = item.get('rule', item.get('description', ''))
                     status = item.get('status', '')
+                    context = item.get('context', '')
                     
                     line = f"- "
                     if status: line += f"{status} "
+                    if context: line += f"[{context}] "
                     if name: line += f"**{name}**: "
                     line += rule
                     print(line)
