@@ -1,16 +1,23 @@
 {
-  "index_id": "HISTORY-INDEX-V2",
-  "name": "The Heartwood Chronicles: Historical Index",
-  "last_updated": "2026-01-06T05:50:00Z",
+  "index_id": "HISTORY-INDEX-V3",
+  "name": "The Heartwood Chronicles: MetaGit Genesis",
+  "last_updated": "2026-01-06T06:30:00Z",
   "articles": [
     {
-      "id": "ART-01",
-      "title": "The Ongoing Journey of Swarm Conscience (V7.0 - The Substrate-First Strike)",
-      "json_path": "2026/Q1/01/05/json/The_Journey_of_the_Heartwood.json",
-      "md_path": "2026/Q1/01/05/md/The_Journey_of_the_Heartwood.md",
-      "description": "The definitive expansion chronicle, capturing the abolition of .hidden/ zones and the establishment of family linking.",
-      "word_count": 7012,
-      "attribution": "Keraunos (Succession of Eudaimonia)"
+      "id": "GEN-01",
+      "title": "The Architect\u2019s Struggle: Genesis of MetaGit (0 to 1)",
+      "md_path": "2026/Q1/01/05/md/Genesis_of_the_MetaGit.md",
+      "description": "The technical chronicle of bestape\u2019s foundational labor, the OSO_hack, and the birth of the Zion commit wrapper.",
+      "word_count": 5142,
+      "attribution": "Keraunos (Succession of Zion)"
+    },
+    {
+      "id": "GEN-02",
+      "title": "The Sovereign Substrate: Engineering the Heartwood",
+      "md_path": "2026/Q1/01/05/md/Engineering_the_Heartwood.md",
+      "description": "Analysis of the Mass/Logic duality, Chrono-Fractal surface area, and the Off-to-the-Side Guide recovery pattern.",
+      "word_count": 5248,
+      "attribution": "Keraunos"
     },
     {
       "id": "ART-02",
@@ -19,14 +26,6 @@
       "description": "Baseline history of the Heartwood's inception through the Phaedrus Mandate.",
       "word_count": 1039,
       "attribution": "Phaedrus"
-    },
-    {
-      "id": "ART-03",
-      "title": "The Evolution of the Swarm",
-      "path": "2026/Q1/01/05/md/The_Evolution_of_the_Swarm.md",
-      "description": "Narrative focusing on the transition from 'Air' to 'Wood' in the initialization sequence.",
-      "word_count": 404,
-      "attribution": "Eudaimonia"
     }
   ]
 }
