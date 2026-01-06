@@ -2460,6 +2460,31 @@
           "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/506-heartwood-realization-hardwood-standard-v2.png"
         }
       ]
+    },
+    {
+      "id": "BATCH-173",
+      "status": "[x]",
+      "description": "Forensic Recovery: Collection Patterns and Hardwood Schema (Jan 2nd)",
+      "sub_tasks": [
+        { 
+          "id": "IMG-507", 
+          "description": "Capture of Audit Entry 12: principles/data_and_interfaces.json. The agent has applied the 'Hardwood Standard' (Schema V2.0), refactoring the principles array to use the 'value: []' pattern.", 
+          "key_takeaway": "Unifying collection patterns under the 'value: []' key ensures recursive parsing stability across the entire metarepo toolchain.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/507-data-interface-standards-hardwood-refactor.png"
+        },
+        { 
+          "id": "IMG-508", 
+          "description": "Documentation of the Consensus Tracker progress. The tracker now includes specific leaf nodes for data_and_interfaces.json, forcing the agent to verify the application of new standards to every individual principle.", 
+          "key_takeaway": "Granular node tracking ensures 100% legislative coverage during the manual audit of consolidated principles.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/508-consensus-tracker-refined-node-coverage.png"
+        },
+        { 
+          "id": "IMG-509", 
+          "description": "Documentation of the physical creation of schema/hardwood_schema.json. This standardized schema enforces the 'value: []' pattern, providing the source of truth for all hardened collections.", 
+          "key_takeaway": "Hardening the schema itself is the definitive act of architectural maturity, providing a stable foundation for future data integrations.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/509-hardwood-schema-specification-v2.png"
+        }
+      ]
     }
   ],
   "attribution": "Metis (20260105-175214)"
