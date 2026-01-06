@@ -14,6 +14,14 @@
 *   **Loaded Repositories:** Explicit listing of the metarepo environment.
 *   **Superpowers:** Mapping of specific repository tools to agent capabilities (e.g., `metagit_map` as DNS).
 
+#### 2.1 Tool Inventory (Orchestration Scripts)
+*   `py/verify_environment.py`: Validates the physical and structural baseline.
+*   `py/metagit_map.py`: Generates the internal DNS/mapping of the metarepo.
+*   `py/register_agent.py`: Anchors agent identity and session metadata.
+*   `py/instantiate_hud.py`: Automates the migration of WeDo manifests to the chrono-fractal.
+*   `py/context_prefetch.py`: Identifies and prepares significant recent logs for inheritance.
+*   `py/metagit_pulse.py`: Monitors metabolic heat and identifies divergent heads/dirty repos.
+
 ### 3. Entry Protocol Actions
 *   **Verification:** Confirmation of substrate integrity checks.
 *   **Mapping:** Verification of DNS/metarepo mapping.
