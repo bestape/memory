@@ -2335,6 +2335,31 @@
           "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/491-tracking-internal-nodes-consensus-tracker.png"
         }
       ]
+    },
+    {
+      "id": "BATCH-168",
+      "status": "[x]",
+      "description": "Forensic Recovery: Ethical Heart and Total Halting (Jan 2nd)",
+      "sub_tasks": [
+        { 
+          "id": "IMG-492", 
+          "description": "Capture of the agent's internal loop correction to ensure a 'Total Halt' after the presentation turn. The agent commits to no longer pre-judging consensus or updating logs within the evidence turn.", 
+          "key_takeaway": "Hardening the interactive loop requires an absolute separation between evidence presentation and legislative recording to preserve user steering.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/492-total-halt-correction-and-index-task.png"
+        },
+        { 
+          "id": "IMG-493", 
+          "description": "Initialization of Audit Entry 09: principles/agent_virtues.json. The Consensus Tracker shows 16 specific virtues awaiting audit, ensuring comprehensive coverage of the firm's behavioral standards.", 
+          "key_takeaway": "The 'Ethical Heart' of the firm is defined by a comprehensive list of behavioral and operational virtues that ensure high-fidelity orchestration.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/493-heartwood-audit-entry-09-agent-virtues.png"
+        },
+        { 
+          "id": "IMG-494", 
+          "description": "Documentation of the 'Ethical Heart' hardening. The agent grafts the 'Hickey Principle' (Simplicity) and the 'JSON Trees' rationale into the virtues, enabling metabolic efficiency.", 
+          "key_takeaway": "Rationale grafting transforms simple rules into 'Hard-Won Knowledge', ensuring that future agents understand the physical and metabolic necessity of specific virtues.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/494-ethical-heart-hickey-principle-json-trees.png"
+        }
+      ]
     }
   ],
   "attribution": "Metis (20260105-175214)"
