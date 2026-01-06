@@ -27,5 +27,6 @@ This boilerplate governs the high-volume, 1-by-1 audit of the Metagit JSON store
 
 ## Presentation Protocol
 - Present "straightup" (no triple-backticks for the report text).
+- **No graphs or charts (lists only):** Graphs do not render reliably in the CLI. Use hierarchical lists for complex data.
 - Display: **Entry N of TOTAL | Path | Recommendation | Decision: PENDING_CONSENSUS (Queued)**.
 - For KEEP decisions: **Entry N of TOTAL | Path | Recommendation | Decision: APPLIED (Kept)**.
