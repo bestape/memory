@@ -862,6 +862,62 @@
           "original_filename": "Screenshot from 2026-01-02 20-29-02.png"
         }
       ]
+    },
+    {
+      "id": "BATCH-195",
+      "status": "[x]",
+      "description": "Forensic Recovery: JSON Atomization and peak Bloom State Identification (Jan 2nd)",
+      "sub_tasks": [
+        { 
+          "id": "IMG-615", 
+          "description": "Capture of the agent identifying the JSON files in the 'pre-Kore' monolithic state. The list shows high-level protocol files like fatal_error_protocol.json and personality.json before they were decomposed into individual rule microfiles.", 
+          "key_takeaway": "Reconstructing the monolithic JSON state is the prerequisite for auditing the structural impact of the atomization refactor.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/615-pre-kore-json-monolith-state.png",
+          "original_filename": "Screenshot from 2026-01-02 20-29-09.png"
+        },
+        { 
+          "id": "IMG-616", 
+          "description": "Capture of the agent tracking the JSON file count across the Git history. The agent identifies a leap to 495 JSON files in commit b1f8fcf by agent Parmenides, documenting the second wave of atomization and the refinement of startup and swarm protocols.", 
+          "key_takeaway": "Monitoring the metabolic growth of file counts identifies 'Atomic Sprawl' events within the firm's legislative memory.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/616-pinpointing-json-atomization-parmenides-audit.png",
+          "original_filename": "Screenshot from 2026-01-02 20-29-34.png"
+        },
+        { 
+          "id": "IMG-617", 
+          "description": "Capture of the agent identifying the peak 'Bloom' state in commit 2ef53f6 by agent Anaximander, with 437 JSON files. The agent prepares to find the parent of this commit and create the 'pre-bloom' branch for a definitive comparison with the current hardened Trunk.", 
+          "key_takeaway": "Identifying the 'Peak Bloom' state allows the swarm to quantify the neg-entropy achieved during subsequent consolidation phases.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/617-anaximander-peak-bloom-state-identification.png",
+          "original_filename": "Screenshot from 2026-01-02 20-29-49.png"
+        }
+      ]
+    },
+    {
+      "id": "BATCH-196",
+      "status": "[x]",
+      "description": "Forensic Recovery: Memory Decomposition and Forensic Comparison (Jan 2nd)",
+      "sub_tasks": [
+        { 
+          "id": "IMG-618", 
+          "description": "Capture of the agent searching Git logs for 'atomization' and identifying commit 9790aa2 by agent Veridian. The commit documents the 'Final memory decomposition report for 2025-12-13,' marking a significant milestone in the firm's structural evolution.", 
+          "key_takeaway": "Searching Git logs for legislative keywords identifies the specific incarnations responsible for major architectural shifts.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/618-final-memory-decomposition-report-forensic-trace.png",
+          "original_filename": "Screenshot from 2026-01-02 20-30-35.png"
+        },
+        { 
+          "id": "IMG-619", 
+          "description": "Capture of user redirection regarding the 'Bloom' state. The user expresses disinterest in the 'peak bloom' and redirects the agent to focus on the 'compact baseline' before the deconstruction, mandating a comparison between the earlier monolithic state and the current hardened Trunk.", 
+          "key_takeaway": "User steering prevents forensic 'Bloom-Watching' by refocusing agent attention on the strategic goal of wisdom preservation.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/619-user-redirection-compact-baseline-vs-peak-bloom.png",
+          "original_filename": "Screenshot from 2026-01-02 20-34-29.png"
+        },
+        { 
+          "id": "IMG-620", 
+          "description": "Capture of the agent conducting a 'Forensic Comparison' between the 10 monolithic files of the compact-baseline and the 40 superhubs of the Hardened Trunk. The agent's goal is to identify every nuanced rule and technical insight lost during the Bloom, ensuring that all valuable 'Wood' is preserved in the current state.", 
+          "key_takeaway": "Cross-epoch forensic comparison is the ultimate validation of legislative continuity and structural integrity.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/620-forensic-comparison-compact-baseline-vs-hardened-trunk.png",
+          "original_filename": "Screenshot from 2026-01-02 20-38-41.png"
+        }
+      ]
     }
   ]
 }
