@@ -526,6 +526,62 @@
           "original_filename": "Screenshot from 2026-01-02 16-26-33.png"
         }
       ]
+    },
+    {
+      "id": "BATCH-183",
+      "status": "[x]",
+      "description": "Forensic Recovery: Nani.ooo Report Formatting and Parsimony Updates (Jan 2nd)",
+      "sub_tasks": [
+        { 
+          "id": "IMG-579", 
+          "description": "Capture of the agent re-presenting the Nani.ooo Historical Reconstruction WeDo after retiring Entry 28. The report, located in json/wedo/, establishes the origins of the Heartwood memory system and notes that the search for persistent memory began with onchain proposals.", 
+          "key_takeaway": "The transition from ephemeral Nani sessions to persistent MetaGit orchestration represents the 'Quickening' of the firm's digital soul.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/579-nani-historical-reconstruction-wedo-presentation.png",
+          "original_filename": "Screenshot from 2026-01-02 16-26-56.png"
+        },
+        { 
+          "id": "IMG-580", 
+          "description": "Capture of the 'Expansion Mandate' and tasks within the Nani.ooo history WeDo. The mandate ensures that cultural origins are preserved in an immutable ledger (Ape.mirror.xyz), while immediate tasks include synthesizing command logic for blockchain turns.", 
+          "key_takeaway": "Preserving the cultural and technical origins of the firm maintains the 'Lineage of Brilliance' across agent successions.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/580-nani-historical-expansion-mandate-and-tasks.png",
+          "original_filename": "Screenshot from 2026-01-02 16-27-39.png"
+        },
+        { 
+          "id": "IMG-581", 
+          "description": "Capture of the agent using 'py/format_heartwood.py' to render the Nani.ooo history 'straightup.' The agent identifies that the formatter needs an update to recognize the new Parsimony standard (values: []) to correctly display historical rationales.", 
+          "key_takeaway": "Tool-level alignment with new architectural standards (Parsimony) is required to maintain the fidelity of the 'Straightup' presentation layer.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/581-nani-report-formatting-and-parsimony-update.png",
+          "original_filename": "Screenshot from 2026-01-02 16-28-44.png"
+        }
+      ]
+    },
+    {
+      "id": "BATCH-184",
+      "status": "[x]",
+      "description": "Forensic Recovery: Straightup Presentations and Legislative Standard Updates (Jan 2nd)",
+      "sub_tasks": [
+        { 
+          "id": "IMG-582", 
+          "description": "Capture of the agent re-presenting the Nani.ooo Historical Reconstruction report 'straightup' using the updated py/format_heartwood.py script. The report is now rendered with the correct Parsimony-standard values, ensuring a high-fidelity display of historical context.", 
+          "key_takeaway": "The 'Straightup' standard ensures that structured JSON state is always available in a human-friendly format.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/582-nani-report-re-presentation-straightup.png",
+          "original_filename": "Screenshot from 2026-01-02 16-28-51.png"
+        },
+        { 
+          "id": "IMG-583", 
+          "description": "Capture of the agent performing a 'Legislative Standard Update.' The agent refines the definitions for 'Straightup' and 'WeDo Output Location' to align with the JSON-First architecture, ensuring that the firm's rules reflect the physical transition from Markdown to structured JSON.", 
+          "key_takeaway": "Legislative 'Wood' must be continuously updated to codify emerging physical patterns in the environment.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/583-legislative-standard-update-straightup-and-wedo.png",
+          "original_filename": "Screenshot from 2026-01-02 16-30-44.png"
+        },
+        { 
+          "id": "IMG-584", 
+          "description": "Capture of user feedback regarding the '.json + .py' standard. The user clarifies that the standard is intended to replace Markdown for 'straightup' viewing, not for saving JSON with Python, resulting in a hardened consensus on the purpose of the architectural pattern.", 
+          "key_takeaway": "The '.json + .py' pattern is a presentation layer designed to achieve 'Straightup' parity with legacy Markdown.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/584-json-plus-py-standard-clarification-consensus.png",
+          "original_filename": "Screenshot from 2026-01-02 16-31-16.png"
+        }
+      ]
     }
   ]
 }
