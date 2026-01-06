@@ -2185,6 +2185,31 @@
           "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/473-heartwood-audit-entry-01-pointer-superhub.png"
         }
       ]
+    },
+    {
+      "id": "BATCH-162",
+      "status": "[x]",
+      "description": "Forensic Recovery: Legislative Indexing and Singularity Principle (Jan 2nd)",
+      "sub_tasks": [
+        { 
+          "id": "IMG-474", 
+          "description": "Capture of Audit Entry 05, showing the update to one_word_glossary.json. The agent introduces the 'Keyword-to-Branch' reference logic (Article.Section.Clause) to provide structural depth for surgical legislative citation.", 
+          "key_takeaway": "High-resolution indexing transforms a simple glossary into a functional switchboard for navigating complex architectural nodes.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/474-one-word-glossary-legislative-indexing.png"
+        },
+        { 
+          "id": "IMG-475", 
+          "description": "Documentation of Audit Entry 06: philosophy/gem_process.json. The principle of the 'Irreducible Singularity' is established, defining the shared thread of attention between user and agent as the system's foundation. It mandates explicit stops for meta-maintenance tasks that the agent cannot perform on itself.", 
+          "key_takeaway": "The 'HALT' mandate is a physical necessity of the single-threaded substrate, ensuring systemic health through user-mediated resource allocation.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/475-gem-process-irreducible-singularity.png"
+        },
+        { 
+          "id": "IMG-476", 
+          "description": "Terminal view capturing a user intervention regarding the indexing schema. The Lead Partner redirects the agent to simplify the indexing layers, suggesting 'Principles.Philosophy.Irreducible_Singularity' over the ART/SEC/CLS prefix system.", 
+          "key_takeaway": "Real-time user feedback on metadata standards prevents the over-complexification of the Heartwood's navigational DNA.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/476-user-redirection-on-indexing-layers.png"
+        }
+      ]
     }
   ],
   "attribution": "Metis (20260105-175214)"
