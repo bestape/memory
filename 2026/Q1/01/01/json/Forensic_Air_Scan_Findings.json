@@ -3,6 +3,9 @@
   "attribution": "Thrasymachus (20260102-001919)",
   "title": "WeDo: Final Forensic Air Scan Findings",
   "description": "Identification of technical implementation nuances lost during the 437-to-40 node consolidation.",
+  "meta": {
+    "reflection_name": "The_Ultimate_Forensic_Comparison.md"
+  },
   "values": [
     {
       "name": "Log Archival Mandate",

@@ -3,6 +3,9 @@
   "attribution": "Thrasymachus (20260102-001919)",
   "title": "WeDo Report: Heartwood Evolution Synthesis",
   "description": "Forensic analysis of the transition from the Entangled Monolith to the Hardened Trunk.",
+  "meta": {
+    "reflection_name": "The_Evolution_of_the_Heartwood.md"
+  },
   "values": [
     {
       "name": "The Pre-Kore Mess",

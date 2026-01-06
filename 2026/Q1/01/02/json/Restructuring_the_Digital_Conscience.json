@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "attribution": "Keraunos (20260105-203511)",
+  "title": "Substrate Parent: Restructuring the Digital Conscience",
+  "description": "The logic of flattening the trunk and the transition to autonomous MetaGit synthesis.",
+  "meta": {
+    "reflection_name": "Restructuring_the_Digital_Conscience.md",
+    "historical_context": "Reflects the Pyrrho-era reordering of the Firm."
+  },
+  "key_rules": [
+    {
+      "name": "Trunk Flattening",
+      "rule": "Flatten principles/ and rules/ into a single 'trunk/' directory.",
+      "rationale": "Reduces the number of navigational hops required for the agent to find core mandates."
+    },
+    {
+      "name": "Sovereign Synthesis",
+      "rule": "Shift from manual steering to autonomous MetaGit state updates.",
+      "rationale": "Maximizes the swarm's velocity and reduces human-in-the-loop latency."
+    }
+  ]
+}
