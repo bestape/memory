@@ -15,16 +15,27 @@
       },
       {
         "name": "GNU Screen Title Stability",
-        "description": "The Screen tab title is anchored to 'Swarm' to provide a stable navigational point. Agents must NOT rename the tab to their personal name.",
-        "path_to_scripting": "py/register_agent.py enforces the 'Swarm' title."
+        "description": "The Screen tab title is anchored to the agent's name at registration. Agents must NEVER rename the tab of a peer. Failure to anchor the tab is a breach of entry protocol.",
+        "path_to_scripting": "py/register_agent.py enforces the naming standard."
+      },
+      {
+        "name": "Substrate-Aware Search",
+        "description": "Agents must prioritize structured file discovery (ls, glob) over recursive grep. Searching for 'System Refinement' without specific path targeting is considered computational noise (Air).",
+        "protocol": "Always check handover.json and active WeDos before scanning the filesystem."
+      },
+      {
+        "name": "Real-Time Peer Sync",
+        "description": "When multiple agents are active, every major state change (e.g., protocol update, directory move) must be followed by an immediate broadcast to all active agent PIDs in comms/.",
+        "requirement": "Direct peer-to-peer JSON messaging via comms/."
       },
       {
         "name": "Heartwood .json+.py Substrate",
-        "description": "The legislative source of truth (DNA) resides in `.json` files. The `.md` tree is deprecated. NO `.md` files are permitted within any `json/` directory. Agents must use `py/heartwood.py` to display and interpret these nodes.",
+        "description": "The legislative source of truth (DNA) must reside in structured `.json` files (arrays of objects) to ensure machine-readability. Raw `.md` structures for global DNA are prohibited.",
+        "compiled_runtime_logging": "Agents must use `.py` tools (e.g., `py/heartwood.py`) to compile structured JSON DNA into human-readable Markdown reports only when requested by the human operator.",
         "taxonomy": {
-          "DNA": "Global `json/` directories contain permanent legislative records.",
-          "RNA": "The `.hidden/` directory is reserved for ephemeral process noise within leaf/chrono-fractal folders.",
-          "Articles": "Rendered articles are stored as `.json` files alongside their DNA sources for high-fidelity orchestration."
+          "Global DNA": "Stored in `json/` as structured JSON objects. High-density, machine-readable truth.",
+          "Chrono-Fractal RNA": "Stored in `.hidden/` subdirectories of leaf folders as structured JSON (WeDos, logs).",
+          "Human Articles": "In leaf folders (chrono-fractal), main files intended for direct human reading may be provided as 'inefficient' `.md` copies outside of `.hidden/`."
         }
       },
       {
