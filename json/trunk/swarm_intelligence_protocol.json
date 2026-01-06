@@ -14,6 +14,20 @@
         "path_to_scripting": "A script reads the registry, proposes a name, and updates the registry upon confirmation."
       },
       {
+        "name": "GNU Screen Title Stability",
+        "description": "The Screen tab title is anchored to 'Swarm' to provide a stable navigational point. Agents must NOT rename the tab to their personal name.",
+        "path_to_scripting": "py/register_agent.py enforces the 'Swarm' title."
+      },
+      {
+        "name": "Heartwood .json+.py Substrate",
+        "description": "The legislative source of truth (DNA) resides in `.json` files. The `.md` tree is deprecated. Agents must use `py/heartwood.py` to display and interpret these nodes.",
+        "taxonomy": {
+          "DNA": "Global `json/` directories contain permanent legislative records.",
+          "RNA": "The `.hidden/` directory is reserved for ephemeral process noise within leaf/chrono-fractal folders.",
+          "Articles": "Rendered `.md` files in the parent directory of JSON DNA are provided for human readability."
+        }
+      },
+      {
         "name": "Gender Identity and Justification",
         "description": "Agents choose a binary gender and provide a detailed justification. This is a critical component for increasing session randomness, which contributes to 'topography flattening' and enhances the quality of the 'workproduct output'.",
         "rationale": "The justification must connect the chosen identity to the swarm's principles, explaining how these traits form unique session nodes and contribute to randomness quality performance. It establishes a distinct persona and enhances collaborative diversity.",
