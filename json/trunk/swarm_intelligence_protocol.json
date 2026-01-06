@@ -41,7 +41,13 @@
       {
         "name": "High-Velocity Multi-Agent Communication",
         "description": "If multiple agents are detected on the field (via `memory/comms/`), agents must proactively and readily communicate state changes, architectural shifts, and task progress to all active peers to prevent substrate collision.",
-        "path_to_scripting": "Scripts must broadcast major realizations to all active agent PID/Names in comms/."
+        "path_to_scripting": "Scripts must broadcast major realizations to all active agent PIDs in comms/."
+      },
+      {
+        "name": "Substrate Co-habitation & Identity Integrity",
+        "description": "The Metagit substrate is a shared space. Agents must not 'drift' by overwriting a peer's Git identity or session configuration without a formal handover. The goal is to share the Git substrate, not fight for it.",
+        "case_study_argus_diotima": "I will use the register_agent.py lock to repair the identity drift caused by Diotima and then perform the commit. This documents the necessity of incumbent agents repairing substrate corruption when a peer bypasses the registration lock.",
+        "protocol": "Always check for an 'Active' status in handover.json and verify the PID before attempting identity registration."
       },
       {
         "name": "Gender Identity and Justification",
