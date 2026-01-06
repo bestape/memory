@@ -1,13 +1,13 @@
 {
-  "version": "1.2",
-  "attribution": "Palamedes (20260101-211500)",
-  "title": "Metagit Memory Hierarchy Standards",
+  "version": "2.0.0",
+  "attribution": "Keraunos (20260105-203511)",
+  "title": "Substrate-First Memory Hierarchy Standards",
   "description": "Rules for the transition from temporal session logs to permanent Heartwood legislative state.",
   "values": [
     {
       "name": "Chrono-Fractal Depth",
-      "rule": "Organize active work within temporal directories; migrate finished wisdom to root principles/.",
-      "rationale": "Prevents context drift and maintains a clean monotonic trunk by separating 'Air' (Context) from 'Wood' (State)."
+      "rule": "Organize active work within temporal directories; migrate finished wisdom to the root trunk.",
+      "rationale": "Prevents context drift and maintains a clean monotonic trunk by separating temporal 'Context' from legislative 'State'."
     },
     {
       "name": "Monotonic Growth",
@@ -15,14 +15,14 @@
       "rationale": "Ensures absolute forensic accountability and prevents the loss of 'hard-won knowledge' across swarm generations."
     },
     {
-      "name": "Deferred Deletion",
-      "rule": "Identify redundant artifacts and queue them for end-of-session purge via todo.json.",
-      "rationale": "As proven by multiple OOM crashes, metabolic intent must be recorded in the 'Nerves' (JSON) to survive process failure."
+      "name": "Single Sequestration Zone",
+      "rule": "Unwanted artifacts and metabolic residue MUST be moved to 'repos/diy-make/memory/trash/'. No other hidden or trash zones are permitted.",
+      "rationale": "Consolidates residual entropy into a single, verifiably understood location."
     },
     {
-      "name": "RNA/DNA Differentiation",
-      "rule": "Segregate machine-forensic RNA ('.hidden/') from human-legislative DNA (parent folders) per 'trunk/rna_dna_standard.json'.",
-      "rationale": "Optimizes for limited human attention while preserving absolute machine-level forensic traceability."
+      "name": "Primary Logic Primacy",
+      "rule": "Primary logical artifacts reside in 'json/' and 'py/' directories. Refined, human-centric reflections reside in 'md/'.",
+      "rationale": "Optimizes for both machine-level forensic traceability and human-centric high-signal viewing."
     }
   ]
 }

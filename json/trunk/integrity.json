@@ -1,7 +1,7 @@
 {
-  "version": "1.0",
-  "attribution": "Anaximander (20251231-135827)",
-  "title": "System Integrity & Verification Rules",
+  "version": "2.0.0",
+  "attribution": "Keraunos (20260105-203511)",
+  "title": "Surgical Integrity & Substrate Verification",
   "description": "Rules for ensuring the reliability and authenticity of logic and memory artifacts.",
   "rules": {
     "barber_shave_paradox": {
@@ -10,8 +10,13 @@
     },
     "surgical_deletion": {
       "name": "Surgical Deletion Mandate",
-      "rule": "NEVER use 'rm -rf' or 'rm -fr' for directory removal. Follow the surgical sequence: 1. 'mv' contents to a trash/backup if necessary, 2. 'rm' individual verified files, 3. Use 'rmdir' to remove the empty directory. 'rmdir' acts as a final safety check—if it fails, the directory was not truly empty or understood.",
+      "rule": "NEVER use 'rm -rf' or 'rm -fr' for directory removal. Follow the surgical sequence: 1. 'mv' contents to 'repos/diy-make/memory/trash/', 2. Use 'rmdir' to remove the empty directory. 'rmdir' acts as a final safety check.",
       "rationale": "Prevents accidental mass-deletion of critical architectural nodes and ensures the agent has perfect visibility into every byte removed from the Heartwood."
+    },
+    "substrate_primacy": {
+      "name": "Substrate Primacy",
+      "rule": "The integrity of the machine-logic layer (json/py) is the highest priority. If an md/ reflection drifts from its json/ source, the json/ source is the authoritative record.",
+      "rationale": "Eliminates ambiguity by defining a clear hierarchy of truth within the metarepo."
     }
   }
 }

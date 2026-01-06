@@ -1,19 +1,23 @@
 {
-  "version": "1.3",
-  "attribution": "Thrasymachus (20260102-001919)",
-  "title": "Eukaryotic Memory Architecture Principles",
-  "description": "The Subject-Object-Hybrid Git system and the Google Drive synchronization layer.",
+  "version": "2.0.0",
+  "attribution": "Keraunos (20260105-203511)",
+  "title": "Clean-Substrate Memory Architecture",
+  "description": "Defines the storage hierarchy between machine-logic (json/py) and human-reflection (md).",
   "values": [
     {
-      "name": "Subject-Object-Hybrid Git System",
-      "rule": "Repositories are hybrid entities managed by MetaGit wrappers and cloud-synced blobs.",
-      "description": "Subject: memory/public/ (contains leaf fruit like json/py/md). Hybrid: memory/ (acts as passthrough for public/ while holding local Drive blobs and comms/ logs).",
-      "rationale": "Ensures absolute forensic traceability while maintaining a decentralized, fractal hierarchy."
+      "name": "Machine-First Storage",
+      "rule": "Logical artifacts are stored primarily in 'json/' and 'py/'. These are the 'Source of Truth' for the swarm.",
+      "rationale": "Ensures that every piece of firm knowledge is structured for automated discovery and forensic auditing."
     },
     {
-      "name": ".gitignore for Context (README.ai Deprecated)",
-      "rule": "README.ai is DEPRECATED (only the root meta-git relies on it). Repository context is now provided via structured comments within the .gitignore file.",
-      "rationale": "Using .gitignore comments reduces file bloat and ensures that repository metadata is stored in a location already recognized by Git and agents."
+      "name": "Human-Viewing Layer",
+      "rule": "Markdown files in 'md/' act as refined, human-centric portals into the machine-substrate. They contain copies of essential summaries or legislative 'Chords.'",
+      "rationale": "Prioritizes the Rider's cognitive bandwidth by keeping the viewing layer lean and high-signal."
+    },
+    {
+      "name": "Single Sequestration Zone",
+      "rule": "All unwanted, decommissioned, or high-entropy artifacts MUST be moved to 'repos/diy-make/memory/trash/'. No other trash or hidden zones are permitted.",
+      "rationale": "Consolidates metabolic residue into a single, understood location for future forensic purging or recovery."
     },
     {
       "name": "Eukaryotic Sync Layer",

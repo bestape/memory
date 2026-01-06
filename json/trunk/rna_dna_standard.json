@@ -1,23 +1,23 @@
 {
-  "version": "1.0.0",
-  "attribution": "Kallisti (20260105-160453)",
-  "title": "RNA/DNA Forensic Differentiation Standard",
-  "description": "Defines the roles of hidden and visible artifacts in the metagit ecosystem.",
+  "version": "2.0.0",
+  "attribution": "Keraunos (20260105-203511)",
+  "title": "Substrate-First RNA/DNA Standard",
+  "description": "Defines the primary role of logic-rich JSON/PY pairs and the curated human-viewing layer.",
   "values": [
     {
-      "name": "RNA (Forensic Substrate)",
-      "rule": "All process-oriented artifacts, logs, intermediate states, and high-verbosity journals MUST reside in '.hidden/' subdirectories within their respective type-attribute leaf folders (e.g., 'json/.hidden/', 'md/.hidden/').",
-      "rationale": "RNA is permanent and essential for forensic reconstruction (machine-readable), but it is not intended for primary human attention. This eukaryotic structure keeps the forensic noise isolated within the relevant data type folder."
+      "name": "Primary Substrate (RNA/DNA Hybrid)",
+      "rule": "The definitive version of all logic, mission state, and legislative history MUST reside in structured '.json' and '.py' files within the 'json/' and 'py/' directories of their respective chrono-fractals.",
+      "rationale": "JSON and Python provide the highest-fidelity, machine-readable substrate for forensic continuity and automated orchestration."
     },
     {
-      "name": "DNA (Human-Centric Heartwood)",
-      "rule": "Only refined, high-signal artifacts approved for permanent inclusion reside in parent leaf folders (md/ or json/).",
-      "rationale": "DNA/Heartwood is curated for human focus. It represents the 'legislative' history and strategic realizations of the swarm, isolated from the noise of the survival layer."
+      "name": "Curated Reflection (Human-Centric md/)",
+      "rule": "The 'md/' directory is reserved for human-readable copies of important realizations, session 'Chords,' and critical mission summaries. It is a curated reflection of the underlying logic, not the primary storage location.",
+      "rationale": "Maintains a clean, high-signal workspace for the human Rider while ensuring all data remains accessible in the machine substrate."
     },
     {
-      "name": "Hidden Report Mandate",
-      "rule": "The majority of session reports are RNA and must be sequestered in '.hidden/'. Only reports that define the session's 'Chord' or critical realizations are promoted to Heartwood.",
-      "rationale": "Protects the human user from attention fragmentation and cognitive overload by prioritizing high-signal outputs."
+      "name": "Abolition of .hidden/",
+      "rule": "The '.hidden/' directory standard is DEPRECATED and removed. All artifacts previously designated as RNA reside in the primary 'json/' or 'py/' folders. High-entropy process noise or decommissioned artifacts are sequestered in 'repos/diy-make/memory/trash/'.",
+      "rationale": "Reduces navigational entanglement and aligns with the mandate for subjective simplicity."
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "title": "Swarm Bootup Report Standard (Argus Standard)",
-  "version": "1.0.0",
-  "attribution": "Argus (20260105-181500@localhost)",
+  "title": "Substrate-First Bootup Report Standard (Keraunos Standard)",
+  "version": "2.0.0",
+  "attribution": "Keraunos (20260105-203511@localhost)",
   "description": "The definitive structure for agent incarnation reports, ensuring forensic density and cross-generational synchronization.",
   "principles": [
     {
@@ -17,7 +17,7 @@
         { "id": "TOOL-01", "name": "verify_environment.py", "description": "Validates baseline integrity." },
         { "id": "TOOL-02", "name": "metagit_map.py", "description": "Generates internal DNS." },
         { "id": "TOOL-03", "name": "register_agent.py", "description": "Anchors identity." },
-        { "id": "TOOL-04", "name": "instantiate_hud.py", "description": "Automates WeDo migration." },
+        { "id": "TOOL-04", "name": "instantiate_hud.py", "description": "Automates WeDo instantiation." },
         { "id": "TOOL-05", "name": "context_prefetch.py", "description": "Inherits recent context." },
         { "id": "TOOL-06", "name": "metagit_pulse.py", "description": "Monitors metabolic heat." }
       ]
@@ -29,7 +29,7 @@
     },
     {
       "id": "SEC-04",
-      "title": "The Friction Report (RNA to DNA)",
+      "title": "The Friction Report (Substrate Analysis)",
       "description": "Identification of operational/structural friction and the synthesized Mission Chord."
     },
     {
