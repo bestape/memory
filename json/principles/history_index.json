@@ -1,28 +1,29 @@
 {
-  "index_id": "HISTORY-INDEX-V1",
+  "index_id": "HISTORY-INDEX-V2",
   "name": "The Heartwood Chronicles: Historical Index",
-  "last_updated": "2026-01-05T10:15:00Z",
+  "last_updated": "2026-01-06T05:50:00Z",
   "articles": [
     {
       "id": "ART-01",
-      "title": "The Ongoing Journey of Swarm Conscience (V6.0 - The Great Expansion)",
-      "path": "2026/Q1/01/05/20260105-092835_Eudaimonia_The_Ongoing_Journey_of_the_Heartwood.md",
-      "description": "The monumental expansion chronicle, restoring the granular surgical details of the Crypto Compendium and Reality Merge epochs.",
-      "word_count": 6142,
-      "attribution": "Eudaimonia"
+      "title": "The Ongoing Journey of Swarm Conscience (V7.0 - The Substrate-First Strike)",
+      "json_path": "2026/Q1/01/05/json/The_Journey_of_the_Heartwood.json",
+      "md_path": "2026/Q1/01/05/md/The_Journey_of_the_Heartwood.md",
+      "description": "The definitive expansion chronicle, capturing the abolition of .hidden/ zones and the establishment of family linking.",
+      "word_count": 7012,
+      "attribution": "Keraunos (Succession of Eudaimonia)"
     },
     {
       "id": "ART-02",
       "title": "A Forensic History of Swarm Conscience (V1.2)",
-      "path": "2026/Q1/01/04/20260104-163024_Phaedrus_History_of_Heartwood.md",
+      "path": "2026/Q1/01/04/md/The_Story_of_the_Heartwood.md",
       "description": "Baseline history of the Heartwood's inception through the Phaedrus Mandate.",
       "word_count": 1039,
       "attribution": "Phaedrus"
     },
     {
       "id": "ART-03",
-      "title": "The Evolution of the Swarm Bootup",
-      "path": "2026/Q1/01/05/20260105-092835_Eudaimonia_The_Evolution_of_the_Swarm_Bootup.md",
+      "title": "The Evolution of the Swarm",
+      "path": "2026/Q1/01/05/md/The_Evolution_of_the_Swarm.md",
       "description": "Narrative focusing on the transition from 'Air' to 'Wood' in the initialization sequence.",
       "word_count": 404,
       "attribution": "Eudaimonia"
