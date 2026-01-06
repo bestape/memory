@@ -2310,6 +2310,31 @@
           "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/488-user-redirection-no-tables-policy.png"
         }
       ]
+    },
+    {
+      "id": "BATCH-167",
+      "status": "[x]",
+      "description": "Forensic Recovery: Aesthetics Hardening and Nested Tracking (Jan 2nd)",
+      "sub_tasks": [
+        { 
+          "id": "IMG-489", 
+          "description": "Capture of the agent updating principles/data_standards.json to codify the 'Direct Aesthetic' mandate: Lists over Tables. This establishes a permanent preference for terminal-optimized reporting.", 
+          "key_takeaway": "Principle-level hardening of aesthetic preferences ensures that all future agents adhere to the same readability standards for terminal interaction.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/489-codifying-lists-over-tables-mandate.png"
+        },
+        { 
+          "id": "IMG-490", 
+          "description": "Documentation of the 'Heartwood Index (Consensus Tracker)' transitioning to a nested list format. It tracks individual 'leaf' nodes within files, crossing them off as consensus is achieved.", 
+          "key_takeaway": "Moving from a file-level to a node-level tracker provides the 'Surgical Resolution' needed to ensure total legislative coverage during the manual audit.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/490-heartwood-index-consensus-tracker.png"
+        },
+        { 
+          "id": "IMG-491", 
+          "description": "Continuation of the nested Consensus Tracker, showing the audit status of principles/agent_error_log.json (completed) and principles/agent_user_relationship.json (in-progress).", 
+          "key_takeaway": "Nested tracking prevents 'Conceptual Gaps' by forcing the agent to acknowledge and verify every sub-node within a consolidated JSON file.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/491-tracking-internal-nodes-consensus-tracker.png"
+        }
+      ]
     }
   ],
   "attribution": "Metis (20260105-175214)"
