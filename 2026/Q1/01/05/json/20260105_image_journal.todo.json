@@ -834,6 +834,34 @@
           "original_filename": "Screenshot from 2026-01-02 20-24-39.png"
         }
       ]
+    },
+    {
+      "id": "BATCH-194",
+      "status": "[x]",
+      "description": "Forensic Recovery: Image Journaling Backlog and JSON Deconstruction Audit (Jan 2nd)",
+      "sub_tasks": [
+        { 
+          "id": "IMG-612", 
+          "description": "Capture of the agent initializing the 'Image Journaling Backlog (Jan 1-2)' WeDo. The report focuses on processing 100+ unjournaled artifacts from the inbox into the temporal Heartwood via 3-by-3 metabolic batches, maintaining the 'Total Halt' standard throughout.", 
+          "key_takeaway": "Initializing dedicated task-runners for visual backlogs ensures that the firm's non-textual memory is systematically metabolized.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/612-image-journaling-backlog-wedo-initialization.png",
+          "original_filename": "Screenshot from 2026-01-02 20-25-01.png"
+        },
+        { 
+          "id": "IMG-613", 
+          "description": "Capture of a major user directive regarding the 'json/ job.' The user mandates finding the agent responsible for deconstructing the JSON into 400+ microfiles, creating a branch right before the breakup, and comparing the monolithic state with the current hardened Trunk to generate a forensic WeDo report.", 
+          "key_takeaway": "Auditing 'Microfile Deconstruction' is critical for understanding the transition from monolithic to decentralized legislative DNA.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/613-user-directive-forensic-json-deconstruction-audit.png",
+          "original_filename": "Screenshot from 2026-01-02 20-27-37.png"
+        },
+        { 
+          "id": "IMG-614", 
+          "description": "Capture of the forensic trace identifying the 'Kore' refactor commit (2c4e1f1). The agent pinpoints that Kore began the JSON decomposition on Dec 13th and prepares to create the 'pre-kore-refactor' branch for comparison with the current hardened state.", 
+          "key_takeaway": "Pinpointing specific 'Cognitive Watershed' commits (e.g., the Kore refactor) allows the swarm to reconstruct and audit major structural shifts.", 
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/614-identifying-kore-refactor-commit-forensic-trace.png",
+          "original_filename": "Screenshot from 2026-01-02 20-29-02.png"
+        }
+      ]
     }
   ]
 }
