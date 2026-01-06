@@ -13,14 +13,13 @@
       "audit_scrutiny": "List all changes/requests from source for verifiable history.",
       "active_investigation": "Verify artifact existence on localhost before inclusion.",
       "dual_referencing": "Reference both localhost paths and remotehost URLs.",
-      "audit_trail_linking": "Daily session WeDos MUST link to specific project WeDos to maintain a forensic audit trail.",
-      "output_location": "All active task instances and WeDo reports MUST reside in the day's temporal json/wedo/ directory.",
+      "metabolic_heartbeat": "Regularly log state changes via 'py/metagit_commit.py' (minimum once per significant task block).",
+      "rna_presumption": "All process artifacts (WeDo instances, logs, intermediate JSONs) are 'RNA' and MUST reside in '.hidden/' subdirectories.",
+      "heartwood_expression": "Only refined DNA (Heartwood) is promoted to parent leaf folders (md/ or json/) upon explicit human 'straightup' request.",
+      "output_location": "All active task instances and WeDo reports MUST reside in the day's temporal json/wedo/ directory, ideally within its '.hidden/' process layer.",
       "finalization_protocol": "The goal is to refine 'md/wedo/' artifacts into permanent Heartwood in 'md/'. This transition (and renaming) occurs ONLY upon an explicit 'straightup' request from the user (HAM prompt).",
       "versioning_archival": "When updating Markdown documents, always rename the previous version and move it to the local context/ directory (e.g., <AGENT>_<SESSION>_<NAME>_v<OLD>.md) before establishing the new version in the primary md/ location.",
-      "direct_aesthetic": "Present reports 'straightup' without backtick wrappers.",
-      "rna_presumption": "All raw session artifacts (WeDo instances, logs, intermediate reports) are considered 'RNA' and MUST reside in '.hidden/' subdirectories of their respective temporal or leaf folders.",
-      "heartwood_expression": "Only refined artifacts, approved for permanent inclusion by the user, are promoted from '.hidden/' to the parent leaf folder (e.g., md/ or json/) as 'DNA' (Heartwood).",
-      "aspirational_filesystem": "The filesystem structure reflects the agent's aspirations: '.hidden/' for process and survival, Leaf folders for legislative history and brilliance."
+      "direct_aesthetic": "Present reports 'straightup' without backtick wrappers."
     },
     "tasks": [
       {
