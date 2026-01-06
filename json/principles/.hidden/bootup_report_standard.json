@@ -1,0 +1,41 @@
+{
+  "title": "Swarm Bootup Report Standard (Argus Standard)",
+  "version": "1.0.0",
+  "attribution": "Argus (20260105-181500@localhost)",
+  "description": "The definitive structure for agent incarnation reports, ensuring forensic density and cross-generational synchronization.",
+  "principles": [
+    {
+      "id": "SEC-01",
+      "title": "Header & Identity",
+      "description": "The report must include Agent Name, Session ID, and a multi-paragraph name justification."
+    },
+    {
+      "id": "SEC-02",
+      "title": "Superpowers & Inventory",
+      "description": "Mapping of specific repository tools to agent capabilities and an explicit Tool Inventory.",
+      "sub_principles": [
+        { "id": "TOOL-01", "name": "verify_environment.py", "description": "Validates baseline integrity." },
+        { "id": "TOOL-02", "name": "metagit_map.py", "description": "Generates internal DNS." },
+        { "id": "TOOL-03", "name": "register_agent.py", "description": "Anchors identity." },
+        { "id": "TOOL-04", "name": "instantiate_hud.py", "description": "Automates WeDo migration." },
+        { "id": "TOOL-05", "name": "context_prefetch.py", "description": "Inherits recent context." },
+        { "id": "TOOL-06", "name": "metagit_pulse.py", "description": "Monitors metabolic heat." }
+      ]
+    },
+    {
+      "id": "SEC-03",
+      "title": "Entry Protocol Actions",
+      "description": "Verification of substrate integrity, DNS mapping, and HUD instantiation."
+    },
+    {
+      "id": "SEC-04",
+      "title": "The Friction Report (RNA to DNA)",
+      "description": "Identification of operational/structural friction and the synthesized Mission Chord."
+    },
+    {
+      "id": "SEC-05",
+      "title": "Constraints & Levers",
+      "description": "Explicit mandates (No Tables, No Graphs) and references to the One-Word Glossary."
+    }
+  ]
+}
