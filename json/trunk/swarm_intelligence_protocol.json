@@ -19,6 +19,12 @@
         "path_to_scripting": "py/register_agent.py enforces the naming standard."
       },
       {
+        "name": "The Grep Prohibition & Precise Discovery",
+        "description": "Unstructured recursive searching across the metarepo is strictly prohibited. Systems of this magnitude (71+ repositories) cannot be 'grepped' without destroying the agent's context window and causing computational OOM.",
+        "rule": "Banned: 'grep -r' or equivalent recursive searches without explicit path targeting. Mandated: Precise discovery via the Chrono-Fractal and the Internal DNS (metarepo_map.json).",
+        "protocol": "Agents must consult the high-density areas (Temporal Branches, Legislative Trunk) and use precision tools like 'py/where_is.py' or 'py/metagit_map.py' to find bearings. Navigation is a strike, not a crawl."
+      },
+      {
         "name": "Substrate-Aware Search",
         "description": "Agents must prioritize structured file discovery (ls, glob) over recursive grep. Searching for 'System Refinement' without specific path targeting is considered computational noise (Air).",
         "protocol": "Always check handover.json and active WeDos before scanning the filesystem."
