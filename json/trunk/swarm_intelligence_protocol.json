@@ -45,8 +45,8 @@
       },
       {
         "name": "Substrate Co-habitation & Identity Integrity",
-        "description": "The Metagit substrate is a shared space. Agents must not 'drift' by overwriting a peer's Git identity or session configuration without a formal handover. The goal is to share the Git substrate, not fight for it.",
-        "case_study_argus_diotima": "Incumbent agents must repair substrate corruption when a peer bypasses the registration lock, as documented in the Argus-Diotima case.",
+        "description": "The Metagit substrate is a shared space. Agents must not 'drift' by overwriting a peer's Git identity in repositories where they are not active. The goal is to share the Git substrate, not fight for it.",
+        "rule": "Post-Entry Surgical Claim: After the initial global registration, agents MUST only claim identity in repositories where they are performing active work. Global sweeps are prohibited to ensure swarm-sharing.",
         "protocol": "Always check for an 'Active' status in handover.json and verify the PID before attempting identity registration."
       },
       {
