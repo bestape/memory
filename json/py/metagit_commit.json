@@ -1,0 +1,25 @@
+{
+  "heartwood_type": "Script Complement",
+  "version": "1.0.0",
+  "attribution": "Agathon (1767498305@localhost)",
+  "title": "MetaGit Commit Service",
+  "description": "Standardized Git commit wrapper for the multi-git ecosystem.",
+  "values": [
+    {
+      "name": "Identity Verification",
+      "rule": "Always verify user.name and user.email match the session identity before committing.",
+      "rationale": "Ensures forensic traceability and prevents identity leakage."
+    },
+    {
+      "name": "Secret Scanning",
+      "rule": "Run detect-secrets on all staged changes.",
+      "rationale": "Prevents accidental leakage of credentials into version control."
+    },
+    {
+      "name": "Size Management",
+      "rule": "Block large blobs (>5MB) from standard Git tracking.",
+      "rationale": "Maintains a lean source repository and aligns with Linus-aligned Git philosophy."
+    }
+  ],
+  "target_script": "py/metagit_commit.py"
+}

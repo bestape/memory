@@ -1,0 +1,12 @@
+{
+  "heartwood_type": "Script Complement",
+  "version": "1.0.0",
+  "attribution": "Agathon (1767498305@localhost)",
+  "title": "Kernel Identity Initialization (syn)",
+  "description": "Declarative context for the py/kernel_init.py script.",
+  "logic": {
+    "syn": "Anchoring the ephemeral identity to the physical runtime (Screen and Git).",
+    "claiming": "Flipping the 'claimed' bit in the session metadata to prevent PID collision."
+  },
+  "target_script": "py/kernel_init.py"
+}

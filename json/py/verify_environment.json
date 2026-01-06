@@ -1,0 +1,15 @@
+{
+  "heartwood_type": "Script Complement",
+  "version": "1.0.0",
+  "attribution": "Agathon (1767498305@localhost)",
+  "title": "Environment Verification Service",
+  "description": "Ensures the forensic integrity of the Meta-Root kernel.",
+  "values": [
+    {
+      "name": "Salted Integrity",
+      "rule": "Verify core scripts against cryptographic signatures in the Git history.",
+      "rationale": "Prevents the 'Barber Paradox' where a script cannot trust its own state."
+    }
+  ],
+  "target_script": "py/verify_environment.py"
+}

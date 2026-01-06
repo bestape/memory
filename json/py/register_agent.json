@@ -1,0 +1,13 @@
+{
+  "heartwood_type": "Script Complement",
+  "version": "1.0.0",
+  "attribution": "Agathon (1767498305@localhost)",
+  "title": "Agent Registration Service",
+  "description": "Declarative context for the py/register_agent.py script.",
+  "logic": {
+    "identity": "Ensures unique agent naming and session-based email attribution.",
+    "anchoring": "Synchronizes identity across meta-root and all metarepos.",
+    "announcement": "Registers the agent instance with the swarm's communication stream."
+  },
+  "target_script": "py/register_agent.py"
+}

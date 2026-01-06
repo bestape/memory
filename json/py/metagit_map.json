@@ -1,0 +1,20 @@
+{
+  "heartwood_type": "Script Complement",
+  "version": "1.0.0",
+  "attribution": "Agathon (1767498305@localhost)",
+  "title": "MetaGit Mapping Service",
+  "description": "Generates the structural DNS of the local filesystem repositories.",
+  "values": [
+    {
+      "name": "Structural Discovery",
+      "rule": "Recursively scan for .git directories to build a timestamped map.",
+      "rationale": "Provides the 'tie' that allows agents to navigate nested repositories."
+    },
+    {
+      "name": "Eukaryotic Classification",
+      "rule": "Classify repositories as Subject (working content) or Object (containers).",
+      "rationale": "Defines the navigational laws and ignore-patterns for orchestration."
+    }
+  ],
+  "target_script": "py/metagit_map.py"
+}

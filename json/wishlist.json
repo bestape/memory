@@ -1,0 +1,14 @@
+{
+  "wishlist": [
+    {
+      "id": "WISH-YTA",
+      "description": "YouTube Account Management Integration",
+      "status": "Pending"
+    },
+    {
+      "id": "CRIT-JSON-SYSTEM",
+      "description": "Full transition of WeDo artifacts to structured JSON with Python-based HUD rendering.",
+      "status": "In-Progress"
+    }
+  ]
+}
