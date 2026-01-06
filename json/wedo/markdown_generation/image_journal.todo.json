@@ -5,8 +5,8 @@
   "description": "Distilling raw visual artifacts (.png, .jpg) from the inbox into the temporal Heartwood via iterative metabolic loops.",
   "storage_policy": {
     "global_template": "repos/diy-make/memory/public/json/wedo/markdown_generation/image_journal.todo.json",
-    "temporal_instance": "repos/diy-make/memory/public/<YEAR>/Q<N>/<MONTH>/<DAY>/json/<AGENT>_<SESSION>_image_journal.todo.json",
-    "mandate": "Always copy the global template to the day's chrono-fractal json/ directory before starting work."
+    "temporal_instance": "repos/diy-make/memory/public/<YEAR>/Q<N>/<MONTH>/<DAY>/json/<YYYYMMDD>_image_journal.todo.json",
+    "mandate": "MANDATE: There is only ONE image journal per day for all agents. Check for an existing journal for the current date in the chrono-fractal. If found, use and append to it. If none exists, copy this template and name it <YYYYMMDD>_image_journal.todo.json."
   },
   "required_files": {
     "formatter": "py/format_todo.py",
