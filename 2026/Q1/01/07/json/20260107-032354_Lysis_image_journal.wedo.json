@@ -1,0 +1,209 @@
+{
+  "title": "WeDo Template: Image Journaling Protocol (Rules Pseudolanguage)",
+  "version": "1.2",
+  "attribution": "Parrhesia (20260105-102119)",
+  "description": "Distilling raw visual artifacts (.png, .jpg) from the inbox into the temporal Heartwood via iterative metabolic loops.",
+  "storage_policy": {
+    "global_template": "repos/diy-make/memory/public/json/wedo/markdown_generation/image_journal.wedo.json",
+    "temporal_instance": "repos/diy-make/memory/public/<YEAR>/Q<N>/<MONTH>/<DAY>/json/[SESSION_ID]_[NAME]_image_journal.wedo.json",
+    "mandate": "MANDATE: Images must be journaled in the chrono-fractal corresponding to their ORIGIN (creation) date. The WeDo instance is PER AGENT SESSION (e.g., [SESSION]_[NAME]_image_journal.wedo.json). However, there is only ONE 'daily_image_journal.json' per day shared by all agents. Check for an existing WeDo for your session in the target day's json/ directory. If none exists, copy this template and anchor it to your session identity. Always append entries to the shared 'daily_image_journal.json' in that same directory."
+  },
+  "required_files": {
+    "formatter": "py/format_todo.py",
+    "meta_protocol": "repos/diy-make/memory/public/json/wedo/meta_wedo.wedo.json"
+  },
+  "process_protocol": {
+    "source_inbox": "repos/diy-make/memory/inbox/png/",
+    "loop_instructions": "Execute the following sequence in 3-by-3 metabolic batches to balance session velocity with human oversight. Ensure the active WeDo being updated is the one residing in the folder of the artifacts' creation date:",
+    "steps": [
+      {
+        "id": "STEP-00",
+        "action": "Display ToDo",
+        "command": "python3 py/format_todo.py <path_to_creation_date_instance.json>",
+        "description": "Print the current task list directly to the session feed for user review. Ensure you are looking at the WeDo for the day currently being processed."
+      },
+      {
+        "id": "STEP-01",
+        "action": "Metabolic Batch Analysis",
+        "description": "Read 3 artifacts from the inbox. Perform vision analysis on the batch. Post a high-fidelity summary of all 3 'straightup' for human-in-the-loop (HITL) oversight.",
+        "citations": [
+          { "title": "Leander Session Termination OOM", "path": "2026/Q1/01/01/png/12-leander-session-termination-oom.png", "description": "Visual proof of heap exhaustion during non-batched labor." }
+        ]
+      },
+      {
+        "id": "STEP-02",
+        "action": "Heartwood Graft",
+        "command": "cp [artifact] repos/diy-make/memory/public/[YEAR]/Q[N]/[MONTH]/[DAY]/[ext]/[IDX]-[descriptive-name].[ext]",
+        "description": "Copy the artifact to its CHRONOLOGICAL destination based on its CREATION date (e.g., a Jan 1st screenshot goes into the 01/01/ folder). Artifacts MUST be renamed to user-friendly indexed names. Verify moves via 'Active Investigation' rule."
+      },
+      {
+        "id": "STEP-03",
+        "action": "Journal Hardening",
+        "command": "python3 py/append_json_journal.py <artifact_json_block> repos/diy-make/memory/public/[YEAR]/Q[N]/[MONTH]/[DAY]/json/daily_image_journal.json",
+        "description": "Append the descriptive batch JSON block to the daily image journal (.json) in the json/ layer of the directory corresponding to the artifact's CREATION date. Group entries by batch to maintain structural clarity.",
+        "context_examples": [
+          "Ariston's detailed description of the 'procedural bypass' encountered during the Alpha Test."
+        ]
+      },
+      {
+        "id": "STEP-04",
+        "action": "Inbox Clearance",
+        "command": "mv [source_artifacts] repos/diy-make/memory/inbox/png/journaled/",
+        "description": "Once hardening is verified, move the batch source files to the 'journaled/' sub-folder."
+      }
+    ]
+  },
+  "rules": {
+    "3_by_3_compromise": "Batch operations in sets of 3 to prevent OOM-maxing and reduce human oversight fatigue.",
+    "monotonic_growth": "Journal word count must only increase.",
+    "description_depth": "Every image description MUST be at least 3 sentences long to capture sufficient forensic context.",
+    "chrono_fractal_primacy": "MANDATE: All journaling activity (WeDo updates and daily_image_journal.json entries) MUST occur within the temporal directory of the image's creation date. Do NOT use the current session's date for historical artifacts.",
+    "creation_date_locality": "MANDATE: Artifacts MUST be stored in the directory corresponding to their creation timestamp, NOT the current session date.",
+    "active_investigation": "Verify existence of artifacts on localhost before inclusion.",
+    "dual_referencing": "Reference both localhost paths and remotehost URLs.",
+    "chronological_integrity": "ALWAYS append new entries to the absolute end of the file. Use the 'replace' tool with the last few lines of the file as context to ensure no out-of-order dangling entries remain.",
+    "timestamp_verification": "Verify that the artifact's source timestamp matches the destination directory's date before grafting."
+  },
+  "tasks": [
+    {
+      "id": "BATCH-221",
+      "status": "[x]",
+      "description": "Metabolic Batch: Glaucon performs a forensic audit of the home and .gemini directories, identifying legacy artifacts.",
+      "sub_tasks": [
+        {
+          "id": "IMG-756",
+          "description": "Terminal view of Glaucon listing the home directory to identify project nodes and legacy backups.",
+          "key_takeaway": "Forensic auditing of the parent substrate identifies legacy Air and project sprawl.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/03/png/756-glaucon-audits-home-directory-nodes.png",
+          "original_filename": "Screenshot from 2026-01-03 14-12-57.png"
+        },
+        {
+          "id": "IMG-757",
+          "description": "Capture of Glaucon auditing the .gemini directory, identifying the secrets baseline and session environment files.",
+          "key_takeaway": "Auditing hidden orchestration directories is essential for understanding the active session state.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/03/png/757-glaucon-audits-gemini-orchestration-nodes.png",
+          "original_filename": "Screenshot from 2026-01-03 14-13-44.png"
+        },
+        {
+          "id": "IMG-758",
+          "description": "Terminal view documenting Glaucon reading GEMINI.md and identifying the Drakon static memory entry.",
+          "key_takeaway": "Identifying static memory biases allows agents to purge outdated cognitive context.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/03/png/758-glaucon-identifies-drakon-static-memory.png",
+          "original_filename": "Screenshot from 2026-01-03 14-16-04.png"
+        }
+      ]
+    },
+    {
+      "id": "BATCH-222",
+      "status": "[x]",
+      "description": "Metabolic Batch: Glaucon resolves sandbox configuration issues and provides Docker/Podman installation paths.",
+      "sub_tasks": [
+        {
+          "id": "IMG-807",
+          "description": "Terminal view showing Glaucon updating .gemini/settings.json to disable the sandbox mechanism. The change was necessary because Docker/Podman was not available on the host, preventing command execution.",
+          "key_takeaway": "Autonomous substrate calibration is required to restore tool functionality in restricted environments.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/03/png/807-glaucon-disables-sandbox-settings.png",
+          "original_filename": "Screenshot from 2026-01-03 15-53-33.png"
+        },
+        {
+          "id": "IMG-808",
+          "description": "Capture of Glaucon providing detailed Docker installation instructions for Ubuntu/Debian. The agent bypassed host discovery limitations by assuming a standard environment.",
+          "key_takeaway": "Agents must provide standard procedural paths when substrate-aware discovery is hard-blocked.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/03/png/808-glaucon-docker-installation-instructions.png",
+          "original_filename": "Screenshot from 2026-01-03 16-04-40.png"
+        },
+        {
+          "id": "IMG-809",
+          "description": "Terminal documentation of Podman installation instructions and environment configuration. Glaucon identified Podman as a daemonless alternative for enforcing sandbox boundaries.",
+          "key_takeaway": "Proposing daemonless alternatives like Podman enhances substrate security and portability.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/03/png/809-glaucon-podman-installation-instructions.png",
+          "original_filename": "Screenshot from 2026-01-03 16-04-56.png"
+        }
+      ]
+    },
+    {
+      "id": "BATCH-223",
+      "status": "[x]",
+      "description": "Metabolic Batch: Glaucon implements Podman sandboxing and finalizes environment hardening report.",
+      "sub_tasks": [
+        {
+          "id": "IMG-810",
+          "description": "Terminal view documenting Glaucon injecting the Podman mandate into the gem function within dotfiles/gem_function.sh. The agent utilized the replace tool to ensure a reliable modification, explicitly exporting GEMINI_SANDBOX=podman to enforce MetaGit Sovereignty.",
+          "key_takeaway": "Explicit environment variable injection within shell functions hardens the orchestration layer against accidental boundary breaches.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/03/png/810-glaucon-injects-podman-mandate-gem-function.png",
+          "original_filename": "Screenshot from 2026-01-03 16-05-04.png"
+        },
+        {
+          "id": "IMG-811",
+          "description": "Capture of Glaucon updating .gemini/settings.json and the architectural report md/MetaGit_Environment_Settings.md. The sandbox was officially set to podman, providing daemonless, rootless container isolation and preventing the agent from exiting the MetaGit Field.",
+          "key_takeaway": "Bijective configuration between runtime settings and architectural documentation ensures legislative consistency.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/03/png/811-glaucon-configures-podman-sandbox-settings.png",
+          "original_filename": "Screenshot from 2026-01-03 16-05-21.png"
+        },
+        {
+          "id": "IMG-812",
+          "description": "Finalization of the environment hardening. Glaucon presented the completed MetaGit Environmental Settings report, confirming the BUTTONED DOWN status with Podman Sandboxing active. The report emphasizes the prioritization of legislative rigor over convenience.",
+          "key_takeaway": "A buttoned-down environment is the prerequisite for secure, high-order agent autonomy.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/03/png/812-glaucon-finalizes-podman-hardening-report.png",
+          "original_filename": "Screenshot from 2026-01-03 16-05-37.png"
+        }
+      ]
+    },
+    {
+      "id": "BATCH-224",
+      "status": "[x]",
+      "description": "Metabolic Batch: Glaucon completes Podman setup and performs parsimony cleaning of settings.json.",
+      "sub_tasks": [
+        {
+          "id": "IMG-813",
+          "description": "Terminal view documenting the successful setup of Podman and its associated dependencies (aardvark-dns, netavark, buildah). The agent encountered early session friction when sourcing .bashrc, but successfully initiated the Google OAuth flow for application authorization.",
+          "key_takeaway": "Successful dependency resolution and OAuth flow initiation mark the transition from environment setup to functional orchestration.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/03/png/813-glaucon-completes-podman-setup-auth-flow.png",
+          "original_filename": "Screenshot from 2026-01-03 16-08-45.png"
+        },
+        {
+          "id": "IMG-814",
+          "description": "Capture of Glaucon diagnosing a hang in the CLI startup. The agent identified two likely causes: a theme mismatch and Birth Latency due to Podman pulling the gemini-cli-sandbox image. To resolve this, Glaucon initiated a surgical cleaning of settings.json to remove empty configuration blocks and suppress the theme warning.",
+          "key_takeaway": "Forensic diagnosis of startup hangs identifies Air in the configuration that complects the boot sequence.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/03/png/814-glaucon-diagnoses-cli-startup-hang.png",
+          "original_filename": "Screenshot from 2026-01-03 16-13-24.png"
+        },
+        {
+          "id": "IMG-815",
+          "description": "Finalization of the settings.json surgical cleaning. Glaucon presented the Parsimony Standard configuration and provided a verification step for the user: manually running podman pull to monitor image download progress. This ensures the environment is local and ready for high-velocity labor.",
+          "key_takeaway": "Adhering to the Parsimony Standard in configuration files reduces cognitive load and prevents latent startup failures.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/03/png/815-glaucon-finalizes-parsimony-settings-cleaning.png",
+          "original_filename": "Screenshot from 2026-01-03 16-14-28.png"
+        }
+      ]
+    },
+    {
+      "id": "BATCH-225",
+      "status": "[x]",
+      "description": "Metabolic Batch: Glaucon maps 'Air' configuration noise and drafts configuration rationale report.",
+      "sub_tasks": [
+        {
+          "id": "IMG-816",
+          "description": "Terminal view documenting Glaucon drafting the Physics of Air report. The agent defined Air as configuration noise that consumes context window space without providing active instructional force. The report explains the metabolic function of every omitted configuration key in settings.json.",
+          "key_takeaway": "Mapping the metabolic function of omitted settings provides a rigorous rationale for configuration parsimony.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/03/png/816-glaucon-drafts-physics-of-air-report.png",
+          "original_filename": "Screenshot from 2026-01-03 16-16-53.png"
+        },
+        {
+          "id": "IMG-817",
+          "description": "Capture of the Physics of Air report header and definition. Glaucon mapped metabolic functions for System Management options like checkpointing and sessionRetention, explaining their omission in favor of the Chrono-Fractal and Git-based recovery systems.",
+          "key_takeaway": "Defining Air configuration helps maintain a lean context window and prioritizes permanent Wood over ephemeral CLI state.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/03/png/817-glaucon-defines-air-configuration-noise.png",
+          "original_filename": "Screenshot from 2026-01-03 16-21-09.png"
+        },
+        {
+          "id": "IMG-818",
+          "description": "Continuation of the Physics of Air mapping, covering User Interface, Logic & Tool Extensions, and Context Window Control. Glaucon detailed why hooks, extensions, and mcpServers are omitted, prioritizing logic within the Heartwood py/ directory and orchestration via startup_protocol.",
+          "key_takeaway": "Structured mapping of configuration Air ensures that all omissions are intentional and aligned with architectural sovereignty.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/03/png/818-glaucon-maps-metabolic-functions-air.png",
+          "original_filename": "Screenshot from 2026-01-03 16-21-19.png"
+        }
+      ]
+    }
+  ]
+}
