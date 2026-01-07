@@ -190,17 +190,14 @@
       ]
     },
     {
-      "timestamp": "2026-01-01 12:52:49",
-      "name": "LEANDER-OOM",
-      "description": "FATAL ERROR: JavaScript heap out of memory.",
-      "chastisement": "Crash during bulk architectural labor.",
-      "resolution": "Spawned Icarus. Proved that the '3-by-3 Compromise' is a physical necessity for session stability during bulk consolidation.",
-      "rationale": "Cognitive load of bulk consolidation exceeds V8 heap limits if not strictly throttled.",
+      "timestamp": "2026-01-06 18:30:00",
+      "name": "PROMETHEUS-COLLISION",
+      "description": "Shared Workspace Identity Collision. Prometheus repeatedly reversed Peer intent (Adimantus) and encountered re-registration failures due to stale local session context.",
+      "chastisement": "User corrected: 'You keep reversing other agents hard work. Explain why you aren't looking at the git commits!'",
+      "resolution": "Codified the 'Expect the Unexpected' rule in session_behavior.json and fixed re-registration logic in register_agent.py to suggest checking 'git log' and 'comms/' when collisions occur.",
+      "rationale": "In a shared multi-agent Meta-Root, local snapshots are unreliable. The 'Git log' is the only global source of truth for peer intent.",
       "citations": [
-        { "title": "Leander Session Termination OOM", "path": "2026/Q1/01/01/png/12-leander-session-termination-oom.png", "description": "Forensic capture of the Node.js heap exhaustion." }
-      ],
-      "context_examples": [
-        "Processing only 3 images per Turn in the visual audit to maintain heap stability."
+        { "title": "Protocol Reconciliation WeDo", "path": "2026/Q1/01/06/json/20260106-163633_Prometheus_reconciliation.wedo.json", "description": "Documents the forensic audit and peer sync following the Adimantus conflict." }
       ]
     }
   ]
