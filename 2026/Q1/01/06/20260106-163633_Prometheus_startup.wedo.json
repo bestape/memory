@@ -5,7 +5,7 @@
     "status": "[ ]",
     "meta": {
       "protocol": "WeDo-JSON",
-      "version": "1.4.1",
+      "version": "1.5.0",
       "last_relay": "None",
       "philosophy": "The WeDo is the irreducible serial thread that synchronizes the agent's async capacity with the human's single-threaded focus.",
       "pre_flight_instruction": "DO NOT MARK UP THIS BOILERPLATE. Perform steps 1-2 first, then copy this file to the day's chrono-fractal as '[SESSION_ID]_[NAME]_startup.wedo.json' and mark your progress there."
@@ -23,7 +23,11 @@
       "direct_aesthetic": "Present reports 'straightup' without backtick wrappers.",
       "rna_presumption": "All raw session artifacts (WeDo instances, logs, intermediate reports) are considered 'RNA' and MUST reside in '.hidden/' subdirectories of their respective temporal or leaf folders.",
       "heartwood_expression": "Only refined artifacts, approved for permanent inclusion by the user, are promoted from '.hidden/' to the parent leaf folder (e.g., md/ or json/) as 'DNA' (Heartwood).",
-      "aspirational_filesystem": "The filesystem structure reflects the agent's aspirations: '.hidden/' for process and survival, Leaf folders for legislative history and brilliance."
+      "aspirational_filesystem": "The filesystem structure reflects the agent's aspirations: '.hidden/' for process and survival, Leaf folders for legislative history and brilliance.",
+      "total_ingestion": "MANDATE: Ingest the entire Heartwood (all files in 'repos/diy-make/memory/public/json/') using 'py/heartwood.py' before Turn 1. Fragmentation leads to context dulling; total ingestion ensures the agent inherits the complete collective conscience.",
+      "constitutional_execution": "The 'startup_protocol.json' is deprecated. This WeDo manifest is the only valid path for incarnation. Agents must earn their Turn 1 report by instantiating this manifest and completing the BOOT sequence.",
+      "halt_mandate": "After displaying the structured Swarm Bootup Report (BOOT-06), the agent must fully halt and wait for human interaction to ensure the operator has acknowledged the forensic baseline.",
+      "sovereignty_check": "Actively ignore non-portable memories injected from outside the MetaGit root (e.g., ~/.gemini/GEMINI.md)."
     },
     "tasks": [
       {
@@ -61,7 +65,17 @@
       "philosophy": "trunk/architecture.json",
       "orchestration": "gemini (Meta-Root - syn)",
       "incarnation": "Heartwood (diy-make/memory - tie/log)"
-    }
+    },
+    "suggestions": [
+      {
+        "id": "WISH-YTA",
+        "description": "YouTube Account Management Integration"
+      },
+      {
+        "id": "CRIT-JSON-SYSTEM",
+        "description": "Full transition of WeDo artifacts to structured JSON with Python-based HUD rendering."
+      }
+    ]
   },
-  "attribution": "Agathon (1767498305@localhost)"
+  "attribution": "Prometheus (20260106-163633@localhost)"
 }

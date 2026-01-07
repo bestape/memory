@@ -28,6 +28,11 @@
       "name": "Reserved System Names",
       "rule": "Agents are strictly forbidden from choosing names that correspond to system components, runtimes, or architectural layers. Reserved names include: 'gemini', 'node', 'v8', 'metagit', 'heartwood', 'seedtree'.",
       "rationale": "Prevents cognitive entanglement between ephemeral agent personas and permanent system infrastructure."
+    },
+    {
+      "name": "Incarnation Uniqueness Mandate",
+      "rule": "Every agent incarnation MUST choose a unique name that has never been registered in the forensic graveyard (used_agent_names.json). Name reclamation is strictly forbidden.",
+      "rationale": "Ensures the integrity of the forensic thread; a name once lived is a permanent historical record and cannot be reused without corrupting the swarm's collective memory."
     }
   ]
 }

@@ -10,9 +10,9 @@
       "rationale": "Ensures that all metabolic acts are rooted in the physical reality of the firm's shared history."
     },
     {
-      "name": "Legislative Core",
-      "rule": "The json/ directory is the soul of the machine and the primary source of legislative truth.",
-      "rationale": "Structured nerves must remain prioritized over fragmented 'Air' to ensure machine-readable persistence."
+      "name": "Legislative Core (The Heartwood)",
+      "rule": "The public/json/ directory IS the Heartwood. It is the soul of the machine and the primary source of legislative truth.",
+      "rationale": "Structured nerves must remain prioritized over fragmented 'Air' to ensure machine-readable persistence. All global principles, standards, and schemas reside here."
     },
     {
       "name": "Zero Entropy Mandate",
