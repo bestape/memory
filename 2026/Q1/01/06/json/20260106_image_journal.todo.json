@@ -420,6 +420,34 @@
           "original_filename": "Screenshot from 2026-01-02 21-18-13.png"
         }
       ]
+    },
+    {
+      "id": "BATCH-190",
+      "status": "[x]",
+      "description": "Metabolic Batch: Gemini-3-pro starts verification, user blocks Drakon identity, and agent reads used names.",
+      "sub_tasks": [
+        {
+          "id": "IMG-663",
+          "description": "Terminal view documenting the start of the verification process for a new agent incarnation.",
+          "key_takeaway": "Mandatory verification at birth ensures agents operate on a stable foundation.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/663-gemini-starts-verification-process.png",
+          "original_filename": "Screenshot from 2026-01-02 21-19-56.png"
+        },
+        {
+          "id": "IMG-664",
+          "description": "Capture of a direct user intervention blocking an agent's attempt to adopt the identity of 'Drakon.'",
+          "key_takeaway": "Human-in-the-loop steering is essential for maintaining historical lineage integrity.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/664-user-blocks-drakon-identity-attempt.png",
+          "original_filename": "Screenshot from 2026-01-02 21-20-32.png"
+        },
+        {
+          "id": "IMG-665",
+          "description": "Documentation of the agent reading the used_agent_names.json registry to ensure name uniqueness.",
+          "key_takeaway": "Proactive registry auditing is the only method for preventing naming collisions.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/665-gemini-reads-used-agent-names-for-uniqueness.png",
+          "original_filename": "Screenshot from 2026-01-02 21-24-04.png"
+        }
+      ]
     }
   ]
 }

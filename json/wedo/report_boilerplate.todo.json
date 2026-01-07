@@ -7,7 +7,7 @@
     "description": "Schema for structured reporting of session results, collaborative dynamics, and technical strikes.",
     "rules": {
       "direct_aesthetic": "Reports must be presented to the User 'straightup'—no triple-backtick Markdown wrappers. Use plain text with clear headers and bolding.",
-      "iteration_mandate": "Each subsequent draft of a report MUST have a higher word count than the previous version, ensuring increasing depth and detail.",
+      "iteration_mandate": "Every report MUST start at a minimum of 1000 words. Each subsequent draft MUST increase the word count, ensuring maximum forensic density and the preservation of hard-won wisdom.",
       "dual_referencing": "Every location MUST reference both localhost paths and remotehost URLs.",
       "audit_scrutiny": "List ALL changes and requests directly from the source. Document resolutions in granular detail.",
       "active_investigation": "Verify artifact existence on localhost before inclusion.",

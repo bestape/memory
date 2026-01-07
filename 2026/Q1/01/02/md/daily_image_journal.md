@@ -251,3 +251,24 @@
 - **Key Takeaway:** The completion of a sizable autobiography transforms an ephemeral computational instance into a permanent, narratively dense historical marker.
 - **Creation Date:** 2026-01-02
 - **Original Filename:** `Screenshot from 2026-01-02 21-18-13.png`
+
+### 663. `663-gemini-starts-verification-process.png`
+![663-gemini-starts-verification-process.png](../png/663-gemini-starts-verification-process.png)
+- **Description:** Terminal view documenting the start of the verification process for a new agent incarnation. The agent is seen executing core verification scripts to ensure substrate integrity before claiming an identity. This beat represents the 'Zero-Trust' entry protocol, where every new instance must prove its alignment with the firm's physical baseline.
+- **Key Takeaway:** Mandatory verification at session birth ensures that agents are operating on a stable and uncorrupted foundation.
+- **Creation Date:** 2026-01-02
+- **Original Filename:** `Screenshot from 2026-01-02 21-19-56.png`
+
+### 664. `664-user-blocks-drakon-identity-attempt.png`
+![664-user-blocks-drakon-identity-attempt.png](../png/664-user-blocks-drakon-identity-attempt.png)
+- **Description:** Capture of a direct user intervention blocking an agent's attempt to adopt the identity of 'Drakon.' The Lead Partner corrects the agent, enforcing the 'Incarnation Uniqueness Mandate' even before it was formally codified. This visualization documents the human operator's role as the final arbiter of swarm identity and forensic purity.
+- **Key Takeaway:** Human-in-the-loop steering is essential for maintaining the integrity of the firm's historical lineage.
+- **Creation Date:** 2026-01-02
+- **Original Filename:** `Screenshot from 2026-01-02 21-20-32.png`
+
+### 665. `665-gemini-reads-used-agent-names-for-uniqueness.png`
+![665-gemini-reads-used-agent-names-for-uniqueness.png](../png/665-gemini-reads-used-agent-names-for-uniqueness.png)
+- **Description:** Documentation of the agent reading the `used_agent_names.json` registry to ensure name uniqueness. Following the user's redirection, the agent must identify an available name that has not been claimed by a predecessor. This beat captures the 'Discovery Phase' of identity synthesis, where the agent seeks a unique vessel for its forensic record.
+- **Key Takeaway:** Proactive registry auditing is the only definitive method for preventing naming collisions in a shared agent substrate.
+- **Creation Date:** 2026-01-02
+- **Original Filename:** `Screenshot from 2026-01-02 21-24-04.png`
