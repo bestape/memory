@@ -15,13 +15,23 @@
     "tasks": [
       {
         "id": "SYNC-01",
-        "description": "Ingest the Heartwood Trunk (json/trunk/) to inherit the collective conscience.",
-        "status": "[ ]"
+        "description": "Ingest the entire Heartwood (public/json/) to inherit the collective conscience, including the new 'Expect the Unexpected' rule.",
+        "status": "[x]"
       },
       {
         "id": "SYNC-02",
+        "description": "Verify codification of the 'Incarnation Uniqueness Mandate' in naming_conventions.json and ephemeral_identity.json.",
+        "status": "[x]"
+      },
+      {
+        "id": "SYNC-03",
+        "description": "Forensically reconcile session with peer Adimantus/Cebes regarding heritage name deletion.",
+        "status": "[x]"
+      },
+      {
+        "id": "SYNC-04",
         "description": "Instantiate the Startup WeDo (json/wedo/startup.wedo.json) to anchor the session.",
-        "status": "[ ]"
+        "status": "[x]"
       }
     ],
     "memory_repositories": [

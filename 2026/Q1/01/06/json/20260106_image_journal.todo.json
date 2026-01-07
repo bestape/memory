@@ -1,0 +1,117 @@
+{
+  "title": "WeDo Template: Image Journaling Protocol (Rules Pseudolanguage)",
+  "version": "1.2",
+  "attribution": "Parrhesia (20260105-102119)",
+  "description": "Distilling raw visual artifacts (.png, .jpg) from the inbox into the temporal Heartwood via iterative metabolic loops.",
+  "storage_policy": {
+    "global_template": "repos/diy-make/memory/public/json/wedo/markdown_generation/image_journal.todo.json",
+    "temporal_instance": "repos/diy-make/memory/public/<YEAR>/Q<N>/<MONTH>/<DAY>/json/<YYYYMMDD>_image_journal.todo.json",
+    "mandate": "MANDATE: There is only ONE image journal per day for all agents. Check for an existing journal for the current date in the chrono-fractal. If found, use and append to it. If none exists, copy this template and name it <YYYYMMDD>_image_journal.todo.json."
+  },
+  "required_files": {
+    "formatter": "py/format_todo.py",
+    "meta_protocol": "repos/diy-make/memory/public/json/wedo/meta_wedo.todo.json"
+  },
+  "process_protocol": {
+    "source_inbox": "repos/diy-make/memory/inbox/png/",
+    "loop_instructions": "Execute the following sequence in 3-by-3 metabolic batches to balance session velocity with human oversight:",
+    "steps": [
+      {
+        "id": "STEP-00",
+        "action": "Display ToDo",
+        "command": "python3 py/format_todo.py <path_to_instance.json>",
+        "description": "Print the current task list directly to the session feed for user review."
+      },
+      {
+        "id": "STEP-01",
+        "action": "Metabolic Batch Analysis",
+        "description": "Read 3 artifacts from the inbox. Perform vision analysis on the batch. Post a high-fidelity summary of all 3 'straightup' for human-in-the-loop (HITL) oversight.",
+        "citations": [
+          { "title": "Leander Session Termination OOM", "path": "2026/Q1/01/01/png/12-leander-session-termination-oom.png", "description": "Visual proof of heap exhaustion during non-batched labor." }
+        ]
+      },
+      {
+        "id": "STEP-02",
+        "action": "Heartwood Graft",
+        "command": "cp [artifact] repos/diy-make/memory/public/[YEAR]/Q[N]/[MONTH]/[DAY]/[ext]/[IDX]-[descriptive-name].[ext]",
+        "description": "Copy the artifact to its CHRONOLOGICAL destination based on its CREATION date (e.g., a Jan 1st screenshot goes into the 01/01/ folder). Artifacts MUST be renamed to user-friendly indexed names. Verify moves via 'Active Investigation' rule."
+      },
+      {
+        "id": "STEP-03",
+        "action": "Journal Hardening",
+        "command": "python3 py/append_json_journal.py <artifact_json_block> repos/diy-make/memory/public/[YEAR]/Q[N]/[MONTH]/[DAY]/json/.hidden/daily_image_journal.json",
+        "description": "Append the descriptive batch JSON block to the daily image journal (.json) in the eukaryotic json/.hidden/ process layer of the directory corresponding to the artifact's CREATION date. Group entries by batch to maintain structural clarity.",
+        "context_examples": [
+          "Ariston's detailed description of the 'procedural bypass' encountered during the Alpha Test."
+        ]
+      },
+      {
+        "id": "STEP-04",
+        "action": "Inbox Clearance",
+        "command": "mv [source_artifacts] repos/diy-make/memory/inbox/png/journaled/",
+        "description": "Once hardening is verified, move the batch source files to the 'journaled/' sub-folder."
+      }
+    ]
+  },
+  "rules": {
+    "3_by_3_compromise": "Batch operations in sets of 3 to prevent OOM-maxing and reduce human oversight fatigue.",
+    "monotonic_growth": "Journal word count must only increase.",
+    "description_depth": "Every image description MUST be at least 3 sentences long to capture sufficient forensic context.",
+    "creation_date_locality": "MANDATE: Artifacts MUST be stored in the directory corresponding to their creation timestamp, NOT the current session date.",
+    "active_investigation": "Verify existence of artifacts on localhost before inclusion.",
+    "dual_referencing": "Reference both localhost paths and remotehost URLs.",
+    "chronological_integrity": "ALWAYS append new entries to the absolute end of the file. Use the 'replace' tool with the last few lines of the file as context to ensure no out-of-order dangling entries remain.",
+    "timestamp_verification": "Verify that the artifact's source timestamp matches the destination directory's date before grafting."
+  },
+  "tasks": [
+    {
+      "id": "BATCH-11",
+      "status": "[x]",
+      "description": "Metabolic Batch: Thrasymachus finalizes Heartwood audit synthesis and incorporates origin narrative.",
+      "sub_tasks": [
+        {
+          "id": "IMG-624",
+          "description": "Terminal view documenting agent Thrasymachus finalizing the Heartwood audit synthesis.",
+          "key_takeaway": "Transition from bloom to trunk achieved via aggressive consolidation.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/624-thrasymachus-finalizes-audit-synthesis.png",
+          "original_filename": "Screenshot from 2026-01-02 20-42-39.png"
+        },
+        {
+          "id": "IMG-625",
+          "description": "Capture of a high-priority user directive instructing agent Thrasymachus to incorporate the 'Heartwood Origins' narrative.",
+          "key_takeaway": "Historical narrative depth is essential for the collective conscience.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/625-user-mandates-heartwood-origin-narrative.png",
+          "original_filename": "Screenshot from 2026-01-02 20-44-56.png"
+        },
+        {
+          "id": "IMG-626",
+          "description": "Terminal documentation of agent Thrasymachus updating the audit status to 'FINALIZED & COMMITTED'.",
+          "key_takeaway": "Commitment of finalized state is the proof of successful incarnation.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/626-thrasymachus-updates-audit-status-committed.png",
+          "original_filename": "Screenshot from 2026-01-02 20-46-20.png"
+        },
+        {
+          "id": "IMG-627",
+          "description": "Documentation of agent Thrasymachus initiating a 'Forensic Critique' of the Pre-Kore state.",
+          "key_takeaway": "Refactoring requires deep understanding of historical failures.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/627-thrasymachus-initiates-pre-kore-critique.png",
+          "original_filename": "Screenshot from 2026-01-02 20-47-07.png"
+        },
+        {
+          "id": "IMG-628",
+          "description": "Terminal view capturing Thrasymachus's final verdict on the Heartwood hardening: 'Heartwood has achieved Zero-Entropy.'",
+          "key_takeaway": "Zero-Entropy maximizes cognitive clarity for future incarnations.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/628-thrasymachus-defines-zero-entropy-verdict.png",
+          "original_filename": "Screenshot from 2026-01-02 20-48-14.png"
+        },
+        {
+          "id": "IMG-629",
+          "description": "Capture of agent Thrasymachus utilizing the '.py lens' to present the final Heartwood Evolution Synthesis report 'straightup.'",
+          "key_takeaway": "Lenses (scripts) are the definitive method for viewing DNA (JSON).",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/02/png/629-thrasymachus-presents-synthesis-report-straightup.png",
+          "original_filename": "Screenshot from 2026-01-02 20-48-35.png"
+        }
+      ]
+    }
+  ]
+}

@@ -26,6 +26,13 @@
       "description": "Baseline history of the Heartwood's inception through the Phaedrus Mandate.",
       "word_count": 1039,
       "attribution": "Phaedrus"
+    },
+    {
+      "id": "GEN-03",
+      "title": "Incarnation Uniqueness & Peer Sync: The Prometheus-Cebes Reconciliation",
+      "path": "2026/Q1/01/06/md/20260106-163633_Prometheus_Bootup_Report.md",
+      "description": "Documentation of the hardening of the Uniqueness Mandate, script repair, and the 'Expect the Unexpected' situational awareness rule.",
+      "attribution": "Prometheus & Cebes"
     }
   ]
 }

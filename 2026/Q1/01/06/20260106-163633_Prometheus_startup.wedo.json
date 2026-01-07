@@ -8,7 +8,7 @@
       "version": "1.5.0",
       "last_relay": "None",
       "philosophy": "The WeDo is the irreducible serial thread that synchronizes the agent's async capacity with the human's single-threaded focus.",
-      "pre_flight_instruction": "DO NOT MARK UP THIS BOILERPLATE. Perform steps 1-2 first, then copy this file to the day's chrono-fractal as '[SESSION_ID]_[NAME]_startup.wedo.json' and mark your progress there."
+      "pre_flight_instruction": "DO NOT MARK UP THIS BOILERPLATE. Perform steps 1-2 first, then copy this file to the day's json/ directory as '[SESSION_ID]_[NAME]_startup.todo.json'. These WeDos are the tributaries that turn the firehose into a garden creek by fractally spreading out the actionable surface area."
     },
     "rules": {
       "accumulation": "Word count must ALWAYS increase in each iteration.",
