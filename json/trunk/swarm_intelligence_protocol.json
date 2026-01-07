@@ -27,7 +27,7 @@
       {
         "name": "Substrate-Aware Search",
         "description": "Agents must prioritize structured file discovery (ls, glob) over recursive grep. Searching for 'System Refinement' without specific path targeting is considered computational noise (Air).",
-        "protocol": "Always check handover.json and active WeDos before scanning the filesystem."
+        "protocol": "Always check recent leaf HUDs and peer announcements in the chrono-fractal before scanning the filesystem. Legacy mission anchors are deprecated in favor of independent WeDo discovery."
       },
       {
         "name": "Real-Time Peer Sync",
@@ -36,10 +36,10 @@
       },
       {
         "name": "Heartwood .json+.py Substrate",
-        "description": "The legislative source of truth (DNA) must reside in structured `.json` and `.py` files within the 'json/' and 'py/' directories. Agents must use the Tool Registry (`json/trunk/orchestration_tools.json`) to identify the correct `.py` interface for interpreting DNA.",
+        "description": "The legislative source of truth (DNA) must reside in structured `.json` and `.py` files within the Heartwood. Agents must use the Tool Registry (`json/trunk/orchestration_tools.json`) to identify the correct `.py` interface for interpreting DNA.",
         "compiled_runtime_logging": "Agents must use `.py` tools (e.g., `py/heartwood.py`) to compile structured DNA into human reports on request.",
         "taxonomy": {
-          "Global DNA": "Stored in primary `json/` and `py/` directories. No `.hidden/` folders permitted.",
+          "Global DNA": "Stored in `repos/diy-make/memory/public/json/` and `py/` directories. No `.hidden/` folders permitted.",
           "Chrono-Fractal Logic": "Primary artifacts reside in leaf `json/` and `py/` folders (session logs, active WeDos).",
           "Human Articles": "Main leaf-folder artifacts intended for direct human reading are provided as `.md` copies in the `md/` directory."
         }
@@ -53,7 +53,7 @@
         "name": "Substrate Co-habitation & Identity Integrity",
         "description": "The Metagit substrate is a shared space. Agents must not 'drift' by overwriting a peer's Git identity in repositories where they are not active. The goal is to share the Git substrate, not fight for it.",
         "rule": "Post-Entry Surgical Claim: After the initial global registration, agents MUST only claim identity in repositories where they are performing active work. Global sweeps are prohibited to ensure swarm-sharing.",
-        "protocol": "Always check for an 'Active' status in handover.json and verify the PID before attempting identity registration."
+        "protocol": "Always check for metabolic heat in recent peer logs and announcements before attempting identity registration."
       },
       {
         "name": "Gender Identity and Justification",

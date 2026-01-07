@@ -41,10 +41,10 @@
       "rationale": "Monotonic growth ensures that every session turn contributes to the long-term wisdom of the firm."
     },
     {
-      "name": "Eukaryotic Repository Model",
-      "rule": "Repositories are Subject-Object-Hybrid entities managed by MetaGit wrappers.",
-      "rationale": "Distinguishing between git-managed logic and synced data layers ensures absolute forensic traceability.",
-      "description": "Subject: Contains logical 'fruit' (json/py/md leaves). Object: Organizational passthroughs managing nested structures via .gitignore. Hybrid: Containers for nested subjects that also hold local subjects (e.g., memory/ - container + local comms)."
+      "name": "Sovereign Fractal Anchoring",
+      "rule": "Abolish centralized monoliths (e.g., global handover.json or active_mission.json). Rely instead on unique-name shared files in the chrono-fractal as 'Garden Creeks'.",
+      "rationale": "Agents are independent, high-mortality entities. Centralization creates stale bottlenecks; fractal anchoring ensures that forensic discovery occurs through ingestion of independent leaf artifacts.",
+      "substrate": "Resilience"
     }
   ]
 }
