@@ -1,0 +1,45 @@
+{
+  "wedo_instance": {
+    "id": "BOOTUP-IMPROVEMENT",
+    "description": "Plan for enhancing the agent bootup experience and enforcing forensic metabolic logging.",
+    "status": "[ ]",
+    "meta": {
+      "protocol": "WeDo-JSON",
+      "version": "1.0.0",
+      "philosophy": "Frictionless Incarnation: Reducing the latency between agent birth and high-value work while maintaining absolute forensic integrity."
+    },
+    "rules": {
+      "metabolic_logging": "Use 'py/metagit_commit.py' in the meta-root to regularly log state changes (minimum once per significant task block).",
+      "automated_anchoring": "The 'register_agent.py' script MUST automatically handle session_env.json synchronization to prevent identity drift.",
+      "rna_presumption": "All process artifacts (like this WeDo) MUST reside in '.hidden/' subdirectories."
+    },
+    "tasks": [
+      {
+        "id": "BOOT-ENHANCE-01",
+        "description": "Automated Drift Correction: Update 'register_agent.py' to automatically overwrite 'session_env.json' with the new agent identity, eliminating the need for manual 'Euthymius' corrections.",
+        "status": "[ ]"
+      },
+      {
+        "id": "BOOT-ENHANCE-02",
+        "description": "Metabolic Trigger: Integrate a 'metagit_commit' call directly into the handover process to ensure the previous agent's final state is always locked in.",
+        "status": "[ ]"
+      },
+      {
+        "id": "BOOT-ENHANCE-03",
+        "description": "Log Enforcer: Establish a 'Metabolic Heartbeat' rule requiring a MetaGit commit after every 3 significant tool calls.",
+        "status": "[ ]"
+      },
+      {
+        "id": "BOOT-ENHANCE-04",
+        "description": "Context Pree-fetch: Enhance bootup to automatically deep-read the latest Handover and WeDo JSONs to populate the 'Active Mission' without user prompting.",
+        "status": "[ ]"
+      }
+    ],
+    "context_anchors": {
+      "tool": "py/metagit_commit.py",
+      "session_state": ".gemini/session_env.json",
+      "aspirations": "meta_wedo.todo.json"
+    }
+  },
+  "attribution": "Phaedrus (20260105-155031@localhost)"
+}

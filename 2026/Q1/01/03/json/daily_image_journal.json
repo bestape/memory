@@ -1,0 +1,30 @@
+[
+  {
+    "id": "BATCH-221",
+    "status": "[x]",
+    "description": "Metabolic Batch: Glaucon performs a forensic audit of the home and .gemini directories, identifying legacy artifacts.",
+    "sub_tasks": [
+      {
+        "id": "IMG-756",
+        "description": "Terminal view of Glaucon listing the home directory to identify project nodes and legacy backups.",
+        "key_takeaway": "Forensic auditing of the parent substrate identifies legacy Air and project sprawl.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/03/png/756-glaucon-audits-home-directory-nodes.png",
+        "original_filename": "Screenshot from 2026-01-03 14-12-57.png"
+      },
+      {
+        "id": "IMG-757",
+        "description": "Capture of Glaucon auditing the .gemini directory, identifying the secrets baseline and session environment files.",
+        "key_takeaway": "Auditing hidden orchestration directories is essential for understanding the active session state.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/03/png/757-glaucon-audits-gemini-orchestration-nodes.png",
+        "original_filename": "Screenshot from 2026-01-03 14-13-44.png"
+      },
+      {
+        "id": "IMG-758",
+        "description": "Terminal view documenting Glaucon reading GEMINI.md and identifying the Drakon static memory entry.",
+        "key_takeaway": "Identifying static memory biases allows agents to purge outdated cognitive context.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/03/png/758-glaucon-identifies-drakon-static-memory.png",
+        "original_filename": "Screenshot from 2026-01-03 14-16-04.png"
+      }
+    ]
+  }
+]

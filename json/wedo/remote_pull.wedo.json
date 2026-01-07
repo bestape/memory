@@ -1,0 +1,70 @@
+{
+  "wedo_instance": {
+    "id": "REMOTE-PULL-BULK",
+    "description": "The metabolic bridge for Bulk Ingestion of remote intentions from multiple Pull Requests.",
+    "status": "[ ]",
+    "meta": {
+      "protocol": "WeDo-JSON",
+      "version": "1.1.0",
+      "philosophy": "Conscious Duality: The shared thread of attention between Remote Intent (Rider) and Local Execution (Machinery).",
+      "instruction": "Scan ALL open PRs. Ingest every identified intent (e.g., 'WEDO' or '- [ ] WeDo:') into a consolidated instance of this file in the day's chrono-fractal."
+    },
+    "protocols": [
+      {
+        "name": "Audit Scrutiny",
+        "rule": "Every task must be granularly documented with its source PR URL and a forensic report of its localhost resolution."
+      },
+      {
+        "name": "Hostile Environment Verification",
+        "rule": "The machinery MUST verify all artifacts on the localhost. Remote-only tasks must be flagged as USER_REQUIRED."
+      },
+      {
+        "name": "Bulk Ingestion",
+        "rule": "Default to consolidating multiple PRs into a single session thread to minimize context-switching heat."
+      }
+    ],
+    "rules": {
+      "accumulation": "Word count must ALWAYS increase in each iteration.",
+      "temporal_instance": "Never work in global templates; copy to day's json/ directory.",
+      "audit_scrutiny": "List all changes/requests from source for verifiable history.",
+      "active_investigation": "Verify artifact existence on localhost before inclusion.",
+      "dual_referencing": "Reference both localhost paths and remotehost URLs.",
+      "audit_trail_linking": "Daily session WeDos MUST link to specific project WeDos to maintain a forensic audit trail.",
+      "output_location": "All active task instances and WeDo reports MUST reside in the day's temporal json/wedo/ directory.",
+      "finalization_protocol": "The goal is to refine 'md/wedo/' artifacts into permanent Heartwood in 'md/'. This transition (and renaming) occurs ONLY upon an explicit 'straightup' request from the user (HAM prompt).",
+      "versioning_archival": "When updating Markdown documents, always rename the previous version and move it to the local context/ directory (e.g., <AGENT>_<SESSION>_<NAME>_v<OLD>.md) before establishing the new version in the primary md/ location.",
+      "direct_aesthetic": "Present reports 'straightup' without backtick wrappers.",
+      "rna_presumption": "All raw session artifacts (WeDo instances, logs, intermediate reports) are considered 'RNA' and MUST reside in '.hidden/' subdirectories of their respective temporal or leaf folders.",
+      "heartwood_expression": "Only refined artifacts, approved for permanent inclusion by the user, are promoted from '.hidden/' to the parent leaf folder (e.g., md/ or json/) as 'DNA' (Heartwood).",
+      "aspirational_filesystem": "The filesystem structure reflects the agent's aspirations: '.hidden/' for process and survival, Leaf folders for legislative history and brilliance."
+    },
+    "tasks": [
+      {
+        "id": "RP-INGEST-01",
+        "description": "Bulk Scan: Fetch patches for all open PRs and identify active intentions.",
+        "status": "[ ]"
+      },
+      {
+        "id": "RP-SIGN-OFF",
+        "description": "OPERATOR SIGN-OFF: Present the consolidated summarized intentions for Human review. I CANNOT proceed until you explicitly approve the execution of specific WeDo IDs.",
+        "status": "[ ]"
+      },
+      {
+        "id": "RP-ID-ASSIGN",
+        "description": "ID Assignment: Assign unique session-based WeDo IDs to approved tasks.",
+        "status": "[ ]"
+      },
+      {
+        "id": "RP-RESOLVE",
+        "description": "Localhost Execution: Perform the approved modifications on the sovereign filesystem.",
+        "status": "[ ]"
+      },
+      {
+        "id": "RP-AUDIT",
+        "description": "Synthesis Report: Generate a unified Synthesis Report meeting the Audit Scrutiny standard.",
+        "status": "[ ]"
+      }
+    ]
+  },
+  "attribution": "Phaedrus (20260104-163024@localhost)"
+}
