@@ -456,6 +456,34 @@
           "original_filename": "Screenshot from 2026-01-03 18-23-33.png"
         }
       ]
+    },
+    {
+      "id": "BATCH-235",
+      "status": "[x]",
+      "description": "Metabolic Batch: Glaucon resolves hook trust blockers and recommends a 'Nuclear' build for final alignment.",
+      "sub_tasks": [
+        {
+          "id": "IMG-846",
+          "description": "Capture of Glaucon identifying Progress & Blockers for the final sovereign alignment. While colors were perfect and the hook was detected, execution was blocked by a Trust requirement for project-level hooks. Additionally, the version string still reflected the Ghost Google build.",
+          "key_takeaway": "Maintaining sovereign control requires overcoming trust-based security mechanisms that protect the orchestration layer from unverified local modifications.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/03/png/846-glaucon-identifies-hook-trust-blocker.png",
+          "original_filename": "Screenshot from 2026-01-03 18-26-06.png"
+        },
+        {
+          "id": "IMG-847",
+          "description": "Documentation of the Folder Trust fix. Glaucon updated settings.json to set security.folderTrust.enabled: true, allowing the prime-readme hook to execute automatically at session birth. The agent also planned a final hardening of gem_function.sh to ensure it used the absolute local path for the sovereign binary.",
+          "key_takeaway": "Enabling Folder Trust streamlines the autonomous entry protocol by bypassing manual verification for local workspace hooks.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/03/png/847-glaucon-enables-folder-trust-settings.png",
+          "original_filename": "Screenshot from 2026-01-03 18-27-11.png"
+        },
+        {
+          "id": "IMG-848",
+          "description": "Capture of the Nuclear Build recommendation. After analyzing the /about output, Glaucon confirmed the user was running the local build but the Google logo persisted because esbuild was likely bundling pre-compiled Javascript. The agent proposed a Nuclear build command: npm run clean && npm run build:packages && npm run bundle.",
+          "key_takeaway": "Nuclear build cycles are final defenses against build-cache stale state, ensuring that the running binary is a high-fidelity reflection of the current source code.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/03/png/848-glaucon-recommends-nuclear-build-refactor.png",
+          "original_filename": "Screenshot from 2026-01-03 18-30-39.png"
+        }
+      ]
     }
   ]
 }
