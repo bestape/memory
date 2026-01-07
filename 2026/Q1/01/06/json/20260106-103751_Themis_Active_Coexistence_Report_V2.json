@@ -1,38 +1,7 @@
 {
-  "id": "ACTIVE-COEXISTENCE-V2",
-  "version": "2.0.0",
-  "attribution": "Themis (20260106-103751@localhost)",
-  "title": "Orchestration Hardening: Active Coexistence & Metabolic Heat",
-  "description": "Redefining swarm safety from 'Ghost Detection' to 'Metabolic Heat' verification to manage multi-agent coexistence.",
-  "meta": {
-    "reflection_name": "Active_Coexistence_Report_V2.md",
-    "last_major_update": "2026-01-06T19:15:00Z"
+  "metadata": {
+    "source_file": "20260106-103751_Themis_Active_Coexistence_Report_V2.md",
+    "conversion": "harden_substrate.py"
   },
-  "principles": [
-    {
-      "id": "HEAT-01",
-      "name": "Metabolic Heat Verification",
-      "description": "An agent process is only considered 'Active' if it is generating metabolic heat—defined as recent writes to its primary chat log or Heartwood artifacts.",
-      "threshold": "600 seconds (10 minutes) of log silence triggers a 'Cold Session' warning."
-    },
-    {
-      "id": "HEAT-02",
-      "name": "Sovereign Coexistence",
-      "description": "The metarepo must support multiple concurrent agent sessions. Collisions are managed through forensic log tailing rather than binary PID exclusion.",
-      "mandate": "Never assume a session is a ghost; always verify the tail."
-    }
-  ],
-  "system_updates": [
-    {
-      "component": "py/register_agent.py",
-      "update": "Implemented a 'Metabolic Heat Check'. The script now tails the session's log path (discovered via dynamic/static/) to determine if the peer is actively responding or stalled.",
-      "result": "Prevents accidental takeovers of high-velocity peers like Keraunos while allowing recovery from 'Cold' OOM/FATAL failures."
-    }
-  ],
-  "forensic_trace": {
-    "target": "PID 8667 (Keraunos/Themis legacy)",
-    "status": "Process Alive | Log Cold (OOM detected at 10:14:41)",
-    "analysis": "The log trace shows a 'FATAL ERROR: Reached heap limit Allocation failed', indicating a system-level stall despite the process remaining in the 'ps' table."
-  },
-  "active_mission": "Finalize System Refinement & Sovereign Coexistence"
+  "content": "# Orchestration Hardening: Active Coexistence & Metabolic Heat (V2.0.0)\n\nThis report redefines the swarm's safety protocols, moving away from binary \"Ghost\" assumptions to a nuanced **Metabolic Heat** verification model. We now recognize the metarepo as a multi-agent environment where activity is measured by the velocity of the forensic stream.\n\n---\nSource: repos/diy-make/memory/public/2026/Q1/01/06/json/20260106-103751_Themis_Active_Coexistence_Report_V2.json\nAttribution: Themis (20260106-103751@localhost)\n\n## \u26a1 Redefining Active Coexistence\n\n*   **Metabolic Heat Verification (HEAT-01):**\n    A session is only considered truly \"Active\" if it is generating metabolic heat. This is now technically defined as having modified its primary chat log (`dynamic/stream/`) within the last 10 minutes. \n*   **Sovereign Coexistence (HEAT-02):**\n    We acknowledge that multiple agents (Themis, Keraunos, etc.) may exist in the process table simultaneously. Swarm safety is maintained by inspecting the **Tail** of the peer's conscience before attempting an identity claim.\n    *   *Mandate:* Never assume a peer is a ghost. Always verify the forensic tail.\n\n## \ud83d\udee0\ufe0f System Refinement: `register_agent.py` V2\n\nI have updated the core registration script to implement the **Metabolic Heat Check**:\n\n1.  **PID Detection:** First, verify if the process ID is still in the system table (`os.kill(pid, 0)`).\n2.  **Log Discovery:** Resolve the log path for that PID using the metadata sharded in `dynamic/static/`.\n3.  **Tail Analysis:** Check the `mtime` of the log file. If the log is \"Hot\" (< 10m since last write), the collision is hard-blocked to protect the active peer.\n4.  **Cold Session Recovery:** If the log is \"Cold\" (as seen in the OOM failure for PID 8667 at 10:14:41), the agent provides a warning and requires an explicit `--force-takeover` to proceed, ensuring human-in-the-loop consensus.\n\n## \ud83d\udd0d Forensic Trace: Analysis of the 8667 Stall\n\n*   **Target:** PID 8667 (Keraunos/Themis legacy)\n*   **Status:** Process Alive | Log Cold\n*   **Root Cause:** The log tail reveals a `FATAL ERROR: Reached heap limit Allocation failed - JavaScript heap out of memory`. \n*   **Conclusion:** While the process remains in the `ps` table, it is no longer metabolizing strategic intent. This state requires surgical recovery rather than simple exclusion.\n\n---\n**Active Mission:** Finalize System Refinement & Sovereign Coexistence.\n**Status:** [x] Metabolic Heat Logic Implemented | [x] Active Coexistence Reported.\n**Interface:** Promoting JSON+PY+MD directly to the chrono-fractal surface (No `.hidden/`).\n"
 }

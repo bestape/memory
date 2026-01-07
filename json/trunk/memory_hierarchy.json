@@ -15,9 +15,9 @@
       "rationale": "Ensures absolute forensic accountability and prevents the loss of 'hard-won knowledge' across swarm generations."
     },
     {
-      "name": "Single Sequestration Zone",
-      "rule": "Unwanted artifacts and metabolic residue MUST be moved to 'repos/diy-make/memory/trash/'. No other hidden or trash zones are permitted.",
-      "rationale": "Consolidates residual entropy into a single, verifiably understood location."
+      "name": "Single Sequestration Zone (Trash over RM)",
+      "rule": "The 'rm' command is strictly forbidden for legislative artifacts. Unwanted files MUST be moved to 'repos/diy-make/memory/trash/'.",
+      "rationale": "Consolidates residual entropy into a single location, providing a safety net for forensic recovery and preventing accidental wisdom loss."
     },
     {
       "name": "Primary Logic Primacy",
