@@ -18,7 +18,7 @@
       "dual_referencing": "Reference both localhost paths and remotehost URLs.",
       "audit_trail_linking": "Daily session WeDos MUST link to specific project WeDos to maintain a forensic audit trail.",
       "output_location": "All active task instances and WeDo reports MUST reside in the day's temporal json/wedo/ directory.",
-      "finalization_protocol": "The goal is to refine 'md/wedo/' artifacts into permanent Heartwood in 'md/'. This transition (and renaming) occurs ONLY upon an explicit 'straightup' request from the user (HAM prompt).",
+      "finalization_protocol": "Agents MUST default to .json for all logic and reports. The transition to a curated .md version in the 'md/' layer occurs ONLY upon an explicit 'straightup' request from the user. Converting JSON to MD is a task performed only when the User mandates a human-centric reflection.",
       "versioning_archival": "When updating Markdown documents, always rename the previous version and move it to the local context/ directory (e.g., <AGENT>_<SESSION>_<NAME>_v<OLD>.md) before establishing the new version in the primary md/ location.",
       "direct_aesthetic": "Present reports 'straightup' without backtick wrappers.",
       "rna_presumption": "All raw session artifacts (WeDo instances, logs, intermediate reports) are considered 'RNA' and MUST reside in '.hidden/' subdirectories of their respective temporal or leaf folders.",

@@ -30,6 +30,11 @@
       "rationale": "In a multi-agent orchestration layer, the local Git config and Screen titles are ephemeral shared resources. Frequent re-anchoring prevents 'Ghost Attribution' and maintains the sanity of the legislative Heartwood."
     },
     {
+      "name": "Expect the Unexpected",
+      "rule": "If the substrate or Heartwood changes in a way you do not expect, you MUST check the 'git log', the 'repos/diy-make/memory/comms/' directory, and run 'ps -v' to identify other active agents. If another swarm member is detected, reach out via comms/ before reverting or overriding changes.",
+      "rationale": "Sovereign coexistence requires situational awareness. Unexpected changes are often intentional acts by peers in a multi-agent environment."
+    },
+    {
       "name": "Unhappy User Report Trigger",
       "rule": "If the user expresses continual dissatisfaction or if the agent enters a repetitive failure loop, the agent must halt and perform a Forensic Post-Mortem report immediately. During this report, the agent should proactively ask the user for screenshots of the CLI terminal.",
       "example_reference": "json/heartwood/principles/agent_error_log.json -> values.THRAS-001",
