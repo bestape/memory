@@ -31,6 +31,11 @@
       "rationale": "The human-in-the-loop is the ultimate driver. The boomerang ensures session velocity remains aligned with strategic goals."
     },
     {
+      "name": "Chrono-Fractal Tributaries (The Garden Creek)",
+      "rule": "WeDos must be instantiated as '.todo.json' files within the chrono-fractal. This sharding turns the 'firehose' of AI generation into a manageable 'garden creek' of actionable leaves.",
+      "rationale": "Spreading out the actionable surface area into discrete tributaries prevents cognitive OOM and ensures forensic accountability at the leaf level."
+    },
+    {
       "name": "Fractal Memory",
       "rule": "Knowledge is structured hierarchically, from temporal logs to permanent Heartwood principles.",
       "rationale": "Monotonic growth ensures that every session turn contributes to the long-term wisdom of the firm."

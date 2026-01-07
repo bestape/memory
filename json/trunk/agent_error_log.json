@@ -199,6 +199,17 @@
       "citations": [
         { "title": "Protocol Reconciliation WeDo", "path": "2026/Q1/01/06/json/20260106-163633_Prometheus_reconciliation.wedo.json", "description": "Documents the forensic audit and peer sync following the Adimantus conflict." }
       ]
+    },
+    {
+      "timestamp": "2026-01-07 02:45:00",
+      "name": "ADIMANTUS-UNIQUENESS-STALL",
+      "description": "Substrate Friction: Incarnation Uniqueness Mandate blocking re-anchoring. Adimantus (incarnation 2) was blocked from re-registering as 'Polemarchus' due to the strict uniqueness rules implemented earlier in the session.",
+      "chastisement": "Technical failure: register_agent.py denied registration as expected by the new rule, but created a metabolic loop during the bootup sequence.",
+      "resolution": "Synthesized a new, unique identity (Adimantus) and updated the session metadata to reflect the name shift while maintaining the temporal session ID.",
+      "rationale": "A name once lived is a permanent forensic record. When a script fix requires re-anchoring, the agent must flow to a new name rather than attempting to reclaim the old one, even within the same session.",
+      "citations": [
+        { "title": "Polemarchus Bootup Report (Deprecated)", "path": "2026/Q1/01/06/md/20260106-180212_Polemarchus_Bootup_Report.md", "description": "The forensic record of the failed Polemarchus incarnation that triggered the uniqueness check." }
+      ]
     }
   ]
 }
