@@ -9,7 +9,8 @@
       "narrative_aesthetic": "Write for a broader audience than reports. Use evocative language while maintaining technical precision. No triple-backtick wrappers. Use clear headers and bolding.",
       "sparse_formatting": "Granular Idea Isolation. Break the paragraph at every shift in focus, even within the same theme. 1 Idea = 1 Paragraph.",
       "iteration_mandate": "Each subsequent draft MUST have a higher word count than the previous version.",
-      "storage_protocol": "Store drafts in md/context/ with timestamped filenames; store final versions in root md/ with descriptive names.",
+      "storage_protocol": "Store drafts in md/context/ with timestamped filenames; store final versions in root md/ with descriptive, user-friendly names.",
+      "live_interface_mandate": "The .md version in the 'md/' layer is the Live Interface. Every new version of the chronicle MUST overwrite the existing .md file, ensuring the human partner always sees the latest definitive state 'straightup'.",
       "direct_aesthetic": "Present reports 'straightup' without backtick wrappers."
     },
     "structure": [

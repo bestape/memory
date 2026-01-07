@@ -335,3 +335,24 @@
 - **Key Takeaway:** A granular understanding of the existing file structure is the prerequisite for successful and non-destructive architectural refinement.
 - **Creation Date:** 2026-01-02
 - **Original Filename:** `Screenshot from 2026-01-02 21-31-35.png`
+
+### 675. `675-pyrrho-checks-for-active-mission-tracking.png`
+![675-pyrrho-checks-for-active-mission-tracking.png](../png/675-pyrrho-checks-for-active-mission-tracking.png)
+- **Description:** Terminal view documenting agent Pyrrho checking for an existing mission tracking system in the Heartwood. The agent searches for an 'active/' directory to see if there's a centralized node for swarm state. This beat captures the 'Diagnosis' phase of the reordering mission, where the agent identifies the 'Phantom Bloat' and navigation friction that hinders forensic continuity.
+- **Key Takeaway:** Identifying the absence of centralized state management is the first step toward engineering a more autonomous and efficient agent succession protocol.
+- **Creation Date:** 2026-01-02
+- **Original Filename:** `Screenshot from 2026-01-02 21-32-01.png`
+
+### 676. `676-pyrrho-presents-heartwood-reordering-diagnosis.png`
+![676-pyrrho-presents-heartwood-reordering-diagnosis.png](../png/676-pyrrho-presents-heartwood-reordering-diagnosis.png)
+- **Description:** Capture of agent Pyrrho presenting the 'Heartwood Reordering' diagnosis WeDo report. The agent highlights friction points like fragmentation and state blindness, and proposes the 'Active Node' strategy. This visualization documents the formalization of the reordering plan, marking the transition from investigation to structured proposal.
+- **Key Takeaway:** High-fidelity diagnostic reporting ensures that structural changes are motivated by clear forensic evidence and strategic necessity.
+- **Creation Date:** 2026-01-02
+- **Original Filename:** `Screenshot from 2026-01-02 21-33-08.png`
+
+### 677. `677-user-defines-snapshot-static-philosophy.png`
+![677-user-defines-snapshot-static-philosophy.png](../png/677-user-defines-snapshot-static-philosophy.png)
+- **Description:** Documentation of a profound user realization regarding the 'Snapshot Static' philosophy. The Lead Partner explains that dynamic state is hard to maintain, which is why the firm prioritizes chrono-fractal snapshots. This beat marks the philosophical anchoring of the metarepo's architecture, where 'Video' (state) is achieved through the linear sequence of 'Snapshots' (commits and reports).
+- **Key Takeaway:** The firm's intelligence is a result of the sequential synthesis of static snapshots, providing a more reliable and auditable state than dynamic systems.
+- **Creation Date:** 2026-01-02
+- **Original Filename:** `Screenshot from 2026-01-02 21-38-20.png`
