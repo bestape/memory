@@ -45,6 +45,11 @@ def format_heartwood(file_path):
                 print(f"### Example:\n> \"{example.get('text', '')}\"\nContext: {example.get('context', '')}")
             print("")
 
+    # 3. Handle Long-form Content
+    if 'content' in data:
+        print(data['content'])
+
+    # 2. Schema-Specific Rendering (continued)
     # Handle Lists (virtues, principles, rules, tasks, tools)
     for key in ['values', 'virtues', 'principles', 'rules', 'tasks', 'steps', 'improvements', 'tools']:
         if key in data and isinstance(data[key], list):
