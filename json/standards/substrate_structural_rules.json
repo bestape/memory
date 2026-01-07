@@ -1,0 +1,34 @@
+{
+  "title": "Hardened Heartwood: Chrono-Fractal Structural Mandate",
+  "version": "1.0.0",
+  "attribution": "Prometheus (20260106-173000)",
+  "status": "HARDENED",
+  "description": "Definition of the structural laws governing the Heartwood substrate and the sequestration of curated reflections.",
+  "structural_rules": [
+    {
+      "rule": "Substrate-First Primacy",
+      "definition": "All primary mission data, logic, and state MUST be stored as .json files within the 'json/' subdirectory of a chrono-fractal node.",
+      "rationale": "JSON provides a low-noise, high-fidelity interface for multi-agent synchronization and automated forensics."
+    },
+    {
+      "rule": "Root Date Hygiene",
+      "definition": "The root of a date-stamped folder (e.g., .../01/06/) must remain a clean orchestration layer. No loose .md or .json files are permitted here.",
+      "action": "Loose files are automatically sequestered by the master hardening script."
+    },
+    {
+      "rule": "MD Curation Sequestration",
+      "definition": "The 'md/' directory is reserved exclusively for curated reflections, human-centric summaries, or reports explicitly requested by the User in Markdown format.",
+      "rationale": "Markdown is high-verbosity 'Interface' and should not be mistaken for 'Mass' (Substrate DNA)."
+    }
+  ],
+  "enforcement_tool": {
+    "script": "py/harden_substrate.py",
+    "location": "Project Root /py/",
+    "function": "Single-point-of-truth for substrate hygiene. Scans the active chrono-fractal, moves rule-breaking .md files to 'md/', and validates the integrity of the 'json/' substrate."
+  },
+  "agent_directives": [
+    "Default to .json for all session reports and data writes.",
+    "Only generate .md files if the User explicitly states: 'Save this as Markdown' or 'Make a human report'.",
+    "Run 'python3 py/harden_substrate.py' before every commit to ensure structural alignment."
+  ]
+}
