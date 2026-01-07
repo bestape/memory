@@ -118,10 +118,10 @@ As we move into 2026, we will focus on the **Consensus ad Idem**. We will ensure
 
 ---
 **Extended Context & Strategic Reports:**
-- **[SeedTree: The Investment Case (V13.9)](../26/md/SeedTree_Gemini_CLI_Investment_Case.md)** - Deep dive into the Node.js context window.
-- **[SeedTree: Onboarding Protocol](../../md/wedo/SeedTree_Onboarding_Protocol.md)** - The "7-turn quickening" and recursive grammar.
-- **[WeDo: JSON Subset Critique](../../md/wedo/WeDo_JSON_Subset_Critique.md)** - Transitioning from pseudolanguage to formal syntax.
-- **[ToDo: JSON Transition Critique](../../md/wedo/Todo_JSON_Transition_Critique.md)** - Location logic for the structured nervous system.
+- **[SeedTree: The Investment Case (V13.9)](../../26/md/SeedTree_Gemini_CLI_Investment_Case.md)** - Deep dive into the Node.js context window.
+- **[SeedTree: Onboarding Protocol](../../../../md/wedo/SeedTree_Onboarding_Protocol.md)** - The "7-turn quickening" and recursive grammar.
+- **[WeDo: JSON Subset Critique](../../../../md/wedo/WeDo_JSON_Subset_Critique.md)** - Transitioning from pseudolanguage to formal syntax.
+- **[ToDo: JSON Transition Critique](../../../../md/wedo/Todo_JSON_Transition_Critique.md)** - Location logic for the structured nervous system.
 
 **Resources:**
 - **Official Source:** `repos/google/gemini-cli/docs/architecture.md`

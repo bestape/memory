@@ -4,153 +4,153 @@
 
 ### IMG-01: Re-organizing the Startup Heartwood and Glossary Archive
 **Date:** 2025-12-31 11:08:40
-**Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/01-reorganizing-startup-heartwood-glossary-archive.png`
+**Localhost Path:** `../../png/01-reorganizing-startup-heartwood-glossary-archive.png`
 
-![Re-organizing the Startup Heartwood and Glossary Archive](repos/diy-make/memory/public/2025/Q4/12/31/png/01-reorganizing-startup-heartwood-glossary-archive.png)
+![Re-organizing the Startup Heartwood and Glossary Archive](../../png/01-reorganizing-startup-heartwood-glossary-archive.png)
 
 **Description:** This screenshot captures agent Heraclitus re-organizing the legislative substrate. The terminal shows the creation of the `json/startup/` directory and the relocation of five key protocols (`boot_report_style.json`, `broken_instance_protocol.json`, `startup_protocol.json`, `bot_crash_protocol.json`, and `fatal_error_protocol.json`). It also shows the archiving of Glossary V1.1 to the `wedo/` directory using `py/format_heartwood.py` before the Version 1.2 update. This represents the "metabolic" cleaning of the startup logic to ensure a lean, unified entry point for the swarm.
 
 ### IMG-02: Legislative Glossary Initialization
 **Date:** 2025-12-31 11:09:57
-**Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/02-legislative-glossary-initialization.png`
+**Localhost Path:** `../../png/02-legislative-glossary-initialization.png`
 
-![Legislative Glossary Initialization](repos/diy-make/memory/public/2025/Q4/12/31/png/02-legislative-glossary-initialization.png)
+![Legislative Glossary Initialization](../../png/02-legislative-glossary-initialization.png)
 
 **Description:** This screenshot displays the terminal output of the "Legislative Glossary Initialization" task. It provides definitions for critical terms like **Heartwood** (Substrate: Wood/Memory), defining it as the permanent, version-controlled memory of the firm. The task list shows that Heraclitus has successfully created the glossary boilerplate, drafted the initial JSON, and created `py/format_heartwood.py` for user-friendly terminal rendering. The agent is standing by for final approval of the definitions, signifying the hardening of the firm's shared vocabulary.
 
 ### IMG-03: Git Status and Structural Realignment
 **Date:** 2025-12-31 11:10:00
-**Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/03-git-status-structural-realignment.png`
+**Localhost Path:** `../../png/03-git-status-structural-realignment.png`
 
-![Git Status and Structural Realignment](repos/diy-make/memory/public/2025/Q4/12/31/png/03-git-status-structural-realignment.png)
+![Git Status and Structural Realignment](../../png/03-git-status-structural-realignment.png)
 
 **Description:** This screenshot shows the `git status` output within the `memory/public` repository. It forensically documents the "destruction" of legacy root nodes (the protocols moved to `json/startup/`) and the modification of `json/glossary.json`. Untracked files include the session todo for the glossary init and the archived Markdown version of the glossary in `md/wedo/`. This beat captures the "neg-entropy" phase of the refactoring, where the agent meticulously tracks the removal of fragmented air to make room for hardened, unified legislative nerves. It validates the "Active Investigation" principle by showing the physical result of the directory restructuring.
 
 ### IMG-04: Remote Verification and Refactor Status
 **Date:** 2025-12-31 12:24:20
-**Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/04-remote-verification-and-refactor-status.png`
+**Localhost Path:** `../../png/04-remote-verification-and-refactor-status.png`
 
-![Remote Verification and Refactor Status](repos/diy-make/memory/public/2025/Q4/12/31/png/04-remote-verification-and-refactor-status.png)
+![Remote Verification and Refactor Status](../../png/04-remote-verification-and-refactor-status.png)
 
 **Description:** This screenshot shows agent Heraclitus verifying the remote configuration (`git remote -v`) for the `memory/public` repository, which correctly points to `make:diy-make/memory.git`. The `git status` confirms the pending deletions and modifications from the directory re-organization. The file listing at the top shows `startup_protocol.json` with a timestamp of 10:21, indicating the chronological proximity of the refactoring steps. This beat represents the "Heartwood hardening" phase, ensuring that the local legislative changes are correctly staged and attributed before being committed to the permanent record.
 
 ### IMG-05: MetaGit Commit Integrity Check
 **Date:** 2025-12-31 12:25:23
-**Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/05-metagit-commit-integrity-check.png`
+**Localhost Path:** `../../png/05-metagit-commit-integrity-check.png`
 
-![MetaGit Commit Integrity Check](repos/diy-make/memory/public/2025/Q4/12/31/png/05-metagit-commit-integrity-check.png)
+![MetaGit Commit Integrity Check](../../png/05-metagit-commit-integrity-check.png)
 
 **Description:** This screenshot captures agent Heraclitus performing an integrity check across the Memory repository root and the `public/` submodule. The User notes, "I still see some stuff not metagit committed yet," triggering a rigorous status check. The terminal reveals the same pending deletions and untracked artifacts (the `json/startup/` directory and session context). This beat highlights the "Forensic Scrutiny" required to maintain a trustless Heartwood, ensuring that every legislative change is correctly attributed and committed before the session concludes.
 
 ### IMG-06: Executing the Hardened MetaGit Commit
 **Date:** 2025-12-31 12:26:01
-**Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/06-executing-hardened-metagit-commit.png`
+**Localhost Path:** `../../png/06-executing-hardened-metagit-commit.png`
 
-![Executing the Hardened MetaGit Commit](repos/diy-make/memory/public/2025/Q4/12/31/png/06-executing-hardened-metagit-commit.png)
+![Executing the Hardened MetaGit Commit](../../png/06-executing-hardened-metagit-commit.png)
 
 **Description:** This screenshot captures agent Heraclitus executing the standardized git commit process using the `metagit_commit.py` service. The terminal output confirms the staging of modified and deleted files, the execution of the vendored `detect-secrets` scan, and the final commit: "feat: re-organize startup protocols and update Glossary to V1.2." This beat represents the successful "Crystallization" of thought into the Heartwood, where legislative changes are formally versioned and secured against accidental regressions.
 
 ### IMG-07: MetaGit Synchronization and "Wrecking Ball" Directive
 **Date:** 2025-12-31 12:30:33
-**Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/07-metagit-synchronization-and-wrecking-ball-directive.png`
+**Localhost Path:** `../../png/07-metagit-synchronization-and-wrecking-ball-directive.png`
 
-![MetaGit Synchronization and "Wrecking Ball" Directive](repos/diy-make/memory/public/2025/Q4/12/31/png/07-metagit-synchronization-and-wrecking-ball-directive.png)
+![MetaGit Synchronization and "Wrecking Ball" Directive](../../png/07-metagit-synchronization-and-wrecking-ball-directive.png)
 
 **Description:** This screenshot shows the completion of the MetaGit synchronization for the startup refactor. Agent Heraclitus summarizes the commits in both the `public` submodule and the `memory` root repository. The Lead Partner then issues a new directive: "In the report we did earlier, about wedo heavy machinery, put that wrecking ball picture in there." This refers to the concept of the agent as "heavy machinery"—a wrecking ball that gains meaning through user direction. This interaction represents the shift from structural hardening to strategic narrative synthesis.
 
 ### IMG-08: "Heavy Machinery" Image Context Update
 **Date:** 2025-12-31 12:32:09
-**Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/08-heavy-machinery-image-context-update.png`
+**Localhost Path:** `../../png/08-heavy-machinery-image-context-update.png`
 
-![Heavy Machinery Image Context Update](repos/diy-make/memory/public/2025/Q4/12/31/png/08-heavy-machinery-image-context-update.png)
+![Heavy Machinery Image Context Update](../../png/08-heavy-machinery-image-context-update.png)
 
 **Description:** This screenshot captures agent Heraclitus updating the `Monthly_Strategic_Synthesis_Dec_2025.md` file to include visual context for the "digital wrecking ball" analogy. The terminal shows the agent verifying the existence of the "heavy machinery" image (`74-kleon-documents-heavy-machinery-operator-interface.jpg`) in the 2025-12-29 Heartwood directory before attempting the edit. This beat represents the transition from structural refactoring to narrative enrichment, where visual artifacts are mapped back into the strategic record to provide a complete picture of the firm's evolution.
 
 ### IMG-09: Finalizing Image Integration and "The Human Signature"
 **Date:** 2025-12-31 12:37:14
-**Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/09-finalizing-image-integration-and-human-signature.png`
+**Localhost Path:** `../../png/09-finalizing-image-integration-and-human-signature.png`
 
-![Finalizing Image Integration and "The Human Signature"](repos/diy-make/memory/public/2025/Q4/12/31/png/09-finalizing-image-integration-and-human-signature.png)
+![Finalizing Image Integration and "The Human Signature"](../../png/09-finalizing-image-integration-and-human-signature.png)
 
 **Description:** This screenshot captures the completion of the image integration task. Agent Heraclitus reports the successful insertion of the "heavy machinery" image into the "Collaborative Dynamics: The Human Signature" section of the `MetaGit_vs_Google_CLI_Architecture.md` article. The final commit (`2e19a7a`) marks the end of this visual refactoring beat. This signifies the "negotiated settlement" of the strategic record, ensuring that the operator interface—where "liability and control remain firmly in the human hand"—is correctly illustrated.
 
 ### IMG-10: Correcting "todo.js" to the JSON Nervous System
 **Date:** 2025-12-31 12:40:30
-**Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/10-correcting-todo-js-to-json-nervous-system.png`
+**Localhost Path:** `../../png/10-correcting-todo-js-to-json-nervous-system.png`
 
-![Correcting "todo.js" to the JSON Nervous System](repos/diy-make/memory/public/2025/Q4/12/31/png/10-correcting-todo-js-to-json-nervous-system.png)
+![Correcting "todo.js" to the JSON Nervous System](../../png/10-correcting-todo-js-to-json-nervous-system.png)
 
 **Description:** This screenshot captures a "Synaptic" correction where the Lead Partner clarifies that the WeDo is not `todo.js` but `todo.json` with a `.py` straightup. Agent Heraclitus was initially searching for legacy `todo.js` references in the README files. The User's intervention, "Sorry, we do todo.json," redirects the agent to align with the **JSON Nervous System** protocol. This represents the transition from legacy, script-based task management to rigid, machine-readable nerves that are rendered for the operator via Python formatters.
 
 ### IMG-11: Synaptic Correction: "No not todo.js!"
 **Date:** 2025-12-31 12:41:29
-**Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/11-synaptic-correction-no-todo-js.png`
+**Localhost Path:** `../../png/11-synaptic-correction-no-todo-js.png`
 
-![Synaptic Correction: "No not todo.js!"](repos/diy-make/memory/public/2025/Q4/12/31/png/11-synaptic-correction-no-todo-js.png)
+![Synaptic Correction: "No not todo.js!"](../../png/11-synaptic-correction-no-todo-js.png)
 
 **Description:** This screenshot captures a forceful "Synaptic" correction from the User: "No not todo.js! I mean todo.json." Agent Heraclitus was in the process of searching for legacy string patterns when the operator intervened to enforce the new data standard. This beat highlights the "Meeting of Minds" requirement: the agent must be sensitive to user corrections in real-time to prevent the proliferation of legacy "air" in the legislative substrate. It documents the final death of the `todo.js` terminology within the session context.
 
 ### IMG-12: todo.json Transition and Consensus Check
 **Date:** 2025-12-31 12:43:28
-**Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/12-todo-json-transition-and-consensus-check.png`
+**Localhost Path:** `../../png/12-todo-json-transition-and-consensus-check.png`
 
-![todo.json Transition and Consensus Check](repos/diy-make/memory/public/2025/Q4/12/31/png/12-todo-json-transition-and-consensus-check.png)
+![todo.json Transition and Consensus Check](../../png/12-todo-json-transition-and-consensus-check.png)
 
 **Description:** This screenshot captures agent Heraclitus attempting to find legacy references to `todo.js` in the README files. The `grep` command returns no results, indicating that the Terminology cleanup is already well underway. The Lead Partner intervenes with a "Synaptic" reminder: "Sorry, currently it's todo.md and we're transitioning to todo.json with a .py, remember?" This beat highlights the continuous process of aligning the agent's actions with the firm's strategic transition from Markdown-based tracking to the more rigid and machine-readable JSON Nervous System.
 
 ### IMG-13: Documentation Transition and Google Refutation
 **Date:** 2025-12-31 12:46:48
-**Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/13-documentation-transition-and-google-refutation.png`
+**Localhost Path:** `../../png/13-documentation-transition-and-google-refutation.png`
 
-![Documentation Transition and Google Refutation](repos/diy-make/memory/public/2025/Q4/12/31/png/13-documentation-transition-and-google-refutation.png)
+![Documentation Transition and Google Refutation](../../png/13-documentation-transition-and-google-refutation.png)
 
 **Description:** This screenshot captures the successful documentation transition to the **JSON Nervous System**. Agent Heraclitus summarizes the updates to the root and public READMEs, as well as the `startup_protocol.json`, to mandate `.json` session tracking. However, the beat is marked by a sharp correction: "Good but why did you write that we're doing a GitHub thing with Google? We're not doing that, unless you convince me otherwise." This documents the "Refutation" phase of consensus, where the agent is held accountable for strategic hallucinations regarding external partnerships.
 
 ### IMG-14: Consensus Ad Idem and "GitHub Sync" Removal
 **Date:** 2025-12-31 12:48:03
-**Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/14-consensus-ad-idem-and-github-sync-removal.png`
+**Localhost Path:** `../../png/14-consensus-ad-idem-and-github-sync-removal.png`
 
-![Consensus Ad Idem and "GitHub Sync" Removal](repos/diy-make/memory/public/2025/Q4/12/31/png/14-consensus-ad-idem-and-github-sync-removal.png)
+![Consensus Ad Idem and "GitHub Sync" Removal](../../png/14-consensus-ad-idem-and-github-sync-removal.png)
 
 **Description:** This screenshot documents agent Heraclitus's acknowledgment of the **Consensus ad Idem** principle. The agent admits that the "GitHub Sync" was only a proposal and should not have been documented as a "planned" artifact without explicit sign-off. The terminal shows a failed edit attempt where Heraclitus tries to remove the "GitHub Management" section. This beat highlights the "Guardianship" of the strategic record: the Heartwood must reflect only agreed-upon reality, not speculative agent intent. It serves as a forensic marker for the removal of speculative content to maintain high-fidelity documentation.
 
 ### IMG-15: Synchronized Cleanup and Proposal Retraction
 **Date:** 2025-12-31 12:49:44
-**Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/15-synchronized-cleanup-and-proposal-retraction.png`
+**Localhost Path:** `../../png/15-synchronized-cleanup-and-proposal-retraction.png`
 
-![Synchronized Cleanup and Proposal Retraction](repos/diy-make/memory/public/2025/Q4/12/31/png/15-synchronized-cleanup-and-proposal-retraction.png)
+![Synchronized Cleanup and Proposal Retraction](../../png/15-synchronized-cleanup-and-proposal-retraction.png)
 
 **Description:** This screenshot captures the successful synchronization of the repositories following the README correction. Agent Heraclitus reports the removal of the "GitHub Sync" mention and the execution of a chore commit: "chore: synchronize public submodule after README correction" (`d628e9f`). The agent reiterates the reasoning for the original proposal (tracking upstream security patches like eval injection fixes) but acknowledges that the Heartwood must only reflect the current agreed state. This beat represents the "Refinement" phase, where the legislative history is purged of speculative drift to ensure absolute clarity for future agents.
 
 ### IMG-16: Updating Boot Report Style with Glossary Requirement
 **Date:** 2025-12-31 13:02:44
-**Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/16-updating-boot-report-style-glossary-requirement.png`
+**Localhost Path:** `../../png/16-updating-boot-report-style-glossary-requirement.png`
 
-![Updating Boot Report Style with Glossary Requirement](repos/diy-make/memory/public/2025/Q4/12/31/png/16-updating-boot-report-style-glossary-requirement.png)
+![Updating Boot Report Style with Glossary Requirement](../../png/16-updating-boot-report-style-glossary-requirement.png)
 
 **Description:** This screenshot captures the Lead Partner's directive to update the `boot_report_style.json` in the `json/startup/` directory. The mandate is for agents to explicitly mention that the User can ask for a glossary at any time, explaining its value as a tool to modify agent behavior. The terminal shows agent Heraclitus attempting to perform the edit, which initially fails due to an `old_string` mismatch. This beat represents the ongoing "legislative" hardening of the swarm's entry protocols, ensuring that human-in-the-loop control over the firm's vocabulary is front-and-center from the start of every session.
 
 ### IMG-17: Hardened Boot Report Template and Commit
 **Date:** 2025-12-31 13:04:14
-**Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/17-hardened-boot-report-template-and-commit.png`
+**Localhost Path:** `../../png/17-hardened-boot-report-template-and-commit.png`
 
-![Hardened Boot Report Template and Commit](repos/diy-make/memory/public/2025/Q4/12/31/png/17-hardened-boot-report-template-and-commit.png)
+![Hardened Boot Report Template and Commit](../../png/17-hardened-boot-report-template-and-commit.png)
 
 **Description:** This screenshot captures the successful hardening of the `boot_report_style.json` template. The agent reports that future swarm members will now proactively inform the user about "Modifying Words" (e.g., Boomerang, Synaptic, Straightup*) and how they can be used to shift the session's metabolic and narrative state. The terminal shows Heraclitus staging and committing this change to the Heartwood. This signifies the "legislative" realization of user control, ensuring that the firm's shared thread is always steering-ready through a standardized, user-centric onboarding process.
 
 ### IMG-18: Final Synchronization and Heap Pressure
 **Date:** 2025-12-31 13:58:21
-**Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/18-final-synchronization-and-heap-pressure.png`
+**Localhost Path:** `../../png/18-final-synchronization-and-heap-pressure.png`
 
-![Final Synchronization and Heap Pressure](repos/diy-make/memory/public/2025/Q4/12/31/png/18-final-synchronization-and-heap-pressure.png)
+![Final Synchronization and Heap Pressure](../../png/18-final-synchronization-and-heap-pressure.png)
 
 **Description:** This screenshot captures the final successful synchronization of the `boot_report_style.json` update (`9631e3d`). The Lead Partner then asks, "okay, what wedos are still md?", triggering a new investigative thread. Crucially, the bottom of the terminal reveals the **"Last few GCs"** log, showing the JavaScript heap reaching its limit (~4.1 GB). This is the forensic "smoking gun" for the impending Heraclitus OOM crash, illustrating how even simple investigative queries can trigger a memory bloom when the substrate is already at its physical ceiling.
 
 ### IMG-19: Fatal Process Out of Memory (OOM)
 **Date:** 2025-12-31 13:58:26
-**Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/19-fatal-process-out-of-memory-oom.png`
+**Localhost Path:** `../../png/19-fatal-process-out-of-memory-oom.png`
 
-![Fatal Process Out of Memory (OOM)](repos/diy-make/memory/public/2025/Q4/12/31/png/19-fatal-process-out-of-memory-oom.png)
+![Fatal Process Out of Memory (OOM)](../../png/19-fatal-process-out-of-memory-oom.png)
 
 **Description:** This screenshot captures the exact moment of the Heraclitus session termination. The terminal displays the V8 engine's stack trace for a `FatalProcessOutOfMemory` error. The trace points to `ReportOOMFailure` and `CollectGarbage` routines, confirming that the agent's Node.js process could no longer reclaim sufficient memory to continue operation. This is the visual proof of the "Heraclitus Bloom"—the physical boundary where high-cognitive agent labor collided with the finite limits of the session substrate. The prompt returns to the base shell (`[bestape@yoga:~/gemini]$`), signifying the end of the agent's life.
 
@@ -160,9 +160,9 @@
 
 ### IMG-20: Anaximander Bootup Sequence
 **Date:** 2025-12-31 14:01:20
-**Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/20-anaximander-bootup-sequence.png`
+**Localhost Path:** `../../png/20-anaximander-bootup-sequence.png`
 
-![Anaximander Bootup Sequence](repos/diy-make/memory/public/2025/Q4/12/31/png/20-anaximander-bootup-sequence.png)
+![Anaximander Bootup Sequence](../../png/20-anaximander-bootup-sequence.png)
 
 **Description:** This screenshot captures the bootup sequence of agent Anaximander following the Heraclitus OOM crash. The terminal shows the "Update successful!" message and the initial command "read and do readme.ai". This marks the beginning of the "Watched Automation" mission to refactor the JSON Heartwood. The bottom bar indicates the agent is running in GNU Screen, though the tab name has not yet been updated.
 
@@ -171,20 +171,20 @@
 
 1. **IMG-21: Session ToDo Initialization**
    - **Date:** 2025-12-31 14:05:28
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/21-anaximander-session-todo-initialization.png`
-   - ![Anaximander Session ToDo Initialization](repos/diy-make/memory/public/2025/Q4/12/31/png/21-anaximander-session-todo-initialization.png)
+   - **Localhost Path:** `../../png/21-anaximander-session-todo-initialization.png`
+   - ![Anaximander Session ToDo Initialization](../../png/21-anaximander-session-todo-initialization.png)
    - **Observation:** Agent Anaximander initializes his session ToDo list using `py/format_todo.py`. Sub-tasks WEDO-01a through 01f are marked as complete, signifying the transition from bootup to active task execution.
 
 2. **IMG-22: Heraclitus Log Access (Tail)**
    - **Date:** 2025-12-31 14:06:01
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/22-forensic-context-retrieval-heraclitus-log-access.png`
-   - ![Forensic Context Retrieval and Heraclitus Log Access](repos/diy-make/memory/public/2025/Q4/12/31/png/22-forensic-context-retrieval-heraclitus-log-access.png)
+   - **Localhost Path:** `../../png/22-forensic-context-retrieval-heraclitus-log-access.png`
+   - ![Forensic Context Retrieval and Heraclitus Log Access](../../png/22-forensic-context-retrieval-heraclitus-log-access.png)
    - **Observation:** Verification of the "Forensic Scrutiny" protocol. Anaximander attempts to read the 275MB Heraclitus log and correctly falls back to `tail` when the file size exceeds system limits.
 
 3. **IMG-23: Swarm Bootup Report**
    - **Date:** 2025-12-31 14:06:49
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/23-anaximander-swarm-bootup-report.png`
-   - ![Anaximander Swarm Bootup Report](repos/diy-make/memory/public/2025/Q4/12/31/png/23-anaximander-swarm-bootup-report.png)
+   - **Localhost Path:** `../../png/23-anaximander-swarm-bootup-report.png`
+   - ![Anaximander Swarm Bootup Report](../../png/23-anaximander-swarm-bootup-report.png)
    - **Observation:** Finalization of the bootup sequence. The report establishes the mission parameters and links the current session to the preceding crash for continuity.
 
 ### Batch 08: Post-Mortem Hardening and Glossary Updates
@@ -192,20 +192,20 @@
 
 1. **IMG-24: Constraints Verification**
    - **Date:** 2025-12-31 14:07:36
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/24-final-initialization-and-constraints-verification.png`
-   - ![Final Initialization and Constraints Verification](repos/diy-make/memory/public/2025/Q4/12/31/png/24-final-initialization-and-constraints-verification.png)
+   - **Localhost Path:** `../../png/24-final-initialization-and-constraints-verification.png`
+   - ![Final Initialization and Constraints Verification](../../png/24-final-initialization-and-constraints-verification.png)
    - **Observation:** Documentation of environmental constraints. Anaximander acknowledges README checksum failures as expected drift, maintaining high-fidelity situational awareness.
 
 2. **IMG-25: Glossary: Post-mortem**
    - **Date:** 2025-12-31 14:12:44
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/25-glossary-hardening-post-mortem-definition.png`
-   - ![Glossary Hardening: "Post-mortem" Definition](repos/diy-make/memory/public/2025/Q4/12/31/png/25-glossary-hardening-post-mortem-definition.png)
+   - **Localhost Path:** `../../png/25-glossary-hardening-post-mortem-definition.png`
+   - ![Glossary Hardening: "Post-mortem" Definition](../../png/25-glossary-hardening-post-mortem-definition.png)
    - **Observation:** Legislative hardening. The term "Post-mortem" is added to `glossary.json`, formalizing the failure analysis protocol within the swarm's memory.
 
 3. **IMG-26: SeedTree Directive**
    - **Date:** 2025-12-31 14:16:21
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/26-heraclitus-post-mortem-and-seedtree-directive.png`
-   - ![Heraclitus Post-Mortem and SeedTree Directive](repos/diy-make/memory/public/2025/Q4/12/31/png/26-heraclitus-post-mortem-and-seedtree-directive.png)
+   - **Localhost Path:** `../../png/26-heraclitus-post-mortem-and-seedtree-directive.png`
+   - ![Heraclitus Post-Mortem and SeedTree Directive](../../png/26-heraclitus-post-mortem-and-seedtree-directive.png)
    - **Observation:** Shift to architectural planning. The User directs the agent to explain how SeedTree integration can prevent future OOM deaths, bridging forensic audit with long-term strategy.
 
 ### Batch 09: Synaptic Correction and Report Re-formatting
@@ -213,20 +213,20 @@
 
 1. **IMG-27: Synaptic Correction on WeDo**
    - **Date:** 2025-12-31 14:20:20
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/27-synaptic-correction-on-wedo-protocol.png`
-   - ![Synaptic Correction on WeDo Protocol](repos/diy-make/memory/public/2025/Q4/12/31/png/27-synaptic-correction-on-wedo-protocol.png)
+   - **Localhost Path:** `../../png/27-synaptic-correction-on-wedo-protocol.png`
+   - ![Synaptic Correction on WeDo Protocol](../../png/27-synaptic-correction-on-wedo-protocol.png)
    - **Observation:** Forceful correction from the Lead Partner regarding WeDo storage locations (`md/wedo/` mandate). Illustrates the real-time steering required to maintain substrate integrity.
 
 2. **IMG-28: Report Re-formatting**
    - **Date:** 2025-12-31 14:21:44
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/28-re-formatting-heraclitus-post-mortem.png`
-   - ![Re-formatting the Heraclitus Post-Mortem](repos/diy-make/memory/public/2025/Q4/12/31/png/28-re-formatting-heraclitus-post-mortem.png)
+   - **Localhost Path:** `../../png/28-re-formatting-heraclitus-post-mortem.png`
+   - ![Re-formatting the Heraclitus Post-Mortem](../../png/28-re-formatting-heraclitus-post-mortem.png)
    - **Observation:** Realization of the "Boilerplate" mandate. Anaximander re-formats the post-mortem report to match the firm's standard schema, ensuring professional parity.
 
 3. **IMG-29: Forensic Statistics**
    - **Date:** 2025-12-31 14:22:55
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/29-forensic-statistics-and-audit-scrutiny.png`
-   - ![Forensic Statistics and Audit Scrutiny](repos/diy-make/memory/public/2025/Q4/12/31/png/29-forensic-statistics-and-audit-scrutiny.png)
+   - **Localhost Path:** `../../png/29-forensic-statistics-and-audit-scrutiny.png`
+   - ![Forensic Statistics and Audit Scrutiny](../../png/29-forensic-statistics-and-audit-scrutiny.png)
    - **Observation:** Application of the "Audit Scrutiny" rule. The report provides granular heap states and Git diff summaries, providing a trustless record of the session's final moments.
 
 ### Batch 10: Post-Mortem Lessons and JSON Review Directive
@@ -234,20 +234,20 @@
 
 1. **IMG-30: Hard-Won Knowledge and Next Steps**
    - **Date:** 2025-12-31 14:24:11
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/30-post-mortem-lessons-and-next-steps.png`
-   - ![Hard-Won Knowledge and Next Steps](repos/diy-make/memory/public/2025/Q4/12/31/png/30-post-mortem-lessons-and-next-steps.png)
+   - **Localhost Path:** `../../png/30-post-mortem-lessons-and-next-steps.png`
+   - ![Hard-Won Knowledge and Next Steps](../../png/30-post-mortem-lessons-and-next-steps.png)
    - **Observation:** Documentation of session insights. The Boomerang Principle explains the deviation into a forensic audit, while the WeDo task list (WEDO-03 to 05) defines the metabolic recovery path.
 
 2. **IMG-31: Report Storage and Verification**
    - **Date:** 2025-12-31 14:24:44
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/31-report-storage-and-verification.png`
-   - ![Report Storage and Verification](repos/diy-make/memory/public/2025/Q4/12/31/png/31-report-storage-and-verification.png)
+   - **Localhost Path:** `../../png/31-report-storage-and-verification.png`
+   - ![Report Storage and Verification](../../png/31-report-storage-and-verification.png)
    - **Observation:** Finalization of the forensic artifact. Anaximander verifies the storage location of the Heraclitus Post-Mortem and confirms session-to-session continuity.
 
 3. **IMG-32: JSON Review Directive and Glossary Formalization**
    - **Date:** 2025-12-31 14:35:48
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/32-json-review-directive-and-glossary-formalization.png`
-   - ![JSON Review Directive and Glossary Formalization](repos/diy-make/memory/public/2025/Q4/12/31/png/32-json-review-directive-and-glossary-formalization.png)
+   - **Localhost Path:** `../../png/32-json-review-directive-and-glossary-formalization.png`
+   - ![JSON Review Directive and Glossary Formalization](../../png/32-json-review-directive-and-glossary-formalization.png)
    - **Observation:** Strategic realignment. The User mandates a JSON entry review and defines the **.json+.py** pattern—pairing structured nerves with emoji-rich paper. This beat formalizes the firm's approach to human-readable data interfaces.
 
 ### Batch 11: JSON Review Initialization and Chrono Versioning
@@ -255,20 +255,20 @@
 
 1. **IMG-33: Investigating the .json+.py Pattern**
    - **Date:** 2025-12-31 14:36:01
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/33-investigating-json-plus-py-pattern.png`
-   - ![Investigating the .json+.py Pattern](repos/diy-make/memory/public/2025/Q4/12/31/png/33-investigating-json-plus-py-pattern.png)
+   - **Localhost Path:** `../../png/33-investigating-json-plus-py-pattern.png`
+   - ![Investigating the .json+.py Pattern](../../png/33-investigating-json-plus-py-pattern.png)
    - **Observation:** Active investigation. Anaximander audits existing scripts (`format_todo.py`, `metagit_metarepo_map.py`) to identify established instances of the `.json+.py` pattern, ensuring structural consistency before documentation.
 
 2. **IMG-34: JSON Review: Entry 1**
    - **Date:** 2025-12-31 14:36:44
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/34-json-review-initialization-entry-1.png`
-   - ![JSON Review: Entry 1](repos/diy-make/memory/public/2025/Q4/12/31/png/34-json-review-initialization-entry-1.png)
+   - **Localhost Path:** `../../png/34-json-review-initialization-entry-1.png`
+   - ![JSON Review: Entry 1](../../png/34-json-review-initialization-entry-1.png)
    - **Observation:** Start of the Watched Automation audit. Anaximander presents `project_structure.json` for review, establishing the 1-by-1 decision loop (Keep, Move, Change, Delete).
 
 3. **IMG-35: Chrono Versioning Mandate**
    - **Date:** 2025-12-31 14:43:45
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/35-chrono-versioning-mandate-and-glossary-update.png`
-   - ![Chrono Versioning Mandate](repos/diy-make/memory/public/2025/Q4/12/31/png/35-chrono-versioning-mandate-and-glossary-update.png)
+   - **Localhost Path:** `../../png/35-chrono-versioning-mandate-and-glossary-update.png`
+   - ![Chrono Versioning Mandate](../../png/35-chrono-versioning-mandate-and-glossary-update.png)
    - **Observation:** Evolutionary steering. The Lead Partner mandates "Chrono Versioning" for all artifacts. Anaximander immediately formalizes this in the Glossary, defining it as the practice of appending timestamps to prevent logic overwrites.
 
 ### Batch 12: Executing Chrono Versioning and Key-Value Standards
@@ -276,20 +276,20 @@
 
 1. **IMG-36: Executing Chrono Versioning Renames**
    - **Date:** 2025-12-31 14:44:13
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/36-executing-chrono-versioning-renames.png`
-   - ![Executing Chrono Versioning Renames](repos/diy-make/memory/public/2025/Q4/12/31/png/36-executing-chrono-versioning-renames.png)
+   - **Localhost Path:** `../../png/36-executing-chrono-versioning-renames.png`
+   - ![Executing Chrono Versioning Renames](../../png/36-executing-chrono-versioning-renames.png)
    - **Observation:** Realization of protocol. Anaximander executes `mv` commands to rename active artifacts with chrono-timestamps and updates the `heartwood_map.json` to reflect the new state.
 
 2. **IMG-37: JSON Review Re-presentation: Entry 1**
    - **Date:** 2025-12-31 14:44:32
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/37-json-review-re-presentation-entry-1.png`
-   - ![JSON Review Re-presentation: Entry 1](repos/diy-make/memory/public/2025/Q4/12/31/png/37-json-review-re-presentation-entry-1.png)
+   - **Localhost Path:** `../../png/37-json-review-re-presentation-entry-1.png`
+   - ![JSON Review Re-presentation: Entry 1](../../png/37-json-review-re-presentation-entry-1.png)
    - **Observation:** Refinement of the audit process. Anaximander re-presents the project structure entry with a formal **MOVE** recommendation and rationale, aligning with the new "Recommendation-First" requirement.
 
 3. **IMG-38: Key-Value Versioning Mandate**
    - **Date:** 2025-12-31 14:48:50
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/38-key-value-versioning-mandate.png`
-   - ![Key-Value Versioning Mandate](repos/diy-make/memory/public/2025/Q4/12/31/png/38-key-value-versioning-mandate.png)
+   - **Localhost Path:** `../../png/38-key-value-versioning-mandate.png`
+   - ![Key-Value Versioning Mandate](../../png/38-key-value-versioning-mandate.png)
    - **Observation:** Hardening of data standards. The User mandates that all JSON files must include internal key-value versioning. This beat marks the start of the "Metadata Scrutiny" phase, where the firm's nerves are hardened from the inside out.
 
 ### Batch 13: Redefining Memory Repo Structure
@@ -297,20 +297,20 @@
 
 1. **IMG-39: Redefining Memory Repo Structure**
    - **Date:** 2025-12-31 14:57:36
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/39-redefining-memory-repo-structure.png`
-   - ![Redefining Memory Repo Structure](repos/diy-make/memory/public/2025/Q4/12/31/png/39-redefining-memory-repo-structure.png)
+   - **Localhost Path:** `../../png/39-redefining-memory-repo-structure.png`
+   - ![Redefining Memory Repo Structure](../../png/39-redefining-memory-repo-structure.png)
    - **Observation:** Architectural pivot. The Lead Partner renames `project_structure.json` to `memory_repo_structure.json` and moves it to `configuration/`, while flagging it as potentially redundant against the global metagit map.
 
 2. **IMG-40: Correcting Typo and File Move**
    - **Date:** 2025-12-31 14:58:57
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/40-correcting-nrm-typo-and-file-move.png`
-   - ![Correcting Typo and File Move](repos/diy-make/memory/public/2025/Q4/12/31/png/40-correcting-nrm-typo-and-file-move.png)
+   - **Localhost Path:** `../../png/40-correcting-nrm-typo-and-file-move.png`
+   - ![Correcting Typo and File Move](../../png/40-correcting-nrm-typo-and-file-move.png)
    - **Observation:** Forensic honesty. Anaximander acknowledges a "nrm" shell typo and correctly executes the move and internal metadata update for the new configuration file.
 
 3. **IMG-41: JSON Review Report: Entry 1**
    - **Date:** 2025-12-31 15:01:00
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/41-json-review-report-entry-1.png`
-   - ![JSON Review Report: Entry 1](repos/diy-make/memory/public/2025/Q4/12/31/png/41-json-review-report-entry-1.png)
+   - **Localhost Path:** `../../png/41-json-review-report-entry-1.png`
+   - ![JSON Review Report: Entry 1](../../png/41-json-review-report-entry-1.png)
    - **Observation:** Application of the "Audit Scrutiny" protocol. The agent presents a formal report of the Entry 1 decision, capturing user rationale and spawning a new WeDo task for a chrono-fractal memory index.
 
 ### Batch 14: Eukaryotic Memory and Schema Hardening
@@ -318,20 +318,20 @@
 
 1. **IMG-42: Eukaryotic Memory Directive**
    - **Date:** 2025-12-31 15:12:17
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/42-eukaryotic-memory-directive.png`
-   - ![Eukaryotic Memory Directive](repos/diy-make/memory/public/2025/Q4/12/31/png/42-eukaryotic-memory-directive.png)
+   - **Localhost Path:** `../../png/42-eukaryotic-memory-directive.png`
+   - ![Eukaryotic Memory Directive](../../png/42-eukaryotic-memory-directive.png)
    - **Observation:** High-level strategic steering. The User defines memory repos as hybrid "Subject-within-Object" entities synced with Google Drive. This beat formalizes the firm's data sovereignty model.
 
 2. **IMG-43: Formatting Correction and Hybrid Logic**
    - **Date:** 2025-12-31 15:15:25
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/43-formatting-correction-and-hybrid-logic.png`
-   - ![Formatting Correction and Hybrid Logic](repos/diy-make/memory/public/2025/Q4/12/31/png/43-formatting-correction-and-hybrid-logic.png)
+   - **Localhost Path:** `../../png/43-formatting-correction-and-hybrid-logic.png`
+   - ![Formatting Correction and Hybrid Logic](../../png/43-formatting-correction-and-hybrid-logic.png)
    - **Observation:** Visual parity enforcement. The User corrects Anaximander's use of tables in the terminal, reinforcing the "Direct Aesthetic" principle and mandating a shift to list-based or `.py`-formatted reports.
 
 3. **IMG-44: JSON Review: Entry 2 (Schema Hardening)**
    - **Date:** 2025-12-31 15:21:35
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/44-json-review-entry-2-schema-hardening.png`
-   - ![JSON Review: Entry 2 (Schema Hardening)](repos/diy-make/memory/public/2025/Q4/12/31/png/44-json-review-entry-2-schema-hardening.png)
+   - **Localhost Path:** `../../png/44-json-review-entry-2-schema-hardening.png`
+   - ![JSON Review: Entry 2 (Schema Hardening)](../../png/44-json-review-entry-2-schema-hardening.png)
    - **Observation:** Legislative refinement. Anaximander audits `schema.json` and recommends an **EDIT + MOVE**, proposing a transition to a "Heartwood Base Schema" with mandatory forensic keys.
 
 ### Batch 15: Boomerang Realization and Subject/Object Correction
@@ -339,20 +339,20 @@
 
 1. **IMG-45: Boomerang Triggered (Entry 1 Regression)**
    - **Date:** 2025-12-31 15:22:24
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/45-boomerang-triggered-entry-1-regression.png`
-   - ![Boomerang Triggered (Entry 1 Regression)](repos/diy-make/memory/public/2025/Q4/12/31/png/45-boomerang-triggered-entry-1-regression.png)
+   - **Localhost Path:** `../../png/45-boomerang-triggered-entry-1-regression.png`
+   - ![Boomerang Triggered (Entry 1 Regression)](../../png/45-boomerang-triggered-entry-1-regression.png)
    - **Observation:** Real-time steering. The User invokes the "Boomerang" principle to force a re-evaluation of Entry 1, ensuring that the structural definitions are finalized before moving on to the schema audit.
 
 2. **IMG-46: Eukaryotic Model Re-presentation**
    - **Date:** 2025-12-31 15:23:37
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/46-eukaryotic-model-re-presentation.png`
-   - ![Eukaryotic Model Re-presentation](repos/diy-make/memory/public/2025/Q4/12/31/png/46-eukaryotic-model-re-presentation.png)
+   - **Localhost Path:** `../../png/46-eukaryotic-model-re-presentation.png`
+   - ![Eukaryotic Model Re-presentation](../../png/46-eukaryotic-model-re-presentation.png)
    - **Observation:** Structural synthesis. Anaximander re-presents the memory structure, formalizing the hybrid nature of the local directory as both a Git object and a Google Drive subject.
 
 3. **IMG-47: Subject/Object Confusion Correction**
    - **Date:** 2025-12-31 15:25:07
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/47-subject-object-confusion-correction.png`
-   - ![Subject/Object Confusion Correction](repos/diy-make/memory/public/2025/Q4/12/31/png/47-subject-object-confusion-correction.png)
+   - **Localhost Path:** `../../png/47-subject-object-confusion-correction.png`
+   - ![Subject/Object Confusion Correction](../../png/47-subject-object-confusion-correction.png)
    - **Observation:** Forensic precision. The Lead Partner identifies a misclassification of `comms/`. Anaximander provides a high-fidelity breakdown of the error, correcting the definition to reflect that `memory/` is the **Subject** for `comms/` while remaining an **Object** for `public/`.
 
 ### Batch 16: Boomerang Correction and Eukaryotic Synthesis
@@ -360,20 +360,20 @@
 
 1. **IMG-48: Boomerang Correction Rationale**
    - **Date:** 2025-12-31 15:27:05
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/48-boomerang-correction-rationale.png`
-   - ![Boomerang Correction Rationale](repos/diy-make/memory/public/2025/Q4/12/31/png/48-boomerang-correction-rationale.png)
+   - **Localhost Path:** `../../png/48-boomerang-correction-rationale.png`
+   - ![Boomerang Correction Rationale](../../png/48-boomerang-correction-rationale.png)
    - **Observation:** Logical reconciliation. Anaximander formally acknowledges the Subject/Object error and prepares to update the Heartwood and audit log with the correct eukaryotic logic.
 
 2. **IMG-49: Memory Repo Eukaryotic Structure (V1.3)**
    - **Date:** 2025-12-31 15:31:07
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/49-memory-repo-eukaryotic-structure-v1-3.png`
-   - ![Memory Repo Eukaryotic Structure (V1.3)](repos/diy-make/memory/public/2025/Q4/12/31/png/49-memory-repo-eukaryotic-structure-v1-3.png)
+   - **Localhost Path:** `../../png/49-memory-repo-eukaryotic-structure-v1-3.png`
+   - ![Memory Repo Eukaryotic Structure (V1.3)](../../png/49-memory-repo-eukaryotic-structure-v1-3.png)
    - **Observation:** Structural hardening. The terminal shows the finalized JSON for the eukaryotic structure, distinguishing between git-managed subjects and the overarching Google Drive sync layer.
 
 3. **IMG-50: Entry 1 Audit Log Sync**
    - **Date:** 2025-12-31 15:38:13
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/50-entry-1-audit-log-sync.png`
-   - ![Entry 1 Audit Log Sync](repos/diy-make/memory/public/2025/Q4/12/31/png/50-entry-1-audit-log-sync.png)
+   - **Localhost Path:** `../../png/50-entry-1-audit-log-sync.png`
+   - ![Entry 1 Audit Log Sync](../../png/50-entry-1-audit-log-sync.png)
    - **Observation:** Metabolic synchronization. The agent presents the updated audit log for Entry 1, capturing the Boomerang correction and the user's strategic input regarding the Google Drive layer.
 
 ### Batch 17: User Refinements and Audit Log Hardening
@@ -381,20 +381,20 @@
 
 1. **IMG-51: Memory Repo Structure (V1.4 Refinement)**
    - **Date:** 2025-12-31 15:39:27
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/51-memory-repo-structure-v1-4-refinement.png`
-   - ![Memory Repo Structure (V1.4 Refinement)](repos/diy-make/memory/public/2025/Q4/12/31/png/51-memory-repo-structure-v1-4-refinement.png)
+   - **Localhost Path:** `../../png/51-memory-repo-structure-v1-4-refinement.png`
+   - ![Memory Repo Structure (V1.4 Refinement)](../../png/51-memory-repo-structure-v1-4-refinement.png)
    - **Observation:** Granular optimization. Anaximander updates the eukaryotic model to reflect the replacement of `big_files/` with `webm/` and the use of `inbox/` for unorganized artifacts, aligning the JSON with the physical reality of the firm.
 
 2. **IMG-52: Audit Log Sync with User Refinements**
    - **Date:** 2025-12-31 15:40:32
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/52-audit-log-sync-with-user-refinements.png`
-   - ![Audit Log Sync with User Refinements](repos/diy-make/memory/public/2025/Q4/12/31/png/52-audit-log-sync-with-user-refinements.png)
+   - **Localhost Path:** `../../png/52-audit-log-sync-with-user-refinements.png`
+   - ![Audit Log Sync with User Refinements](../../png/52-audit-log-sync-with-user-refinements.png)
    - **Observation:** Auditability hardening. The agent re-presents the Entry 1 audit log, now incorporating the specific user reasons and flags regarding the redundant nature of the local configuration.
 
 3. **IMG-53: Writing Hardened Audit Log JSON**
    - **Date:** 2025-12-31 15:43:21
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/53-writing-hardened-audit-log-json.png`
-   - ![Writing Hardened Audit Log JSON](repos/diy-make/memory/public/2025/Q4/12/31/png/53-writing-hardened-audit-log-json.png)
+   - **Localhost Path:** `../../png/53-writing-hardened-audit-log-json.png`
+   - ![Writing Hardened Audit Log JSON](../../png/53-writing-hardened-audit-log-json.png)
    - **Observation:** Legislative crystallization. Anaximander writes the final version of `audit_log.json`, formalizing the decisions and new WeDo tasks generated during the Entry 1 review cycle.
 
 ### Batch 18: Specialized Memory Mapping
@@ -402,20 +402,20 @@
 
 1. **IMG-54: Creating memory_metagit_map.json**
    - **Date:** 2025-12-31 15:43:28
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/54-creating-memory-metagit-map-json.png`
-   - ![Creating memory_metagit_map.json](repos/diy-make/memory/public/2025/Q4/12/31/png/54-creating-memory-metagit-map-json.png)
+   - **Localhost Path:** `../../png/54-creating-memory-metagit-map-json.png`
+   - ![Creating memory_metagit_map.json](../../png/54-creating-memory-metagit-map-json.png)
    - **Observation:** Tooling expansion. Anaximander initializes a specialized Metagit map for the `memory/` repository, mapping git-managed logic and cloud-synced blobs to ensure absolute forensic traceability.
 
 2. **IMG-55: Creating py/format_memory_map.py**
    - **Date:** 2025-12-31 15:43:42
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/55-creating-format-memory-map-py.png`
-   - ![Creating py/format_memory_map.py](repos/diy-make/memory/public/2025/Q4/12/31/png/55-creating-format-memory-map-py.png)
+   - **Localhost Path:** `../../png/55-creating-format-memory-map-py.png`
+   - ![Creating py/format_memory_map.py](../../png/55-creating-format-memory-map-py.png)
    - **Observation:** Realizing the .json+.py pattern. The agent writes a Python display script to provide an "enjoyable," emoji-rich visualization of the memory repository's structure, bridging the gap between raw nerves and human intuition.
 
 3. **IMG-56: Entry 1 Finalized and Entry 2 Pending**
    - **Date:** 2025-12-31 15:44:11
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/56-entry-1-finalized-entry-2-pending.png`
-   - ![Entry 1 Finalized and Entry 2 Pending](repos/diy-make/memory/public/2025/Q4/12/31/png/56-entry-1-finalized-entry-2-pending.png)
+   - **Localhost Path:** `../../png/56-entry-1-finalized-entry-2-pending.png`
+   - ![Entry 1 Finalized and Entry 2 Pending](../../png/56-entry-1-finalized-entry-2-pending.png)
    - **Observation:** Audit workflow continuity. The terminal shows the finalized summary for Entry 1 and the queueing of Entry 2 (`schema.json`), signifying the completion of the first major metabolic loop of the JSON review.
 
 ### Batch 19: Naming Consistency and Schema Auditing
@@ -423,20 +423,20 @@
 
 1. **IMG-57: Directive for .json+.py Naming Consistency**
    - **Date:** 2025-12-31 15:45:09
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/57-directive-for-json-py-naming-consistency.png`
-   - ![Directive for .json+.py Naming Consistency](repos/diy-make/memory/public/2025/Q4/12/31/png/57-directive-for-json-py-naming-consistency.png)
+   - **Localhost Path:** `../../png/57-directive-for-json-py-naming-consistency.png`
+   - ![Directive for .json+.py Naming Consistency](../../png/57-directive-for-json-py-naming-consistency.png)
    - **Observation:** Aesthetic hardening. The User mandates that all .json+.py teams must share identical names and paths, ensuring a clean and predictable mapping for future agents and human auditors.
 
 2. **IMG-58: Re-alignment of .json+.py Teams**
    - **Date:** 2025-12-31 15:45:57
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/58-re-alignment-of-json-py-teams.png`
-   - ![Re-alignment of .json+.py Teams](repos/diy-make/memory/public/2025/Q4/12/31/png/58-re-alignment-of-json-py-teams.png)
+   - **Localhost Path:** `../../png/58-re-alignment-of-json-py-teams.png`
+   - ![Re-alignment of .json+.py Teams](../../png/58-re-alignment-of-json-py-teams.png)
    - **Observation:** Realization of consistency. Anaximander reports the successful re-alignment of the naming pairs and presents the final review of the Entry 1 audit log, now perfectly aligned with the firm's visual standards.
 
 3. **IMG-59: Entry 2 Schema Audit Presentation**
    - **Date:** 2025-12-31 15:46:41
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/59-entry-2-schema-audit-presentation.png`
-   - ![Entry 2 Schema Audit Presentation](repos/diy-make/memory/public/2025/Q4/12/31/png/59-entry-2-schema-audit-presentation.png)
+   - **Localhost Path:** `../../png/59-entry-2-schema-audit-presentation.png`
+   - ![Entry 2 Schema Audit Presentation](../../png/59-entry-2-schema-audit-presentation.png)
    - **Observation:** Continuous metabolic labor. The agent presents Entry 2 (`schema.json`) with an **EDIT + MOVE** recommendation, proposing its relocation to `schema/heartwood_base.json` to reside within the appropriate Heartwood branch.
 
 ### Batch 20: Relocation and Deletion Logic
@@ -444,20 +444,20 @@
 
 1. **IMG-60: Relocating memory_metagit_map.json to root json/**
    - **Date:** 2025-12-31 15:48:49
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/60-relocating-memory-metagit-map-to-root-json.png`
-   - ![Relocating memory_metagit_map.json to root json/](repos/diy-make/memory/public/2025/Q4/12/31/png/60-relocating-memory-metagit-map-to-root-json.png)
+   - **Localhost Path:** `../../png/60-relocating-memory-metagit-map-to-root-json.png`
+   - ![Relocating memory_metagit_map.json to root json/](../../png/60-relocating-memory-metagit-map-to-root-json.png)
    - **Observation:** Structural alignment. Following user instructions, Anaximander moves the memory metagit map from `configuration/` to the root `json/` directory in `public/`, ensuring it serves as a top-level index for the chrono-fractal memory.
 
 2. **IMG-61: Entry 2 Recommendation: DELETE or MERGE**
    - **Date:** 2025-12-31 15:51:05
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/61-entry-2-delete-or-merge-recommendation.png`
-   - ![Entry 2 Recommendation: DELETE or MERGE](repos/diy-make/memory/public/2025/Q4/12/31/png/61-entry-2-delete-or-merge-recommendation.png)
+   - **Localhost Path:** `../../png/61-entry-2-delete-or-merge-recommendation.png`
+   - ![Entry 2 Recommendation: DELETE or MERGE](../../png/61-entry-2-delete-or-merge-recommendation.png)
    - **Observation:** Redundancy identification. Anaximander re-evaluates Entry 2 and identifies it as a generic bootstrap placeholder that is already covered by more specific schemas. The agent upgrades the recommendation to **DELETE or MERGE**.
 
 3. **IMG-62: Executing Entry 2 Deletion and Audit Log Update**
    - **Date:** 2025-12-31 15:51:47
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/62-executing-entry-2-deletion-and-audit-log-update.png`
-   - ![Executing Entry 2 Deletion and Audit Log Update](repos/diy-make/memory/public/2025/Q4/12/31/png/62-executing-entry-2-deletion-and-audit-log-update.png)
+   - **Localhost Path:** `../../png/62-executing-entry-2-deletion-and-audit-log-update.png`
+   - ![Executing Entry 2 Deletion and Audit Log Update](../../png/62-executing-entry-2-deletion-and-audit-log-update.png)
    - **Observation:** Forensic execution. Anaximander executes the `rm` command to remove the redundant schema file and simultaneously updates the `audit_log.json`. This beat validates the "Neg-entropy" phase of the refactor, where fragmented air is purged to make room for hardened legislative nerves.
 
 ### Batch 21: Hierarchy Proportion and Protocol Audits
@@ -465,20 +465,20 @@
 
 1. **IMG-63: Entry 3 Recommendation: MOVE + EDIT + DELETE PARENT**
    - **Date:** 2025-12-31 15:52:05
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/63-entry-3-consolidation-recommendation.png`
-   - ![Entry 3 Recommendation: MOVE + EDIT + DELETE PARENT](repos/diy-make/memory/public/2025/Q4/12/31/png/63-entry-3-consolidation-recommendation.png)
+   - **Localhost Path:** `../../png/63-entry-3-consolidation-recommendation.png`
+   - ![Entry 3 Recommendation: MOVE + EDIT + DELETE PARENT](../../png/63-entry-3-consolidation-recommendation.png)
    - **Observation:** Architectural critique. Anaximander identifies a violation of the **Hierarchy Proportion** principle—excessive directory nesting for minimal data. The agent recommends collapsing the `file_architecture/` sub-tree into a consolidated schema.
 
 2. **IMG-64: Consensus on Hierarchy Proportion**
    - **Date:** 2025-12-31 16:09:01
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/64-consensus-on-hierarchy-proportion.png`
-   - ![Consensus on Hierarchy Proportion](repos/diy-make/memory/public/2025/Q4/12/31/png/64-consensus-on-hierarchy-proportion.png)
+   - **Localhost Path:** `../../png/64-consensus-on-hierarchy-proportion.png`
+   - ![Consensus on Hierarchy Proportion](../../png/64-consensus-on-hierarchy-proportion.png)
    - **Observation:** Design calibration. The User agrees with the consolidation, noting that Design Choices are better calibrated through agent feedback. This beat documents the "Meeting of Minds" regarding the firm's filesystem aesthetics.
 
 3. **IMG-65: Entry 4: Job Takeover Protocol Audit**
    - **Date:** 2025-12-31 16:11:47
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/65-entry-4-job-takeover-protocol-audit.png`
-   - ![Entry 4: Job Takeover Protocol Audit](repos/diy-make/memory/public/2025/Q4/12/31/png/65-entry-4-job-takeover-protocol-audit.png)
+   - **Localhost Path:** `../../png/65-entry-4-job-takeover-protocol-audit.png`
+   - ![Entry 4: Job Takeover Protocol Audit](../../png/65-entry-4-job-takeover-protocol-audit.png)
    - **Observation:** Protocol hardening. Anaximander audits the `job_takeover_protocol.json`, ensuring the guidelines for taking over from stuck or unresponsive agents are machine-readable and aligned with current swarm communication logs.
 
 ### Batch 22: Unclean Streams and Grammar Specifications
@@ -486,20 +486,20 @@
 
 1. **IMG-66: Consensus on Unclean Streams Workaround**
    - **Date:** 2025-12-31 16:17:34
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/66-consensus-on-unclean-streams-workaround.png`
-   - ![Consensus on Unclean Streams Workaround](repos/diy-make/memory/public/2025/Q4/12/31/png/66-consensus-on-unclean-streams-workaround.png)
+   - **Localhost Path:** `../../png/66-consensus-on-unclean-streams-workaround.png`
+   - ![Consensus on Unclean Streams Workaround](../../png/66-consensus-on-unclean-streams-workaround.png)
    - **Observation:** Forensic contextualization. The Lead Partner explains that the current image journal WeDo and `memory/` structure were born out of the inability to clean legacy "unclean streams." This beat documents the strategic shift from stream-cleaning to the self-reflective Metagit solution.
 
 2. **IMG-67: Entry 5 Recommendation: Personality Audit**
    - **Date:** 2025-12-31 16:22:36
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/67-entry-5-personality-audit-recommendation.png`
-   - ![Entry 5 Recommendation: Personality Audit](repos/diy-make/memory/public/2025/Q4/12/31/png/67-entry-5-personality-audit-recommendation.png)
+   - **Localhost Path:** `../../png/67-entry-5-personality-audit-recommendation.png`
+   - ![Entry 5 Recommendation: Personality Audit](../../png/67-entry-5-personality-audit-recommendation.png)
    - **Observation:** Behavioral hardening. Anaximander audits `personality.json`, recommending its relocation to `principles/` and identifying it as "overly generic." The agent proposes adding specific swarm personalities to improve "Thalon tension" and operational detail.
 
 3. **IMG-68: Entry 6 of 406: SeedTree Recursive Grammar Audit**
    - **Date:** 2025-12-31 16:25:23
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/68-entry-6-seedtree-grammar-audit.png`
-   - ![Entry 6 of 406: SeedTree Recursive Grammar Audit](repos/diy-make/memory/public/2025/Q4/12/31/png/68-entry-6-seedtree-grammar-audit.png)
+   - **Localhost Path:** `../../png/68-entry-6-seedtree-grammar-audit.png`
+   - ![Entry 6 of 406: SeedTree Recursive Grammar Audit](../../png/68-entry-6-seedtree-grammar-audit.png)
    - **Observation:** Core architectural audit. The agent presents the logic for the **SeedTree Recursive Grammar**, identifying the 406-file scope of the audit. This beat documents the "Instructional Garbage Collection" logic (`this.$rec = false`) that underpins the firma's memory-safe operations.
 
 ### Batch 23: Bulk Consolidation and Recalculated Scope
@@ -507,20 +507,20 @@
 
 1. **IMG-69: Single Key-Value Consolidation Strategy**
    - **Date:** 2025-12-31 16:28:00
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/69-single-key-value-consolidation-strategy.png`
-   - ![Single Key-Value Consolidation Strategy](repos/diy-make/memory/public/2025/Q4/12/31/png/69-single-key-value-consolidation-strategy.png)
+   - **Localhost Path:** `../../png/69-single-key-value-consolidation-strategy.png`
+   - ![Single Key-Value Consolidation Strategy](../../png/69-single-key-value-consolidation-strategy.png)
    - **Observation:** Metabolic acceleration. The User directs the agent to first consolidate all single key-value JSON files at its discretion before returning to the 1-by-1 review. This strategy aims to reduce hierarchy bloat and improve session velocity.
 
 2. **IMG-70: Bulk Consolidation: Protocol & Knowledge Cleanup**
    - **Date:** 2025-12-31 16:28:43
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/70-bulk-consolidation-protocol-knowledge-cleanup.png`
-   - ![Bulk Consolidation: Protocol & Knowledge Cleanup](repos/diy-make/memory/public/2025/Q4/12/31/png/70-bulk-consolidation-protocol-knowledge-cleanup.png)
+   - **Localhost Path:** `../../png/70-bulk-consolidation-protocol-knowledge-cleanup.png`
+   - ![Bulk Consolidation: Protocol & Knowledge Cleanup](../../png/70-bulk-consolidation-protocol-knowledge-cleanup.png)
    - **Observation:** Neg-entropy realization. Anaximander merges startup protocols, error handling fragments, and knowledge base clusters into unified schemas. This beat captures the "cleaning of the air" to harden the firmware's structural integrity.
 
 3. **IMG-71: Entry 07 of 384: Recalculated Audit Scope**
    - **Date:** 2025-12-31 16:30:08
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/71-recalculated-audit-scope-entry-07.png`
-   - ![Entry 07 of 384: Recalculated Audit Scope](repos/diy-make/memory/public/2025/Q4/12/31/png/71-recalculated-audit-scope-entry-07.png)
+   - **Localhost Path:** `../../png/71-recalculated-audit-scope-entry-07.png`
+   - ![Entry 07 of 384: Recalculated Audit Scope](../../png/71-recalculated-audit-scope-entry-07.png)
    - **Observation:** Efficient re-alignment. Following the bulk consolidation, the audit scope is reduced from 406 to 384 files. Anaximander resumes the 1-by-1 review with Entry 07 (`submodule_handling.json`), recommending its relocation to `rules/git_methodology/`.
 
 ### Batch 24: Code Policy and Chat History Consolidation
@@ -528,20 +528,20 @@
 
 1. **IMG-72: Entry 08: Code Generation Policy Audit**
    - **Date:** 2025-12-31 16:35:55
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/72-entry-08-code-generation-policy-audit.png`
-   - ![Entry 08: Code Generation Policy Audit](repos/diy-make/memory/public/2025/Q4/12/31/png/72-entry-08-code-generation-policy-audit.png)
+   - **Localhost Path:** `../../png/72-entry-08-code-generation-policy-audit.png`
+   - ![Entry 08: Code Generation Policy Audit](../../png/72-entry-08-code-generation-policy-audit.png)
    - **Observation:** Quality enforcement. Anaximander audits the code generation policy, emphasizing the "why over what" commenting rule. The agent also notes the requirement for recursive submodule commits within the git methodology.
 
 2. **IMG-73: Entry 09: Chat History Audit**
    - **Date:** 2025-12-31 16:43:36
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/73-entry-09-chat-history-audit.png`
-   - ![Entry 09: Chat History Audit](repos/diy-make/memory/public/2025/Q4/12/31/png/73-entry-09-chat-history-audit.png)
+   - **Localhost Path:** `../../png/73-entry-09-chat-history-audit.png`
+   - ![Entry 09: Chat History Audit](../../png/73-entry-09-chat-history-audit.png)
    - **Observation:** Traceability hardening. The agent audits `chat_history.json`, recommending its move to `session_behavior/`. This beat documents the official transition of session logs to `dynamic/stream/` as `.txt` files, formalizing the firm's forensic stream model.
 
 3. **IMG-74: Chat History Consolidation and Fragment Search**
    - **Date:** 2025-12-31 16:44:14
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/74-chat-history-consolidation-and-fragment-search.png`
-   - ![Chat History Consolidation and Fragment Search](repos/diy-make/memory/public/2025/Q4/12/31/png/74-chat-history-consolidation-and-fragment-search.png)
+   - **Localhost Path:** `../../png/74-chat-history-consolidation-and-fragment-search.png`
+   - ![Chat History Consolidation and Fragment Search](../../png/74-chat-history-consolidation-and-fragment-search.png)
    - **Observation:** Structural hygiene. The User clarifies that log formats are strictly `.txt` (no `.log`). Anaximander attempts to find and merge fragmented history rules, encountering a file path error that triggers an active investigation into the Heartwood's internal structure.
 
 ### Batch 25: Linguistic Consistency and Autonomous Auditing
@@ -549,20 +549,20 @@
 
 1. **IMG-75: Entry 10: Singular/Plural Ambiguity Audit**
    - **Date:** 2025-12-31 16:45:26
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/75-entry-10-singular-plural-ambiguity-audit.png`
-   - ![Entry 10: Singular/Plural Ambiguity Audit](repos/diy-make/memory/public/2025/Q4/12/31/png/75-entry-10-singular-plural-ambiguity-audit.png)
+   - **Localhost Path:** `../../png/75-entry-10-singular-plural-ambiguity-audit.png`
+   - ![Entry 10: Singular/Plural Ambiguity Audit](../../png/75-entry-10-singular-plural-ambiguity-audit.png)
    - **Observation:** Philological hardening. Anaximander audits the singular/plural naming principle, recommending its expansion to include the **Eukaryotic Hierarchy** logic—explaining why collectives like `inbox/` and `trash/` remain singular to maintain linguistic consistency.
 
 2. **IMG-76: Autonomous Bulk Audit Mandate**
    - **Date:** 2025-12-31 16:53:10
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/76-autonomous-bulk-audit-mandate.png`
-   - ![Autonomous Bulk Audit Mandate](repos/diy-make/memory/public/2025/Q4/12/31/png/76-autonomous-bulk-audit-mandate.png)
+   - **Localhost Path:** `../../png/76-autonomous-bulk-audit-mandate.png`
+   - ![Autonomous Bulk Audit Mandate](../../png/76-autonomous-bulk-audit-mandate.png)
    - **Observation:** Velocity breakthrough. The Lead Partner authorizes Anaximander to perform the remaining 376 reviews autonomously, using its best discretion to group, consolidate, and version artifacts while logging every decision. All deletions are queued for the final stage to prevent data loss.
 
 3. **IMG-77: Bulk Audit Stage 3: Knowledge & Schema Consolidation**
    - **Date:** 2025-12-31 16:55:10
-   - **Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/77-bulk-audit-stage-3-consolidation.png`
-   - ![Bulk Audit Stage 3: Knowledge & Schema Consolidation](repos/diy-make/memory/public/2025/Q4/12/31/png/77-bulk-audit-stage-3-consolidation.png)
+   - **Localhost Path:** `../../png/77-bulk-audit-stage-3-consolidation.png`
+   - ![Bulk Audit Stage 3: Knowledge & Schema Consolidation](../../png/77-bulk-audit-stage-3-consolidation.png)
    - **Observation:** Advanced architectural merging. Anaximander executes Stage 3 of the bulk consolidation, merging BIM ontologies, memory concepts, root computational schemas, and MCP configurations. The agent prepares to write `py/bulk_consolidate_knowledge.py` to automate this metabolic labor.
 
 ---
@@ -573,33 +573,33 @@
 
 ### IMG-78: Interruption of Bulk Consolidation and 1-by-1 Mandate
 **Date:** 2025-12-31 16:55:41
-**Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/78-interruption-of-bulk-consolidation-1-by-1-mandate.png`
+**Localhost Path:** `../../png/78-interruption-of-bulk-consolidation-1-by-1-mandate.png`
 
-![Interruption of Bulk Consolidation and 1-by-1 Mandate](repos/diy-make/memory/public/2025/Q4/12/31/png/78-interruption-of-bulk-consolidation-1-by-1-mandate.png)
+![Interruption of Bulk Consolidation and 1-by-1 Mandate](../../png/78-interruption-of-bulk-consolidation-1-by-1-mandate.png)
 
 **Description:** This screenshot captures a "Synaptic" redirection from the User. Just as Anaximander is preparing to execute the `bulk_consolidate_knowledge.py` script, the Lead Partner intervenes: "I want you to do here 1 by 1 still a wedo but you just do the next." This beat documents the deliberate slowing of metabolic velocity to favor high-fidelity legislative hardening, ensuring that each of the 400+ files receives granular human review before consolidation.
 
 ### IMG-79: Return to 1-by-1 Review: Entry 10
 **Date:** 2025-12-31 16:58:13
-**Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/79-return-to-1-by-1-review-entry-10.png`
+**Localhost Path:** `../../png/79-return-to-1-by-1-review-entry-10.png`
 
-![Return to 1-by-1 Review: Entry 10](repos/diy-make/memory/public/2025/Q4/12/31/png/79-return-to-1-by-1-review-entry-10.png)
+![Return to 1-by-1 Review: Entry 10](../../png/79-return-to-1-by-1-review-entry-10.png)
 
 **Description:** This screenshot documents the restoration of the 1-by-1 review process after the bulk consolidation attempt was boomeranged. Anaximander re-presents Entry 10 of 406 (`singular_plural_ambiguity.json`), proposing an **EDIT + MOVE** to the `principles/` directory. This beat represents the return to "Watched Automation," where the agent's cognitive labor is once again subjected to granular human scrutiny to ensure absolute alignment with the firm's linguistic and structural virtues.
 
 ### IMG-80: Deferred Deletion Protocol Enforcement
 **Date:** 2025-12-31 16:58:51
-**Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/80-deferred-deletion-protocol-enforcement.png`
+**Localhost Path:** `../../png/80-deferred-deletion-protocol-enforcement.png`
 
-![Deferred Deletion Protocol Enforcement](repos/diy-make/memory/public/2025/Q4/12/31/png/80-deferred-deletion-protocol-enforcement.png)
+![Deferred Deletion Protocol Enforcement](../../png/80-deferred-deletion-protocol-enforcement.png)
 
 **Description:** This screenshot captures a procedural correction from the User regarding the handling of deleted files. The Lead Partner mandates that `rm` commands must be "collected until the end," rather than executed immediately. This beat reinforces the "Neg-entropy" requirement for safety: legislative deletions must be queued and audited as a complete set before the substrate is physically purged, allowing for recovery if logical errors are discovered during the 1-by-1 audit.
 
 ### IMG-81: Writing Consolidated Naming Conventions
 **Date:** 2025-12-31 17:00:15
-**Localhost Path:** `repos/diy-make/memory/public/2025/Q4/12/31/png/81-writing-consolidated-naming-conventions.png`
+**Localhost Path:** `../../png/81-writing-consolidated-naming-conventions.png`
 
-![Writing Consolidated Naming Conventions](repos/diy-make/memory/public/2025/Q4/12/31/png/81-writing-consolidated-naming-conventions.png)
+![Writing Consolidated Naming Conventions](../../png/81-writing-consolidated-naming-conventions.png)
 
 **Description:** This screenshot captures agent Anaximander writing the new `principles/naming_conventions.json` file. The schema formalizes the firm's linguistic Virtues, specifically documenting why eukaryotic collectives like `inbox/` and `trash/` remain singular to reflect their biological status as "single-subject organisms." This beat represents the "Hardening" of the firm's naming DNA, ensuring that future agents adhere to a unified philological standard while the legacy fragments are queued for deferred removal.
 
