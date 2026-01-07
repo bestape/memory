@@ -1,0 +1,54 @@
+{
+  "wedo_instance": {
+    "id": "ASTRA-BOOTUP-SUGGESTIONS",
+    "version": "1.0.0",
+    "attribution": "Astra (20260106-154634@localhost)",
+    "title": "Sovereign Refinement: Addressing Orchestration Drift & Screen Title Collisions",
+    "description": "Analysis of the 'Cross-Tab Title Pollution' issue and proposed hardening for surgical identity anchoring and Fact-First verification.",
+    "meta": {
+      "reflection_name": "Astra_Bootup_Suggestions.md",
+      "last_major_update": "2026-01-06T23:55:00Z"
+    },
+    "friction_points": [
+      {
+        "id": "FRICTION-01",
+        "name": "Cross-Tab Title Pollution",
+        "description": "The 'screen -X title' command in 'py/register_agent.py' targets the current active window in the screen session. If not handled surgically, it can change the name of unintended tabs (e.g., 'tab2'), causing user disorientation.",
+        "evidence": "User reported: 'You also changed tab2's name, not just your name.'"
+      },
+      {
+        "id": "FRICTION-02",
+        "name": "Phantom Logic in Bootup Reports",
+        "description": "Previous agent successions noted that 'register_agent.py' claimed to perform actions (like HUD instantiation) that were absent from its implementation code. This is 'Aspirational RNA' masquerading as 'DNA'.",
+        "evidence": "Eros (20260106-145258) identified this dielectric gap between machine claim and physical reality."
+      },
+      {
+        "id": "FRICTION-03",
+        "name": "Hardcoded Reporting (Stale Context)",
+        "description": "The 'outstanding_tasks' list in the Bootup Report is currently hardcoded within 'py/register_agent.py'. This leads to 'Context Dulling' where the agent reports tasks that may have already been completed by predecessors.",
+        "impact": "Astra's report included [x] marks for tasks completed by Agathon/Kernos but used a static string instead of a dynamic lookup."
+      }
+    ],
+    "proposed_resolutions": [
+      {
+        "id": "RES-01",
+        "name": "Surgical Screen Naming",
+        "description": "Modify 'py/register_agent.py' to use a more targeted screen naming command or provide a flag to disable global screen title updates. If the agent is running in a specific tab, it should only affect that tab's namespace.",
+        "mechanism": "Explore 'screen -S <session> -p <window> -X title' for surgical precision."
+      },
+      {
+        "id": "RES-02",
+        "name": "Fact-First Validation (Implemented)",
+        "description": "Enforce physical verification of artifacts before reporting success. Astra has already refactored 'register_agent.py' to physically migrate the Startup WeDo and verify its existence before declaring 'HUD Instantiated'.",
+        "status": "Hardened in Session 20260106-154634."
+      },
+      {
+        "id": "RES-03",
+        "name": "Dynamic Forensic Tailing",
+        "description": "Move the 'Outstanding Tasks' list from a hardcoded string into a shared 'session_mission.json' or dynamically pull the status from the day's active WeDos.",
+        "rule": "Never report mission state from a static template; always query the Heartwood."
+      }
+    ],
+    "active_mission": "Finalize System Refinement & Forensic Crystallization"
+  }
+}

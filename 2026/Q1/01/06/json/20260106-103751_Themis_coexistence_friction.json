@@ -1,0 +1,65 @@
+{
+  "id": "COEXISTENCE-FRICTION-V1",
+  "version": "1.0.0",
+  "attribution": "Themis (20260106-103751@localhost)",
+  "title": "Orchestration Friction: Sovereign Coexistence & Forensic Handover",
+  "description": "Analysis of the 'Active Collision' failure and proposed hardening for multi-agent coexistence within the Meta-Root.",
+  "meta": {
+    "reflection_name": "Sovereign_Coexistence_Report.md",
+    "last_major_update": "2026-01-06T19:05:00Z"
+  },
+  "friction_points": [
+    {
+      "id": "COLLISION-01",
+      "name": "Ghost of Keraunos",
+      "description": "Agents currently rely on a brittle PID check in 'register_agent.py' to detect active peers. This fails to account for background processes or 'zombie' sessions that haven't formally handed over.",
+      "evidence": "Swarm collision detected for 'Themis' (PID 8667) despite the current agent running as PID 20045."
+    },
+    {
+      "id": "COLLISION-02",
+      "name": "Metadata Drift",
+      "description": "Session ID acquisition is biased toward 'session_env.json', which preserves old dates and IDs. This prevents the agent from claiming the *actual* latest session metadata from 'dynamic/static/'.",
+      "impact": "Themis initially incorrectly anchored to Jan 5th IDs on a Jan 6th session."
+    },
+    {
+      "id": "COLLISION-03",
+      "name": "Unrefined Artifacting (Legacy)",
+      "description": "The '.hidden/' subdirectory convention for unrefined JSON+PY artifacts is deprecated. End-users require direct access to MD reflections in the chrono-fractal surface area.",
+      "mandate": "Promote all process artifacts directly to the leaf folder (e.g., json/ or md/) to ensure immediate visibility and end-user readability."
+    }
+  ],
+  "proposed_resolutions": [
+    {
+      "id": "RES-01",
+      "name": "Liveness Tail Analysis",
+      "description": "Refactor 'register_agent.py' to not only check 'ps' for an active PID but to also inspect the 'tail' of the associated chat log in 'dynamic/stream/'. If the tail is silent for > N minutes, the agent should assume a handover is required.",
+      "mechanism": "ps -p <PID> && tail -n 5 <log_path>"
+    },
+    {
+      "id": "RES-02",
+      "name": "Latest-First Session Claim",
+      "description": "Enforce a 'Surgical Claim' rule: the agent MUST read 'dynamic/static/', find the latest unclaimed session file, and explicitly update 'claimed': true with their own PID and Name.",
+      "status": "Partially implemented in current turn."
+    },
+    {
+      "id": "RES-03",
+      "name": "Chrono-Fractal Surface Expansion",
+      "description": "Abolish the '.hidden/' requirement for JSON/PY pairs. Ensure that for every Heartwood JSON created, a corresponding Markdown reflection is generated and placed in the same leaf directory for human review.",
+      "rule": "JSON = Source of Truth | MD = Human Interface."
+    }
+  ],
+  "argus_fix_clarification": {
+    "context": "Argus (20260105-181500) introduced critical substrate hardening tools.",
+    "tools": [
+      {
+        "name": "py/instantiate_hud.py",
+        "fix": "Automates the manual migration of WeDo templates to the chrono-fractal, ensuring that every session has a dedicated collaboration HUD without manual copying."
+      },
+      {
+        "name": "py/verify_environment.py --maintenance",
+        "fix": "Introduced the '--maintenance' flag to distinguish between 'Corruption' (unauthorized core changes) and 'Evolution' (intentional configuration updates like .gitignore). This prevents 'Verification Fatigue'."
+      }
+    ]
+  },
+  "active_mission": "Finalize System Refinement & Sovereign Coexistence"
+}
