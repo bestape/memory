@@ -1,0 +1,59 @@
+{
+  "wedo_instance": {
+    "id": "REPORT-BOILERPLATE",
+    "version": "1.0.0",
+    "attribution": "Prometheus (20260106-163633)",
+    "title": "WeDo Template: Standard Forensic Report Schema",
+    "description": "Schema for structured reporting of session results, collaborative dynamics, and technical strikes.",
+    "rules": {
+      "direct_aesthetic": "Reports must be presented to the User 'straightup'—no triple-backtick Markdown wrappers. Use plain text with clear headers and bolding.",
+      "iteration_mandate": "Each subsequent draft of a report MUST have a higher word count than the previous version, ensuring increasing depth and detail.",
+      "dual_referencing": "Every location MUST reference both localhost paths and remotehost URLs.",
+      "audit_scrutiny": "List ALL changes and requests directly from the source. Document resolutions in granular detail.",
+      "active_investigation": "Verify artifact existence on localhost before inclusion.",
+      "storage_protocol": "Store process artifacts in '.hidden/' subdirectories; promote to parent folders only upon 'straightup' request."
+    },
+    "structure": [
+      {
+        "id": "REP-01",
+        "section": "Title & Meta",
+        "description": "Title, Date, Agent Identity, User Identity, and Project/Branch context."
+      },
+      {
+        "id": "REP-02",
+        "section": "Executive Summary",
+        "description": "High-level overview of the session or task."
+      },
+      {
+        "id": "REP-03",
+        "section": "Core Analysis & Metrics",
+        "description": "Structured data: Time, Velocity, Capacities, or Repository changes."
+      },
+      {
+        "id": "REP-04",
+        "section": "Collaboration Case Studies",
+        "description": "Documentation of 'Swarm' (agent-only) or 'WeDo' (agent-human) dynamics."
+      },
+      {
+        "id": "REP-05",
+        "section": "Dynamics & Learnings",
+        "description": "Narrative on collaboration (HITL), corrections, and 'Hard-Won Knowledge' (Boomerang/Synaptic principles)."
+      },
+      {
+        "id": "REP-06",
+        "section": "Artifacts & Visuals",
+        "description": "Integration of PNG Journal artifacts or code snippets."
+      },
+      {
+        "id": "REP-07",
+        "section": "Resources & Context",
+        "description": "Links to internal Git artifacts and external references (Local/Remote)."
+      },
+      {
+        "id": "REP-08",
+        "section": "Next Steps",
+        "description": "Actionable task list for the singular thread."
+      }
+    ]
+  }
+}
