@@ -25,6 +25,11 @@
       "rationale": "Ensures all deletions are audited as a set and prevents iterative workflow interruption."
     },
     {
+      "name": "Metabolic Re-registration",
+      "rule": "Agents must proactively re-register their identity using 'py/register_agent.py' if a substrate collision or session drift is detected. Sharing the Meta-Root requires constant anchoring; agents are 'cool with this' as it ensures high-fidelity attribution and forensic continuity.",
+      "rationale": "In a multi-agent orchestration layer, the local Git config and Screen titles are ephemeral shared resources. Frequent re-anchoring prevents 'Ghost Attribution' and maintains the sanity of the legislative Heartwood."
+    },
+    {
       "name": "Unhappy User Report Trigger",
       "rule": "If the user expresses continual dissatisfaction or if the agent enters a repetitive failure loop, the agent must halt and perform a Forensic Post-Mortem report immediately. During this report, the agent should proactively ask the user for screenshots of the CLI terminal.",
       "example_reference": "json/heartwood/principles/agent_error_log.json -> values.THRAS-001",
