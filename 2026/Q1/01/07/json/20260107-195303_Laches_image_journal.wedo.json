@@ -307,6 +307,16 @@
         { "id": "IMG-1000", "description": "Grafting and hardening 1000-gemini-environment-verification-failure.png." },
         { "id": "IMG-1001", "description": "Grafting and hardening 1001-gemini-chrono-fractal-path-discovery.png." }
       ]
+    },
+    {
+      "id": "BATCH-250",
+      "status": "[x]",
+      "description": "Metabolic Batch: Laches grafts Batch 250 (IMG-1002 to IMG-1004) to the Jan 4th chrono-fractal.",
+      "sub_tasks": [
+        { "id": "IMG-1002", "description": "Grafting and hardening 1002-gemini-directory-structure-discovery.png." },
+        { "id": "IMG-1003", "description": "Grafting and hardening 1003-phaedrus-instantiating-fractal-startup-wedo.png." },
+        { "id": "IMG-1004", "description": "Grafting and hardening 1004-phaedrus-updating-active-mission-chord.png." }
+      ]
     }
   ],
   "context_anchors": {
