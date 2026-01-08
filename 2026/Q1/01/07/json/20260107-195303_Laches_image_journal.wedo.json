@@ -247,6 +247,16 @@
         { "id": "IMG-982", "description": "Grafting and hardening 982-gemini-instantiating-metagit-architecture.png." },
         { "id": "IMG-983", "description": "Grafting and hardening 983-gemini-updating-architectural-specs.png." }
       ]
+    },
+    {
+      "id": "BATCH-244",
+      "status": "[x]",
+      "description": "Metabolic Batch: Laches grafts Batch 244 (IMG-984 to IMG-986) to the Jan 4th chrono-fractal.",
+      "sub_tasks": [
+        { "id": "IMG-984", "description": "Grafting and hardening 984-gemini-finalizing-metagit-architecture-commit.png." },
+        { "id": "IMG-985", "description": "Grafting and hardening 985-gemini-architecture-realization-report.png." },
+        { "id": "IMG-986", "description": "Grafting and hardening 986-gemini-identity-anchoring-friction.png." }
+      ]
     }
   ],
   "context_anchors": {
