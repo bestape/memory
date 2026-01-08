@@ -895,5 +895,29 @@
         "original_filename": "Screenshot from 2026-01-05 16-17-33.png"
       }
     ]
+  },
+  {
+    "batch": "20260107-090709_Adrastus_Batch_296",
+    "description": "Adrastus continues the journaling relay, documenting metric hardening and DNS void identification.",
+    "entries": [
+      {
+        "id": "IMG-106",
+        "description": "Capture of the first successful Quickening duration metric display in the terminal.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/106-quickening-duration-metric.png",
+        "original_filename": "Screenshot from 2026-01-05 12-41-32.png"
+      },
+      {
+        "id": "IMG-107",
+        "description": "Visual evidence of the ModuleNotFoundError fix being propagated through the substrate.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/107-module-error-fix-propagation.png",
+        "original_filename": "Screenshot from 2026-01-05 15-09-36.png"
+      },
+      {
+        "id": "IMG-108",
+        "description": "Terminal view of the agent identifying the DNS Void and proposing pre-flight mapping.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/108-dns-void-identification.png",
+        "original_filename": "Screenshot from 2026-01-05 16-20-15.png"
+      }
+    ]
   }
 ]
