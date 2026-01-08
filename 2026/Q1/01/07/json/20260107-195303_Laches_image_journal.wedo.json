@@ -297,6 +297,16 @@
         { "id": "IMG-997", "description": "Grafting and hardening 997-orestes-migrating-conversation-logs.png." },
         { "id": "IMG-998", "description": "Grafting and hardening 998-orestes-biography-protocol-refined-report.png." }
       ]
+    },
+    {
+      "id": "BATCH-249",
+      "status": "[x]",
+      "description": "Metabolic Batch: Laches grafts Batch 249 (IMG-999 to IMG-1001) to the Jan 4th chrono-fractal.",
+      "sub_tasks": [
+        { "id": "IMG-999", "description": "Grafting and hardening 999-gemini-awakening-readme-ai-mandate.png." },
+        { "id": "IMG-1000", "description": "Grafting and hardening 1000-gemini-environment-verification-failure.png." },
+        { "id": "IMG-1001", "description": "Grafting and hardening 1001-gemini-chrono-fractal-path-discovery.png." }
+      ]
     }
   ],
   "context_anchors": {
