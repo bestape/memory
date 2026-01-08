@@ -33,6 +33,11 @@
         "id": "SYNC-04",
         "description": "Implement V1.1.0 changes to metagit_commit.py.",
         "status": "[x]"
+      },
+      {
+        "id": "SYNC-05",
+        "description": "True Session Discovery: Transition from timestamp IDs to Gemini CLI UUIDs in commit metadata.",
+        "status": "[x]"
       }
     ],
     "memory_repositories": [
