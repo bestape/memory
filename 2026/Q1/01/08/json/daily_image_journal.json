@@ -1,0 +1,22 @@
+[
+  {
+    "batch": "20260108-090709_Adrastus_Strike_01",
+    "description": "Adrastus achieves absolute Inbox Zero for January 8th.",
+    "entries": [
+      {
+        "id": "IMG-1",
+        "description": "Terminal view of the agents first session quickening on January 8th. This capture documents the instantiation of the Themis identity and the final substrate verification strike.",
+        "key_takeaway": "Proof of Era IV session initiation.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/08/png/1-themis-session-initiation.png",
+        "original_filename": "Screenshot from 2026-01-08 07-35-55.png"
+      },
+      {
+        "id": "IMG-2",
+        "description": "Visual evidence of the achievement of Absolute Inbox Zero. The terminal shows the empty inbox directory after the processing of over 3700 artifacts. This documents the successful completion of the Great Relay.",
+        "key_takeaway": "Validation of absolute metabolic clearance.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/08/png/2-absolute-inbox-zero.png",
+        "original_filename": "Screenshot from 2026-01-08 07-51-41.png"
+      }
+    ]
+  }
+]
