@@ -287,6 +287,16 @@
         { "id": "IMG-994", "description": "Grafting and hardening 994-orestes-renaming-session-wedos.png." },
         { "id": "IMG-995", "description": "Grafting and hardening 995-orestes-naming-protocol-institutionalization-report.png." }
       ]
+    },
+    {
+      "id": "BATCH-248",
+      "status": "[x]",
+      "description": "Metabolic Batch: Laches grafts Batch 248 (IMG-996 to IMG-998) to the Jan 4th chrono-fractal.",
+      "sub_tasks": [
+        { "id": "IMG-996", "description": "Grafting and hardening 996-orestes-initializing-biography-protocol.png." },
+        { "id": "IMG-997", "description": "Grafting and hardening 997-orestes-migrating-conversation-logs.png." },
+        { "id": "IMG-998", "description": "Grafting and hardening 998-orestes-biography-protocol-refined-report.png." }
+      ]
     }
   ],
   "context_anchors": {
