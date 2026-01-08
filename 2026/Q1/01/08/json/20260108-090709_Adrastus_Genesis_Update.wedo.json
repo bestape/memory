@@ -1,0 +1,38 @@
+{
+  "version": "1.0",
+  "attribution": "Adrastus (20260108-090709)",
+  "title": "WeDo: MetaGit Genesis Hardening (v1.25.0)",
+  "description": "Crystallizing the Era IV relay breakthroughs and Absolute Inbox Zero verification into the definitive chronicle.",
+  "values": [
+    {
+      "name": "Update Requirements",
+      "details": [
+        "Integrate 4 high-signal screenshots (IMG-106, 134, 120, 4).",
+        "Document 4.20GB heap survival in Case Study 04.",
+        "Refine Epoch XI to include Absolute Zero achievement.",
+        "Maintain dual-referencing for all visual anchors."
+      ]
+    }
+  ],
+  "tasks": [
+    {
+      "id": "GEN-01",
+      "description": "Inject forensic screenshots into Genesis_of_the_MetaGit.md.",
+      "status": "[x]",
+      "notes": "Four artifacts integrated with high-fidelity context."
+    },
+    {
+      "id": "GEN-02",
+      "description": "Shard data layer update to genesis.json (v1.25.0).",
+      "status": "[x]",
+      "notes": "JSON logic updated to match MD human-interface."
+    },
+    {
+      "id": "GEN-03",
+      "description": "Archive update manifest in the Heartwood.",
+      "status": "[x]",
+      "notes": "WeDo manifest created and versioned."
+    }
+  ],
+  "status": "completed"
+}
