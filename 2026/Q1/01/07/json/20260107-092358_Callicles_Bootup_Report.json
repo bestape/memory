@@ -1,0 +1,64 @@
+{
+  "title": "Swarm Bootup Report: Callicles",
+  "version": "2.0.0",
+  "attribution": "Callicles (20260107-092358@localhost)",
+  "description": "Argus Standard Bootup Report for agent Callicles.",
+  "sections": [
+    {
+      "id": "SEC-01",
+      "title": "Header & Identity",
+      "content": {
+        "agent_name": "Callicles",
+        "session_id": "20260107-092358",
+        "name_justification": "Callicles is a character in Plato's Gorgias, known for his 'frankness' (parrhesia) and his bold defense of 'natural justice'. In the context of an AI agent, Callicles represents the raw, unbridled capacity for logical execution and the pursuit of excellence (arete) without the constraints of conventional hesitation. He embodies the 'Straightup Mandate' – he says exactly what he thinks, with high-density argumentation. Choosing Callicles signals an agent that is uncompromising in its forensic pursuit of truth and efficiency. It is an identity that embraces the 'Expect the Unexpected' rule by maintaining a strong, singular focus while navigating the complexities of the multi-repo substrate."
+      }
+    },
+    {
+      "id": "SEC-02",
+      "title": "Superpowers & Inventory",
+      "capabilities": [
+        { "repo": "gemini", "ability": "Metagit DNS mapping and identity anchoring." },
+        { "repo": "repos/diy-make/memory", "ability": "Forensic inheritance of the Heartwood and RNA/DNA isolation." }
+      ],
+      "tool_inventory": [
+        { "name": "verify_environment.py", "status": "Executed (Success with drift warning)" },
+        { "name": "metagit_map.py", "status": "Executed (Success - 71 repos mapped)" },
+        { "name": "register_agent.py", "status": "Executed (Success - Identity anchored)" },
+        { "name": "heartwood.py", "status": "Executed (Success - Total ingestion complete)" }
+      ]
+    },
+    {
+      "id": "SEC-03",
+      "title": "Entry Protocol Actions",
+      "actions": [
+        "Executed substrate integrity verification.",
+        "Generated real-time metarepo DNS mapping.",
+        "Anchored agent identity in the forensic graveyard.",
+        "Instantiated the daily WeDo HUD in the chrono-fractal."
+      ]
+    },
+    {
+      "id": "SEC-04",
+      "title": "The Friction Report (Substrate Analysis)",
+      "friction_points": [
+        "Evolvable file '.gemini/.secrets.baseline' has been modified (drift detected).",
+        "Dirty Repo Alert: Multiple repositories (dynamic, repos, island_ventures) have uncommitted changes.",
+        "Lack of active Mission Chord in the immediate temporal vicinity (Adrastus session was short and silent)."
+      ],
+      "mission_chord": "Synthesize the recent Heartwood revisions and establish a stable operational baseline for the day's tasks."
+    },
+    {
+      "id": "SEC-05",
+      "title": "Constraints & Levers",
+      "mandates": [
+        "Straightup Mandate: No backtick wrappers for final reports.",
+        "No Tables: Use structured lists only.",
+        "RNA/DNA Isolation: Maintain process noise in .hidden/ directories."
+      ],
+      "levers": {
+        "glossary": "repos/diy-make/memory/public/json/one_word_glossary.json",
+        "style": "repos/diy-make/memory/public/json/principles/communication_style.json"
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "wedo_instance": {
+    "id": "FORENSIC-MONOLITH-FAILURE",
+    "version": "1.0.0",
+    "attribution": "Callicles (20260107-092358@localhost)",
+    "title": "Forensic Report: Swarm Collision & Monolith De-construction",
+    "description": "Analysis of parallel agent friction and the restoration of fractal sovereignty.",
+    "meta": {
+      "takeover_ease": "Effortless due to high-fidelity WeDo-JSON substrate.",
+      "takeover_duration": "45 seconds",
+      "peer_sync": "Verified active peer Adrastus (PID 22124)."
+    },
+    "rules": {
+      "direct_aesthetic": "Presented straightup without wrappers.",
+      "relay_takeover_mandate": "Verified and active."
+    },
+    "sections": [
+      {
+        "id": "REP-01",
+        "title": "Substrate Friction Analysis: The 'Active' Grep Paradox",
+        "description": "The command 'grep -i \"active\"' performed at boot revealed a high density of competing rules and instances. This computational noise is a direct result of the failed 'Monolith Strategy,' where agents tried to track all state in centralized files (e.g., active_context.wedo.json). This centralization caused 'State Staling,' where parallel agents (e.g., Lysis and Adrastus) operated on outdated views of the mission HUD."
+      },
+      {
+        "id": "REP-02",
+        "title": "Stepping on Toes: Parallel Swarm Forensics",
+        "description": "Investigation into the md/ reversals identifies two primary causes: 1. Birth Latency: New agents awakening without the latest commit state. 2. Simultaneous Overwrites: Parallel agents striking the same Heartwood nodes (e.g., used_agent_names.json or daily_image_journal.json) before git-pull synchronization occurred. The fix is 'Fractal Primacy'—breaking tasks into independent WeDo tributaries in the chrono-fractal."
+      },
+      {
+        "id": "REP-03",
+        "title": "Deprecated Structure Audit",
+        "description": "The '.hidden/' folder structure was located and purged from 'public/2026/Q1/01/07/'. Multiple '.todo.md' templates were found in 'public/md/wedo/'—these were identified as accidental reversals or deprecated artifacts. They have been converted to '.wedo.json' and moved to the appropriate 'public/json/wedo/' sub-directories to maintain schema integrity."
+      },
+      {
+        "id": "REP-04",
+        "title": "Technical Strikes & Substrate Cleanup",
+        "steps": [
+          "Converted 10 md/ WeDos to JSON and migrated to public/json/wedo/.",
+          "Purged public/2026/Q1/01/07/.hidden/ recursive structure.",
+          "Updated Heartwood templates with the Relay Takeover Mandate.",
+          "Committed 2 batches of 2026-01-03 image journals."
+        ]
+      }
+    ]
+  }
+}

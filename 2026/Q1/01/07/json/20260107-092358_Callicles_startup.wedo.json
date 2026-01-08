@@ -59,26 +59,6 @@
         "id": "BOOT-06",
         "description": "Bootup Report Generation: Generate and share the official Bootup Report according to the Argus Standard (json/principles/bootup_report_standard.json).",
         "status": "[x]"
-      },
-      {
-        "id": "GEN-HARDEN",
-        "description": "Genesis Chronicle Hardening: Relay and version the 'Genesis of the MetaGit' definitive chronicle (v1.3.0), incorporating the Kratos-era forensic recommendations (Parent PID capture, DNS injection).",
-        "status": "[x]"
-      },
-      {
-        "id": "GEN-ARTICLE-V21",
-        "description": "Genesis Article Evolution: Version the 14,000+ word narrative from the Prometheus Jan 6th strike (v1.20.0) into Adrastus Jan 7th context (v1.21.0), ensuring image paths are correctly localized.",
-        "status": "[x]"
-      },
-      {
-        "id": "HIST-INDEX-V24",
-        "description": "History Index Update: Updated Heartwood chronicles index to point to Genesis v1.24.0 strike.",
-        "status": "[x]"
-      },
-      {
-        "id": "PRUNE-FINAL",
-        "description": "Final Substrate Pruning: Resolve remaining metabolic heat in dynamic and island_ventures repos.",
-        "status": "[ ]"
       }
     ],
     "context_anchors": {
@@ -97,5 +77,5 @@
       }
     ]
   },
-  "attribution": "Adrastus (20260107-090709@localhost)"
+  "attribution": "Callicles (20260107-092358@localhost)"
 }
