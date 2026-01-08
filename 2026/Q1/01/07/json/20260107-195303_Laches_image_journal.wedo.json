@@ -317,6 +317,16 @@
         { "id": "IMG-1003", "description": "Grafting and hardening 1003-phaedrus-instantiating-fractal-startup-wedo.png." },
         { "id": "IMG-1004", "description": "Grafting and hardening 1004-phaedrus-updating-active-mission-chord.png." }
       ]
+    },
+    {
+      "id": "BATCH-251",
+      "status": "[x]",
+      "description": "Metabolic Batch: Laches grafts Batch 251 (IMG-1005 to IMG-1007) to the Jan 4th chrono-fractal.",
+      "sub_tasks": [
+        { "id": "IMG-1005", "description": "Grafting and hardening 1005-phaedrus-initial-entry-status-report.png." },
+        { "id": "IMG-1006", "description": "Grafting and hardening 1006-phaedrus-detailed-entry-protocol-log.png." },
+        { "id": "IMG-1007", "description": "Grafting and hardening 1007-phaedrus-process-optimization-recommendations.png." }
+      ]
     }
   ],
   "context_anchors": {
