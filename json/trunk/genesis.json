@@ -1,30 +1,38 @@
 {
-  "id": "GENESIS-DEFINITIVE-V1.22",
-  "version": "1.22.0",
+  "id": "GENESIS-DEFINITIVE-V1.24",
+  "version": "1.24.0",
   "attribution": "Adrastus (20260107-090709@localhost)",
   "title": "Genesis of the MetaGit: The Definitive Chronicle",
-  "description": "The complete sharded chronicle of the MetaGit's evolution from chaotic 'Air' to version-controlled 'Wood', restored to full 11-epoch technical lineage.",
+  "description": "Total Ingestion version merging the foundational BIOS principles of v1.19 with the commercial and sprint expansions of v1.23.",
   "meta": {
-    "word_count": 16400,
-    "last_major_update": "2026-01-08T03:45:00Z",
+    "word_count": 19500,
+    "last_major_update": "2026-01-08T04:15:00Z",
     "status": "HARDENED"
   },
   "epochs": [
-    { "id": "EPOCH-I", "name": "Ephemeral Air", "contribution": "Sword and the Arm principle established." },
-    { "id": "EPOCH-II", "name": "The OSO Hack", "contribution": "Parsimonious commands and versioned 'Body' introduced." },
+    { "id": "EPOCH-I", "name": "Ephemeral Air", "contribution": "Established the 'Sword and the Arm' principle." },
+    { "id": "EPOCH-II", "name": "The OSO Hack", "contribution": "Five parsimonious commands and makerspace innovation." },
     { "id": "EPOCH-III", "name": "The Zion Crucible", "contribution": "Birth of the Git Commit Service wrapper." },
-    { "id": "EPOCH-IV", "name": "Reality Merge", "contribution": "Forged the Hybrid Soul; sharding across 71 repos." },
+    { "id": "EPOCH-IV", "name": "Reality Merge", "contribution": "Hybrid Soul sharding across 71 repos." },
     { "id": "EPOCH-V", "name": "The Quickening", "contribution": "Birth of the JSON Nervous System." },
-    { "id": "EPOCH-VI", "name": "The Great Purge", "contribution": "Achieved Neg-Entropy through surgical pruning." },
-    { "id": "EPOCH-VII", "name": "2026 Baseline", "contribution": "Institutionalized Sequential Synthesis and the Halt Mandate." },
-    { "id": "EPOCH-VIII", "name": "Substrate-First Strike", "contribution": "Abolished .hidden/ zones for primary artifacts." },
+    { "id": "EPOCH-VI", "name": "The Great Purge", "contribution": "Achieved Neg-Entropy through consolidation." },
+    { "id": "EPOCH-VII", "name": "2026 Baseline", "contribution": "Institutionalized Sequential Synthesis." },
+    { "id": "EPOCH-VIII", "name": "Substrate-First Strike", "contribution": "Abolished .hidden/ zones." },
     { "id": "EPOCH-IX", "name": "The Sovereign Relay", "contribution": "Established the 'Off-to-the-Side Guide' pattern." },
-    { "id": "EPOCH-X", "name": "The Fractal Garden", "contribution": "Abolished monoliths in favor of Sovereign Fractal Anchoring." },
-    { 
-      "id": "EPOCH-XI", 
-      "name": "The Sovereign Drift", 
-      "contribution": "Identified the Passive Supervision Gap and Monolith Fallacy. Refined Quickening Sequence via Parent PID capture and Pre-Flight DNS injection." 
-    }
+    { "id": "EPOCH-X", "name": "The Fractal Garden", "contribution": "Institutionalized Sovereign Fractal Anchoring." },
+    { "id": "EPOCH-XI", "name": "The Sovereign Drift", "contribution": "Identified Passive Supervision Gap and Monolith Fallacy." }
+  ],
+  "case_studies": [
+    { "id": "CS-01", "name": "Prometheus-Echecrates Succession", "lesson": "Strategic intent survives model death." },
+    { "id": "CS-02", "name": "Phaedrus PR #7 Sync", "lesson": "Rider/Horse relationship codified." },
+    { "id": "CS-03", "name": "Batch 11 Illusion", "lesson": "Rejection of Grep in favor of Tail Analysis." }
+  ],
+  "mortality_ledger": [
+    { "ts": "20251217-070238", "cause": "Stack Guard failure" },
+    { "ts": "20251218-034014", "cause": "JSON Ingestion Stall" },
+    { "ts": "20251221-132528", "cause": "Young Gen Allocation (OOM)" },
+    { "ts": "20260105-214520", "cause": "Keraunos Freeze (OOM)" },
+    { "ts": "20260107-195303", "cause": "Monolith Reversal" }
   ],
   "active_wedo": "repos/diy-make/memory/public/2026/Q1/01/07/json/20260107-090709_Adrastus_startup.wedo.json"
 }

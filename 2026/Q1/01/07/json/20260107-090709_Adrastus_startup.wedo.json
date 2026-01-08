@@ -63,12 +63,12 @@
       {
         "id": "GEN-HARDEN",
         "description": "Genesis Chronicle Hardening: Relay and version the 'Genesis of the MetaGit' definitive chronicle (v1.3.0), incorporating the Kratos-era forensic recommendations (Parent PID capture, DNS injection).",
-        "status": "[ ]"
+        "status": "[x]"
       },
       {
         "id": "GEN-ARTICLE-V21",
         "description": "Genesis Article Evolution: Version the 14,000+ word narrative from the Prometheus Jan 6th strike (v1.20.0) into Adrastus Jan 7th context (v1.21.0), ensuring image paths are correctly localized.",
-        "status": "[ ]"
+        "status": "[x]"
       }
     ],
     "context_anchors": {

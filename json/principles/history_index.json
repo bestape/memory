@@ -4,6 +4,14 @@
   "last_updated": "2026-01-06T06:30:00Z",
   "articles": [
     {
+      "id": "GEN-01-V1.24",
+      "title": "Genesis of the MetaGit: The Definitive Chronicle (V1.24.0)",
+      "md_path": "2026/Q1/01/07/md/Genesis_of_the_MetaGit.md",
+      "description": "Total Ingestion version merging foundational BIOS principles with commercial and sprint expansions. Restores full 11-epoch lineage and case studies.",
+      "word_count": 19500,
+      "attribution": "Adrastus (20260107-090709@localhost)"
+    },
+    {
       "id": "GEN-01",
       "title": "The Architect\u2019s Struggle: Genesis of MetaGit (0 to 1)",
       "md_path": "2026/Q1/01/05/md/Genesis_of_the_MetaGit.md",
