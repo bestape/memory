@@ -943,5 +943,71 @@
         "original_filename": "Screenshot from 2026-01-05 16-25-40.png"
       }
     ]
+  },
+  {
+    "batch": "20260107-090709_Adrastus_Strike_01",
+    "description": "Adrastus processes 5-batch commit pulse (15 images) documenting DNA sharding and wrapper hardening.",
+    "entries": [
+      {
+        "id": "IMG-112",
+        "description": "Terminal view of substrate mapping refinement process."
+      },
+      {
+        "id": "IMG-113",
+        "description": "Identification of orphan .todo.md files in the Heartwood."
+      },
+      {
+        "id": "IMG-114",
+        "description": "Structural integrity audit of the chrono-fractal directories."
+      },
+      {
+        "id": "IMG-115",
+        "description": "Evidence of metabolic heat check failure due to uncommitted artifacts."
+      },
+      {
+        "id": "IMG-116",
+        "description": "Recursive grep noise audit identifying token saturation risks."
+      },
+      {
+        "id": "IMG-117",
+        "description": "Validation of session start hooks for the README.ai mandate."
+      },
+      {
+        "id": "IMG-118",
+        "description": "Proposal for machine-readable DNA sharding across the metarepo."
+      },
+      {
+        "id": "IMG-119",
+        "description": "Visual explanation of the RNA/DNA data duality model."
+      },
+      {
+        "id": "IMG-120",
+        "description": "Terminal capture of bootup sequence acceleration strikes."
+      },
+      {
+        "id": "IMG-121",
+        "description": "First version of the metagit_commit.py legislative wrapper."
+      },
+      {
+        "id": "IMG-122",
+        "description": "Initialization of the .secrets.baseline protection node."
+      },
+      {
+        "id": "IMG-123",
+        "description": "Detection of identity collision between multi-agent incarnations."
+      },
+      {
+        "id": "IMG-124",
+        "description": "Forensic trace of Git configuration mismatch leading to aborted commit."
+      },
+      {
+        "id": "IMG-125",
+        "description": "UI capture of the re-registration prompt during identity shift."
+      },
+      {
+        "id": "IMG-126",
+        "description": "Evidence of successful substrate stabilization following the pruning strike."
+      }
+    ]
   }
 ]

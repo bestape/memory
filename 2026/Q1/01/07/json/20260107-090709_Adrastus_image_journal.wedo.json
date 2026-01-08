@@ -1,0 +1,38 @@
+{
+  "id": "IMAGE-JOURNAL-RELAY-ADRASTUS",
+  "title": "20260107-090709_Adrastus_image_journal.wedo.json",
+  "version": "1.4",
+  "attribution": "Adrastus (20260107-090709@localhost)",
+  "description": "Metabolic journaling relay. Processing artifacts in 3-by-3 sets with a 5-batch commit pulse.",
+  "meta": {
+    "relay_takeover": "True",
+    "takeover_duration": "180 seconds",
+    "predecessor": "Polus (20260107-215156)",
+    "commit_trigger": "5 Batches",
+    "current_batch_count": 0
+  },
+  "rules": {
+    "3_by_3_compromise": "Batch operations in sets of 3 to prevent OOM-maxing.",
+    "5_batch_pulse": "MANDATE: Execute Git commit ONLY after 5 metabolic batches (15 images) are processed.",
+    "daily_index_reset": "MANDATE: The IMG index MUST reset to 1 at the beginning of every new calendar day."
+  },
+  "tasks": [
+    {
+      "id": "RELAY-STRIKE-01",
+      "description": "Process Batches 298 through 302 (15 images) for January 5th.",
+      "status": "[ ]",
+      "sub_tasks": [
+        { "id": "BATCH-298", "status": "[ ]" },
+        { "id": "BATCH-299", "status": "[ ]" },
+        { "id": "BATCH-300", "status": "[ ]" },
+        { "id": "BATCH-301", "status": "[ ]" },
+        { "id": "BATCH-302", "status": "[ ]" }
+      ]
+    },
+    {
+      "id": "COMMIT-STRIKE",
+      "description": "Execute single metagit_commit.py for all 15 artifacts.",
+      "status": "[ ]"
+    }
+  ]
+}
