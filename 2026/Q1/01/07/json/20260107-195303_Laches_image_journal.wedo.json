@@ -327,6 +327,16 @@
         { "id": "IMG-1006", "description": "Grafting and hardening 1006-phaedrus-detailed-entry-protocol-log.png." },
         { "id": "IMG-1007", "description": "Grafting and hardening 1007-phaedrus-process-optimization-recommendations.png." }
       ]
+    },
+    {
+      "id": "BATCH-252",
+      "status": "[x]",
+      "description": "Metabolic Batch: Laches grafts Batch 252 (IMG-1008 to IMG-1010) to the Jan 4th chrono-fractal.",
+      "sub_tasks": [
+        { "id": "IMG-1008", "description": "Grafting and hardening 1008-phaedrus-future-agent-mandate-report.png." },
+        { "id": "IMG-1009", "description": "Grafting and hardening 1009-phaedrus-heartwood-history-article-pivot.png." },
+        { "id": "IMG-1010", "description": "Grafting and hardening 1010-phaedrus-mapping-forensic-recovery-tasks.png." }
+      ]
     }
   ],
   "context_anchors": {
