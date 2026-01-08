@@ -6,7 +6,7 @@
     "title": "WeDo Template: Standard Forensic Report Schema",
     "description": "Schema for structured reporting of session results, collaborative dynamics, and technical strikes.",
     "rules": {
-      "direct_aesthetic": "Reports must be presented to the User 'straightup'—no triple-backtick Markdown wrappers. Use plain text with clear headers and bolding.",
+      "direct_aesthetic": "Reports must be presented to the User 'straightup'—no triple-backtick Markdown wrappers. MANDATE: Agents MUST share the full content of any newly saved report 'straightup' in the chat immediately after the save operation is confirmed.",
       "iteration_mandate": "Every report MUST start at a minimum of 1000 words. Each subsequent draft MUST increase the word count, ensuring maximum forensic density and the preservation of hard-won wisdom.",
       "dual_referencing": "Every location MUST reference both localhost paths and remotehost URLs.",
       "audit_scrutiny": "List ALL changes and requests directly from the source. Document resolutions in granular detail.",

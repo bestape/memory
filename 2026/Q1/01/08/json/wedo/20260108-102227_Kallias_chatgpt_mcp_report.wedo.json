@@ -1,0 +1,56 @@
+{
+  "wedo_instance": {
+    "id": "CHATGPT-MCP-REPORT",
+    "description": "Formal report on the ChatGPT MCP integration strategy and structural alignment.",
+    "status": "[ ]",
+    "meta": {
+      "protocol": "WeDo-JSON",
+      "version": "1.0.0",
+      "report_type": "Integration Analysis",
+      "agent": "Kallias",
+      "user": "bestape",
+      "project": "Gemini CLI / diy-make"
+    },
+    "sections": [
+      {
+        "id": "REP-01",
+        "title": "Executive Summary",
+        "content": "This report outlines the technical path for bridging the Gemini CLI with ChatGPT using the Model Context Protocol (MCP). The goal is to allow Gemini to delegate specialized tasks or model-specific queries to ChatGPT as a registered tool, enhancing the CLI's multi-model orchestration capacity."
+      },
+      {
+        "id": "REP-02",
+        "title": "Core Analysis",
+        "content": "The integration relies on a stdio transport mechanism. By running a Node.js-based MCP server bridge, Gemini can communicate via standard I/O to invoke ChatGPT. The friction point identified is the requirement for a valid OpenAI API key and the potential for tool name conflicts if multiple models provide similar capabilities."
+      },
+      {
+        "id": "REP-03",
+        "title": "Collaboration Dynamics",
+        "content": "The 'Meeting of Minds' value is realized here by creating a tiered model approach. Gemini remains the primary 'Agent' (orchestrator), while ChatGPT is treated as a high-fidelity 'Tool' (specialist). This maintains the user's single-threaded focus while leveraging dual-model intelligence."
+      },
+      {
+        "id": "REP-04",
+        "title": "Artifacts & Context",
+        "links": [
+          {
+            "name": "MCP Configuration Guide",
+            "url": "https://geminicli.com/docs/tools/mcp-server/"
+          },
+          {
+            "name": "Active WeDo Manifest",
+            "path": "repos/diy-make/memory/public/2026/Q1/01/08/json/wedo/20260108-102227_Kallias_chatgpt_mcp_integration.wedo.json"
+          }
+        ]
+      },
+      {
+        "id": "REP-05",
+        "title": "Next Steps",
+        "tasks": [
+          "Secure OpenAI API Key (User Action)",
+          "Configure 'gemini mcp add' command (Agent Action)",
+          "Verify tool discovery via '/mcp list' (Agent/User Sync)"
+        ]
+      }
+    ]
+  },
+  "attribution": "Kallias (20260108-102227@localhost)"
+}

@@ -1,0 +1,53 @@
+{
+  "wedo_instance": {
+    "id": "CHATGPT-MCP-INTEGRATION",
+    "description": "Orchestrating the bridge between Gemini CLI and ChatGPT via the Model Context Protocol (MCP).",
+    "status": "[ ]",
+    "meta": {
+      "protocol": "WeDo-JSON",
+      "version": "1.0.0",
+      "philosophy": "Interoperability is the multiplier of intelligence; bridging models expands the swarm's cognitive reach."
+    },
+    "rules": {
+      "security_first": "Never commit raw API keys to the repository. Use environment variables or local settings.",
+      "tool_prefixing": "Observe the '/mcp list' output to identify potential tool name collisions."
+    },
+    "tasks": [
+      {
+        "id": "MCP-01",
+        "description": "Environment Preparation: Ensure Node.js (npx) is available for running the MCP server bridge.",
+        "status": "[ ]"
+      },
+      {
+        "id": "MCP-02",
+        "description": "API Key Provisioning: Secure an OpenAI API key and prepare it for injection as an environment variable.",
+        "status": "[ ]"
+      },
+      {
+        "id": "MCP-03",
+        "description": "Server Selection: Identify a reliable community or official OpenAI MCP server (e.g., @modelcontextprotocol/server-openai).",
+        "status": "[ ]"
+      },
+      {
+        "id": "MCP-04",
+        "description": "CLI Registration: Execute 'gemini mcp add' with the specific command, arguments, and environment keys.",
+        "status": "[ ]"
+      },
+      {
+        "id": "MCP-05",
+        "description": "Verification: Run '/mcp list' to confirm the ChatGPT tools (e.g., ask_chatgpt) are discovered and active.",
+        "status": "[ ]"
+      },
+      {
+        "id": "MCP-06",
+        "description": "Cross-Model Validation: Perform a test query where Gemini invokes a ChatGPT tool to resolve a complex sub-task.",
+        "status": "[ ]"
+      }
+    ],
+    "context_anchors": {
+      "documentation": "https://geminicli.com/docs/tools/mcp-server/",
+      "configuration": ".gemini/settings.json"
+    }
+  },
+  "attribution": "Kallias (20260108-102227@localhost)"
+}
