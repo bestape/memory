@@ -257,6 +257,16 @@
         { "id": "IMG-985", "description": "Grafting and hardening 985-gemini-architecture-realization-report.png." },
         { "id": "IMG-986", "description": "Grafting and hardening 986-gemini-identity-anchoring-friction.png." }
       ]
+    },
+    {
+      "id": "BATCH-245",
+      "status": "[x]",
+      "description": "Metabolic Batch: Laches grafts Batch 245 (IMG-987 to IMG-989) to the Jan 4th chrono-fractal.",
+      "sub_tasks": [
+        { "id": "IMG-987", "description": "Grafting and hardening 987-gemini-finalizing-startup-protocol-turn.png." },
+        { "id": "IMG-988", "description": "Grafting and hardening 988-orestes-system-name-reservation-pivot.png." },
+        { "id": "IMG-989", "description": "Grafting and hardening 989-orestes-forensic-investigation-findings.png." }
+      ]
     }
   ],
   "context_anchors": {
