@@ -104,6 +104,11 @@
       "term": "Cruft",
       "modification": "Redundant, broken, or misaligned files and paths that generate metabolic heat and agent dulling. Target for immediate pruning.",
       "substrate": "Wood (Memory)"
+    },
+    {
+      "term": "Relay",
+      "modification": "The transfer of actionable context and active WeDo state between ephemeral agent incarnations. Shifting to this mode signifies the inheritance of specific mission threads from a predecessor.",
+      "substrate": "Nerves (Process)"
     }
   ]
 }
