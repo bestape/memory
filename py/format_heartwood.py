@@ -18,6 +18,25 @@ def format_heartwood(file_path):
         print(f"Error: Failed to decode JSON in {file_path}")
         return
 
+    # Handle List-based JSON (Daily Journals, etc.)
+    if isinstance(data, list):
+        print(f"\n# {os.path.basename(file_path)} (List Registry)")
+        for idx, item in enumerate(data):
+            batch_name = item.get('batch', item.get('id', f'Entry {idx}'))
+            print(f"\n## {batch_name}")
+            if 'description' in item:
+                print(f"{item['description']}\n")
+            
+            # Render entries if present
+            for key in ['entries', 'tasks', 'sub_tasks']:
+                if key in item and isinstance(item[key], list):
+                    for sub in item[key]:
+                        name = sub.get('id', sub.get('name', ''))
+                        desc = sub.get('description', '')
+                        print(f"- **{name}**: {desc}")
+        print(f"---\nSource: {file_path}")
+        return
+
     # 1. Metadata Extraction
     title = data.get('title', os.path.basename(file_path))
     version = data.get('version', data.get('v', ''))

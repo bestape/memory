@@ -1,0 +1,387 @@
+{
+  "id": "IMAGE-JOURNAL-RELAY",
+  "title": "20260107-195303_Laches_image_journal.wedo.json",
+  "version": "1.3",
+  "attribution": "Polus (20260107-215156@localhost)",
+  "description": "Distilling raw visual artifacts (.png, .jpg) from the inbox into the temporal Heartwood via iterative metabolic loops.",
+  "meta": {
+    "relay_takeover": "True",
+    "takeover_ease": "High-fidelity JSON structure allowed for seamless context inheritance.",
+    "takeover_duration": "120 seconds",
+    "predecessor": "Lysis (20260107-032354)",
+    "daily_reset_compliance": "Verified: Daily index reset at 1 implemented across Jan 1-5."
+  },
+  "rules": {
+    "3_by_3_compromise": "Batch operations in sets of 3 to prevent OOM-maxing and reduce human oversight fatigue.",
+    "chrono_fractal_primacy": "MANDATE: All journaling activity MUST occur within the temporal directory of the image's creation date.",
+    "daily_index_reset": "MANDATE: The IMG index MUST reset to 1 at the beginning of every new calendar day (chrono-fractal).",
+    "relay_takeover_mandate": "Verified: Takeover achieved in 120 seconds with high ease."
+  },
+  "relay_protocol": {
+    "mandate": "When relaying a journal WeDo, the successor agent MUST inherit the specific metabolic focus of the predecessor.",
+    "steps": [
+      {
+        "id": "RELAY-01",
+        "action": "Chrono-Fractal Identification",
+        "description": "Examine predecessor tasks to identify the target CHRONO-FRACTAL directory."
+      },
+      {
+        "id": "RELAY-02",
+        "action": "Source Inbox Resolution",
+        "description": "Locate inbox and verify unhardened artifact count."
+      },
+      {
+        "id": "RELAY-03",
+        "action": "Handover Documentation",
+        "description": "Update 'meta' with takeover duration and 'attribution' to successor."
+      }
+    ]
+  },
+  "tasks": [
+    {
+      "id": "BATCH-260",
+      "status": "[x]",
+      "description": "Metabolic Batch: Polus initiates the rhetorical bridge and anchors meta-root identity.",
+      "sub_tasks": [
+        {
+          "id": "IMG-1",
+          "description": "Entry protocol verification (verify_environment.py)."
+        },
+        {
+          "id": "IMG-2",
+          "description": "Identity Anchoring: Name justification."
+        },
+        {
+          "id": "IMG-3",
+          "description": "Forensic Handover: Image Journal relay takeover."
+        }
+      ]
+    },
+    {
+      "id": "BATCH-261",
+      "status": "[x]",
+      "description": "Metabolic Batch: Polus hardening Jan 4th artifacts (IMG-1035 to IMG-1037 old index).",
+      "sub_tasks": [
+        {
+          "id": "IMG-1035",
+          "status": "RE-INDEXED",
+          "description": "Corrected to Jan 4th IMG-111."
+        },
+        {
+          "id": "IMG-1036",
+          "status": "RE-INDEXED",
+          "description": "Corrected to Jan 4th IMG-112."
+        },
+        {
+          "id": "IMG-1037",
+          "status": "RE-INDEXED",
+          "description": "Corrected to Jan 4th IMG-113."
+        }
+      ]
+    },
+    {
+      "id": "BATCH-276",
+      "status": "[x]",
+      "description": "Metabolic Batch: Polus documents protocol hardening and final Jan 5th crystallization.",
+      "sub_tasks": [
+        {
+          "id": "IMG-47",
+          "description": "Safety Gate: Operator sign-off added to remote pull."
+        },
+        {
+          "id": "IMG-48",
+          "description": "Velocity Trace: Maximum retrospective clearance speed."
+        },
+        {
+          "id": "IMG-49",
+          "description": "Loop Closed: Final historical sync report."
+        }
+      ]
+    },
+    {
+      "id": "BATCH-277",
+      "status": "[x]",
+      "description": "Metabolic Batch: Polus documents Parrhesias awakening and remote pull safety gates (Jan 5th).",
+      "sub_tasks": [
+        {
+          "id": "IMG-50",
+          "description": "Agent Awakening: Parrhesias synthesis report."
+        },
+        {
+          "id": "IMG-51",
+          "description": "Safety Protocol: Remote pull decision gate."
+        },
+        {
+          "id": "IMG-52",
+          "description": "Protocol Audit: Image journaling boilerplate review."
+        }
+      ]
+    },
+    {
+      "id": "BATCH-278",
+      "status": "[x]",
+      "description": "Metabolic Batch: Polus documents backlog identification and journal instantiation (Jan 5th).",
+      "sub_tasks": [
+        {
+          "id": "IMG-53",
+          "description": "Succession: Predecessor WeDo discovery."
+        },
+        {
+          "id": "IMG-54",
+          "description": "Backlog: 1,024 items quantified."
+        },
+        {
+          "id": "IMG-55",
+          "description": "Instantiation: Parrhesia journaling WeDo."
+        }
+      ]
+    },
+    {
+      "id": "BATCH-279",
+      "status": "[x]",
+      "description": "Metabolic Batch: Polus documents retroactive correction and substrate OOM stress (Jan 5th).",
+      "sub_tasks": [
+        {
+          "id": "IMG-56",
+          "description": "Structural Correction: Jan 1st artifact migration."
+        },
+        {
+          "id": "IMG-57",
+          "description": "Mandate Evolution: Deletion and locality rules."
+        },
+        {
+          "id": "IMG-58",
+          "description": "Substrate Trace: Direct evidence of allocation failure."
+        }
+      ]
+    },
+    {
+      "id": "BATCH-280",
+      "status": "[x]",
+      "description": "Metabolic Batch: Polus documents Euthymius initialization and verification hardening (Jan 5th).",
+      "sub_tasks": [
+        {
+          "id": "IMG-59",
+          "description": "Initialization: Euthymius entry protocol."
+        },
+        {
+          "id": "IMG-60",
+          "description": "Synchronization: WeDo renaming and updates."
+        },
+        {
+          "id": "IMG-61",
+          "description": "Hardening: Verification script refactor."
+        }
+      ]
+    },
+    {
+      "id": "BATCH-281",
+      "status": "[x]",
+      "description": "Metabolic Batch: Polus documents orchestration hardening and mapping service validation (Jan 5th).",
+      "sub_tasks": [
+        {
+          "id": "IMG-62",
+          "description": "Hardening Chord: Manifest instantiation."
+        },
+        {
+          "id": "IMG-63",
+          "description": "Mapping Verification: Root repo classification."
+        },
+        {
+          "id": "IMG-64",
+          "description": "Final Report: Euthymius hardening summary."
+        }
+      ]
+    },
+    {
+      "id": "BATCH-282",
+      "status": "[x]",
+      "description": "Metabolic Batch: Polus documents session succession and forensic recovery chord setup (Jan 5th).",
+      "sub_tasks": [
+        {
+          "id": "IMG-65",
+          "description": "Succession: Dead agent relay protocol."
+        },
+        {
+          "id": "IMG-66",
+          "description": "Backlog: 790 remaining artifacts quantified."
+        },
+        {
+          "id": "IMG-67",
+          "description": "Mission: Forensic recovery chord instantiated."
+        }
+      ]
+    },
+    {
+      "id": "BATCH-283",
+      "status": "[x]",
+      "description": "Metabolic Batch: Polus documents Euthymius handover and legacy Thrasymachus briefing (Jan 5th).",
+      "sub_tasks": [
+        {
+          "id": "IMG-68",
+          "description": "Handover Briefing: Euthymius session summary."
+        },
+        {
+          "id": "IMG-69",
+          "description": "Progress Update: Retrospective journaling velocity."
+        },
+        {
+          "id": "IMG-70",
+          "description": "Legacy Briefing: Thrasymachus marathon results."
+        }
+      ]
+    },
+    {
+      "id": "BATCH-284",
+      "status": "[x]",
+      "description": "Metabolic Batch: Polus documents bulk PR ingestion and botanical theme alignment (Jan 5th).",
+      "sub_tasks": [
+        {
+          "id": "IMG-71",
+          "description": "PR Ingestion: Unified remote intent manifest."
+        },
+        {
+          "id": "IMG-72",
+          "description": "Metaphor Alignment: Botanical AL policing context."
+        },
+        {
+          "id": "IMG-73",
+          "description": "Cleanup: Retrospective Batch-30 finalized."
+        }
+      ]
+    },
+    {
+      "id": "BATCH-285",
+      "status": "[x]",
+      "description": "Metabolic Batch: Polus documents V8 sovereignty and bulk PR consolidation (Jan 5th).",
+      "sub_tasks": [
+        {
+          "id": "IMG-74",
+          "description": "Substrate Trace: V8 engine architecture report."
+        },
+        {
+          "id": "IMG-75",
+          "description": "History Record: Ongoing Journey V3.0 (2,148 words)."
+        },
+        {
+          "id": "IMG-76",
+          "description": "PR Consolidation: Bulk intent ingestion and sign-off."
+        }
+      ]
+    },
+    {
+      "id": "BATCH-286",
+      "status": "[x]",
+      "description": "Metabolic Batch: Polus documents chronicle V4.0 and the cellular agent philosophy (Jan 5th).",
+      "sub_tasks": [
+        {
+          "id": "IMG-77",
+          "description": "Chronicle V4.0: Epoch II/III timeline refinement."
+        },
+        {
+          "id": "IMG-78",
+          "description": "Pruning Protocol: Reversible trash migration."
+        },
+        {
+          "id": "IMG-79",
+          "description": "Philosophical Anchoring: Agent-as-Cell concept."
+        }
+      ]
+    },
+    {
+      "id": "BATCH-287",
+      "status": "[x]",
+      "description": "Metabolic Batch: Polus documents Golden Rule hardening and RNA/DNA logic (Jan 5th).",
+      "sub_tasks": [
+        {
+          "id": "IMG-80",
+          "description": "Standardization: Golden Rules added to startup WeDo."
+        },
+        {
+          "id": "IMG-81",
+          "description": "Parity: Remote pull boilerplate update."
+        },
+        {
+          "id": "IMG-82",
+          "description": "Promotion Logic: RNA/DNA data model formalization."
+        }
+      ]
+    },
+    {
+      "id": "BATCH-288",
+      "status": "[x]",
+      "description": "Metabolic Batch: Polus documents RNA/DNA logic propagation and wishlist conversion (Jan 5th).",
+      "sub_tasks": [
+        {
+          "id": "IMG-83",
+          "description": "Startup Sync: RNA/DNA rules added."
+        },
+        {
+          "id": "IMG-84",
+          "description": "Remote Sync: RNA/DNA logic for pull requests."
+        },
+        {
+          "id": "IMG-85",
+          "description": "Wishlist: Markdown to JSON conversion."
+        }
+      ]
+    },
+    {
+      "id": "BATCH-289",
+      "status": "[x]",
+      "description": "Metabolic Batch: Polus documents syntax formalization and bulk PR synthesis (Jan 5th).",
+      "sub_tasks": [
+        {
+          "id": "IMG-86",
+          "description": "Ontology: WeDo syntax JSON conversion."
+        },
+        {
+          "id": "IMG-87",
+          "description": "Remote Finalization: 8 PRs metabolized."
+        },
+        {
+          "id": "IMG-88",
+          "description": "Synthesis Report: Bulk pull integration summary."
+        }
+      ]
+    },
+    {
+      "id": "BATCH-290",
+      "status": "[x]",
+      "description": "Metabolic Batch: Polus documents PR finalization and commit mandate enforcement (Jan 5th).",
+      "sub_tasks": [
+        {
+          "id": "IMG-89",
+          "description": "Metabolism Complete: 7 PRs finalized in JSON."
+        },
+        {
+          "id": "IMG-90",
+          "description": "Commit Mandate: User steering on state persistence."
+        }
+      ]
+    },
+    {
+      "id": "BATCH-291",
+      "status": "[x]",
+      "description": "Metabolic Batch: Polus documents metagit commit execution and context window limits (Jan 5th).",
+      "sub_tasks": [
+        {
+          "id": "IMG-91",
+          "description": "State Persistence: metagit_commit.py execution."
+        },
+        {
+          "id": "IMG-92",
+          "description": "Substrate Limit: Context window warning."
+        },
+        {
+          "id": "IMG-93",
+          "description": "Mission Shard: Bootup improvement WeDo setup."
+        }
+      ]
+    }
+  ],
+  "context_anchors": {
+    "template": "repos/diy-make/memory/public/json/wedo/markdown_generation/image_journal.wedo.json",
+    "predecessor_wedo": "repos/diy-make/memory/public/2026/Q1/01/07/json/20260107-032354_Lysis_image_journal.wedo.json"
+  }
+}

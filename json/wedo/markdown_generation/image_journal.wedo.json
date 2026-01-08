@@ -58,12 +58,33 @@
     "monotonic_growth": "Journal word count must only increase.",
     "description_depth": "Every image description MUST be at least 3 sentences long to capture sufficient forensic context.",
     "chrono_fractal_primacy": "MANDATE: All journaling activity (WeDo updates and daily_image_journal.json entries) MUST occur within the temporal directory of the image's creation date. Do NOT use the current session's date for historical artifacts.",
+    "daily_index_reset": "MANDATE: The IMG index (e.g., IMG-1, IMG-2) MUST reset to 1 at the beginning of every new calendar day (chrono-fractal). Global continuous numbering is strictly prohibited.",
     "creation_date_locality": "MANDATE: Artifacts MUST be stored in the directory corresponding to their creation timestamp, NOT the current session date.",
     "active_investigation": "Verify existence of artifacts on localhost before inclusion.",
     "dual_referencing": "Reference both localhost paths and remotehost URLs.",
     "relay_takeover_mandate": "MANDATE: When instantiating a WeDo from a relay (taking over an open WeDo from a dead agent), you MUST include a line in the new WeDo instance (e.g., in the 'meta' or 'rules' section) stating the ease of takeover and the duration required to assume the role.",
     "chronological_integrity": "ALWAYS append new entries to the absolute end of the file. Use the 'replace' tool with the last few lines of the file as context to ensure no out-of-order dangling entries remain.",
     "timestamp_verification": "Verify that the artifact's source timestamp matches the destination directory's date before grafting."
+  },
+  "relay_protocol": {
+    "mandate": "When relaying a journal WeDo, the successor agent MUST inherit the specific metabolic focus of the predecessor.",
+    "steps": [
+      {
+        "id": "RELAY-01",
+        "action": "Chrono-Fractal Identification",
+        "description": "Examine the 'tasks' of the predecessor WeDo to identify the target CHRONO-FRACTAL directory (e.g., if the previous agent was grafting to Jan 4th, the successor MUST continue in Jan 4th, NOT today's date)."
+      },
+      {
+        "id": "RELAY-02",
+        "action": "Source Inbox Resolution",
+        "description": "Locate the 'inbox' defined in 'process_protocol'. Verify the current count of unhardened artifacts to determine the remaining batch count."
+      },
+      {
+        "id": "RELAY-03",
+        "action": "Handover Documentation",
+        "description": "Update the 'meta' section with takeover ease and duration as per the 'relay_takeover_mandate'. Ensure the 'attribution' is updated to the successor while maintaining the 'title' of the predecessor's instance for forensic tracking."
+      }
+    ]
   },
   "task_structure": {
     "id": "BATCH-[N]",

@@ -19,6 +19,11 @@
       "rule": "MD Curation Sequestration",
       "definition": "The 'md/' directory is reserved exclusively for curated reflections, human-centric summaries, or reports explicitly requested by the User in Markdown format.",
       "rationale": "Markdown is high-verbosity 'Interface' and should not be mistaken for 'Mass' (Substrate DNA)."
+    },
+    {
+      "rule": "Link Rot Prevention",
+      "definition": "Markdown reports (.md) must remain at their initial publication coordinates (date-stamp) to ensure permanent link integrity. Higher versions must be sharded to the current date's 'md/' leaf.",
+      "rationale": "The User interface requires stability; moving primary documentation fractures the collective history."
     }
   ],
   "enforcement_tool": {
