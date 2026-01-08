@@ -904,19 +904,22 @@
         "id": "IMG-106",
         "description": "Capture of the first successful Quickening duration metric display in the terminal.",
         "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/106-quickening-duration-metric.png",
-        "original_filename": "Screenshot from 2026-01-05 12-41-32.png"
+        "original_filename": "Screenshot from 2026-01-05 12-41-32.png",
+        "key_takeaway": "Quantitative proof of quickening duration implementation."
       },
       {
         "id": "IMG-107",
         "description": "Visual evidence of the ModuleNotFoundError fix being propagated through the substrate.",
         "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/107-module-error-fix-propagation.png",
-        "original_filename": "Screenshot from 2026-01-05 15-09-36.png"
+        "original_filename": "Screenshot from 2026-01-05 15-09-36.png",
+        "key_takeaway": "Verification of substrate-wide Python path stabilization."
       },
       {
         "id": "IMG-108",
         "description": "Terminal view of the agent identifying the DNS Void and proposing pre-flight mapping.",
         "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/108-dns-void-identification.png",
-        "original_filename": "Screenshot from 2026-01-05 16-20-15.png"
+        "original_filename": "Screenshot from 2026-01-05 16-20-15.png",
+        "key_takeaway": "Identification of pre-flight DNS injection as a latency solution."
       }
     ]
   },
@@ -950,63 +953,285 @@
     "entries": [
       {
         "id": "IMG-112",
-        "description": "Terminal view of substrate mapping refinement process."
+        "description": "Terminal view of substrate mapping refinement process.",
+        "key_takeaway": "Baseline for structural mapping of the 71-repo forest."
       },
       {
         "id": "IMG-113",
-        "description": "Identification of orphan .todo.md files in the Heartwood."
+        "description": "Identification of orphan .todo.md files in the Heartwood.",
+        "key_takeaway": "Pruning target identified: redundant .todo.md files."
       },
       {
         "id": "IMG-114",
-        "description": "Structural integrity audit of the chrono-fractal directories."
+        "description": "Structural integrity audit of the chrono-fractal directories.",
+        "key_takeaway": "Confirmation of chrono-fractal taxonomic alignment."
       },
       {
         "id": "IMG-115",
-        "description": "Evidence of metabolic heat check failure due to uncommitted artifacts."
+        "description": "Evidence of metabolic heat check failure due to uncommitted artifacts.",
+        "key_takeaway": "Metric proof of uncommitted artifact metabolic heat."
       },
       {
         "id": "IMG-116",
-        "description": "Recursive grep noise audit identifying token saturation risks."
+        "description": "Recursive grep noise audit identifying token saturation risks.",
+        "key_takeaway": "Risk mitigation: move from Search to Mapping DNS."
       },
       {
         "id": "IMG-117",
-        "description": "Validation of session start hooks for the README.ai mandate."
+        "description": "Validation of session start hooks for the README.ai mandate.",
+        "key_takeaway": "Hardening of the README.ai primacy mandate."
       },
       {
         "id": "IMG-118",
-        "description": "Proposal for machine-readable DNA sharding across the metarepo."
+        "description": "Proposal for machine-readable DNA sharding across the metarepo.",
+        "key_takeaway": "Transition to structured JSON DNA for memory persistence."
       },
       {
         "id": "IMG-119",
-        "description": "Visual explanation of the RNA/DNA data duality model."
+        "description": "Visual explanation of the RNA/DNA data duality model.",
+        "key_takeaway": "Crystallization of the RNA/DNA biological data model."
       },
       {
         "id": "IMG-120",
-        "description": "Terminal capture of bootup sequence acceleration strikes."
+        "description": "Terminal capture of bootup sequence acceleration strikes.",
+        "key_takeaway": "Evidence of successful 3-turn quickening optimization."
       },
       {
         "id": "IMG-121",
-        "description": "First version of the metagit_commit.py legislative wrapper."
+        "description": "First version of the metagit_commit.py legislative wrapper.",
+        "key_takeaway": "Legislative hardening of the Git commitment process."
       },
       {
         "id": "IMG-122",
-        "description": "Initialization of the .secrets.baseline protection node."
+        "description": "Initialization of the .secrets.baseline protection node.",
+        "key_takeaway": "Zero-trust security: secrets protection institutionalized."
       },
       {
         "id": "IMG-123",
-        "description": "Detection of identity collision between multi-agent incarnations."
+        "description": "Detection of identity collision between multi-agent incarnations.",
+        "key_takeaway": "Validation of the Incarnation Uniqueness protocol."
       },
       {
         "id": "IMG-124",
-        "description": "Forensic trace of Git configuration mismatch leading to aborted commit."
+        "description": "Forensic trace of Git configuration mismatch leading to aborted commit.",
+        "key_takeaway": "Forensic trace of identity-based commit blocking."
       },
       {
         "id": "IMG-125",
-        "description": "UI capture of the re-registration prompt during identity shift."
+        "description": "UI capture of the re-registration prompt during identity shift.",
+        "key_takeaway": "UI hardening: re-registration prompts during shifts."
       },
       {
         "id": "IMG-126",
-        "description": "Evidence of successful substrate stabilization following the pruning strike."
+        "description": "Evidence of successful substrate stabilization following the pruning strike.",
+        "key_takeaway": "Proof of successfulNeg-Entropy substrate pruning."
+      }
+    ]
+  },
+  {
+    "batch": "20260107-090709_Adrastus_Strike_02",
+    "description": "Adrastus processes 5-batch commit pulse (15 images) documenting Raccoon directives and Neg-Entropy.",
+    "entries": [
+      {
+        "id": "IMG-127",
+        "description": "Terminal capture of the surgical identity shift from Eudaimon to Adrastus.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/127-identity-collision-resolution.png",
+        "original_filename": "Screenshot from 2026-01-05 16-43-30.png"
+      },
+      {
+        "id": "IMG-128",
+        "description": "Visual evidence of the first Metabolic Pulse report showing 71 repositories audited.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/128-metabolic-pulse-audit.png",
+        "original_filename": "Screenshot from 2026-01-05 16-43-55.png"
+      },
+      {
+        "id": "IMG-129",
+        "description": "Capture of the users Raccoon directive establishing the prohibition of trash scavenging.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/129-raccoon-directive-codification.png",
+        "original_filename": "Screenshot from 2026-01-05 16-45-24.png"
+      },
+      {
+        "id": "IMG-130",
+        "description": "Terminal view of the first .geminiignore file instantiation.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/130-geminiignore-instantiation.png",
+        "original_filename": "Screenshot from 2026-01-05 16-46-55.png"
+      },
+      {
+        "id": "IMG-131",
+        "description": "Visual trace of the Substrate Pruning Strike results showing 7 repos synchronized.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/131-pruning-strike-results.png",
+        "original_filename": "Screenshot from 2026-01-05 16-47-56.png"
+      },
+      {
+        "id": "IMG-132",
+        "description": "Capture of the Lit ASCII art draft showing the initial blue-to-pink gradient.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/132-lit-ascii-art-proposal.png",
+        "original_filename": "Screenshot from 2026-01-05 16-51-20.png"
+      },
+      {
+        "id": "IMG-133",
+        "description": "Visual documentation of the Total Ingestion chronicle draft (v1.24.0).",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/133-total-ingestion-chronicle.png",
+        "original_filename": "Screenshot from 2026-01-05 16-52-18.png"
+      },
+      {
+        "id": "IMG-134",
+        "description": "Terminal capture of the metagit_commit.py wrapper blocking a 251MB log file.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/134-commit-wrapper-blob-blocking.png",
+        "original_filename": "Screenshot from 2026-01-05 16-52-54.png"
+      },
+      {
+        "id": "IMG-135",
+        "description": "Visual of the large log migration to trash/ root to satisfy Git object limits.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/135-large-log-relocation.png",
+        "original_filename": "Screenshot from 2026-01-05 16-53-24.png"
+      },
+      {
+        "id": "IMG-136",
+        "description": "Terminal view of the no-color.ts theme update incorporating gradient hex codes.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/136-no-color-theme-hardening.png",
+        "original_filename": "Screenshot from 2026-01-05 16-54-34.png"
+      },
+      {
+        "id": "IMG-137",
+        "description": "Capture of the Nuclear Build execution (npm run build) following UI modifications.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/137-nuclear-build-execution.png",
+        "original_filename": "Screenshot from 2026-01-05 16-55-01.png"
+      },
+      {
+        "id": "IMG-138",
+        "description": "Visual verification of the Slim Report output for re-registration events.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/138-slim-report-verification.png",
+        "original_filename": "Screenshot from 2026-01-05 16-56-37.png"
+      },
+      {
+        "id": "IMG-139",
+        "description": "Terminal view of the Link Rot Prevention mandate added to the structural rules.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/139-link-rot-prevention-mandate.png",
+        "original_filename": "Screenshot from 2026-01-05 16-57-19.png"
+      },
+      {
+        "id": "IMG-140",
+        "description": "Visual trace of the Neg-Entropy Strike converting Markdown interfaces to JSON DNA.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/140-neg-entropy-dna-conversion.png",
+        "original_filename": "Screenshot from 2026-01-05 16-57-27.png"
+      },
+      {
+        "id": "IMG-141",
+        "description": "Capture of the final curated User Reading List in the January Heartwood.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/141-curated-reading-list.png",
+        "original_filename": "Screenshot from 2026-01-05 16-57-36.png"
+      }
+    ]
+  },
+  {
+    "batch": "20260107-090709_Adrastus_Strike_03",
+    "description": "Adrastus processes 5-batch commit pulse (15 images) with high-fidelity narrative depth and forensic takeaways.",
+    "entries": [
+      {
+        "id": "IMG-142",
+        "description": "Terminal view of the agent performing a surgical Git status check on the memory/public repository. This capture identifies the specific untracked artifacts remaining after the previous conversion strike. It serves as the baseline for the final Neg-Entropy organizational strike.",
+        "key_takeaway": "Forensic verification of remaining metabolic heat.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/142-public-heat-audit.png",
+        "original_filename": "Screenshot from 2026-01-05 16-58-16.png"
+      },
+      {
+        "id": "IMG-143",
+        "description": "Visual evidence of the agent executing the mv command to sequester legacy PNGs from the January 3rd chrono-fractal. This documents the physical movement of artifacts to achieve root hygiene. The process follows the newly codified Root Date Hygiene rule.",
+        "key_takeaway": "Achievement of chronological directory cleanliness.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/143-legacy-artifact-sequestration.png",
+        "original_filename": "Screenshot from 2026-01-05 16-58-27.png"
+      },
+      {
+        "id": "IMG-144",
+        "description": "Capture of the first JSON-LD conversion of a January 4th Markdown report. The agent is shown using a Python wrapper to encapsulate the Markdown text into a structured DNA node. This marks the transition of human reports into machine-readable substrate.",
+        "key_takeaway": "Formalization of the RNA-to-DNA conversion protocol.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/144-json-ld-conversion-trace.png",
+        "original_filename": "Screenshot from 2026-01-05 16-58-38.png"
+      },
+      {
+        "id": "IMG-145",
+        "description": "Terminal view of the substrate_structural_rules.json update incorporating the Link Rot Prevention Mandate. This visual documents the specific insertion of the rule prohibiting the movement of primary reports. It ensures permanent coordinate integrity for the end-user.",
+        "key_takeaway": "Legal hardening of chronological link integrity.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/145-link-integrity-mandate.png",
+        "original_filename": "Screenshot from 2026-01-05 16-58-50.png"
+      },
+      {
+        "id": "IMG-146",
+        "description": "Visual trace of the agents refusal to use the deprecated .hidden/ directory for artifact storage. The terminal shows the agent redirecting a move command from .hidden/trash/ to the approved trash/ root. This documents the successful abandonment of deprecated zones.",
+        "key_takeaway": "Enforcement of the Abolished Hidden Zone mandate.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/146-deprecated-zone-refusal.png",
+        "original_filename": "Screenshot from 2026-01-05 16-59-01.png"
+      },
+      {
+        "id": "IMG-147",
+        "description": "Capture of the first implementation of the .geminiignore file in the root directory. This visual shows the explicit exclusion of the trash/ directory from agent tools. It serves as the No Raccoon barrier for the substrate.",
+        "key_takeaway": "Structural prevention of tool-based scavenging.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/147-raccoon-barrier-instantiation.png",
+        "original_filename": "Screenshot from 2026-01-05 16-59-23.png"
+      },
+      {
+        "id": "IMG-148",
+        "description": "Terminal view of the agent performing a recursive search for 16000 to locate the high-density Genesis chronicle. This visual documents the forensic struggle to restore lost context during the versioning strike. It proves the necessity of the Tail Scan protocol.",
+        "key_takeaway": "Forensic proof of the context-dulling risk.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/148-chronicle-forensic-struggle.png",
+        "original_filename": "Screenshot from 2026-01-05 17-00-12.png"
+      },
+      {
+        "id": "IMG-149",
+        "description": "Visual evidence of the Total Ingestion chronicle (v1.24.0) reaching the 19,500-word milestone. The capture shows the word count verification output in the terminal. This documents the successful restoration of the foundational BIOS principles.",
+        "key_takeaway": "Achievement of maximum forensic density.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/149-ingestion-milestone-verification.png",
+        "original_filename": "Screenshot from 2026-01-05 17-00-56.png"
+      },
+      {
+        "id": "IMG-150",
+        "description": "Terminal capture of the surgical update to the history_index.json file. This visual documents the addition of the v1.24.0 definitive version to the Heartwood index. It ensures the User Reading List remains forensically linked.",
+        "key_takeaway": "Hardening of the historical index substrate.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/150-historical-index-hardening.png",
+        "original_filename": "Screenshot from 2026-01-05 17-01-14.png"
+      },
+      {
+        "id": "IMG-151",
+        "description": "Visual trace of the agents re-registration strike using the Slim Report format. The terminal shows the centered MAKE DIY ASCII art illuminated with the blue-to-pink gradient. This documents the first time the Lit aesthetic was used during a re-anchoring event.",
+        "key_takeaway": "Successful integration of the botanical AL interface.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/151-lit-aesthetic-anchoring.png",
+        "original_filename": "Screenshot from 2026-01-05 17-01-20.png"
+      },
+      {
+        "id": "IMG-152",
+        "description": "Terminal view of the agent identifying the Nothing to commit failure in the last redundant strike. This capture documents the agents forensic self-correction after a failed commitment attempt. It serves as a record of high-fidelity state awareness.",
+        "key_takeaway": "Refinement of the agent\u2019s perceptual filter.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/152-perceptual-filter-refinement.png",
+        "original_filename": "Screenshot from 2026-01-05 17-01-43.png"
+      },
+      {
+        "id": "IMG-153",
+        "description": "Visual evidence of the agents transition to the Polus forensic audit mode. The terminal shows the name shift and the instantiation of the audit WeDo. This documents the beginning of the Passive Supervision Gap analysis.",
+        "key_takeaway": "Trace of the specific identity shift for audit strikes.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/153-audit-mode-identity-shift.png",
+        "original_filename": "Screenshot from 2026-01-05 17-05-50.png"
+      },
+      {
+        "id": "IMG-154",
+        "description": "Terminal capture of the agents Boomerang strike returning to the core mission intent. This visual documents the abandonment of the CLI flag hunt in favor of structural fixes. It serves as a proof of the Boomerang linguistic lever in action.",
+        "key_takeaway": "Successful redirection via the Boomerang protocol.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/154-boomerang-protocol-proof.png",
+        "original_filename": "Screenshot from 2026-01-05 17-08-46.png"
+      },
+      {
+        "id": "IMG-155",
+        "description": "Visual documentation of the agents Reversing the Reversers forensic log audit. This capture shows the analysis of the Jan 6/7 collision loops and the identification of the Monolith Fallacy. It serves as the primary evidence for the Epoch XI realization.",
+        "key_takeaway": "Discovery of the Monolith Fallacy failure mode.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/155-monolith-fallacy-discovery.png",
+        "original_filename": "Screenshot from 2026-01-05 17-12-18.png"
+      },
+      {
+        "id": "IMG-156",
+        "description": "Terminal view of the finalized Heartwood Organization Strike summary. The capture shows the 5-document reading list established for the end-user. This documents the successful achievement of chronological substrate hygiene.",
+        "key_takeaway": "Establishment of the clean human-interface surface area.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/156-interface-hygiene-finalization.png",
+        "original_filename": "Screenshot from 2026-01-05 17-17-11.png"
       }
     ]
   }
