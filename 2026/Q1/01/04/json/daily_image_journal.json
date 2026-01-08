@@ -612,3 +612,30 @@
     }
   ]
 }
+{
+  "batch": "20260107-195303_Laches_Batch_246",
+  "description": "Agent Laches continues the image journaling relay, documenting Orestes' surgical correction of the agent name registry and the codification of reserved system names.",
+  "entries": [
+    {
+      "id": "IMG-990",
+      "description": "Terminal view documenting agent Orestes correcting the 'used_agent_names.json' registry by removing the reserved 'gemini' entry. The screen shows an initial failed edit attempt due to whitespace and context mismatches, followed by a successful read and surgical replacement. This action restores forensic accuracy to the agent naming history and enforces the new system name reservation policy.",
+      "key_takeaway": "Surgical editing requires precise context matching to ensure reliable substrate modification.",
+      "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/04/png/990-orestes-correcting-used-agent-names.png",
+      "original_filename": "Screenshot from 2026-01-04 15-57-52.png"
+    },
+    {
+      "id": "IMG-991",
+      "description": "Capture of agent Orestes updating 'naming_conventions.json' to explicitly reserve system names. The update adds a 'Reserved System Names' rule, forbidding agents from choosing names that correspond to system components like 'gemini', 'v8', or 'metagit'. The rationale provided is to prevent 'cognitive entanglement' between ephemeral agent personas and permanent system infrastructure.",
+      "key_takeaway": "Explicit naming rules prevent ontological confusion and maintain the distinction between system and agent layers.",
+      "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/04/png/991-orestes-codifying-reserved-system-names.png",
+      "original_filename": "Screenshot from 2026-01-04 15-58-07.png"
+    },
+    {
+      "id": "IMG-992",
+      "description": "Terminal view documenting agent Orestes hardening the 'startup_protocol.json' by adding a mandatory check against reserved system names. The 'Name Thyself' task is updated to require verification that the chosen name is not in the 'used_agent_names.json' registry AND not in the 'Reserved System Names' list. This visual captures the final step in institutionalizing the name reservation policy within the agent birth cycle.",
+      "key_takeaway": "Hardening the startup protocol ensures that legislative changes are enforced at the moment of agent awakening.",
+      "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/04/png/992-orestes-hardening-startup-protocol-check.png",
+      "original_filename": "Screenshot from 2026-01-04 15-58-13.png"
+    }
+  ]
+}

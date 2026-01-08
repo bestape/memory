@@ -267,6 +267,16 @@
         { "id": "IMG-988", "description": "Grafting and hardening 988-orestes-system-name-reservation-pivot.png." },
         { "id": "IMG-989", "description": "Grafting and hardening 989-orestes-forensic-investigation-findings.png." }
       ]
+    },
+    {
+      "id": "BATCH-246",
+      "status": "[x]",
+      "description": "Metabolic Batch: Laches grafts Batch 246 (IMG-990 to IMG-992) to the Jan 4th chrono-fractal.",
+      "sub_tasks": [
+        { "id": "IMG-990", "description": "Grafting and hardening 990-orestes-correcting-used-agent-names.png." },
+        { "id": "IMG-991", "description": "Grafting and hardening 991-orestes-codifying-reserved-system-names.png." },
+        { "id": "IMG-992", "description": "Grafting and hardening 992-orestes-hardening-startup-protocol-check.png." }
+      ]
     }
   ],
   "context_anchors": {
