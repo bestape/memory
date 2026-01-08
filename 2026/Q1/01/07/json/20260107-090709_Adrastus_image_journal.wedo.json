@@ -1,35 +1,33 @@
 {
   "id": "IMAGE-JOURNAL-RELAY-ADRASTUS",
   "title": "20260107-090709_Adrastus_image_journal.wedo.json",
-  "version": "1.5",
+  "version": "1.6",
   "attribution": "Adrastus (20260107-090709@localhost)",
-  "description": "Metabolic journaling relay. Processing artifacts in 3-by-3 sets with a 5-batch commit pulse. Hardened for high-fidelity narrative depth and key takeaways.",
+  "description": "Metabolic journaling relay. Processing artifacts in strict 3-by-3 sets. Hardened for high-fidelity narrative depth, key takeaways, and inbox hygiene.",
   "meta": {
     "relay_takeover": "True",
-    "takeover_ease": "High-fidelity JSON structure allowed for seamless inheritance, though predecessors missed key_takeaway DNA.",
+    "takeover_ease": "High-fidelity JSON structure allowed for seamless inheritance.",
     "takeover_duration": "300 seconds",
     "predecessor": "Polus (20260107-215156)",
-    "template_anchor": "repos/diy-make/memory/public/json/wedo/markdown_generation/image_journal.wedo.json",
-    "commit_trigger": "5 Batches",
-    "current_batch_count": 0
+    "template_anchor": "repos/diy-make/memory/public/json/wedo/markdown_generation/image_journal.wedo.json"
   },
   "rules": {
-    "3_by_3_compromise": "Batch operations in sets of 3 to prevent OOM-maxing.",
-    "5_batch_pulse": "MANDATE: Execute Git commit ONLY after 5 metabolic batches (15 images) are processed.",
+    "3_by_3_compromise": "MANDATE: Process artifacts in sets of EXACTLY 3 to prevent OOM-maxing and focus drift.",
     "description_depth": "MANDATE: Every description MUST be at least 3 sentences long.",
     "key_takeaway_requirement": "MANDATE: Every entry MUST include a strategic key_takeaway.",
+    "inbox_hygiene": "MANDATE: Original artifacts MUST be moved to 'inbox/png/journaled/' after successful grafting to the Heartwood.",
     "chrono_fractal_primacy": "MANDATE: Journaling occurs in the temporal directory of the image creation date."
   },
   "tasks": [
     {
-      "id": "DNA-REPAIR-STRIKE",
-      "description": "Retroactively add key_takeaways to IMG-106 through IMG-126 in daily_image_journal.json.",
-      "status": "[ ]"
-    },
-    {
-      "id": "RELAY-STRIKE-03",
-      "description": "Process Batches 308 through 312 (15 images) for January 5th with full narrative depth.",
-      "status": "[ ]"
+      "id": "STRIKE-09",
+      "description": "Process next 3 artifacts for January 5th with full narrative depth.",
+      "status": "[ ]",
+      "sub_tasks": [
+        { "id": "IMG-217", "status": "[ ]" },
+        { "id": "IMG-218", "status": "[ ]" },
+        { "id": "IMG-219", "status": "[ ]" }
+      ]
     }
   ]
 }
