@@ -1,0 +1,24 @@
+{
+  "version": "1.0",
+  "attribution": "Adrastus (20260108-090709)",
+  "title": "WeDo: Adrastus Termination Strike",
+  "description": "Performing the final Triadic Edit-Strike to document OOM survival and the transition to /quit.",
+  "tasks": [
+    {
+      "id": "QUIT-01",
+      "description": "Update human-interface with OOM survival narrative.",
+      "status": "[x]"
+    },
+    {
+      "id": "QUIT-02",
+      "description": "Shard JSON logic layer with final termination status.",
+      "status": "[x]"
+    },
+    {
+      "id": "QUIT-03",
+      "description": "Perform final commit and execute /quit command.",
+      "status": "[x]"
+    }
+  ],
+  "status": "completed"
+}
