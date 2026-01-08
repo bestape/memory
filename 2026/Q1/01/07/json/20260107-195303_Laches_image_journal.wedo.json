@@ -387,6 +387,16 @@
         { "id": "IMG-1024", "description": "Grafting and hardening 1024-phaedrus-previewing-refined-boot-report.png." },
         { "id": "IMG-1025", "description": "Grafting and hardening 1025-eudaimon-initialization-and-friction.png." }
       ]
+    },
+    {
+      "id": "BATCH-258",
+      "status": "[x]",
+      "description": "Metabolic Batch: Laches grafts Batch 258 (IMG-1026 to IMG-1028) to the Jan 4th chrono-fractal.",
+      "sub_tasks": [
+        { "id": "IMG-1026", "description": "Grafting and hardening 1026-eudaimon-resolving-boot-report-keyerror.png." },
+        { "id": "IMG-1027", "description": "Grafting and hardening 1027-eudaimon-enhancing-swarm-bootup-report.png." },
+        { "id": "IMG-1028", "description": "Grafting and hardening 1028-eudaimon-user-mandate-for-verbose-reporting.png." }
+      ]
     }
   ],
   "context_anchors": {
