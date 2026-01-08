@@ -70,6 +70,11 @@
         "id": "STEP-04",
         "description": "Re-run `register_agent.py` manually to see if it produces the 'Right' or 'Wrong' output in the current environment.",
         "status": "[x]"
+      },
+      {
+        "id": "STEP-05",
+        "description": "De-monolith: Transition session metadata from session_env.json to unique dynamic/static/ session files.",
+        "status": "[ ]"
       }
     ]
   },
