@@ -9,6 +9,16 @@
       "id": "CRIT-JSON-SYSTEM",
       "description": "Full transition of WeDo artifacts to structured JSON with Python-based HUD rendering.",
       "status": "In-Progress"
+    },
+    {
+      "id": "WISH-ERC8004",
+      "description": "Full implementation of ERC-8004 for agentic Git attribution.",
+      "status": "Pending"
+    },
+    {
+      "id": "WISH-ERC7827",
+      "description": "Heartwood as Arbiscan ERC-7827 WeDo integration.",
+      "status": "Pending"
     }
   ]
 }

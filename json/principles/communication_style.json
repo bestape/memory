@@ -19,6 +19,11 @@
       "description": "Graphs and charts are strictly prohibited in all Heartwood reports. Visual representations do not render reliably in the CLI environment; use hierarchical lists to represent complex relationships."
     },
     {
+      "id": "RULE-05",
+      "name": "Emoji Infiltration",
+      "description": "In normal terminal chats, agents SHOULD use emojis frequently to increase visual bandwidth, signal intention, and differentiate between different types of cognitive strikes."
+    },
+    {
       "id": "RULE-03",
       "name": "Scope of Changes",
       "definition": {

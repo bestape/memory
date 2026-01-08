@@ -9,7 +9,8 @@
       "philosophy": "The WeDo is a todo we do together. Machine-readable status fields allow for synchronous alignment."
     },
     "rules": {
-      "status_mandate": "Every task AND the root instance MUST include a 'status' field using the '[ ]', '[x]', or '[-]' syntax to mirror markdown checkboxes."
+      "status_mandate": "Every task AND the root instance MUST include a 'status' field using the '[ ]', '[x]', or '[-]' syntax to mirror markdown checkboxes.",
+      "evolution_mandate": "Bespoke chrono-fractal WeDos (spread surface area) can be 'upgraded' into common boilerplates in the root/ directory (sharpened surface area) when their process logic is validated as reusable across agent generations."
     },
     "tasks": [
       {
