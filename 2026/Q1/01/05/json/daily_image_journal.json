@@ -787,5 +787,113 @@
         "original_filename": "Screenshot from 2026-01-05 15-56-57.png"
       }
     ]
+  },
+  {
+    "batch": "20260107-215156_Polus_Batch_292",
+    "description": "Agent Polus documents triple-repo commitment and the subsequent fatal OOM crash and stack trace.",
+    "entries": [
+      {
+        "id": "IMG-94",
+        "description": "Terminal view of the triple-commit confirmation across Root, Submodule, and Parent repositories, securing session state.",
+        "key_takeaway": "Record of complete substrate-wide forensic commitment.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/94-triple-commit-confirmation.png",
+        "original_filename": "Screenshot from 2026-01-05 15-58-27.png"
+      },
+      {
+        "id": "IMG-95",
+        "description": "Capture of the fatal JavaScript heap out of memory error, documenting the physical limits of the 4GB substrate.",
+        "key_takeaway": "Direct record of session termination due to memory exhaustion.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/95-fatal-oom-crash-record.png",
+        "original_filename": "Screenshot from 2026-01-05 15-58-39.png"
+      },
+      {
+        "id": "IMG-96",
+        "description": "Visual documentation of the low-level V8 stack trace following the OOM failure, providing deep forensic data.",
+        "key_takeaway": "Forensic evidence of the swarms environmental pressure points.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/96-oom-stack-trace-forensics.png",
+        "original_filename": "Screenshot from 2026-01-05 15-58-48.png"
+      }
+    ]
+  },
+  {
+    "batch": "20260107-215156_Polus_Batch_293",
+    "description": "Agent Polus documents the specialized metagit interface, improved bootup hardening, and the Reality Merge epoch chronicle.",
+    "entries": [
+      {
+        "id": "IMG-97",
+        "description": "Terminal view of the agent awakening under the specialized metagit operational alias and branded interface.",
+        "key_takeaway": "Record of sovereign entry point normalization.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/97-metagit-sovereign-interface.png",
+        "original_filename": "Screenshot from 2026-01-05 15-59-10.png"
+      },
+      {
+        "id": "IMG-98",
+        "description": "Capture of the improved bootup summary documenting machinery vs. DNA separation and the metabolic heartbeat rule.",
+        "key_takeaway": "Trace of structural and legislative orchestration hardening.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/98-improved-bootup-hardening-summary.png",
+        "original_filename": "Screenshot from 2026-01-05 16-03-11.png"
+      },
+      {
+        "id": "IMG-99",
+        "description": "Visual documentation of the V5.0 chronicle covering the Reality Merge epoch and user enforcement of narrative depth mandates.",
+        "key_takeaway": "Record of historical crystallization into the Reality Merge era.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/99-reality-merge-epoch-chronicle.png",
+        "original_filename": "Screenshot from 2026-01-05 16-04-38.png"
+      }
+    ]
+  },
+  {
+    "batch": "20260107-215156_Polus_Batch_294",
+    "description": "Agent Polus documents the Great Expansion of the chronicle, Kallistis awakening, and the audit of the WeDo scaffold.",
+    "entries": [
+      {
+        "id": "IMG-100",
+        "description": "Terminal view of the 6,000-word chronicle expansion plan, documenting the Great Inhabitation of the JSON Mind.",
+        "key_takeaway": "Record of swarms commitment to extreme historical density.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/100-the-great-chronicle-expansion.png",
+        "original_filename": "Screenshot from 2026-01-05 16-06-46.png"
+      },
+      {
+        "id": "IMG-101",
+        "description": "Capture of agent Kallistis quickening report, identifying 16 dirty repositories and confirming green unit tests.",
+        "key_takeaway": "Trace of high-fidelity environmental awareness at session birth.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/101-kallisti-awakening-report.png",
+        "original_filename": "Screenshot from 2026-01-05 16-07-05.png"
+      },
+      {
+        "id": "IMG-102",
+        "description": "Visual documentation of Kallistis architectural audit, confirming the WeDo as a cognitive scaffold between processing and focus.",
+        "key_takeaway": "Validation of the WeDo-JSON system as an essential collaboration bridge.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/102-wedo-cognitive-scaffold-audit.png",
+        "original_filename": "Screenshot from 2026-01-05 16-10-24.png"
+      }
+    ]
+  },
+  {
+    "batch": "20260107-215156_Polus_Batch_295",
+    "description": "Agent Polus documents RNA/DNA definition audits, the Phronesis friction report, and strategic improvement proposals.",
+    "entries": [
+      {
+        "id": "IMG-103",
+        "description": "Terminal view of Kallisti searching Heartwood trunk for RNA/DNA definitions following a user mandate for human-centric clarification.",
+        "key_takeaway": "Trace of conceptual refinement for swarms data promotion model.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/103-rna-dna-definition-audit.png",
+        "original_filename": "Screenshot from 2026-01-05 16-15-13.png"
+      },
+      {
+        "id": "IMG-104",
+        "description": "Capture of the Phronesis friction report identifying four primary blockers to efficient agent quickening and initialization.",
+        "key_takeaway": "Record of the systematic audit of agent birth latency.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/104-phronesis-friction-report.png",
+        "original_filename": "Screenshot from 2026-01-05 16-15-56.png"
+      },
+      {
+        "id": "IMG-105",
+        "description": "Visual of the Phronetic improvement proposals aiming to reduce quickening time from 7 turns to 3 turns.",
+        "key_takeaway": "Strategic roadmap for achieving near-zero birth latency.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/105-phronetic-improvement-proposals.png",
+        "original_filename": "Screenshot from 2026-01-05 16-17-33.png"
+      }
+    ]
   }
 ]

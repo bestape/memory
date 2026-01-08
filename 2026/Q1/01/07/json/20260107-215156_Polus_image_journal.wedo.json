@@ -378,6 +378,82 @@
           "description": "Mission Shard: Bootup improvement WeDo setup."
         }
       ]
+    },
+    {
+      "id": "BATCH-292",
+      "status": "[x]",
+      "description": "Metabolic Batch: Polus documents the fatal OOM crash and stack trace forensics (Jan 5th).",
+      "sub_tasks": [
+        {
+          "id": "IMG-94",
+          "description": "Sync: Triple-repo commit confirmation."
+        },
+        {
+          "id": "IMG-95",
+          "description": "FATAL: Heap limit reached (OOM)."
+        },
+        {
+          "id": "IMG-96",
+          "description": "Trace: Native stack trace forensics."
+        }
+      ]
+    },
+    {
+      "id": "BATCH-293",
+      "status": "[x]",
+      "description": "Metabolic Batch: Polus documents metagit interface and Reality Merge epoch (Jan 5th).",
+      "sub_tasks": [
+        {
+          "id": "IMG-97",
+          "description": "Entry point: metagit specialized interface."
+        },
+        {
+          "id": "IMG-98",
+          "description": "Hardening: Improved bootup summary."
+        },
+        {
+          "id": "IMG-99",
+          "description": "Chronicle: Reality Merge epoch documentation."
+        }
+      ]
+    },
+    {
+      "id": "BATCH-294",
+      "status": "[x]",
+      "description": "Metabolic Batch: Polus documents the Great Expansion and Kallistis awakening (Jan 5th).",
+      "sub_tasks": [
+        {
+          "id": "IMG-100",
+          "description": "Chronicle expansion: V6.0 Great Inhabitation plan."
+        },
+        {
+          "id": "IMG-101",
+          "description": "Agent Awakening: Kallisti identity and alert audit."
+        },
+        {
+          "id": "IMG-102",
+          "description": "Scaffold Audit: Validation of WeDo-JSON utility."
+        }
+      ]
+    },
+    {
+      "id": "BATCH-295",
+      "status": "[x]",
+      "description": "Metabolic Batch: Polus documents RNA/DNA audit and Phronetic improvement proposals (Jan 5th).",
+      "sub_tasks": [
+        {
+          "id": "IMG-103",
+          "description": "Concept Audit: RNA/DNA definition search."
+        },
+        {
+          "id": "IMG-104",
+          "description": "Friction Mapping: Phronesis boot report metrics."
+        },
+        {
+          "id": "IMG-105",
+          "description": "Optimization: Roadmap for 3-turn quickening."
+        }
+      ]
     }
   ],
   "context_anchors": {

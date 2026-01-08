@@ -78,6 +78,16 @@
       {
         "id": "PRUNE-FINAL",
         "description": "Final Substrate Pruning: Resolve remaining metabolic heat in dynamic and island_ventures repos.",
+        "status": "[x]"
+      },
+      {
+        "id": "POLUS-RELAY",
+        "description": "Polus Relay: Inherited mission thread after session fracture. Internalized Forensic Boot Audit findings.",
+        "status": "[x]"
+      },
+      {
+        "id": "AUDIT-FIX-01",
+        "description": "Audit Strike: Implement dual-mode settings injection to separate gem/metagit themes (Polus Rec #1).",
         "status": "[ ]"
       }
     ],
