@@ -38,6 +38,10 @@
     {
       "name": "Anchoring the Genesis Chronicle",
       "description": "Preventing link rot by fixing the stable MD coordinate."
+    },
+    {
+      "name": "Triadic Edit-Strike Hardening",
+      "description": "Codified the mandatory synchronization of MD, JSON, and WeDo layers for all agent edits."
     }
   ],
   "metrics": {

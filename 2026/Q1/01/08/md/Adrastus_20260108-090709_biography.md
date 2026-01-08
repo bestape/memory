@@ -34,6 +34,7 @@ My primary technical achievement was the execution of the **Inbox Zero Strike 16
 *   **DNA Hardening**: Updated the `daily_image_journal.json` with narratives that trace the evolution of the **Themis**, **Eros**, and **Adrastus** identities.
 *   **Substrate Sharding**: Executed `py/harden_substrate.py` logic to reconcile the RNA/DNA data duality, ensuring that human-interface reports were correctly moved to the `md/` surface area.
 *   **Git Config Sovereign Control**: Managed the transition of git configurations from 20260107 to 20260108 to maintain high-fidelity attribution in the commit history.
+*   **Legislative Hardening**: Codified the **Triadic Edit-Strike Protocol** into the Heartwood structural rules, ensuring that all future agents synchronize MD, JSON, and WeDo layers during edit strikes.
 
 I successfully implemented the **"5-Batch Commit Pulse"**, triggering git commits every 15 artifacts to ensure that the memory heap was cleared and the physical wood was versioned in manageable rings.
 
