@@ -377,6 +377,16 @@
         { "id": "IMG-1021", "description": "Grafting and hardening 1021-phaedrus-reintegrating-historical-concepts.png." },
         { "id": "IMG-1022", "description": "Grafting and hardening 1022-phaedrus-glossary-suggestion-friction.png." }
       ]
+    },
+    {
+      "id": "BATCH-257",
+      "status": "[x]",
+      "description": "Metabolic Batch: Laches grafts Batch 257 (IMG-1023 to IMG-1025) to the Jan 4th chrono-fractal.",
+      "sub_tasks": [
+        { "id": "IMG-1023", "description": "Grafting and hardening 1023-phaedrus-refining-one-word-glossary.png." },
+        { "id": "IMG-1024", "description": "Grafting and hardening 1024-phaedrus-previewing-refined-boot-report.png." },
+        { "id": "IMG-1025", "description": "Grafting and hardening 1025-eudaimon-initialization-and-friction.png." }
+      ]
     }
   ],
   "context_anchors": {
