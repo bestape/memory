@@ -919,5 +919,29 @@
         "original_filename": "Screenshot from 2026-01-05 16-20-15.png"
       }
     ]
+  },
+  {
+    "batch": "20260107-090709_Adrastus_Batch_297",
+    "description": "Adrastus continues the journaling relay, documenting metabolic compromises and structural rule drafting.",
+    "entries": [
+      {
+        "id": "IMG-109",
+        "description": "Terminal view of the 3-by-3 Metabolic Compromise being codified into the session rules.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/109-metabolic-compromise-codification.png",
+        "original_filename": "Screenshot from 2026-01-05 16-22-33.png"
+      },
+      {
+        "id": "IMG-110",
+        "description": "Visual evidence of the agent performing a recursive grep to locate orphaned .todo.md files.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/110-todo-orphan-search.png",
+        "original_filename": "Screenshot from 2026-01-05 16-24-49.png"
+      },
+      {
+        "id": "IMG-111",
+        "description": "Capture of the first Substrate Structural Rules JSON draft being presented.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/111-structural-rules-draft.png",
+        "original_filename": "Screenshot from 2026-01-05 16-25-40.png"
+      }
+    ]
   }
 ]
