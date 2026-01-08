@@ -347,6 +347,16 @@
         { "id": "IMG-1012", "description": "Grafting and hardening 1012-phaedrus-major-system-refinement-directives.png." },
         { "id": "IMG-1013", "description": "Grafting and hardening 1013-phaedrus-instantiating-startup-protocol-extended.png." }
       ]
+    },
+    {
+      "id": "BATCH-254",
+      "status": "[x]",
+      "description": "Metabolic Batch: Laches grafts Batch 254 (IMG-1014 to IMG-1016) to the Jan 4th chrono-fractal.",
+      "sub_tasks": [
+        { "id": "IMG-1014", "description": "Grafting and hardening 1014-phaedrus-achieving-logic-parity-in-gem-function.png." },
+        { "id": "IMG-1015", "description": "Grafting and hardening 1015-phaedrus-forensic-history-article-draft.png." },
+        { "id": "IMG-1016", "description": "Grafting and hardening 1016-phaedrus-task-finalization-report.png." }
+      ]
     }
   ],
   "context_anchors": {
