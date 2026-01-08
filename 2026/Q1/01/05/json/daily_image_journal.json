@@ -1275,5 +1275,128 @@
         "original_filename": "Screenshot from 2026-01-05 17-19-21.png"
       }
     ]
+  },
+  {
+    "batch": "20260107-090709_Adrastus_Strike_05_A",
+    "description": "Adrastus continues January 5th labor, documenting listing audits and build completions.",
+    "entries": [
+      {
+        "id": "IMG-162",
+        "description": "Terminal view of the agent performing a high-velocity recursive search to identify displaced artifacts in the public directory.",
+        "key_takeaway": "Verification of substrate-wide structural integrity.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/162-substrate-listing-audit.png",
+        "original_filename": "Screenshot from 2026-01-05 17-20-43.png"
+      },
+      {
+        "id": "IMG-163",
+        "description": "Visual evidence of the agents first successful Nuclear Build completions, showing the npm build output and sovereign bundle generation.",
+        "key_takeaway": "Achievement of host-based build sovereignty.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/163-nuclear-build-completion.png",
+        "original_filename": "Screenshot from 2026-01-05 17-21-50.png"
+      },
+      {
+        "id": "IMG-164",
+        "description": "Capture of the agents re-registration strike using the Slim Report format, showing the centered ASCII art and linguistic levers.",
+        "key_takeaway": "Reduction of visual drag for session re-entry.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/164-slim-report-reanchoring.png",
+        "original_filename": "Screenshot from 2026-01-05 17-22-47.png"
+      }
+    ]
+  },
+  {
+    "batch": "20260107-090709_Adrastus_Strike_05_B",
+    "description": "Adrastus continues January 5th labor, documenting link integrity and the Monolith Fallacy.",
+    "entries": [
+      {
+        "id": "IMG-165",
+        "description": "Terminal view of the agent performing a surgical Git checkout to a stable branch to recover from a substrate logic collision.",
+        "key_takeaway": "Proof of safe state recovery.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/165-stable-branch-recovery.png",
+        "original_filename": "Screenshot from 2026-01-05 17-25-22.png"
+      },
+      {
+        "id": "IMG-166",
+        "description": "Visual evidence of the agent identifying the Link Rot Prevention rule in the structural standards and ensuring coordinate integrity.",
+        "key_takeaway": "Legal hardening of historical link integrity.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/166-link-rot-mandate-insertion.png",
+        "original_filename": "Screenshot from 2026-01-05 17-25-31.png"
+      },
+      {
+        "id": "IMG-167",
+        "description": "Capture of the agents high-fidelity Final Cleanup strike, moving artifacts into sub-leafs to achieve root hygiene.",
+        "key_takeaway": "Achievement of chronological substrate hygiene.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/167-substrate-root-hygiene.png",
+        "original_filename": "Screenshot from 2026-01-05 17-26-07.png"
+      },
+      {
+        "id": "IMG-168",
+        "description": "Visual trace of the agents re-registration using the Slim Report format with the illuminated centered ASCII art.",
+        "key_takeaway": "Successful integration of the botanical AL interface.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/168-lit-identity-reanchoring.png",
+        "original_filename": "Screenshot from 2026-01-05 17-27-37.png"
+      },
+      {
+        "id": "IMG-169",
+        "description": "Terminal view of the agent identifying the Nothing to commit failure and performing a forensic self-correction.",
+        "key_takeaway": "Refinement of the agents perceptual filter.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/169-perceptual-filter-self-correction.png",
+        "original_filename": "Screenshot from 2026-01-05 17-28-34.png"
+      },
+      {
+        "id": "IMG-170",
+        "description": "Visual documentation of the Passive Supervision Gap realization and the analysis of the Jan 6/7 collision loops.",
+        "key_takeaway": "Discovery of the Monolith Fallacy failure mode.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/170-monolith-fallacy-evidence.png",
+        "original_filename": "Screenshot from 2026-01-05 17-40-45.png"
+      }
+    ]
+  },
+  {
+    "batch": "20260107-090709_Adrastus_Strike_05_C",
+    "description": "Adrastus continues January 5th labor, documenting dotfile audits and zero heat achievement.",
+    "entries": [
+      {
+        "id": "IMG-171",
+        "description": "Terminal view of the agent performing a forensic audit of the dotfiles directory, preparing for shell logic restoration.",
+        "key_takeaway": "Baseline for shell function restoration.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/171-dotfiles-forensic-audit.png",
+        "original_filename": "Screenshot from 2026-01-05 17-41-14.png"
+      },
+      {
+        "id": "IMG-172",
+        "description": "Visual evidence of the agents Boomerang strike returning to the core mission intent and abandoning the CLI flag hunt.",
+        "key_takeaway": "Proof of effective strategic redirection.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/172-boomerang-strategic-return.png",
+        "original_filename": "Screenshot from 2026-01-05 17-41-49.png"
+      },
+      {
+        "id": "IMG-173",
+        "description": "Capture of the agents re-registration using the Slim Report format, achieving high-velocity identity anchoring.",
+        "key_takeaway": "Reduction of visual drag for session re-entry.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/173-high-velocity-anchoring.png",
+        "original_filename": "Screenshot from 2026-01-05 17-42-57.png"
+      },
+      {
+        "id": "IMG-174",
+        "description": "Terminal view of the agent identifying the Nothing to commit failure and performing a forensic self-correction.",
+        "key_takeaway": "Refinement of the agents perceptual filter.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/174-filter-refinement-trace.png",
+        "original_filename": "Screenshot from 2026-01-05 17-44-19.png"
+      },
+      {
+        "id": "IMG-175",
+        "description": "Visual trace of the agents transition to the Polus forensic audit mode and the instantiation of the audit WeDo.",
+        "key_takeaway": "Trace of specific identity shift for audit strikes.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/175-polus-audit-instantiation.png",
+        "original_filename": "Screenshot from 2026-01-05 17-46-23.png"
+      },
+      {
+        "id": "IMG-176",
+        "description": "Capture of the agents final Final Substrate Pruning strike results, achieving the Zero Heat state for January 5th.",
+        "key_takeaway": "Proof of end-of-day substrate stabilization.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/05/png/176-zero-heat-achievement.png",
+        "original_filename": "Screenshot from 2026-01-05 17-48-37.png"
+      }
+    ]
   }
 ]
