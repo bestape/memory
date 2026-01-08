@@ -21,6 +21,11 @@
       "rationale": "Markdown is high-verbosity 'Interface' and should not be mistaken for 'Mass' (Substrate DNA)."
     },
     {
+      "rule": "Stable Markdown Coordinates",
+      "definition": "Primary Markdown chronicles (.md) MUST remain at their initial publication coordinate (e.g., the Jan 6th node). Subsequent updates to the chronicle content should overwrite the original file to prevent coordinate drift and link rot.",
+      "rationale": "High-verbosity interface reports require permanent addresses for human navigation. Temporal sharding is handled exclusively in the .json DNA layer."
+    },
+    {
       "rule": "Link Rot Prevention",
       "definition": "Markdown reports (.md) must remain at their initial publication coordinates (date-stamp) to ensure permanent link integrity. Higher versions must be sharded to the current date's 'md/' leaf.",
       "rationale": "The User interface requires stability; moving primary documentation fractures the collective history."
