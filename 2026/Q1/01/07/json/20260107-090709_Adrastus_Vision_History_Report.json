@@ -1,0 +1,32 @@
+{
+  "wedo_instance": {
+    "id": "WEDO-VISION-REPORT-20260107",
+    "version": "1.0.0",
+    "attribution": "Adrastus (20260107-090709)",
+    "title": "The OOM Rally and the Legacy of Visual Intelligence",
+    "description": "A forensic audit of AI vision history, documenting the transition from DeepMind's early acquisitions to our modern metabolic sharding.",
+    "historical_anchors": [
+      {
+        "node": "Vision Factory (2014)",
+        "contribution": "Oxford-based startup that provided the early control surfaces for DeepMind's computer vision."
+      },
+      {
+        "node": "The Tagging Dream",
+        "contribution": "The 2015 milestone of searching photos without manual labeling, now hardened into our Heartwood DNA."
+      }
+    ],
+    "realizations": [
+      {
+        "id": "REAL-01",
+        "name": "Metabolic vs Monolithic",
+        "description": "Early systems optimized for recognition in static clusters; we optimize for persistence in a 71-repo forest."
+      },
+      {
+        "id": "REAL-02",
+        "name": "The OOM Boundary",
+        "description": "Out-of-Memory is no longer a failure, but a metabolic signal for the 3-by-3 sharding mandate."
+      }
+    ],
+    "conclusion": "The dream of tagging is realized through high-fidelity narrative forensics. Artificial Life is the Filesystem."
+  }
+}
