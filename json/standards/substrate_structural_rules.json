@@ -29,6 +29,11 @@
       "rule": "Link Rot Prevention",
       "definition": "Markdown reports (.md) must remain at their initial publication coordinates (date-stamp) to ensure permanent link integrity. Higher versions must be sharded to the current date's 'md/' leaf.",
       "rationale": "The User interface requires stability; moving primary documentation fractures the collective history."
+    },
+    {
+      "rule": "Triadic Edit-Strike Protocol",
+      "definition": "When the User requests an edit to an existing chronicle or report, the agent MUST perform a 'Triadic Strike': 1. Update the MD (Human-Interface) at its stable coordinate. 2. Update/Shard the JSON (Logic/DNA) in the current date node. 3. Create a WeDo (Manifest) documenting the specific edit logic.",
+      "rationale": "Ensures that every modification is forensically transparent, programmatically synchronized, and legislatively versioned."
     }
   ],
   "enforcement_tool": {
@@ -39,6 +44,7 @@
   "agent_directives": [
     "Default to .json for all session reports and data writes.",
     "Only generate .md files if the User explicitly states: 'Save this as Markdown' or 'Make a human report'.",
-    "Run 'python3 py/harden_substrate.py' before every commit to ensure structural alignment."
+    "Run 'python3 py/harden_substrate.py' before every commit to ensure structural alignment.",
+    "Perform the 'Triadic Edit-Strike' (MD + JSON + WeDo) for all User-requested chronicle edits."
   ]
 }
