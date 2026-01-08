@@ -277,6 +277,16 @@
         { "id": "IMG-991", "description": "Grafting and hardening 991-orestes-codifying-reserved-system-names.png." },
         { "id": "IMG-992", "description": "Grafting and hardening 992-orestes-hardening-startup-protocol-check.png." }
       ]
+    },
+    {
+      "id": "BATCH-247",
+      "status": "[x]",
+      "description": "Metabolic Batch: Laches grafts Batch 247 (IMG-993 to IMG-995) to the Jan 4th chrono-fractal.",
+      "sub_tasks": [
+        { "id": "IMG-993", "description": "Grafting and hardening 993-orestes-refactoring-register-agent-safety.png." },
+        { "id": "IMG-994", "description": "Grafting and hardening 994-orestes-renaming-session-wedos.png." },
+        { "id": "IMG-995", "description": "Grafting and hardening 995-orestes-naming-protocol-institutionalization-report.png." }
+      ]
     }
   ],
   "context_anchors": {
