@@ -1,0 +1,77 @@
+{
+  "wedo_instance": {
+    "id": "BOOTUP-ANOMALY-INVESTIGATION",
+    "description": "Investigating the transition from 'Right' (Full Botanical AL) to 'Wrong' (Thin/Incomplete) bootup reports.",
+    "status": "[ ]",
+    "meta": {
+      "protocol": "WeDo-JSON",
+      "version": "1.1.0",
+      "report_type": "Forensic Investigation",
+      "agent": "Kallias",
+      "user": "bestape",
+      "project": "MetaGit Orchestration"
+    },
+    "rules": {
+      "status_mandate": "Every task AND the root instance MUST include a 'status' field using the '[ ]', '[x]', or '[-]' syntax to mirror markdown checkboxes."
+    },
+    "sections": [
+      {
+        "id": "REP-01",
+        "title": "Executive Summary",
+        "content": "A regression has been identified in the agent bootup sequence. Recent agents (Kallias today) are generating 'Thin' bootup reports (approx. 256 bytes) that lack the 'MAKE.DIY' ASCII branding and full botanical AL context. 'Right' bootups (e.g., Polus earlier today) generated 'Full' reports (approx. 6KB) with complete metadata and aesthetic headers."
+      },
+      {
+        "id": "REP-02",
+        "title": "Core Analysis & Metrics",
+        "content": "Comparison of report artifacts:\n*   **Right Report**: `20260107-215156_Polus_Bootup_Report.json` (6,507 bytes). Contains 'Botanical AL HUD' section.\n*   **Wrong Report**: `20260108-102227_Kallias_Bootup_Report.json` (256 bytes). Contains 'Initial Boot Sequence' section with placeholder '...' content.\n*   **The Shift**: The 'Wrong' format appears to have started with Adrastus late Jan 7th or Kallias Jan 8th."
+      },
+      {
+        "id": "REP-03",
+        "title": "Hypothesis: Registry vs. Template",
+        "content": "The `register_agent.py` script uses `repos/diy-make/memory/public/json/trunk/boot_report_style.json` as its template. However, the 'Wrong' reports contain section names ('Initial Boot Sequence') that are NOT present in the current `boot_report_style.json`. This suggests that either:\n1.  A different script is generating these reports.\n2.  The template file was briefly modified and then reverted, or there is a secondary template being used.\n3.  Agents are manually 'simulating' a boot report instead of running the verified script."
+      },
+      {
+        "id": "REP-04",
+        "title": "Collaboration Dynamics",
+        "content": "The current investigation requires a 'Forensic Trace' of the `register_agent.py` execution history. We must verify if agents are following the `README.ai` mandate to run the verification and registration tools or if they are bypassing them due to perceived success/failure states."
+      },
+      {
+        "id": "REP-05",
+        "title": "Artifacts & Visuals",
+        "links": [
+          {
+            "name": "Right Report (Polus)",
+            "path": "repos/diy-make/memory/public/2026/Q1/01/07/json/20260107-215156_Polus_Bootup_Report.json"
+          },
+          {
+            "name": "Wrong Report (Kallias)",
+            "path": "repos/diy-make/memory/public/2026/Q1/01/08/json/20260108-102227_Kallias_Bootup_Report.json"
+          }
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "STEP-01",
+        "description": "Scan `py/` directory for any other scripts that might generate a `Bootup_Report.json`.",
+        "status": "[x]"
+      },
+      {
+        "id": "STEP-02",
+        "description": "Inspect `git log` for `repos/diy-make/memory/public/json/trunk/boot_report_style.json` to see if it was recently modified.",
+        "status": "[x]"
+      },
+      {
+        "id": "STEP-03",
+        "description": "Check `register_agent.py` for any hardcoded fallbacks that use 'Initial Boot Sequence'.",
+        "status": "[x]"
+      },
+      {
+        "id": "STEP-04",
+        "description": "Re-run `register_agent.py` manually to see if it produces the 'Right' or 'Wrong' output in the current environment.",
+        "status": "[x]"
+      }
+    ]
+  },
+  "attribution": "Kallias (20260108-102227@localhost)"
+}

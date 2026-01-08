@@ -5,12 +5,13 @@
     "status": "[ ]",
     "meta": {
       "protocol": "WeDo-JSON",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "philosophy": "Interoperability is the multiplier of intelligence; bridging models expands the swarm's cognitive reach."
     },
     "rules": {
       "security_first": "Never commit raw API keys to the repository. Use environment variables or local settings.",
-      "tool_prefixing": "Observe the '/mcp list' output to identify potential tool name collisions."
+      "tool_prefixing": "Observe the '/mcp list' output to identify potential tool name collisions.",
+      "status_mandate": "Every task AND the root instance MUST include a 'status' field using the '[ ]', '[x]', or '[-]' syntax to mirror markdown checkboxes."
     },
     "tasks": [
       {
