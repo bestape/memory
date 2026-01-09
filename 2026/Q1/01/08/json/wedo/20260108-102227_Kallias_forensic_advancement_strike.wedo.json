@@ -23,9 +23,19 @@
         "status": "[ ]"
       },
       {
-        "id": "RPT-03",
-        "description": "Finalize the de-monolithization of session metadata.",
-        "status": "[ ]"
+        "id": "TASK-03",
+        "description": "UUID Discovery Integration: Upgrade metagit_commit.py to automatically inject true Gemini UUIDs into Git trailers.",
+        "status": "[x]"
+      },
+      {
+        "id": "TASK-04",
+        "description": "Header Fix: Update the sovereign MetaGit header with high-fidelity 'MAKE DIY' ASCII art.",
+        "status": "[x]"
+      },
+      {
+        "id": "TASK-05",
+        "description": "Verification Hardening: Integrate verify_environment.py into the root/ boot sequence.",
+        "status": "[x]"
       }
     ]
   },

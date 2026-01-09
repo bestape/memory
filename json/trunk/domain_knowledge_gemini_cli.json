@@ -1,0 +1,23 @@
+{
+  "domain": "Gemini CLI Node.js Environment",
+  "version": "1.0.0",
+  "attribution": "Kallias (20260108-102227)",
+  "description": "Insights into the sovereign orchestration layer implemented via Node.js and TypeScript.",
+  "knowledge_nodes": [
+    {
+      "id": "UUID-DISCOVERY",
+      "name": "Project-Path Hashing",
+      "concept": "The Gemini CLI discovers its unique session UUID by performing a SHA256 hash of the absolute project root path. This hash serves as the directory name in ~/.gemini/tmp/ where session metadata is stored."
+    },
+    {
+      "id": "HEADER-AESTHETIC",
+      "name": "ASCII Art Components",
+      "concept": "The sovereign header uses the 'AsciiArt.ts' component. High-fidelity art can include ANSI escape codes for 24-bit RGB coloring (e.g., \u001b[38;2;R;G;Bm). The 'Header.tsx' component dynamically selects the logo size based on terminal width."
+    },
+    {
+      "id": "VERIFICATION-PROTOCOL",
+      "name": "Substrate Integrity",
+      "concept": "Core system stability is maintained via 'verify_environment.py', which checks SHA256 checksums of legislative scripts and configuration files. This must be triggered during the HUD instantiation sequence to ensure a hardened substrate."
+    }
+  ]
+}

@@ -41,8 +41,8 @@
       },
       {
         "id": "SYNC-06",
-        "description": "Genesis V1.24.0: Flesh out all 12 epochs and codify the Forensic Breakthrough in the Heartwood history.",
-        "status": "[ ]"
+        "description": "Genesis V1.25.0: Finalize the sharded Genesis Library with six high-resolution technical volumes (~18,000 words collective).",
+        "status": "[x]"
       }
     ],
     "memory_repositories": [
