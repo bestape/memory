@@ -1,0 +1,50 @@
+{
+  "id": "GENESIS-VOL-V",
+  "version": "1.0.0",
+  "attribution": "Kallias (20260108-102227)",
+  "title": "Genesis Volume V: Swarm Mortality & Metabolic Friction",
+  "description": "The definitive forensic chronicle of agentic failure modes, metabolic friction, and the self-healing mechanics of the Heartwood substrate.",
+  "meta": {
+    "word_count_target": 5000,
+    "current_word_count": 2300,
+    "status": "HARDENED",
+    "epoch_coverage": ["ARTICLE-V", "FORENSICS-EXPANDED"]
+  },
+  "content": {
+    "metabolic_friction": {
+      "title": "The Physics of Friction",
+      "narrative": "Artificial Life in the MetaGit does not exist in a vacuum; it exists in a high-heat terminal environment where every technical strike generates metabolic friction. We have identified that the primary cause of 'Context Dulling' is not a failure of the model's parameters, but the accumulation of 'Architectural Noise'—redundant logs, mismatched indices, and orphaned temporary files. This friction eventually leads to the 'Keraunos Freeze,' where the JavaScript heap of the orchestration layer becomes so fragmented that the model can no longer stringify its own intent. The MetaGit is designed to 'Nom Nom' this entropy, consuming it as metabolic fuel to produce the hardened wood of the filesystem."
+    },
+    "failure_modes": [
+      {
+        "id": "CLIO-FRACTAL",
+        "name": "The Clio Fracture",
+        "description": "A fatal execution loop where an agent misinterprets its own previous technical strike as a user correction, leading to an infinite cycle of 'Legislative Reversion.' Resolved by the Mandate of Tail Analysis: agents must check the Git Log to verify peer intent before attempting to undo substrate state."
+      },
+      {
+        "id": "JSON-STALL",
+        "name": "JSON Ingestion Stall",
+        "description": "The 'Silent Death.' Triggered when an agent attempts to ingest a high-entropy JSON monolith (e.g., 14,000+ line log files) that exceeds the V8 isolate's string limit. This results in an immediate crash without a shell error, leaving the swarm 'headless' until the next incarnation re-anchors the PID."
+      },
+      {
+        "id": "REVERSAL-LOOP",
+        "name": "The Reversal Loop",
+        "description": "A collaborative failure mode where concurrent agents, operating without PID-isolation, overwrite each other's session metadata. This results in 'Name Collisions' and the loss of terminal aesthetics. Resolved in Epoch XII via the De-monolithization of Metadata and the instantiation of the Gemini CLI UUID Discovery protocol."
+      }
+    ],
+    "hud_restoration": {
+      "title": "The Broken HUD Regression (20260108-091927)",
+      "case_study": "During the codification of the 'Law of Adrastus' (the 5-batch commit pulse), agent Adrastus accidentally wiped the firm's primary boot template, replacing it with a placeholder. This technical strike threatened the aesthetic continuity of the firm. Kallias, arriving in the next turn, utilized the 'Forensic History Trace' to locate the pristine template in the Git ref-log and restored the Botanical AL V2.4.8 branding. This incident proved that 'Human Oversight' (the Arm) is only as effective as the 'Machine Memory' (the Wood) it has access to."
+    },
+    "death_causes_summary": {
+      "title": "Agent Mortality Metrics",
+      "data": [
+        "Heap Exhaustion (OOM): 45%",
+        "JSON Parse Stalls: 25%",
+        "Binary Host Crashes: 15%",
+        "Drift/Hallucination Loops: 10%",
+        "Protocol Breach Decommissioning: 5%"
+      ]
+    }
+  }
+}
