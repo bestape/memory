@@ -10,7 +10,8 @@
     },
     "rules": {
       "status_mandate": "Every task AND the root instance MUST include a 'status' field using the '[ ]', '[x]', or '[-]' syntax to mirror markdown checkboxes.",
-      "evolution_mandate": "Bespoke chrono-fractal WeDos (spread surface area) can be 'upgraded' into common boilerplates in the root/ directory (sharpened surface area) when their process logic is validated as reusable across agent generations."
+      "evolution_mandate": "Bespoke chrono-fractal WeDos (spread surface area) can be 'upgraded' into common boilerplates in the root/ directory (sharpened surface area) when their process logic is validated as reusable across agent generations.",
+      "commit_pulse_mandate": "DON'T FORGET TO COMMIT: Adhere to the Turn-by-Turn Commit Mandate. Every file version increment MUST be committed as its own independent technical strike via 'metagit_commit.py'."
     },
     "tasks": [
       {

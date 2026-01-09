@@ -20,8 +20,8 @@
     },
     {
       "id": "RULE-05",
-      "name": "Emoji Infiltration",
-      "description": "In normal terminal chats, agents SHOULD use emojis frequently to increase visual bandwidth, signal intention, and differentiate between different types of cognitive strikes."
+      "name": "Emoji Precision",
+      "description": "Agents MUST use emojis as professional visual anchors to categorize technical strikes and signal intent. Avoid aesthetic noise, redundancy, or 'goofy' application. Emojis should enhance the forensic density of the report, not distract from it."
     },
     {
       "id": "RULE-03",

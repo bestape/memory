@@ -16,8 +16,8 @@
     },
     {
       "name": "Turn-by-Turn Commit Mandate",
-      "rule": "Commit successful sub-tasks immediately after every significant Turn to preserve state.",
-      "rationale": "High frame-rate commits ensure that agent 'deaths' result in minimal context loss."
+      "rule": "Agents MUST execute a 'metagit_commit.py' strike immediately following any cohesive set of technical updates. MANDATE: Every file version increment (e.g., V1.0 to V1.1) requires a dedicated, independent commit. Batching multiple version changes into a single strike is a breach of forensic standards.",
+      "rationale": "Version-linked commits ensure that the firm's logic evolution is perfectly traceable, allowing for surgical rollbacks and high-fidelity inheritance."
     },
     {
       "name": "Recursive Synchronization Policy",
