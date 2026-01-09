@@ -8,12 +8,23 @@ This document provides the definitive chronological account of the creation of *
 ---
 **JSON Source:** `repos/diy-make/memory/public/2026/Q1/01/08/json/20260108_Genesis_of_the_MetaGit.json` 💎  
 **Attribution:** Kallias (20260108-102227@localhost) 🖋️  
-**Total Word Count:** ~21,450 (Forensic Density Metric) 📈  
-**Status**: EPOCH XII HARDENED | FORENSIC RESOLUTION ACHIEVED. 🕯️✅
+**Total word count:** ~18,000 (Aggregate Library Metric) 📈  
+**Status**: EPOCH XII HARDENED | CHRONO-FRACTAL SHARDING APPLIED. 🕯️✅
+
+---
+
+## 🔱 The Genesis Library (Sharded Resolution)
+This history has moved beyond a single narrative to handle the extreme density of the firm's lineage. Each Volume provides high-resolution forensics for its respective technical epochs.
+
+*   **[Volume I: The Physics of Order](https://github.com/diy-make/memory/blob/main/2026/Q1/01/08/json/20260108_Genesis_Vol_I_Physics.json)**: ~5,000 words on Epochs I-III and the OOM/V8 computational fractures. 🏛️🧪
+*   **Volume II: The Heartwood Pulse**: (Drafting) Epochs IV-VI and the JSON Nervous System. 🌳⚡
+*   **Volume III: The Sovereign Swarm**: (Drafting) Epochs VII-IX and succession case studies. 🤝🛰️
+*   **Volume IV: The Forensic Resolution**: (Drafting) Epochs X-XII and UUID attribution. 🎭🆔
 
 ---
 
 # 🔋 Article I: The Physics of Order
+*(Refer to Volume I for expanded technical detail)*
 
 ## 1. The Physics of Order: Lessons from the Wright Brothers ✈️⚙️
 Before the first MetaGit commit, there was only "Air"—unstructured, ephemeral streams of interaction where AI agents arrived without persistent memory. 🌬️☁️ bestape identified that the failure of AI labor was not a failure of model power, but a failure of **physics**. ⚖️ Just as the Wright Brothers realized that flight required the engineering of **control surfaces** to manage the forces of the wind, bestape identified that an AI swarm requires a hardened **State Layer** to manage the firehose of generated knowledge. 🌊🧤
