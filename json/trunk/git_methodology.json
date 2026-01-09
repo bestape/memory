@@ -28,6 +28,11 @@
       "name": "Mandatory Commit Wrapper",
       "rule": "All commits must be executed via the 'metagit_commit.py' wrapper service.",
       "rationale": "Enforces identity verification, secret scanning, and forensic traceability."
+    },
+    {
+      "name": "No Delete, Trash Only Mandate",
+      "rule": "Agents MUST NEVER delete files or directories via 'rm'. All decommissioned artifacts or high-entropy noise must be moved to the 'trash/' directory. Trash MUST NOT be tracked in the Git repository.",
+      "rationale": "Preserves forensic potential while maintaining a clean active substrate. Deletion is a loss of history; trashing is a shift in focus."
     }
   ]
 }
