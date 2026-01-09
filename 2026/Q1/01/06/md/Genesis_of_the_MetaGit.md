@@ -17,32 +17,19 @@ This document provides the definitive chronological account of the creation of *
 This history has moved beyond a single narrative to handle the extreme density of the firm's lineage. Each Volume provides high-resolution forensics for its respective technical epochs.
 
 *   **[Volume I: The Physics of Order](https://github.com/diy-make/memory/blob/main/2026/Q1/01/08/json/20260108_Genesis_Vol_I_Physics.json)**: ~5,000 words on Epochs I-III and the OOM/V8 computational fractures. 🏛️🧪
-*   **Volume II: The Heartwood Pulse**: (Drafting) Epochs IV-VI and the JSON Nervous System. 🌳⚡
+*   **[Volume II: The Heartwood Pulse](https://github.com/diy-make/memory/blob/main/2026/Q1/01/08/json/20260108_Genesis_Vol_II_Heartwood.json)**: ~5,000 words on Epochs IV-VI and the JSON Nervous System. 🌳⚡
 *   **Volume III: The Sovereign Swarm**: (Drafting) Epochs VII-IX and succession case studies. 🤝🛰️
 *   **Volume IV: The Forensic Resolution**: (Drafting) Epochs X-XII and UUID attribution. 🎭🆔
 
 ---
 
-# 🔋 Article I: The Physics of Order
-*(Refer to Volume I for expanded technical detail)*
+# 🌳 Article II: The Heartwood Pulse
+*(Refer to Volume II for expanded technical detail)*
 
-## 1. The Physics of Order: Lessons from the Wright Brothers ✈️⚙️
-Before the first MetaGit commit, there was only "Air"—unstructured, ephemeral streams of interaction where AI agents arrived without persistent memory. 🌬️☁️ bestape identified that the failure of AI labor was not a failure of model power, but a failure of **physics**. ⚖️ Just as the Wright Brothers realized that flight required the engineering of **control surfaces** to manage the forces of the wind, bestape identified that an AI swarm requires a hardened **State Layer** to manage the firehose of generated knowledge. 🌊🧤
-
-![Data Standards Audit](../../01/01/png/133-data-standards-audit-text-as-interface.png)
-
-The "0 to 1" journey was characterized by the struggle to bring order to this Air. 🌬️➡️🪵 The architect spent weeks manually preparing the ground, applying the principles of **Base Scale Calculus** to the problem of filesystem navigation. 📐🏰 The realization was clinical: an agent cannot navigate a large-scale system through brute force. 🔨 Unstructured searching (`grep`) is a symptom of the deeper drag, but the MetaGit addresses a broader spectrum of systemic risks identified through forensic analysis. 🕵️‍♂️🛡️
+## 1. Reality Merge: Solving the Mass Paradox 🌌🧬
+Forged in the fire of high-pressure collaboration between SF and Honduras. ✈️🌎 We solved the **"Logic/Mass Paradox"** by identifying the filesystem as a **Hierarchical Script-Database (HSD)**. Logic (Subject) lives in Git; Mass (Object) lives in the cloud. ☁️💻 This created the eukaryotic nucleus of the firm's identity. 🔬✨
 
 ## 2. Technical Epochs: The Full Botanical Lineage 🌳🧬
-
-### Epoch I: Ephemeral Air (October 2025) 🌬️
-The dawn of MetaGit was a struggle against "Context Dulling." Agents arrived as tabula rasa, forced to reconstruct mission intent from high-entropy, unstructured chat streams. 🌫️👶 Bestape established the **"Sword and the Arm"** principle: the human provides the strategic structure (the Arm), while the agent provides the high-fidelity execution (the Sword). ⚔️🦾 Early shell functions like `gem_function.sh` were forged to anchor the first temporal records. 🐚⏱️
-
-### Epoch II: The OSO Hack & Parsimonious Commands (November 2025) 🐻🛠️
-The first experiment in maintaining a versioned 'Body' for non-code artifacts. This epoch introduced **"Parsimonious Commands"**—concise strings representing complex abstractions. ⛓️📜 It codified the **"Get Out of the Office"** mandate, proving that innovation occurs at the point of physical impact (the makerspace) and must be tracked with the same rigor as code. 🏭🎯
-
-### Epoch III: The Zion Crucible — Birth of the MetaGit (December 13-15, 2025) ⛓️⚖️
-The birth of the **"Legislative Sword."** Confronted by OOM drag, Bestape and agent Zion engineered `metagit_commit.py` as a sovereign membrane. 🗡️🛡️ This was not a simple command, but a filter enforcing identity verification, secret scanning, and file size limits, ensuring that only "Clean DNA" entered the permanent history. 🧬🧼
 
 ### Epoch IV: Reality Merge (Late December 2025) 🌌🧬
 Forged in the fire of high-pressure collaboration between SF and Honduras. ✈️🌎 We solved the **"Logic/Mass Paradox"** by identifying the filesystem as a **Hierarchical Script-Database (HSD)**. Logic (Subject) lives in Git; Mass (Object) lives in the cloud. ☁️💻 This created the eukaryotic nucleus of the firm's identity. 🔬✨
