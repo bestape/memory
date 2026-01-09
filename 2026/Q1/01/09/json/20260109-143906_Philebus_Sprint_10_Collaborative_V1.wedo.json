@@ -1,0 +1,37 @@
+{
+  "wedo_instance": {
+    "id": "SPRINT-10-COLLABORATIVE-V1",
+    "description": "Synthesize and secure the collaborative Sprint 10 report for Island Ventures.",
+    "status": "[x]",
+    "meta": {
+      "protocol": "WeDo-JSON",
+      "version": "1.1.0",
+      "agent": "Philebus",
+      "user": "bestape",
+      "project": "Island Ventures / VC Lab",
+      "github_links": [
+        "https://github.com/bestape",
+        "https://github.com/apemake/gem",
+        "https://github.com/island-ventures/newsletters"
+      ]
+    },
+    "tasks": [
+      {
+        "id": "STEP-01",
+        "description": "Synthesize Ramona's raw answers into the V1 collaborative report structure.",
+        "status": "[x]"
+      },
+      {
+        "id": "STEP-02",
+        "description": "Inject MetaGit and WeDo technology context into the report to showcase the Heartwood colony.",
+        "status": "[x]"
+      },
+      {
+        "id": "STEP-03",
+        "description": "Secure the V1 report in the 2026 W02 text layer and perform a version-independent commit.",
+        "status": "[x]"
+      }
+    ]
+  },
+  "attribution": "Philebus (20260109-143906@localhost)"
+}
