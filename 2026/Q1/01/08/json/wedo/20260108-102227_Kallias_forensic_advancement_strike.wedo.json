@@ -1,0 +1,33 @@
+{
+  "wedo_instance": {
+    "id": "FORENSIC-ADVANCEMENT-STRIKE",
+    "description": "Formalizing the leap in session attribution and the discovery of the Logic/Physics duality in logs.",
+    "status": "[ ]",
+    "meta": {
+      "protocol": "WeDo-JSON",
+      "version": "1.1.0",
+      "philosophy": "Forensic resolution is the antidote to architectural drift."
+    },
+    "rules": {
+      "status_mandate": "Every task AND the root instance MUST include a 'status' field using the '[ ]', '[x]', or '[-]' syntax to mirror markdown checkboxes."
+    },
+    "tasks": [
+      {
+        "id": "RPT-01",
+        "description": "Synthesize the technical strikes of Jan 8th into a formal JSON report.",
+        "status": "[ ]"
+      },
+      {
+        "id": "RPT-02",
+        "description": "Document the 'Logic vs. Physics' duality of session logging.",
+        "status": "[ ]"
+      },
+      {
+        "id": "RPT-03",
+        "description": "Finalize the de-monolithization of session metadata.",
+        "status": "[ ]"
+      }
+    ]
+  },
+  "attribution": "Kallias (20260108-102227@localhost)"
+}

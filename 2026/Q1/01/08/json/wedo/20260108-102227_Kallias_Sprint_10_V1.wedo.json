@@ -1,0 +1,40 @@
+{
+  "wedo_instance": {
+    "id": "SPRINT-10-V1",
+    "description": "First explicit collaborative WeDo strike between User and Agent to resolve the VC Lab Sprint 10 Data Room mission.",
+    "status": "[ ]",
+    "meta": {
+      "protocol": "WeDo-JSON",
+      "version": "1.1.0",
+      "agent": "Kallias",
+      "user": "bestape",
+      "project": "Island Ventures / VC Lab",
+      "github_links": [
+        "https://github.com/bestape",
+        "https://github.com/apemake/gem"
+      ]
+    },
+    "rules": {
+      "status_mandate": "Every task AND the root instance MUST include a 'status' field using the '[ ]', '[x]', or '[-]' syntax to mirror markdown checkboxes.",
+      "iteration_pulse": "Each step in the sprint report must be explicitly versioned (e.g., V1) to demonstrate the MetaGit iterative process to VC Lab."
+    },
+    "tasks": [
+      {
+        "id": "STEP-01",
+        "description": "Synthesize Ramona's raw answers into the V1 collaborative report structure.",
+        "status": "[ ]"
+      },
+      {
+        "id": "STEP-02",
+        "description": "Inject MetaGit and WeDo technology context into the report to showcase the Heartwood colony.",
+        "status": "[ ]"
+      },
+      {
+        "id": "STEP-03",
+        "description": "Secure the V1 report in the 2026 W02 text layer and perform a version-independent commit.",
+        "status": "[ ]"
+      }
+    ]
+  },
+  "attribution": "Kallias (20260108-102227@localhost)"
+}

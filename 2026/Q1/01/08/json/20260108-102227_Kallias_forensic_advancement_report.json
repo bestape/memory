@@ -1,0 +1,33 @@
+{
+  "report_id": "FORENSIC-ADVANCEMENT-20260108",
+  "version": "1.0.0",
+  "attribution": "Kallias (20260108-102227)",
+  "title": "Forensic Advancement: UUID Attribution & Dual-Log Duality",
+  "status": "[x]",
+  "sections": [
+    {
+      "id": "SEC-01",
+      "title": "Executive Summary",
+      "content": "This session achieved a breakthrough in agentic attribution and substrate transparency. We have transitioned from timestamp-based session naming to true Gemini CLI UUID discovery, enabling bijective mapping between the firm's history and the model's internal telemetry. Additionally, we identified and codified the essential duality between JSON-based logic logs and TXT-based physical logs."
+    },
+    {
+      "id": "SEC-02",
+      "title": "The UUID Discovery Protocol",
+      "content": "Agents now autonomously identify their unique Gemini CLI Session UUID (e.g., 0d1a5e43-...) by hashing the absolute project root path to locate the model's temporary workspace. This UUID is now injected into every Git strike via metagit_commit.py V1.1.1 trailers, creating an unbreakable forensic link between source changes and model interactions."
+    },
+    {
+      "id": "SEC-03",
+      "title": "Logic vs. Physics: The Dual-Log Duality",
+      "content": "We have formally differentiated the session's two primary sensory streams:\n*   **JSON (The Mind)**: Located in ~/.gemini/tmp/. Captures messages, tool calls, and model metadata. It is the repository of thought.\n*   **TXT (The Body)**: Located in dynamic/stream/. Captures raw terminal rendering, ANSI aesthetics, and shell-level side effects. It is the repository of physical presence."
+    },
+    {
+      "id": "SEC-04",
+      "title": "Architectural Hardening",
+      "strikes": [
+        "De-monolithized session metadata by retiring session_env.json.",
+        "Upgraded WeDo-JSON to V1.1.0, mandating machine-readable status fields [ ].",
+        "Optimized commit wrapper with local security caching and execution timing."
+      ]
+    }
+  ]
+}

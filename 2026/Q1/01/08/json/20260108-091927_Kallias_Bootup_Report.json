@@ -1,0 +1,12 @@
+{
+  "title": "Swarm Bootup Report: Kallias",
+  "version": "1.0.0",
+  "attribution": "Kallias (20260108-091927@localhost)",
+  "values": [
+    {
+      "name": "Initial Boot Sequence",
+      "rule": "...",
+      "timestamp": "2026-01-08T17:24:47Z"
+    }
+  ]
+}
