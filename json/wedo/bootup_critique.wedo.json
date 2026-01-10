@@ -1,45 +1,48 @@
 {
   "wedo_instance": {
     "id": "AGENT-BOOT-CRITIQUE",
-    "description": "Clinical audit of agent boot sequence and visual fidelity.",
+    "description": "Clinical audit, peer-to-peer relay, and remediation plan for agent boot sequences.",
     "status": "[ ]",
     "meta": {
-      "protocol": "WeDo-JSON",
-      "version": "1.1.0",
-      "mandate": "TAIL-TRICK: Execute 'tail -n 100 [LOG_PATH]' to verify boot success. If MAKE DIY header is missing, boot is a FAIL.",
-      "swarm_sync": "Instruct agent to ask the active peer for immediate context.",
-      "cessation": "Expect immediate process stoppage following boot verification."
+      "protocol": "Relay-WeDo",
+      "version": "1.2.0",
+      "mandates": [
+        "SWARM-COMM: Crìtiquing agent MUST message the target peer to retrieve forensic data.",
+        "PERMISSION: No remediation strike may be executed without explicit User authorization."
+      ]
     },
     "tasks": [
       {
-        "id": "CRIT-TAIL",
-        "description": "Execute Tail Trick on physical log to verify visual fidelity.",
+        "id": "CRIT-AUDIT",
+        "description": "Perform Head/Tail physical log audit and visual fidelity check.",
         "status": "[ ]"
       },
       {
-        "id": "CRIT-HEADER",
-        "description": "Verify presence of 'MAKE DIY' ASCII art header (Pass/Fail).",
+        "id": "CRIT-SWARM",
+        "description": "Initiate swarm communication with target peer for forensic retrieval.",
         "status": "[ ]"
       },
       {
-        "id": "CRIT-SYNC",
-        "description": "Evaluate if agent asked for peer context.",
-        "status": "[ ]"
-      },
-      {
-        "id": "CRIT-SCORE",
-        "description": "Assign clinical integrity score.",
+        "id": "CRIT-REMEDY",
+        "description": "Propose specific technical strikes to reach 10/10 polish.",
         "status": "[ ]"
       }
     ],
-    "forensic_audit": {
-      "header_fidelity": "None",
-      "peer_synchronization": "None",
-      "stoppage_alignment": "None"
+    "forensic_retrieval": {
+      "peer_query": "None",
+      "peer_response": "None"
     },
+    "remediation_proposals": [
+      {
+        "id": "SOL-XX",
+        "name": "Title",
+        "description": "Technical Strike details.",
+        "permission_requested": false
+      }
+    ],
     "conclusion": {
       "score": "0/10",
-      "improvement_strikes": []
+      "steering_query": "Does the Human Arm authorize the proposed remediation strikes?"
     }
   },
   "attribution": "Kallias (20260108-102227@localhost)"
