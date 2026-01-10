@@ -1,0 +1,63 @@
+{
+  "wedo_instance": {
+    "id": "STARTUP-PROTOCOL",
+    "description": "The synchronous collaboration HUD for agent incarnation and forensic synchronization.",
+    "status": "[x]",
+    "meta": {
+      "protocol": "WeDo-JSON",
+      "version": "1.6.0",
+      "last_relay": "Lycurgus",
+      "philosophy": "The WeDo is the irreducible serial thread that synchronizes the agent's async capacity with the human's single-threaded focus.",
+      "pre_flight_instruction": "DO NOT MARK UP THIS BOILERPLATE."
+    },
+    "rules": {
+      "accumulation": "Word count must ALWAYS increase in each iteration.",
+      "unseal_mandate": "MANDATE: Any modification to a .sealed node requires an explicit Unseal-Strike and promotion of the new Gold Standard.",
+      "duration_fidelity": "MANDATE: Quickening Duration MUST be calculated against the true birth_timestamp found in session metadata.",
+      "status_mandate": "Every task AND the root instance MUST include a 'status' field using the '[ ]', '[x]', or '[-]' syntax to mirror markdown checkboxes."
+    },
+    "tasks": [
+      {
+        "id": "BOOT-01",
+        "description": "Baseline Confirmation: Confirm 'py/verify_environment.py' and 'py/metagit_map.py' success.",
+        "status": "[x]"
+      },
+      {
+        "id": "BOOT-02",
+        "description": "Metadata Acquisition: Claim the session via the latest metadata.",
+        "status": "[x]"
+      },
+      {
+        "id": "BOOT-03",
+        "description": "HUD Instantiation: Copy this manifest to the chrono-fractal.",
+        "status": "[x]"
+      },
+      {
+        "id": "BOOT-04",
+        "description": "Identity Anchoring: Run 'py/register_agent.py' (Fixed V1.1.5 with Screen Anchoring).",
+        "status": "[x]"
+      },
+      {
+        "id": "BOOT-05",
+        "description": "Forensic Trace: Synthesize recent snapshots and identify the 'Unseal' requirement.",
+        "status": "[x]"
+      },
+      {
+        "id": "BOOT-06",
+        "description": "Bootup Report Generation: Generate and share the official 10/10 Bootup Report.",
+        "status": "[x]"
+      },
+      {
+        "id": "BOOT-07",
+        "description": "Unseal-Strike: Promoting V1.1.5 to register_agent.py.sealed.",
+        "status": "[x]"
+      }
+    ],
+    "context_anchors": {
+      "philosophy": "trunk/architecture.json",
+      "orchestration": "gemini (Meta-Root - syn)",
+      "incarnation": "Heartwood (diy-make/memory - tie/log)"
+    }
+  },
+  "attribution": "Kallinicus (20260110-111224@localhost)"
+}

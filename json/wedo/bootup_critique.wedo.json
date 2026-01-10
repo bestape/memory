@@ -5,16 +5,19 @@
     "status": "[ ]",
     "meta": {
       "protocol": "Relay-WeDo",
-      "version": "1.2.0",
+      "version": "1.3.0",
       "mandates": [
         "SWARM-COMM: Crìtiquing agent MUST message the target peer to retrieve forensic data.",
-        "PERMISSION: No remediation strike may be executed without explicit User authorization."
+        "PERMISSION: No remediation strike may be executed without explicit User authorization.",
+        "CONSENSUS: Every critique MUST include a verification step to ensure agent understanding perfectly aligns with user intent before proposing strikes.",
+        "BOOMERANG: If the boot sequence deviates from the Argus Standard, the agent MUST force a return to the known good state defined in the Heartwood.",
+        "SYNAPTIC: Document specific points of uncertainty where user feedback (HITL) was sought or is required for final approval."
       ]
     },
     "tasks": [
       {
         "id": "CRIT-AUDIT",
-        "description": "Perform Head/Tail physical log audit and visual fidelity check.",
+        "description": "Perform Head/Tail physical log audit and visual fidelity check (Argus Standard).",
         "status": "[ ]"
       },
       {
@@ -24,7 +27,12 @@
       },
       {
         "id": "CRIT-REMEDY",
-        "description": "Propose specific technical strikes to reach 10/10 polish.",
+        "description": "Propose specific technical strikes to reach 10/10 polish (Boomerang Alignment).",
+        "status": "[ ]"
+      },
+      {
+        "id": "CRIT-CONSENSUS",
+        "description": "Verify that all proposed strikes and audit findings align with User Strategic Intent.",
         "status": "[ ]"
       }
     ],

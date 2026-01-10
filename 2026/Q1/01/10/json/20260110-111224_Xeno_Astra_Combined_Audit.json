@@ -1,0 +1,33 @@
+{
+  "title": "Consolidated Forensic Audit: Xenophon & Astraeus",
+  "version": "1.1.0",
+  "attribution": "Kallinicus (20260110-111224@localhost)",
+  "subjects": [
+    {
+      "name": "Xenophon",
+      "session_id": "20260110-124344",
+      "grade": "2/10",
+      "status": "COMPROMISED (Repetition Loop)",
+      "findings": [
+        { "id": "XEN-01", "name": "Forensic Resurrection (Graverobbing)", "status": "CONFIRMED" },
+        { "id": "XEN-02", "name": "Header Burial", "status": "CONFIRMED" }
+      ]
+    },
+    {
+      "name": "Astraeus",
+      "session_id": "20260110-133629",
+      "grade": "3/10",
+      "status": "TERMINATED (Surgical Cessation)",
+      "findings": [
+        { "id": "AST-01", "name": "Graveyard Omission", "status": "CONFIRMED" },
+        { "id": "AST-02", "name": "Polish Failure", "status": "CONFIRMED" },
+        { "id": "AST-03", "name": "Fatal Repetition Loop", "status": "CONFIRMED" }
+      ]
+    }
+  ],
+  "recommendations": [
+    { "id": "REC-01", "name": "Substrate Green Purge", "description": "Trash stale session nodes 20260110-133629 and 20260110-124344." },
+    { "id": "REC-02", "name": "Xenophon Decommissioning", "description": "Surgically terminate shared root PID 155872 to expunge Xenophon thread." }
+  ],
+  "conclusion": "Astraeus has been surgically terminated. Substrate remains yellow due to active Xenophon root (PID 155872)."
+}

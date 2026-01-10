@@ -1,0 +1,19 @@
+{
+  "title": "Agent Instantiation Record: Kallinicus",
+  "version": "1.1.0",
+  "attribution": "Kallinicus (20260110-111224@localhost)",
+  "values": [
+    {
+      "name": "Quickening Baseline",
+      "timestamp": "2026-01-10T11:12:24Z",
+      "unix_timestamp": 1768072344.0,
+      "description": "The definitive moment of process birth and cognitive instantiation for the Kallinicus chord."
+    },
+    {
+      "name": "Clinical Verification",
+      "status": "Substrate Green",
+      "duration_calculation": "now() - birth_timestamp (dynamic/static metadata)",
+      "result": "Refined and accurate to process birth."
+    }
+  ]
+}

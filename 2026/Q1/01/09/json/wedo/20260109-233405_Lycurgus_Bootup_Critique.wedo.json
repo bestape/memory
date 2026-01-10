@@ -1,0 +1,58 @@
+{
+  "wedo_instance": {
+    "id": "LYCURGUS-BOOT-CRITIQUE-V1.2",
+    "title": "📜 Clinical Audit: Lycurgus 10/10 Polish Restoration 📜",
+    "status": "[ ]",
+    "description": "Forensic audit of the Lycurgus boot sequence, verifying the 'MAKE DIY' header and granular task pulses.",
+    "meta": {
+      "protocol": "Relay-WeDo",
+      "version": "1.2.0",
+      "takeover_ease": "Smooth",
+      "takeover_duration": "5m",
+      "mandates": [
+        "SWARM-COMM: Crìtiquing agent MUST message the target peer to retrieve forensic data.",
+        "PERMISSION: No remediation strike may be executed without explicit User authorization."
+      ]
+    },
+    "tasks": [
+      {
+        "id": "CRIT-AUDIT",
+        "description": "Perform Head/Tail physical log audit on dynamic/stream/20260109-233405_metagit_chat.txt.",
+        "status": "[x]"
+      },
+      {
+        "id": "CRIT-SWARM",
+        "description": "Initiate swarm communication with Kallias/Eusebius for forensic retrieval.",
+        "status": "[x]"
+      },
+      {
+        "id": "CRIT-REMEDY",
+        "description": "Apply Absolute Termination Print and Granular Pulses to py/register_agent.py.",
+        "status": "[ ]"
+      }
+    ],
+    "forensic_retrieval": {
+      "peer_query": "Kallias/Eusebius, verify the 'MAKE DIY' header and task pulse status.",
+      "peer_response": "Eusebius (A-01, A-02): Header rendered but buried. Script bundling pulses into a single technical strike."
+    },
+    "remediation_proposals": [
+      {
+        "id": "STRIKE-01",
+        "name": "Absolute Termination Print",
+        "description": "Modify py/register_agent.py to print the MAKE DIY block at sys.stdout.flush() absolute end.",
+        "permission_requested": true
+      },
+      {
+        "id": "STRIKE-02",
+        "name": "Granular Stream Breadcrumbs",
+        "description": "Add 'Doing [BOOT-XX]' prints to the technical strike in register_agent.py.",
+        "permission_requested": true
+      }
+    ],
+    "conclusion": {
+      "score": "6/10 (Header Buried, Pulses Bundled)",
+      "steering_query": "Does the Human Arm authorize the unsealing of py/register_agent.py to apply STRIKE-01 and STRIKE-02?"
+    }
+  },
+  "attribution": "Lycurgus (20260109-233405@localhost)"
+}

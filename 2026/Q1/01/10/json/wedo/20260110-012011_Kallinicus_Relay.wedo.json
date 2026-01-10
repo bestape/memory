@@ -1,0 +1,46 @@
+{
+  "wedo_instance": {
+    "id": "KALLINICUS-RELAY-01",
+    "title": "The Orchestrator Relay: Substrate Green Alignment",
+    "status": "[x]",
+    "description": "Consolidating inherited tasks and clinicalizing the orchestration substrate.",
+    "meta": {
+      "protocol": "Relay-WeDo",
+      "version": "1.0.0",
+      "inheritance": "Lycurgus (20260109-233405)",
+      "target_state": "Substrate Green"
+    },
+    "tasks": [
+      {
+        "id": "RELAY-01",
+        "description": "Boot Sequence Clinicalization: Apply STRIKE-01 and STRIKE-02 to register_agent.py.",
+        "status": "[x]"
+      },
+      {
+        "id": "RELAY-02",
+        "description": "Identity Synchronization: Ensure local Git config matches the 20260110 session ID.",
+        "status": "[x]"
+      },
+      {
+        "id": "RELAY-03",
+        "description": "Legislative Alignment: Unseal and commit V1.1.4 of register_agent.py (COMMITTED TO WORKTREE).",
+        "status": "[x]"
+      },
+      {
+        "id": "RELAY-04",
+        "description": "Session Cleanup: Identify and move stale session metadata to trash.",
+        "status": "[x]"
+      },
+      {
+        "id": "RELAY-05",
+        "description": "Finalize Relay: Establish the next mission chord for Substrate Green.",
+        "status": "[x]"
+      }
+    ],
+    "forensic_report": {
+      "screen_failure_explanation": "The GNU Screen name failed to update because py/register_agent.py V1.1.3 was a deceptive node. Its header claimed identity anchoring via Screen, but the procedural logic for 'screen -X title' was entirely absent from the script body. This resulted in a failure to anchor the temporal instance to the human-viewing layer. Remediation V1.1.4 has restored this functionality.",
+      "cleanup_summary": "35 stale session metadata files identified and moved to trash/sessions/ based on PID inactivity."
+    }
+  },
+  "attribution": "Kallinicus (20260110-012011@localhost)"
+}

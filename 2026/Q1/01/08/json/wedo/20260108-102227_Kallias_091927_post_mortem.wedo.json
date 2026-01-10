@@ -39,7 +39,7 @@
       {
         "id": "CLEAN-02",
         "description": "Identify and mark stale session JSON files.",
-        "status": "[ ]"
+        "status": "[x]"
       },
       {
         "id": "CLEAN-03",

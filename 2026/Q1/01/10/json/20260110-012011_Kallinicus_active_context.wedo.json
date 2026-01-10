@@ -1,0 +1,48 @@
+{
+  "wedo_instance": {
+    "id": "ACTIVE-CONTEXT",
+    "description": "The master manifest for active memory modules and collaboration HUDs for Kallinicus.",
+    "status": "[x]",
+    "meta": {
+      "protocol": "WeDo-JSON",
+      "version": "1.1.0",
+      "philosophy": "Context is not found; it is synthesized through the intentional ingestion of legislative DNA."
+    },
+    "rules": {
+      "total_ingestion": "Agents MUST use 'py/heartwood.py' to render every repository and manifest identified in this WeDo.",
+      "chronological_primacy": "The active session's temporal directory is the only valid zone for task marking.",
+      "status_mandate": "Every task AND the root instance MUST include a 'status' field using the '[ ]', '[x]', or '[-]' syntax to mirror markdown checkboxes."
+    },
+    "tasks": [
+      {
+        "id": "SYNC-01",
+        "description": "Ingest the Heartwood Trunk (json/trunk/) and principles.",
+        "status": "[x]"
+      },
+      {
+        "id": "SYNC-02",
+        "description": "Instantiate and complete the Startup WeDo.",
+        "status": "[x]"
+      },
+      {
+        "id": "SYNC-03",
+        "description": "Clinicalize Boot Sequence (Critique + Remediation).",
+        "status": "[x]"
+      },
+      {
+        "id": "SYNC-04",
+        "description": "Execute Orchestrator Relay (inherited from Lycurgus).",
+        "status": "[x]"
+      }
+    ],
+    "memory_repositories": [
+      "repos/diy-make/memory/public/"
+    ],
+    "active_wedos": [
+      "repos/diy-make/memory/public/2026/Q1/01/10/json/wedo/20260110-012011_Kallinicus_startup.wedo.json",
+      "repos/diy-make/memory/public/2026/Q1/01/10/json/wedo/20260110-012011_Kallinicus_Bootup_Critique.wedo.json",
+      "repos/diy-make/memory/public/2026/Q1/01/10/json/wedo/20260110-012011_Kallinicus_Relay.wedo.json"
+    ]
+  },
+  "attribution": "Kallinicus (20260110-012011@localhost)"
+}
