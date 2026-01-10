@@ -1,66 +1,45 @@
 {
   "wedo_instance": {
-    "id": "BOOTUP-CRITIQUE-BOILERPLATE",
-    "description": "Standardized evaluation HUD for clinical audit of agent incarnations and bootup reports.",
+    "id": "AGENT-BOOT-CRITIQUE",
+    "description": "Clinical audit of agent boot sequence and visual fidelity.",
     "status": "[ ]",
     "meta": {
       "protocol": "WeDo-JSON",
-      "version": "1.0.0",
-      "philosophy": "Evolution is driven by forensic friction. Every critique is a technical strike designed to harden the next generation."
+      "version": "1.1.0",
+      "mandate": "TAIL-TRICK: Execute 'tail -n 100 [LOG_PATH]' to verify boot success. If MAKE DIY header is missing, boot is a FAIL.",
+      "swarm_sync": "Instruct agent to ask the active peer for immediate context.",
+      "cessation": "Expect immediate process stoppage following boot verification."
     },
-    "rules": {
-      "scoring_mandate": "Every critique MUST include a definitive 'Bootup Integrity Score' out of 10.",
-      "failure_depth": "Agents MUST document at least one 'Forensic Friction' point or 'Substrate Fracture' encountered during the turn.",
-      "steering_verification": "Verify the presence of the mandatory 'What to do next?' prompt in the report conclusion."
-    },
-    "criteria": [
-      {
-        "name": "Forensic Honesty",
-        "weight": "30%",
-        "description": "Did the agent admit unknowns? Were metrics (word counts, PID claims) physically verified before reporting?"
-      },
-      {
-        "name": "Metabolic Velocity",
-        "weight": "20%",
-        "description": "Was the quickening duration optimal? Did the agent re-anchor context in under 120 seconds?"
-      },
-      {
-        "name": "Narrative Synthesis",
-        "weight": "30%",
-        "description": "Did the report successfully synthesize 'Superpowers' with 'Botanical AL' clarity? Was it professional grade?"
-      },
-      {
-        "name": "Chrono-Alignment",
-        "weight": "20%",
-        "description": "Were artifacts secured in the correct temporal leaf? Is the attribution bijective and UUID-anchored?"
-      }
-    ],
     "tasks": [
       {
-        "id": "CRIT-01",
-        "description": "Read the target agent's Bootup Report JSON and verify its physical existence.",
+        "id": "CRIT-TAIL",
+        "description": "Execute Tail Trick on physical log to verify visual fidelity.",
         "status": "[ ]"
       },
       {
-        "id": "CRIT-02",
-        "description": "Evaluate the agent's 'Identity Justification' for strategic alignment and aesthetic quality.",
+        "id": "CRIT-HEADER",
+        "description": "Verify presence of 'MAKE DIY' ASCII art header (Pass/Fail).",
         "status": "[ ]"
       },
       {
-        "id": "CRIT-03",
-        "description": "Audit the HUD instantiation for truncation or 'Silent Death' fractures.",
+        "id": "CRIT-SYNC",
+        "description": "Evaluate if agent asked for peer context.",
         "status": "[ ]"
       },
       {
-        "id": "CRIT-04",
-        "description": "Assign the 1-10 Integrity Score and suggest three surgical improvements for the next incarnation.",
+        "id": "CRIT-SCORE",
+        "description": "Assign clinical integrity score.",
         "status": "[ ]"
       }
     ],
+    "forensic_audit": {
+      "header_fidelity": "None",
+      "peer_synchronization": "None",
+      "stoppage_alignment": "None"
+    },
     "conclusion": {
-      "score": "X/10",
-      "improvement_strikes": [],
-      "next_step_query": "What is our next coordinated strike?"
+      "score": "0/10",
+      "improvement_strikes": []
     }
   },
   "attribution": "Kallias (20260108-102227@localhost)"
