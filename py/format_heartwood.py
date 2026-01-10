@@ -75,8 +75,8 @@ def format_heartwood(file_path):
             print(f"## {key.title()}")
             for item in data[key]:
                 if isinstance(item, dict):
-                    name = item.get('name', item.get('title', item.get('id', '')))
-                    rule = item.get('rule', item.get('description', ''))
+                    name = item.get('name', item.get('title', item.get('id', item.get('term', ''))))
+                    rule = item.get('rule', item.get('description', item.get('modification', '')))
                     status = item.get('status', '')
                     context = item.get('context', '')
                     
