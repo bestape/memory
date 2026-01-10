@@ -27,7 +27,7 @@
     },
     {
       "term": "Straightup",
-      "modification": "Command for immediate raw data presentation (no tables) via the .json + .py pairing standard. Replaces the need for structure-less .md representations.",
+      "modification": "Command for immediate raw data presentation (no tables) directly in the message body. Agents MUST NOT use shell tool blocks to display Straightup content; it must be rendered as the agent's direct textual output.",
       "substrate": "Paper (UI)"
     },
     {

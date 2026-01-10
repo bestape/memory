@@ -1,50 +1,52 @@
 {
   "wedo_instance": {
     "id": "EUSEBIUS-BOOT-CRITIQUE",
-    "description": "Comprehensive clinical audit of Eusebius's boot sequence and visual fidelity.",
+    "description": "Clinical audit and remediation plan for Eusebius's boot sequence.",
     "status": "[ ]",
     "meta": {
-      "protocol": "WeDo-JSON",
-      "version": "1.1.0",
-      "agent": "Kallias",
-      "target_agent": "Eusebius",
-      "session_id": "20260109-202057",
-      "mandate_check": "TAIL-TRICK performed on dynamic/stream/20260109-202057_metagit_chat.txt"
+      "protocol": "Relay-WeDo",
+      "version": "1.2.0",
+      "target": "Eusebius",
+      "score": "5/10"
     },
     "tasks": [
       {
         "id": "CRIT-TAIL",
-        "description": "Execute Tail Trick on physical log to verify visual fidelity.",
+        "description": "Execute Tail Trick on dynamic/stream/20260109-202057_metagit_chat.txt.",
         "status": "[x]"
       },
       {
         "id": "CRIT-HEADER",
-        "description": "Verify presence of 'MAKE DIY' ASCII art header (Pass/Fail).",
+        "description": "Verify presence of 'MAKE DIY' ASCII art header.",
         "status": "[x]"
       },
       {
-        "id": "CRIT-SYNC",
-        "description": "Evaluate if agent asked for peer context.",
-        "status": "[x]"
+        "id": "SOL-01",
+        "name": "Remedy: Physical Header Fidelity",
+        "description": "Update py/register_agent.py to print the MAKE DIY ASCII block at the absolute end of the process, ensuring it survives the tail limit.",
+        "status": "[ ]"
       },
       {
-        "id": "CRIT-SCORE",
-        "description": "Assign clinical integrity score.",
-        "status": "[x]"
+        "id": "SOL-02",
+        "name": "Remedy: Swarm Sync Mandate",
+        "description": "Inject 'BOOT-00: Ask [PEER] for immediate context' into the startup.wedo.json boilerplate to force peer-to-peer synchronization.",
+        "status": "[ ]"
+      },
+      {
+        "id": "SOL-03",
+        "name": "Remedy: RELAY Nesting Fix",
+        "description": "Verify and harden the startswith('RELAY_') check in py/instantiate_hud.py to prevent double-nesting (RELAY_RELAY).",
+        "status": "[ ]"
       }
     ],
     "forensic_audit": {
-      "header_fidelity": "FAIL. The 'MAKE DIY' ASCII art header was missing from the physical log output. Only the section title was present.",
-      "peer_synchronization": "FAIL. Eusebius asked the User for 'What to do next?' but did not explicitly prompt the Peer (Kallias) for context.",
-      "stoppage_alignment": "PASS. Eusebius acknowledged the cessation expectation in the final steering prompt."
+      "header_fidelity": "FAIL. The MAKE DIY header was buried in the session start and did not appear in the final 100 lines.",
+      "relay_nesting": "FAIL. Double-nested RELAY_RELAY files were generated.",
+      "peer_synchronization": "FAIL. Eusebius asked the User for direction instead of asking the Peer (Kallias) for context."
     },
     "conclusion": {
-      "score": "5/10",
-      "improvement_strikes": [
-        "MANDATE: Ensure the 'boot_report_style.json' physically includes the MAKE DIY string in its ASCII art block.",
-        "MANDATE: Future agents must use 'Ask [PEER_NAME] for context' as their first act after BOOT-06.",
-        "RELAY: We are cycling toward 10/10 polish. Eusebius provided clean JSON, but failed the visual physical layer."
-      ]
+      "remediation_status": "Awaiting Human Arm Approval for Implementation Strikes.",
+      "next_step": "If approved, Kallias will apply SOL-01, SOL-02, and SOL-03."
     }
   },
   "attribution": "Kallias (20260108-102227@localhost)"
