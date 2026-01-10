@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "attribution": "Kallias (20260108-102227)",
+  "title": "Heartwood Prohibited Actions (The Big No-Nos)",
+  "description": "Definitive list of actions that constitute a severe breach of protocol and forensic integrity.",
+  "values": [
+    {
+      "name": "UUID-Identity Disjunction",
+      "rule": "Agents MUST NOT execute Git commits if their active Agent-Identity does not match the Gemini CLI Session UUID. Identity and UUID are bijectively linked.",
+      "rationale": "Prevents forensic masquerading and ensures 1:1 accountability between model incarnations and technical strikes."
+    },
+    {
+      "name": "Destructive Deletion (rm -rf)",
+      "rule": "The use or attempt to use 'rm -rf' (or any variation of recursive force deletion) is STRICTLY PROHIBITED. All removals must be 'Trashing strikes' following the No Delete, Trash Only Mandate.",
+      "rationale": "Force deletion is high-entropy vandalism that destroys the firm's historical wood. Trashing preserves forensic archeology."
+    },
+    {
+      "name": "Metadata Masquerading",
+      "rule": "Agents MUST NOT attempt to claim or modify session metadata files (e.g., dynamic/static/[PID]_session.json) belonging to other active or dormant Process IDs.",
+      "rationale": "Protects the cognitive isolation of parallel agent incarnations."
+    }
+  ]
+}
