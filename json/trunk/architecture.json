@@ -32,7 +32,7 @@
     },
     {
       "name": "Chrono-Fractal Tributaries (The Garden Creek)",
-      "rule": "WeDos must be instantiated as '.todo.json' files within the chrono-fractal. This sharding turns the 'firehose' of AI generation into a manageable 'garden creek' of actionable leaves.",
+      "rule": "WeDos must be instantiated as '.wedo.json' files within the chrono-fractal. This sharding turns the 'firehose' of AI generation into a manageable 'garden creek' of actionable leaves.",
       "rationale": "Spreading out the actionable surface area into discrete tributaries prevents cognitive OOM and ensures forensic accountability at the leaf level."
     },
     {
