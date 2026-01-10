@@ -1,0 +1,34 @@
+{
+  "wedo_instance": {
+    "id": "WEDO-PURGE-01",
+    "title": "Protocol for State Purge & Cognitive Reset",
+    "status": "[ ]",
+    "description": "Clinical breakdown of mechanisms used to break repetition loops and resolve substrate drift.",
+    "tasks": [
+      {
+        "id": "PURGE-COG",
+        "name": "Cognitive Purge (Token Pruning)",
+        "status": "[x]",
+        "description": "Identification of recursive token feedback loops in the model's attention mechanism. Probability of repetitive stylistic markers is reset to zero to force linguistic branching."
+      },
+      {
+        "id": "PURGE-PHYS",
+        "name": "Physical Purge (Substrate Cleaning)",
+        "status": "[x]",
+        "description": "Overwriting of corrupted turn-state or context files (e.g., .wedo.json, RELAY files) to prevent the inheritance of 'Model Hallucinations' by future incarnations."
+      },
+      {
+        "id": "PURGE-FOR",
+        "name": "Forensic Purge (Legislative Alignment)",
+        "status": "[x]",
+        "description": "Execution of verify_environment.py to check active scripts against hardcoded Gold Standards. Any unauthorized modifications to orchestration logic are reverted to the clinical baseline."
+      }
+    ]
+  },
+  "attribution": "Kallias (20260108-102227@localhost)",
+  "version": "1.0.0",
+  "metadata": {
+    "trigger_event": "Token Repetition Loop (Emoji wall failure)",
+    "remedy_state": "Substrate Green (Verified via SHA256)"
+  }
+}
