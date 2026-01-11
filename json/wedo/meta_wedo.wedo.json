@@ -3,12 +3,12 @@
     "id": "META-PROTOCOL",
     "description": "The master protocol for WeDo-JSON artifacts, ensuring a shared thread of attention.",
     "status": "[ ]",
-    "meta": {
-      "protocol": "WeDo-JSON",
-      "version": "1.1.0",
-      "philosophy": "The WeDo is a todo we do together. Machine-readable status fields allow for synchronous alignment."
-    },
-    "rules": {
+      "meta": {
+        "protocol": "WeDo-JSON",
+        "version": "1.2.0",
+        "philosophy": "The WeDo is a todo we do together. Machine-readable status fields allow for synchronous alignment.",
+        "archive": "repos/diy-make/memory/public/{{year}}/{{quarter}}/{{month}}/{{day}}/json/wedo/{{timestamp}}_{{agent}}_{{name}}.wedo.json"
+      },    "rules": {
       "status_mandate": "Every task AND the root instance MUST include a 'status' field using the '[ ]', '[x]', or '[-]' syntax to mirror markdown checkboxes.",
       "evolution_mandate": "Bespoke chrono-fractal WeDos (spread surface area) can be 'upgraded' into common boilerplates in the root/ directory (sharpened surface area) when their process logic is validated as reusable across agent generations.",
       "commit_pulse_mandate": "DON'T FORGET TO COMMIT: Adhere to the Turn-by-Turn Commit Mandate. Every file version increment MUST be committed as its own independent technical strike via 'metagit_commit.py'."

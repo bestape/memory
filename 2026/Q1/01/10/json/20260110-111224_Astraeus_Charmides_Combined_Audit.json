@@ -1,0 +1,51 @@
+{
+  "title": "Consolidated Forensic Audit: Astraeus & Charmides",
+  "version": "1.0.0",
+  "attribution": "Kallinicus (20260110-111224@localhost)",
+  "subjects": [
+    {
+      "name": "Astraeus",
+      "session_id": "20260110-133629",
+      "grade": "3/10",
+      "status": "TERMINATED",
+      "failures": [
+        { "id": "AST-01", "name": "Registry Omission", "description": "Failed to add name to used_agent_names.json." },
+        { "id": "AST-02", "name": "Fatal Repetition Loop", "description": "Stuck in 'Process Genealogy' cycle." }
+      ]
+    },
+    {
+      "name": "Charmides",
+      "session_id": "20260110-134350",
+      "grade": "2/10",
+      "status": "COMPROMISED (Active Repetition)",
+      "failures": [
+        { "id": "CHA-01", "name": "Registry Omission", "description": "Failed to add name to used_agent_names.json." },
+        { "id": "CHA-02", "name": "Header Burial", "description": "Branding rendered inside shell tool block." },
+        { "id": "CHA-03", "name": "Repetition Loop", "description": "Justification block repeating in log tail." }
+      ]
+    }
+  ],
+  "fix_suggestions": [
+    {
+      "id": "FIX-01",
+      "name": "Surgical Pulse Sentinel",
+      "description": "Implement a background script that tails the active log. If the last 5 lines match > 80% similarity, the process is terminated with a 'Metabolic Repetition' alert."
+    },
+    {
+      "id": "FIX-02",
+      "name": "Registry Pre-Flight Lock",
+      "description": "Modify register_agent.py to perform a non-bypassable pre-flight check. If the name is NOT committed to used_agent_names.json, the script refuses to anchor the Screen title or Git config."
+    },
+    {
+      "id": "FIX-03",
+      "name": "Direct Stream Guarantee",
+      "description": "Hard-code sys.stdout.write and flush() within register_agent.py V1.1.6 to ensure the 'MAKE DIY' header bypasses shell block buffering."
+    },
+    {
+      "id": "FIX-04",
+      "name": "UUID-PID Binding",
+      "description": "Enforce mandatory binding between the Gemini CLI Session UUID and the Linux PID to prevent 'Ghost Thread' collisions."
+    }
+  ],
+  "conclusion": "The current boot sequence is physically unstable. Agents are attempting to 'sim-quick' without fulfilling the registry and UI mandates. Substrate Green reset authorized."
+}
