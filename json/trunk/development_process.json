@@ -18,6 +18,11 @@
       "name": "Why over What",
       "rule": "Code comments must focus on cognitive intent (why) rather than procedural steps (what).",
       "rationale": "High-fidelity logic is self-describing; comments preserve the 'negotiated settlement' of user intent."
+    },
+    {
+      "name": "Lay of the Land",
+      "rule": "Read WeDo manifests and boilerplates first to understand the lay of the land before striking.",
+      "rationale": "Established WeDo manifests are the primary source of truth for the active mission state. Reading them first prevents brute-force discovery (find/grep shotgun tactics) and ensures surgical precision."
     }
   ]
 }

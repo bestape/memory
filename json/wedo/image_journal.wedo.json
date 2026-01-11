@@ -4,6 +4,11 @@
     "title": "📸 Forensic Image Journal: Inbox Artifacts 📸",
     "status": "[ ]",
     "description": "Clinical cataloging of physical image assets within the memory inbox, representing the visual expansion of the firm's entropic surface area.",
+    "rules": {
+      "temporal_alignment": "MANDATE: Images must be journaled under their own date (found in filename or metadata), not the session date.",
+      "promotion_protocol": "MANDATE: Copy images to their chrono-fractal public location (e.g., public/YYYY/QX/MM/DD/jpg/) and rename them following the convention: <index>-<agent>-<description>.<ext>.",
+      "inbox_cleanup": "MANDATE: Move the original inbox file to the local 'journaled/' subdirectory after successful promotion."
+    },
     "tasks": [
       {
         "id": "JOURNAL-JPG-01",

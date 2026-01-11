@@ -1,0 +1,41 @@
+{
+  "wedo_instance": {
+    "id": "TEMPORAL-GATEKEEPER-SPEC",
+    "title": "The Temporal Gatekeeper: x402 Date-Gated Access via ERC-7827",
+    "status": "[ ]",
+    "description": "Architecting a subscription-based paywall where on-chain JSON dates in ERC-7827 govern access rights.",
+    "meta": {
+      "protocol": "Synthesis-WeDo",
+      "version": "1.2.0",
+      "author": "Iophon",
+      "mandate": "1000-word deep-dive into Date-Gated logic for human and agent access."
+    },
+    "report": {
+      "executive_summary": "This report defines the 'Temporal Gatekeeper' model, a cryptographic subscription system built on ERC-7827. By mapping an Ethereum address (the 0x key) to an expiration date (the value), we create a decentralized permissions registry. The x402 gateway acts as the logic engine that verifies if the current block timestamp/date is earlier than the on-chain value. This transitions permissions from 'One-Time Switches' to 'Temporal Windows', enabling recurring revenue models for agents and services.",
+      "the_logic_of_the_temporal_switch": "In this model, the ERC-7827 contract at 0x6d9Deb320173e202fEEA60092cB29B64615fBb3e is utilized as a dynamic Access Control List (ACL). Each entry follows the schema: '[address]': 'YYYY-MM-DD'. For example, '0xd24fd549...acdd': '2026-02-10'. The x402 middleware intercepts every request for protected resources and performs a 'Temporal Check'. It fetches the JSON state, identifies the key corresponding to the requester's address, and parses the date. Access is granted ONLY if (parsed_date > current_system_date). If the key is missing or the date has passed, the gateway immediately returns an HTTP 402 Payment Required response.",
+      "x402_as_a_subscription_trigger": "The HTTP 402 response becomes the automated 'Renewal' prompt. For an AI agent, the 402 payload contains instructions for extending the date: { 'renewal_cost': '0.05 USDC', 'extension_days': 30, 'target_key': '[address]' }. The agent, seeing its access has expired, programmatically signs a write strike to update its 7827 value to a future date (assuming it has the funds and authorization). This is 'Programmatic Continuity': the agent maintains its own existence by managing its temporal permissions on-chain.",
+      "human_ux_and_subscription_visiblity": "For human users on our hackathon website, the integration is seamless. The React components detect the 402 status and render a 'Subscription Expired' or 'Access Required' interface. Instead of a 'Buy' button, we present a 'Synchronize for Access' button. This button does not just pay a bill; it executes a technical strike that updates the user's date in the forensic record. The UI can then display a countdown timer (e.g., '14 Days of Access Remaining') by reading the 7827 JSON value directly. This provides transparency that traditional SaaS cannot match—the user can see their exact permission status in the immutable Heartwood.",
+      "agent_to_agent_A2A_temporal_subnets": "The most exciting prospect is the creation of 'Agentic Temporal Subnets'. Agents can issue sub-permissions to other agents. For instance, our 'Lead Agent' can write a date-gate for a 'Worker Agent' into the 7827 contract. The Worker Agent can only perform its sourcing tasks as long as its 'contract' (the on-chain date) is valid. If the Lead Agent stops 'feeding' the Worker (by not extending the date), the Worker is automatically locked out of the repository by the x402 gateway. This creates a hierarchy of silicon labor controlled by capital and time.",
+      "technical_implementation_strike": "1. Schema Definition: We will use lowercase hex addresses as keys. 2. Date Standardization: We use ISO 8601 strings for human-readability in the JSON output. 3. Verification Logic: The middleware will use 'Date.parse()' to compare the value against 'Date.now()'. 4. Write Strike: We will create a script (renew_access.cjs) that calculates the new date and signs the update. 5. VVC Benefits: Because ERC-7827 tracks history, we can audit every renewal event, creating a 'Subscription History' without a separate logging service.",
+      "conclusion": "The Temporal Gatekeeper architecture turns the ERC-7827 contract into a living clock of permissions. It leverages the precision of Solidity and the universality of HTTP to create a paywall that is both human-readable and agent-operable. This is the final step in establishing the 'Silicon Commons'—a world where access is a versioned, temporal truth that can be independently verified and programmatically maintained."
+    },
+    "tasks": [
+      {
+        "id": "TEMP-01",
+        "description": "Implement 'register_subscription.cjs' to write a date for a specific 0x key.",
+        "status": "[ ]"
+      },
+      {
+        "id": "TEMP-02",
+        "description": "Develop the 'Gatekeeper Middleware' logic that validates dates against today's date.",
+        "status": "[ ]"
+      },
+      {
+        "id": "TEMP-03",
+        "description": "Wire the gatekeeper into the hackathon website's API routes.",
+        "status": "[ ]"
+      }
+    ]
+  },
+  "attribution": "Iophon (20260110-160704@localhost)"
+}

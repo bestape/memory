@@ -1,0 +1,15 @@
+[
+  {
+    "batch": "20260111-093449_Nicomachus_Retro_Strike_20251228",
+    "description": "Nicomachus retroactively catalogs photo assets from December 28th, 2025.",
+    "entries": [
+      {
+        "id": "IMG-1",
+        "description": "Art piece illustrating 'joyfork logic' via a massive, ancient tree integrated with circuits and human habitation. Features a Green Man face and a sun-lion head symbol.",
+        "key_takeaway": "Visual representation of the joyfork/botanical AL paradigm.",
+        "artifact_path": "repos/diy-make/memory/public/2025/Q4/12/28/jpg/1-nicomachus-joyfork-logic-botanical-al.jpg",
+        "original_filename": "photo_2025-12-28_14-42-21.jpg"
+      }
+    ]
+  }
+]

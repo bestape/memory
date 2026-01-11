@@ -1,0 +1,41 @@
+{
+  "wedo_instance": {
+    "id": "X402-7827-STATE-GATE",
+    "title": "The Gatekeeper's Logic: x402 Verification of ERC-7827 State",
+    "status": "[ ]",
+    "description": "Technical specification for a state-gated paywall where HTTP 402 responses are triggered by on-chain JSON values in an ERC-7827 contract.",
+    "meta": {
+      "protocol": "Synthesis-WeDo",
+      "version": "1.1.0",
+      "author": "Iophon",
+      "context": "Ethereum Sepolia / ERC-7827 @ 0x6d9Deb320173e202fEEA60092cB29B64615fBb3e"
+    },
+    "report": {
+      "executive_summary": "This architecture defines a 'State-Gated Access' model. Instead of a centralized server managing 'paid' status in a private database, we utilize the ERC-7827 'Liquid Truth' substrate. The x402 protocol acts as the interface layer that translates on-chain Solidity state into internet-standard HTTP status codes. This creates a trustless paywall where access is granted only when the forensic record (ERC-7827) confirms a 'true' value for a specific permission key.",
+      "the_logic_of_the_switch": "In our current deployment, the ERC-7827 contract stores JSON data with full version control. To implement the paywall, we introduce 'Permission Nodes'. A permission node is a key-value pair such as 'access:hackathon_docs': 'false'. The x402 Gateway (the Middleware) is configured to observe this specific key. As long as the on-chain value remains 'false', any request for the 'hackathon_docs' resource results in an HTTP 402 'Payment Required' response. The 'Switch' is flipped when a user or agent executes a write strike to the contract, evolving the value from 'false' to 'true'. Because ERC-7827 maintains history, we can even implement 'Temporal Access'—checking if the value was true at a specific block or version index.",
+      "x402_as_the_protocol_trigger": "When the Gateway returns 402, it isn't just an error; it is a machine-readable instruction set. The response body includes the 'Fulfillment metadata': the required payment amount (e.g., 0.01 USDC), the destination address (our managed_wallet), and the target ERC-7827 contract address. This metadata allows the client—human or agent—to know exactly which on-chain 'switch' needs to be flipped and what the thermodynamic cost of that flip is.",
+      "agentic_handshake_and_autonomy": "The prospect for agents is a leap in autonomy. An agent encountering a 402 response from our repo does not stall. It identifies the 'access' key required, checks its internal 'managed_wallet' balance, and calculates the cost-benefit of the data access. If the data is worth the 0.01 USDC, the agent autonomously signs a 'Write Strike' or a 'Payment Strike' that triggers the on-chain state change. The agent then retries the original request. The Middleware, seeing the state has switched to 'true' in the latest block, grants access. This is 'Zero-Touch Monetization': the agent pays the contract, the contract updates the truth, and the protocol acknowledges the payment.",
+      "human_access_and_the_frontend_portal": "For humans, the friction is absorbed by the UI components (like the snippets provided). A 'Gatekeeper Component' wraps the protected content. It polls the ERC-7827 contract. If the value is 'false', it renders a 'Payment Required' view (the dashed-border upload box style or a custom alert). This view presents an 'Unlock' button that, when clicked, triggers a wallet transaction to flip the on-chain switch. Once the transaction is confirmed, the component's state updates, the 402 condition is cleared, and the content is revealed. This replaces the 'Username/Password' paradigm with a 'State/Strike' paradigm.",
+      "technical_implementation_details": "1. Middleware (Node.js/TypeScript): Implements an Ethers.js provider that calls ERC7827.json() on every incoming request. 2. Key Mapping: Maps API endpoints to specific JSON keys in the contract. 3. Fulfillment Logic: A script (like our write.cjs) that agents use to programmatically update the contract. 4. Deployment: The system is already anchored on Sepolia at 0x6d9Deb320173e202fEEA60092cB29B64615fBb3e. We now need only to define the 'Access Schema' within our JSON state.",
+      "conclusion": "By making x402 'state-aware' of ERC-7827, we have moved beyond simple payments and into 'On-Chain Access Control Lists' (OC-ACL). Data is no longer a static file; it is a forensic entity that knows who is allowed to see it based on the current state of the blockchain. This is the foundation of the Agentic Economy: a world where permissions are as liquid and versioned as the data they protect."
+    },
+    "tasks": [
+      {
+        "id": "GATE-01",
+        "description": "Define the 'Access Schema' in ERC-7827 (e.g., 'access:root': 'false').",
+        "status": "[ ]"
+      },
+      {
+        "id": "GATE-02",
+        "description": "Implement the 'x402-Observer' middleware prototype in the hackathon repo.",
+        "status": "[ ]"
+      },
+      {
+        "id": "GATE-03",
+        "description": "Create an 'Agent Handshake' script that detects 402 and executes the flip strike.",
+        "status": "[ ]"
+      }
+    ]
+  },
+  "attribution": "Iophon (20260110-160704@localhost)"
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "batch": "20260111-093449_Nicomachus_Retro_Strike_20251227",
+    "description": "Nicomachus retroactively catalogs photo assets from December 27th, 2025.",
+    "entries": [
+      {
+        "id": "IMG-1",
+        "description": "Text overlay on a soup/stew background defining Artificial Life (AL) as a persistent, evolving digital entity. Mentions Metagit as digital DNA and each commit as a heritable experience.",
+        "key_takeaway": "Foundational definition of AL and Metagit synergy.",
+        "artifact_path": "repos/diy-make/memory/public/2025/Q4/12/27/jpg/1-nicomachus-al-digital-dna-philosophy.jpg",
+        "original_filename": "photo_2025-12-27_11-46-29.jpg"
+      },
+      {
+        "id": "IMG-2",
+        "description": "Diptych illustration comparing 'Botanical AL' (green, nature-integrated, externalized neg-entropy) with 'Animal AL' (grey, industrial, internalized neg-entropy feeding on botanical AL).",
+        "key_takeaway": "Visual taxonomy of Artificial Life forms and metabolic strategies.",
+        "artifact_path": "repos/diy-make/memory/public/2025/Q4/12/27/jpg/2-nicomachus-botanical-vs-animal-al-diptych.jpg",
+        "original_filename": "photo_2025-12-27_14-35-17.jpg"
+      }
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "batch": "20260111-093449_Nicomachus_Strike_01",
+    "description": "Nicomachus stabilizes the JPG inbox for January 11th.",
+    "entries": [
+      {
+        "id": "IMG-1",
+        "description": "Capture of raw photo assets in the physical inbox. These represent the intake of external reality into the digital substrate.",
+        "key_takeaway": "Baseline intake confirmation.",
+        "artifact_path": "repos/diy-make/memory/inbox/jpg/journaled/photo_2026-01-08_20-28-10.jpg",
+        "original_filename": "photo_2026-01-08_20-28-10.jpg"
+      },
+      {
+        "id": "IMG-2",
+        "description": "Duplicate/Variant of previous intake, noting the entropic expansion of the visual archive.",
+        "key_takeaway": "Redundancy detection.",
+        "artifact_path": "repos/diy-make/memory/inbox/jpg/journaled/photo_2026-01-08_20-28-10 (2).jpg",
+        "original_filename": "photo_2026-01-08_20-28-10 (2).jpg"
+      }
+    ]
+  },
+  {
+    "batch": "20260111-093449_Nicomachus_Strike_02",
+    "description": "Nicomachus journals PNG screenshot artifacts documenting the Temporal Gatekeeper design.",
+    "entries": [
+      {
+        "id": "IMG-3",
+        "description": "Terminal view of Iophon's 'Temporal Gatekeeper' task manifest, outlining the implementation of ERC-7827 subscription logic.",
+        "key_takeaway": "Forensic documentation of agentic temporal subnets.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/11/png/3-nicomachus-temporal-gatekeeper-tasks.png",
+        "original_filename": "Screenshot from 2026-01-11 09-17-49.png"
+      },
+      {
+        "id": "IMG-4",
+        "description": "Visual synthesis of the Temporal Gatekeeper architecture, defining 'Date-Gate' validation logic and its utility for autonomous agent feeding.",
+        "key_takeaway": "Conceptual grounding of versioned, temporal truth in the metarepo.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/11/png/4-nicomachus-temporal-gatekeeper-logic.png",
+        "original_filename": "Screenshot from 2026-01-11 09-25-12.png"
+      },
+      {
+        "id": "IMG-5",
+        "description": "Definition of the 'Gatekeeper Test Suite', outlining a 'Cold-to-Hot' verification cycle for access transition from HTTP 402 to HTTP 200.",
+        "key_takeaway": "Empirical verification protocol for state-gated access.",
+        "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/11/png/5-nicomachus-gatekeeper-test-suite.png",
+        "original_filename": "Screenshot from 2026-01-11 09-25-28.png"
+      }
+    ]
+  }
+]
