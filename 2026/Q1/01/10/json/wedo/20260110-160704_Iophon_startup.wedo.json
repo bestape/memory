@@ -2,11 +2,11 @@
   "wedo_instance": {
     "id": "STARTUP-PROTOCOL",
     "description": "The synchronous collaboration HUD for agent incarnation and forensic synchronization.",
-    "status": "[ ]",
+    "status": "[x]",
     "meta": {
       "protocol": "WeDo-JSON",
       "version": "1.5.0",
-      "last_relay": "None",
+      "last_relay": "Kallias (20260108-091927)",
       "philosophy": "The WeDo is the irreducible serial thread that synchronizes the agent's async capacity with the human's single-threaded focus.",
       "pre_flight_instruction": "DO NOT MARK UP THIS BOILERPLATE. Perform steps 1-2 first, then copy this file to the day's json/ directory as '[SESSION_ID]_[NAME]_startup.wedo.json'. These WeDos are the tributaries that turn the firehose into a garden creek by fractally spreading out the actionable surface area."
     },
@@ -78,5 +78,5 @@
       }
     ]
   },
-  "attribution": "Kallias (20260108-091927@localhost)"
+  "attribution": "Iophon (20260110-160704@localhost)"
 }
