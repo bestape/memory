@@ -2,7 +2,7 @@
   "wedo_instance": {
     "id": "FORENSIC-POST-MORTEM-20260110-1615",
     "title": "Forensic Post-Mortem: System Freeze Recovery",
-    "status": "[ ]",
+    "status": "[x]",
     "description": "Investigating the state of active agents during the system freeze on 2026-01-10.",
     "meta": {
       "protocol": "Forensic-WeDo",
@@ -32,17 +32,17 @@
       {
         "id": "REMED-01",
         "description": "Restore .env in 'repos/diy-make/part-sourcing-hackathon/' using '.managed_wallet.json' credentials.",
-        "status": "[ ]"
+        "status": "[x]"
       },
       {
         "id": "REMED-02",
         "description": "Verify ERC-7827 deployment state on Arbitrum/Sepolia.",
-        "status": "[ ]"
+        "status": "[x]"
       },
       {
         "id": "REMED-03",
         "description": "Resume Phronimon's mission to establish the 'ERC-7827 L1 Deployment Strike'.",
-        "status": "[ ]"
+        "status": "[x]"
       }
     ]
   },
