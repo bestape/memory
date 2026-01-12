@@ -9,6 +9,19 @@
       "incoming": "Lycurgus",
       "reason": "Polish Relay completion and transition to substrate management.",
       "mandate": "Lycurgus to finish the orchestrator agent part of the relay."
+    },
+    {
+      "timestamp": "20260111-194701",
+      "outgoing": "Eukles / Sarpedon",
+      "incoming": "Antigone",
+      "reason": "Systemic Substrate Freeze (Computer Crash) terminated predecessors mid-relay.",
+      "mandate": "Antigone to recover open mission chords (Genesis V1.25.0, PNG Metadata) and finalize the relay."
+    },
+    {
+      "timestamp": "20260111-202500",
+      "agent": "Antigone",
+      "action": "Implemented Terminal Physics Recording (Visual HUD Snapshot).",
+      "details": "Created py/record_hud_physics.py to capture high-fidelity visual snapshots of the terminal screen, fulfilling the mandate for a 'picture' of the HUD physics."
     }
   ]
 }
