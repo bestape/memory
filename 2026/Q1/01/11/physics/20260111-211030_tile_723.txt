@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                                            ║
+║                                                                                                            ║
+║ # System Architecture & Design Philosophy (V1.5.0)                                                         ║
+║ Foundational principles for designing modular, scalable, and forensic-ready agent systems. Focuses on 'De-complecting'║
+║ complexity.                                                                                                ║
+║                                                                                                            ║
+║ ## Values                                                                                                  ║
+║ - **V8 Browser-of-Sorts Runtime**: Frame the Meta-Root as a V8-powered browser-of-sorts. Root modules (e.g.,║
+║ memory/public/) are localhost websites capable of HTML generation.                                         ║
+║ - **Simplicity over Easiness (Hickey Principle)**: Prioritize objective simplicity (the absence of         ║
+║ complexity/entanglement) over subjective easiness (familiarity). Actively 'de-complect' concerns to create systems║
+║ that are easier to reason about.                                                                           ║
+║ - **Declarative/Imperative Duality**: Employ a dual approach. Imperative code is guided by metadeclarative comments║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

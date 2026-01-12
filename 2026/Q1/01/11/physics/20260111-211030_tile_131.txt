@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║           "Handshake Strike: The user signs a bit-perfect legal/technical agreement. This signature is not a║
+║ transaction; it is a proof of secret possession.",                                                         ║
+║           "Sovereign Sessions: Upon verification, the server issues a JWT session grounded in the recovered 0x║
+║ address. This anchors the user's presence in the terminal to their forensic on-chain record."              ║
+║         ]                                                                                                  ║
+║       },                                                                                                   ║
+║       {                                                                                                    ║
+║         "title": "III. Tiered Verification: The x402 Escalation Loop",                                     ║
+║         "content": [                                                                                       ║
+║           "The PrecisionBOM Gateway implements a three-tiered verification protocol to resolve payment requirements║
+║ autonomously.",                                                                                            ║
+║           "Tier 1: Forensic Registry (On-Chain Check). Direct lookup against ERC-7827.",                   ║
+║           "Tier 2: Ledger Audit (Direct Hash & Scan). The server scans the Sepolia ledger for valid 0.001 ETH strikes,║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

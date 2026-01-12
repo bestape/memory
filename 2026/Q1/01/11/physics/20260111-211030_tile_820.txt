@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║  22 +   "attribution": "Philo (20260111-202115@localhost)"                                                 ║
+║  23   }                                                                                                    ║
+║                                                                                                            ║
+║  87 -     ]                                                                                                ║
+║  88 -   },                                                                                                 ║
+║  89 -   "task_structure": {                                                                                ║
+║  90 -     "id": "BATCH-[N]",                                                                               ║
+║  91 -     "status": "[ ]",                                                                                 ║
+║  92 -     "description": "Metabolic Batch: [Summary of the 3 Visual Events]",                              ║
+║  93 -     "sub_tasks": [                                                                                   ║
+║  94 -       {                                                                                              ║
+║  95 -         "id": "IMG-[IDX]",                                                                           ║
+║  96 -         "description": "[High-Fidelity Narrative: Describe the 'What' and 'Why' of the visual artifact║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

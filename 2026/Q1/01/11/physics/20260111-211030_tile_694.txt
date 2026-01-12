@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║   Shell tail -n 20 dynamic/stream/20260111-193836_metagit_chat.txt [current working directory /home/bestape/gemini]║
+║                                                                                                            ║
+║                                                                                                            ║
+║                                                                                                            ║
+║                                                                                                            ║
+║  YOLO mode (ctrl + y to toggle)                                                                            ║
+║                                                                                                            ║
+║                                                                                                            ║
+║   Shell ls -l /proc/4891/fd [current working directory /home/bestape/gemini] (Checking screen's open file descriptor║
+║                                                                                                            ║
+║ total 0                                                                                                    ║
+║                                                                                                            ║
+║                                                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

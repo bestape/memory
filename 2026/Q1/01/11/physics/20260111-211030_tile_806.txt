@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                                            ║
+║ {                                                                                                          ║
+║   "wedo_instance": {                                                                                       ║
+║     "id": "WEDO-JOURNAL-01",                                                                               ║
+║     "title": " Forensic Image Journal: Inbox Artifacts ",                                                  ║
+║     "status": "[ ]",                                                                                       ║
+║     "description": "Clinical cataloging of physical image assets within the memory inbox, representing the visual║
+║ expansion of the firm's entropic surface area.",                                                           ║
+║     "tasks": [                                                                                             ║
+║       {                                                                                                    ║
+║         "id": "JOURNAL-JPG-01",                                                                            ║
+║         "name": "Phase I: JPG Inbox Stabilization",                                                        ║
+║         "status": "[x]",                                                                                   ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

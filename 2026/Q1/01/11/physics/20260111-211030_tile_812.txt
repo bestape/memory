@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                                            ║
+║   WriteFile Writing to repos/diy-make/m...ournal.wedo.json                                                 ║
+║                                                                                                            ║
+║ ... first 39 lines hidden ...                                                                              ║
+║     looking at the WeDo for the day currently being processed."                                            ║
+║   9 +         "id": "JOURNAL-JPG-01",                                                                      ║
+║  10 +         "name": "Phase I: JPG Inbox Stabilization",                                                  ║
+║  11 +         "status": "[x]",                                                                             ║
+║  12 +         "description": "Cataloging of raw JPG photo assets. These files represent the 'outside' capture of║
+║     physical reality into the 'inside' substrate hierarchy."                                               ║
+║  13         },                                                                                             ║
+║  14         {                                                                                              ║
+║                                                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

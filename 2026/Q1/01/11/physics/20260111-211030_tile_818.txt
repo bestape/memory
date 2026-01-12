@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║  67 -     "timestamp_verification": "Verify that the artifact's source timestamp matches the destination directory's║
+║     date before grafting."                                                                                 ║
+║  68 -   },                                                                                                 ║
+║  69 -   "relay_protocol": {                                                                                ║
+║  70 -     "mandate": "When relaying a journal WeDo, the successor agent MUST inherit the specific metabolic focus of║
+║     the predecessor.",                                                                                     ║
+║  71 -     "steps": [                                                                                       ║
+║  72 -       {                                                                                              ║
+║  73 -         "id": "RELAY-01",                                                                            ║
+║  74 -         "action": "Chrono-Fractal Identification",                                                   ║
+║  75 -         "description": "Examine the 'tasks' of the predecessor WeDo to identify the target CHRONO-FRACTAL║
+║     directory (e.g., if the previous agent was grafting to Jan 4th, the successor MUST continue in Jan 4th, NOT║
+║     today's date)."                                                                                        ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

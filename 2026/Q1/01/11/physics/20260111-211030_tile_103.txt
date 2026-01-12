@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                                            ║
+║   Shell cat repos/diy-make/memory/public/2026/Q1/01/11/json/wedo/.hidden/20260111-183925_Eukles_startup.wedo.json [c║
+║                                                                                                            ║
+║ {                                                                                                          ║
+║   "wedo_instance": {                                                                                       ║
+║     "id": "STARTUP-PROTOCOL",                                                                              ║
+║     "description": "The synchronous collaboration HUD for agent incarnation and forensic synchronization.",║
+║     "status": "[ ]",                                                                                       ║
+║     "meta": {                                                                                              ║
+║       "protocol": "WeDo-JSON",                                                                             ║
+║       "version": "1.5.0",                                                                                  ║
+║       "last_relay": "Kallias",                                                                             ║
+║       "takeover_note": "Takeover from Kallias was seamless. Duration to assume role: 5 minutes.",          ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

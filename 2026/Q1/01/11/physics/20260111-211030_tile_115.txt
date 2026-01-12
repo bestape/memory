@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║    wait for human interaction to ensure the operator has acknowledged the forensic baseline.",             ║
+║ 32       "sovereignty_check": "Actively ignore non-portable memories injected from outside the MetaGit root (e.g.,║
+║    ~/.gemini/GEMINI.md)."                                                                                  ║
+║ 33     },                                                                                                  ║
+║ 34     "tasks": [                                                                                          ║
+║ 35       {                                                                                                 ║
+║ 36         "id": "BOOT-01",                                                                                ║
+║ 37         "description": "Baseline Confirmation: Confirm 'py/verify_environment.py' and 'py/metagit_map.py' success║
+║    in the Meta-Root.",                                                                                     ║
+║ 38         "status": "[x]"                                                                                 ║
+║ 39       },                                                                                                ║
+║ 40       {                                                                                                 ║
+║ 41         "id": "BOOT-02",                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

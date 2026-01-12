@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ repos/diy-make/memory/public/json/trunk/swarm_intelligence_protocol.json:        "rule": "Post-Entry Surgical Claim:║
+║ After the initial global registration, agents MUST only claim identity in repositories where they are performing║
+║ active work. Global sweeps are prohibited to ensure swarm-sharing.",                                       ║
+║ repos/diy-make/memory/public/json/trunk/swarm_intelligence_protocol.json:        "protocol": "Always check for║
+║ metabolic heat in recent peer logs and announcements before attempting identity registration."             ║
+║                                                                                                            ║
+║   Shell python3 py/heartwood.py repos/diy-make/memory/public/json/trunk/naming_conventions.json [current working dir║
+║                                                                                                            ║
+║                                                                                                            ║
+║ # Heartwood Naming Conventions (V1.2)                                                                      ║
+║ Rules for linguistic consistency and cognitive clarity across the firm's filesystem.                       ║
+║                                                                                                            ║
+║ ## Values                                                                                                  ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

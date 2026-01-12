@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ repos/diy-make/memory/public/json/trunk/orchestration_tools.json                                           ║
+║ repos/diy-make/memory/public/json/trunk/contextual_artifacts.json                                          ║
+║ repos/diy-make/memory/public/json/trunk/personality.json                                                   ║
+║ repos/diy-make/memory/public/json/trunk/sacred_memory.json                                                 ║
+║ repos/diy-make/memory/public/json/trunk/fatal_error_protocol.json                                          ║
+║ repos/diy-make/memory/public/json/trunk/agent_virtues.json                                                 ║
+║ repos/diy-make/memory/public/json/trunk/swarm_intelligence_protocol.json                                   ║
+║ repos/diy-make/memory/public/json/trunk/startup_standard.json                                              ║
+║ repos/diy-make/memory/public/json/trunk/ephemeral_identity.json                                            ║
+║ repos/diy-make/memory/public/json/trunk/chat_history.json                                                  ║
+║ repos/diy-make/memory/public/json/trunk/agent_error_log.json                                               ║
+║ repos/diy-make/memory/public/json/trunk/swarm_intelligence.json                                            ║
+║ repos/diy-make/memory/public/json/trunk/session_behavior.json                                              ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

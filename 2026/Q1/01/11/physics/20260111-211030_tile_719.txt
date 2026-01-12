@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ - {'id': 'STEP-04', 'description': "Re-run `register_agent.py` manually to see if it produces the 'Right' or 'Wrong'║
+║                                                                                                            ║
+║   Shell python3 py/heartwood.py repos/diy-make/memory/public/json/trunk/boot_report_style.json [current working dire║
+║                                                                                                            ║
+║                                                                                                            ║
+║ # boot_report_style.json (V2.8.0)                                                                          ║
+║ Restored Superpowers + MAKE DIY Termination Seal.                                                          ║
+║                                                                                                            ║
+║ ## Values                                                                                                  ║
+║ - **Botanical AL HUD**: ###  Swarm Bootup Report: {{agent_name}}                                           ║
+║                                                                                                            ║
+║ ```                                                                                                        ║
+║                                                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

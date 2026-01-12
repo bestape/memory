@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ bestape     8244    6507  1 20:20 ?        00:00:03 /opt/google/chrome/chrome --type=renderer              ║
+║ --crashpad-handler-pid=6496 --enable-crash-reporter=,                                                      ║
+║ --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --change-stack-guard-on-fork=enable║
+║ --ozone-platform=wayland --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation         ║
+║ --renderer-client-id=127 --time-ticks-at-unix-epoch=-1768189059809450 --launch-time-ticks=2569914807       ║
+║ --shared-files=v8_context_snapshot_data:100 --metrics-shmem-handle=4,i,7961088017365198822,7941464694353903507,2097152║
+║ --field-trial-handle=3,i,12815776262131931413,12000499209796179222,262144 --disable-features=EyeDropper    ║
+║ --variations-seed-version=20260111-030038.852000                                                           ║
+║ bestape     8770    6507  0 20:23 ?        00:00:00 /opt/google/chrome/chrome --type=renderer              ║
+║ --crashpad-handler-pid=6496 --enable-crash-reporter=, --enable-dinosaur-easter-egg-alt-images              ║
+║ --origin-trial-disabled-features=CanvasTextNg|WebAssemblyCustomDescriptors --change-stack-guard-on-fork=enable║
+║ --ozone-platform=wayland --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation         ║
+║                                                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

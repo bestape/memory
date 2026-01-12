@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ - **IMG-18**: Terminal view showing the manual start instructions for the Next.js server due to background persistence║
+║ issues.                                                                                                    ║
+║ - **IMG-19**: Terminal view illustrating that 'Logging In' is synonymous with registering an active subscription on║
+║ the blockchain.                                                                                            ║
+║ - **IMG-20**: Terminal view showing the logic for the 'WalletConnect' component, verifying access via the gatekeeper║
+║ API.                                                                                                       ║
+║                                                                                                            ║
+║ ## 20260111-093449_Nicomachus_Strike_06                                                                    ║
+║ Nicomachus journals PNG screenshot artifacts documenting the WalletConnect integration and on-chain authorization.║
+║                                                                                                            ║
+║ - **IMG-21**: Terminal view showing the JSX implementation of the WalletConnect component, featuring status displays║
+║ and action buttons.                                                                                        ║
+║ - **IMG-22**: Terminal view documenting the integration of the WalletConnect component into the marketing layout.║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

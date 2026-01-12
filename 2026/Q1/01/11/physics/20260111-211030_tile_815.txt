@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║     structural clarity.",                                                                                  ║
+║  44 -         "context_examples": [                                                                        ║
+║  45 -           "Ariston's detailed description of the 'procedural bypass' encountered during the Alpha Test."║
+║  46 -         ]                                                                                            ║
+║  47 -       },                                                                                             ║
+║  48 -       {                                                                                              ║
+║  49 -         "id": "STEP-04",                                                                             ║
+║  50 -         "action": "Inbox Clearance",                                                                 ║
+║  51 -         "command": "mv [source_artifacts] repos/diy-make/memory/inbox/png/journaled/",               ║
+║  52 -         "description": "Once hardening is verified, move the batch source files to the 'journaled/' sub-folder."║
+║  15 +         "id": "JOURNAL-PNG-01",                                                                      ║
+║  16 +         "name": "Phase II: PNG Metadata Extraction",                                                 ║
+║  17 +         "status": "[x]",                                                                             ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

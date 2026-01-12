@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║         "status": "[x]"                                                                                    ║
+║       }                                                                                                    ║
+║     ],                                                                                                     ║
+║     "context_anchors": {                                                                                   ║
+║       "philosophy": "trunk/architecture.json",                                                             ║
+║       "orchestration": "gemini (Meta-Root - syn)",                                                         ║
+║       "incarnation": "Heartwood (diy-make/memory - tie/log)"                                               ║
+║     },                                                                                                     ║
+║     "suggestions": [                                                                                       ║
+║       {                                                                                                    ║
+║         "id": "WISH-YTA",                                                                                  ║
+║         "description": "YouTube Account Management Integration"                                            ║
+║       },                                                                                                   ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

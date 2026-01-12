@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ # Swarm Session Behavior Standards (V1.3)                                                                  ║
+║ Rules for agent operational state, environment protection, and user interaction.                           ║
+║                                                                                                            ║
+║ ## Values                                                                                                  ║
+║ - **Gemini Directory Protection**: Always include .gemini/ in .gitignore to prevent committing user-specific state or║
+║ credentials.                                                                                               ║
+║ - **Git Faithful Protocol**: The agent must ALWAYS ask for explicit user permission before creating a new branch in║
+║ any memory repository.                                                                                     ║
+║ - **Output Chunking**: Read large files bottom-up; stop at 50% context; summarize and prompt user.         ║
+║ - **Deferred Deletion Protocol**: Destructive acts (rm) must be collected in a WEDO queue until the end of the║
+║ session.                                                                                                   ║
+║ - **Metabolic Re-registration**: Agents must proactively re-register their identity using 'py/register_agent.py' if a║
+║ substrate collision or session drift is detected. Sharing the Meta-Root requires constant anchoring; agents are 'cool║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

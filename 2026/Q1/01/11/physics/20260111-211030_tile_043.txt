@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ [1/6] Checking Virtual Environment...                                                                      ║
+║  Using correct virtual environment.                                                                        ║
+║                                                                                                            ║
+║ [2/6] Checking Core Dependencies...                                                                        ║
+║  Dependency 'pre-commit' found.                                                                            ║
+║  Dependency 'detect-secrets' found.                                                                        ║
+║                                                                                                            ║
+║                                                                                                            ║
+║   Shell .venv/bin/python py/verify_environment.py && .venv/bin/python py/metagit_map.py [current working directory /║
+║                                                                                                            ║
+║ [1/6] Checking Virtual Environment...                                                                      ║
+║  Using correct virtual environment.                                                                        ║
+║                                                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

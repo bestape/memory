@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║  YOLO mode (ctrl + y to toggle)                                                                            ║
+║                                                                                                            ║
+║  Investigating "readme.ai" (esc to cancel, 2s)                                                             ║
+║                                                                                                            ║
+║  YOLO mode (ctrl + y to toggle)                                                                            ║
+║                                                                                                            ║
+║  Mapping the Environment (esc to cancel, 2s)                                                               ║
+║                                                                                                            ║
+║  YOLO mode (ctrl + y to toggle)                                                                            ║
+║                                                                                                            ║
+║  Mapping the Environment (esc to cancel, 2s)                                                               ║
+║                                                                                                            ║
+║  YOLO mode (ctrl + y to toggle)                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

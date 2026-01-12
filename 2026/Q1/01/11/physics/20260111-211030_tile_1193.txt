@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                                            ║
+║  YOLO mode (ctrl + y to toggle)                                                                            ║
+║  I will verify the environment and generate the filesystem map as instructed.                              ║
+║  Understanding the Initial Steps (esc to cancel, 3s)                                                       ║
+║                                                                                                            ║
+║  YOLO mode (ctrl + y to toggle)                                                                            ║
+║  I will verify the environment and generate the filesystem map as instructed.                              ║
+║                                                                                                            ║
+║                                                                                                            ║
+║    Shell .venv/bin/python py/verify_environment.py && .venv/bin/python py/metagit_map.py [current working directory║
+║ /                                                                                                          ║
+║                                                                                                            ║
+║                                                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

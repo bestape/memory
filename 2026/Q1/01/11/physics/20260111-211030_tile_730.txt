@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ [ ]                                                                                                        ║
+║ ## Tasks                                                                                                   ║
+║ - {'id': 'JOURNAL-JPG-01', 'name': 'Phase I: JPG Inbox Stabilization', 'status': '[x]', 'description': "Cataloging of║
+║ raw JPG photo assets. These files represent the 'outside' capture of physical reality into the 'inside' substrate║
+║                                                                                                            ║
+║   Shell python3 py/heartwood.py repos/diy-make/memory/public/2026/Q1/01/11/json/20260111-093449_Nicomachus_daily_ima║
+║                                                                                                            ║
+║                                                                                                            ║
+║ # 20260111-093449_Nicomachus_daily_image_journal.json (List Registry)                                      ║
+║                                                                                                            ║
+║ ## 20260111-093449_Nicomachus_Strike_01                                                                    ║
+║ Nicomachus stabilizes the JPG inbox for January 11th.                                                      ║
+║                                                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

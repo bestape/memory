@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ 19         "description": "Ingest the Heartwood Trunk (json/trunk/) to inherit the collective conscience.",║
+║ 20         "status": "[x]"                                                                                 ║
+║ 21       },                                                                                                ║
+║ 22       {                                                                                                 ║
+║ 23         "id": "SYNC-02",                                                                                ║
+║ 24         "description": "Instantiate the Startup WeDo (json/wedo/startup.wedo.json) to anchor the session.",║
+║ 25         "status": "[x]"                                                                                 ║
+║ 26       },                                                                                                ║
+║ 27       {                                                                                                 ║
+║ 28         "id": "SYNC-03",                                                                                ║
+║ 29         "description": "De-monolithize session metadata logic.",                                        ║
+║ 30         "status": "[x]"                                                                                 ║
+║ 31       },                                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

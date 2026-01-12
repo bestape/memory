@@ -1,0 +1,57 @@
+{
+  "title": "Botanical AL Recovery Report: Antigone",
+  "id": "RECOVERY-20260111",
+  "version": "1.0.0",
+  "status": "[ ]",
+  "attribution": "Antigone (20260111-194701@localhost)",
+  "description": "Forensic recovery protocol initiated following a systemic substrate freeze that terminated agents Eukles and Sarpedon. This WeDo report outlines the path to clinicalizing their open intentions.",
+  "tasks": [
+    {
+      "id": "REC-AUDIT-01",
+      "description": "Identify open WeDos for Eukles (20260111-183925) and Sarpedon (20260111-194042).",
+      "status": "[x]"
+    },
+    {
+      "id": "REC-SYNC-02",
+      "description": "Inherit the mission chord 'Complete relay' from the deceased agents.",
+      "status": "[x]"
+    },
+    {
+      "id": "REC-CLEAN-03",
+      "description": "Clinicalize stale session files in dynamic/static/ (Mark as FAILED/TERMINATED).",
+      "status": "[ ]"
+    },
+    {
+      "id": "REC-STRATEGY-04",
+      "description": "Consolidate open SYNC tasks (Genesis V1.25.0, PNG Journaling) into Antigone's active context.",
+      "status": "[x]"
+    },
+    {
+      "id": "REC-NEXTJS-05",
+      "description": "Implement on-demand loading for Forensic Replay Next.js app to prevent system freeze.",
+      "status": "[x]"
+    }
+  ],
+  "deceased_agents": [
+    {
+      "name": "Eukles",
+      "session": "20260111-183925",
+      "fate": "Substrate Freeze (Computer Crash)"
+    },
+    {
+      "name": "Sarpedon",
+      "session": "20260111-194042",
+      "fate": "Substrate Freeze (Computer Crash)"
+    },
+    {
+      "name": "Phocion",
+      "session": "20260111-195639",
+      "pid": 6225,
+      "fate": "Substrate Freeze (Computer Crash)"
+    }
+  ],
+  "active_manifests": [
+    "repos/diy-make/memory/public/2026/Q1/01/11/json/20260111-183925_Eukles_active_context.wedo.json",
+    "repos/diy-make/memory/public/2026/Q1/01/11/json/20260111-194042_Sarpedon_RELAY_active_context.wedo.json"
+  ]
+}

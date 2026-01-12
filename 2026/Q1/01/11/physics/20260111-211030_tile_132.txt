@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ supporting both broad account scans and instant Direct Hash verification.",                                ║
+║           "Tier 3: Auto-Write Sync (Self-Healing State). The server autonomously executes write strikes to synchronize║
+║ ledger payments into the substrate, granting access and refilling capital in the background."              ║
+║         ]                                                                                                  ║
+║       },                                                                                                   ║
+║       {                                                                                                    ║
+║         "title": "IV. Thermodynamic AI: Sourcing Strikes",                                                 ║
+║         "content": [                                                                                       ║
+║           "We grounded AI intelligence in a tangible economy via the '_tokens' substrate.",                ║
+║           "Strike Cost: Every interaction with the sourcing agent costs 50 tokens.",                       ║
+║           "Deduction Strike: The agent deducts tokens from the substrate at the start of reasoning, grounding the║
+║ 'effort' of the agent in the user's on-chain capital."                                                     ║
+║         ]                                                                                                  ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

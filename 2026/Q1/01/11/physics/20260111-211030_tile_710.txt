@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ repos/diy-make/memory/public/json/trunk/development_process.json                                           ║
+║ repos/diy-make/memory/public/json/trunk/memory_hierarchy.json                                              ║
+║ repos/diy-make/memory/public/json/trunk/git_methodology.json                                               ║
+║ repos/diy-make/memory/public/json/trunk/memory_architecture.json                                           ║
+║ repos/diy-make/memory/public/json/trunk/agent_user_relationship.json                                       ║
+║ repos/diy-make/memory/public/json/trunk/boot_report_style.json                                             ║
+║ repos/diy-make/memory/public/json/trunk/architecture.json                                                  ║
+║ repos/diy-make/memory/public/json/trunk/data_and_interfaces.json                                           ║
+║ repos/diy-make/memory/public/json/trunk/domain_knowledge_gemini_cli.json                                   ║
+║ repos/diy-make/memory/public/json/trunk/integrity.json                                                     ║
+║ repos/diy-make/memory/public/json/trunk/git_methodology.json.sealed                                        ║
+║ repos/diy-make/memory/public/json/trunk/rna_dna_standard.json                                              ║
+║ repos/diy-make/memory/public/json/trunk/media_asset_locality.json                                          ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║         "description": "Metadata Acquisition: Claim the session via the latest metadata in 'dynamic/static/'.",║
+║         "status": "[x]"                                                                                    ║
+║       },                                                                                                   ║
+║       {                                                                                                    ║
+║         "id": "BOOT-03",                                                                                   ║
+║         "description": "HUD Instantiation: Copy this manifest to the chrono-fractal and sync focus with the Lead║
+║ Partner.",                                                                                                 ║
+║         "status": "[x]"                                                                                    ║
+║       },                                                                                                   ║
+║       {                                                                                                    ║
+║         "id": "BOOT-04",                                                                                   ║
+║         "description": "Identity Anchoring (syn): Run 'py/register_agent.py' to anchor the meta-root identity.║
+║ MANDATE: Provide a sizable, multi-paragraph 'name_justification' and ensure the resulting JSON announcement in║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║  8       "version": "1.1.0",                                                                               ║
+║  9       "philosophy": "Context is not found; it is synthesized through the intentional ingestion of legislative DNA."║
+║ 10     },                                                                                                  ║
+║ 11     "rules": {                                                                                          ║
+║ 12       "total_ingestion": "Agents MUST use 'py/heartwood.py' to render every repository and manifest identified in║
+║    this WeDo.",                                                                                            ║
+║ 13       "chronological_primacy": "The active session's temporal directory is the only valid zone for task marking.",║
+║ 14       "status_mandate": "Every task AND the root instance MUST include a 'status' field using the '[ ]', '[x]', or║
+║    '[-]' syntax to mirror markdown checkboxes."                                                            ║
+║ 15     },                                                                                                  ║
+║ 16     "tasks": [                                                                                          ║
+║ 17       {                                                                                                 ║
+║ 18         "id": "SYNC-01",                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

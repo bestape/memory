@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║   Shell cat repos/diy-make/memory/public/2026/Q1/01/10/json/daily_image_journal.json | tail -n 20 [current working d║
+║                                                                                                            ║
+║         "artifact_path":                                                                                   ║
+║ "repos/diy-make/memory/public/2026/Q1/01/10/png/51-nicomachus-erc7827-invoicing-system-wedo.png",          ║
+║         "original_filename": "Screenshot from 2026-01-10 14-18-56.png"                                     ║
+║       },                                                                                                   ║
+║       {                                                                                                    ║
+║         "id": "IMG-52",                                                                                    ║
+║         "description": "Terminal view showing the 'Heartwood Deep-Dive' report on the ERC-7827 legislative ║
+║ substrate.",                                                                                               ║
+║         "key_takeaway": "Conceptual grounding in blockchain-based sovereign interfaces.",                  ║
+║         "artifact_path":                                                                                   ║
+║ "repos/diy-make/memory/public/2026/Q1/01/10/png/52-nicomachus-heartwood-deep-dive-erc7827.png",            ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

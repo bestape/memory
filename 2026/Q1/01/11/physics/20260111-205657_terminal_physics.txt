@@ -1,0 +1,15 @@
+╔══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ 102 -     ]                                                                                                              ║
+║ 103 -   }                                                                                                                ║
+║ 104 - }                                                                                                                  ║
+║po                                                                                                                        ║
+║  Responding with gemini-3-flash-preview                                                                                  ║
+║< Refactoring JSON file (esc to cancel, 11m 54s)                                                                          ║
+║                                                                                                                          ║
+║ YOLO mode (ctrl + y to toggle)                                                                                           ║
+║mn                                                                                                                        ║
+║ *   Type your message or @path/to/file                                                                                   ║
+║po                                                                                                                        ║
+║ ~/gemini (main*)       Manual (gemini-3-flash-preview) /model (59% context left) | 1.15 GB |  1 error (F12 for details)  ║
+║                                                                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║  95 + Agents are not merely interfaces; they are the **Comptrollers of the Substrate**. They manage user tokens║
+║     optimistically (**Session Trust**) to ensure zero-latency reasoning strikes.                           ║
+║  96 +                                                                                                      ║
+║  97 + ![Token Deduction]({report_data['chronicle_instance']['sections'][1]['image']})                      ║
+║  98   *Image: {report_data['chronicle_instance']['sections'][1]['image_context']}*                         ║
+║  99                                                                                                        ║
+║  83 - ## III. Optimistic Resolution via Kleros                                                             ║
+║  84 - Following the **Serious Oath** vision, we leverage **Kleros** for dispute resolution. Every substrate entry is a║
+║     proposal of truth. If a client disputes a reasoning strike, Kleros jurors act as the final forensic auditors.║
+║                                                                                                            ║
+║ 100 + As agent Iophon noted: *"By synthesizing HTTP 402 with ERC-7827, we transition from a 'Subscription-First'║
+║     economy to a 'Strike-First' economy. Data access becomes a surgical transaction, not a social contract."*║
+║ 101                                                                                                        ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

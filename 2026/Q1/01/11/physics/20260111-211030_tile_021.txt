@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ --- verifying AI metagit context-memory environment vV1.0.8_RESET ---                                      ║
+║                                                                                                            ║
+║   Shell .venv/bin/python py/verify_environment.py && .venv/bin/python py/metagit_map.py [current working directory /║
+║                                                                                                            ║
+║ --- verifying AI metagit context-memory environment vV1.0.8_RESET ---                                      ║
+║                                                                                                            ║
+║   Shell .venv/bin/python py/verify_environment.py && .venv/bin/python py/metagit_map.py [current working directory /║
+║                                                                                                            ║
+║ --- verifying AI metagit context-memory environment vV1.0.8_RESET ---                                      ║
+║                                                                                                            ║
+║   Shell .venv/bin/python py/verify_environment.py && .venv/bin/python py/metagit_map.py [current working directory /║
+║                                                                                                            ║
+║ --- verifying AI metagit context-memory environment vV1.0.8_RESET ---                                      ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

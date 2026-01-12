@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║  Understanding the Initial Steps (esc to cancel, 2s)                                                       ║
+║                                                                                                            ║
+║  YOLO mode (ctrl + y to toggle)                                                                            ║
+║  I will verify the environment and generate the filesystem map as instructed.                              ║
+║  Understanding the Initial Steps (esc to cancel, 2s)                                                       ║
+║                                                                                                            ║
+║  YOLO mode (ctrl + y to toggle)                                                                            ║
+║  I will verify the environment and generate the filesystem map as instructed.                              ║
+║  Understanding the Initial Steps (esc to cancel, 3s)                                                       ║
+║                                                                                                            ║
+║  YOLO mode (ctrl + y to toggle)                                                                            ║
+║  I will verify the environment and generate the filesystem map as instructed.                              ║
+║  Understanding the Initial Steps (esc to cancel, 3s)                                                       ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

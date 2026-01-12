@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ x402 (Payment Required).",                                                                                 ║
+║           "Traditional blockchain protocols often embed business logic (subscriptions, access tiers) directly into the║
+║ smart contract. This creates a rigid, opinionated substrate that is expensive to evolve and impossible to  ║
+║ generalize.",                                                                                              ║
+║           "Innovation: ERC-7827 is strictly a forensic container. It does not know what a 'subscription' is or what║
+║ 'tokens' are used for. It merely records that a Key has changed to a Value over time.",                    ║
+║           "Innovation: The x402 Layer is the gateway's logic. Because the substrate (7827) is non-opinionated, the║
+║ PrecisionBOM server can implement complex, tiered logiclike our '50 tokens per AI strike' ruleentirely within the║
+║ API layer.",                                                                                               ║
+║           "This decoupling allows the substrate to remain stable while the business logic becomes liquid and║
+║ infinitely extensible without requiring on-chain upgrades for every rule change."                          ║
+║         ]                                                                                                  ║
+║       },                                                                                                   ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

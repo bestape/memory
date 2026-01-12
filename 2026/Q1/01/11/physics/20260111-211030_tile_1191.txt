@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║  Mapping the Environment (esc to cancel, 2s)                                                               ║
+║                                                                                                            ║
+║  YOLO mode (ctrl + y to toggle)                                                                            ║
+║                                                                                                            ║
+║  Mapping the Environment (esc to cancel, 2s)                                                               ║
+║                                                                                                            ║
+║  YOLO mode (ctrl + y to toggle)                                                                            ║
+║                                                                                                            ║
+║  Mapping the Environment (esc to cancel, 2s)                                                               ║
+║                                                                                                            ║
+║  YOLO mode (ctrl + y to toggle)                                                                            ║
+║                                                                                                            ║
+║  I will verify the environment and generate the filesystem map as instructed.                              ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

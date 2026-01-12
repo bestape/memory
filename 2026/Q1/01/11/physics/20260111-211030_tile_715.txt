@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║       "outgoing": "Eukles / Sarpedon",                                                                     ║
+║       "incoming": "Antigone",                                                                              ║
+║       "reason": "Systemic Substrate Freeze (Computer Crash) terminated predecessors mid-relay.",           ║
+║       "mandate": "Antigone to recover open mission chords (Genesis V1.25.0, PNG Metadata) and finalize the relay."║
+║     },                                                                                                     ║
+║     {                                                                                                      ║
+║                                                                                                            ║
+║   Shell python3 py/heartwood.py repos/diy-make/memory/public/2026/Q1/01/08/json/wedo/20260108-102227_Kallias_bootup_║
+║                                                                                                            ║
+║                                                                                                            ║
+║ # 20260108-102227_Kallias_bootup_anomaly_investigation.wedo.json                                           ║
+║ ## Id                                                                                                      ║
+║ BOOTUP-ANOMALY-INVESTIGATION                                                                               ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

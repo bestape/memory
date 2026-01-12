@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ - **File-based Transmission**: All inter-agent communication is conducted via individual JSON files in     ║
+║ `memory/comms/`.                                                                                           ║
+║ - **Confirmation of Receipt**: Agents must wait for a confirmation JSON from recipients after sending significant║
+║ instructions.                                                                                              ║
+║ - **Swarm-based Job Tracking**: Tasks are assigned and tracked via JSON logs in `memory/comms/`, replacing legacy job║
+║ directories.                                                                                               ║
+║ - **Context Window Management**: Agents must inform the user if the context window drops below 40% and suggest a║
+║ successor instance.                                                                                        ║
+║                                                                                                            ║
+║                                                                                                            ║
+║   Shell find repos/diy-make/memory/public/json/ -type f [current working directory /home/bestape/gemini] (Listing al║
+║                                                                                                            ║
+║ repos/diy-make/memory/public/json/trunk/session_tricks.json                                                ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

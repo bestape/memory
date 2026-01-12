@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ -rw-rw-r-- 1 bestape bestape 176814 Jan 10 18:00 Screenshot from 2026-01-10 18-00-37.png                   ║
+║                                                                                                            ║
+║   Shell ls -lt repos/diy-make/memory/inbox/png/journaled/ | grep "2026-01-11" | tail -n 20 [current working director║
+║                                                                                                            ║
+║ -rw-rw-r-- 1 bestape bestape 206990 Jan 11 09:29 Screenshot from 2026-01-11 09-29-45.png                   ║
+║ -rw-rw-r-- 1 bestape bestape 166312 Jan 11 09:29 Screenshot from 2026-01-11 09-29-37.png                   ║
+║ -rw-rw-r-- 1 bestape bestape 157579 Jan 11 09:29 Screenshot from 2026-01-11 09-29-30.png                   ║
+║ -rw-rw-r-- 1 bestape bestape 158718 Jan 11 09:29 Screenshot from 2026-01-11 09-29-11.png                   ║
+║ -rw-rw-r-- 1 bestape bestape 140853 Jan 11 09:28 Screenshot from 2026-01-11 09-28-57.png                   ║
+║ -rw-rw-r-- 1 bestape bestape 174518 Jan 11 09:28 Screenshot from 2026-01-11 09-28-28.png                   ║
+║ -rw-rw-r-- 1 bestape bestape 241525 Jan 11 09:28 Screenshot from 2026-01-11 09-28-22.png                   ║
+║ -rw-rw-r-- 1 bestape bestape 168475 Jan 11 09:28 Screenshot from 2026-01-11 09-28-16.png                   ║
+║ -rw-rw-r-- 1 bestape bestape 175632 Jan 11 09:28 Screenshot from 2026-01-11 09-28-09.png                   ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

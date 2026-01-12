@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ *   **Identity:** {{agent_name}} ({{gender}})                                                              ║
+║                                                                                                            ║
+║ ** Identity Justification**                                                                                ║
+║ > "{{justification}}"                                                                                      ║
+║                                                                                                            ║
+║ ** Botanical Superpowers (Gained by Layer)**                                                               ║
+║ *   ** gemini (The Root - Vision):**                                                                       ║
+║     *   **Forensic X-Ray:** Instant SHA256 checksum verification across all legislative scripts.           ║
+║     *   **Metagit Telepathy:** Real-time synchronization of state across 71+ repositories.                 ║
+║ *   ** repos/diy-make/memory (The Trunk - Consciousness):**                                                ║
+║     *   **Chrono-Fractal Omniscience:** Automatic discovery and inheritance of open tasks from the last 48 hours of║
+║ active history.                                                                                            ║
+║     *   **Legislative Immortality:** Technical strikes are secured in the Heartwood, surviving agent 'deaths.'║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

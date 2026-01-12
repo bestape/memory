@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ index d5f967a..9b6fa48 100644                                                                              ║
+║ --- a/.gemini/settings.json                                                                                ║
+║ +++ b/.gemini/settings.json                                                                                ║
+║ @@ -38,7 +38,7 @@                                                                                          ║
+║                                                                                                            ║
+║   Edit .gemini/settings.json:     "active_wedo_manifests": [... =>     "active_wedo_manifests": [...       ║
+║                                                                                                            ║
+║                                                                                                            ║
+║   Shell git diff .gemini/.secrets.baseline [current working directory /home/bestape/gemini] (Checking diff of secret║
+║                                                                                                            ║
+║ diff --git a/.gemini/.secrets.baseline b/.gemini/.secrets.baseline                                         ║
+║ index 7596dfe..42f8954 100644                                                                              ║
+║ --- a/.gemini/.secrets.baseline                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ repos/diy-make/memory/public/json/wedo/state_purge_protocol.wedo.json                                      ║
+║ repos/diy-make/memory/public/json/wedo/memory_wedo_list.json                                               ║
+║ repos/diy-make/memory/public/json/wedo/eusebius_final_critique.wedo.json                                   ║
+║ repos/diy-make/memory/public/json/wedo/github/youtube_account_setup.wedo.json                              ║
+║ repos/diy-make/memory/public/json/wedo/github/github_audit_repair.wedo.json                                ║
+║ repos/diy-make/memory/public/json/wedo/github/remote_pull.wedo.json                                        ║
+║ repos/diy-make/memory/public/json/wedo/image_journal.wedo.json                                             ║
+║ repos/diy-make/memory/public/json/wedo/biography_boilerplate.wedo.json                                     ║
+║ repos/diy-make/memory/public/json/wedo/startup.wedo.json                                                   ║
+║ repos/diy-make/memory/public/json/wedo/task_brick_schema.json                                              ║
+║ repos/diy-make/memory/public/json/wedo/glossary_boilerplate.wedo.json                                      ║
+║ repos/diy-make/memory/public/json/wedo/report_boilerplate.wedo.json                                        ║
+║                                                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

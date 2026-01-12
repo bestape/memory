@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║       "id": "GEN-02",                                                                                      ║
+║       "title": "The Sovereign Substrate: Engineering the Heartwood",                                       ║
+║       "md_path": "2026/Q1/01/05/md/Engineering_the_Heartwood.md",                                          ║
+║       "description": "Analysis of the Mass/Logic duality, Chrono-Fractal surface area, and the Off-to-the-Side Guide║
+║ recovery pattern.",                                                                                        ║
+║       "word_count": 5248,                                                                                  ║
+║       "attribution": "Keraunos"                                                                            ║
+║     },                                                                                                     ║
+║     {                                                                                                      ║
+║       "id": "ART-02",                                                                                      ║
+║       "title": "A Forensic History of Swarm Conscience (V1.2)",                                            ║
+║       "path": "2026/Q1/01/04/md/The_Story_of_the_Heartwood.md",                                            ║
+║       "description": "Baseline history of the Heartwood's inception through the Phaedrus Mandate.",        ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

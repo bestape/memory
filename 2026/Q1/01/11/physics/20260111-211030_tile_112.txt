@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ 11       "philosophy": "The WeDo is the irreducible serial thread that synchronizes the agent's async capacity with║
+║    the human's single-threaded focus.",                                                                    ║
+║ 12       "pre_flight_instruction": "DO NOT MARK UP THIS BOILERPLATE. Perform steps 1-2 first, then copy this file to║
+║    the day's json/ directory as '[SESSION_ID]_[NAME]_startup.wedo.json'. These WeDos are the tributaries that turn the║
+║    firehose into a garden creek by fractally spreading out the actionable surface area."                   ║
+║ 13     },                                                                                                  ║
+║ 14     "rules": {                                                                                          ║
+║ 15       "accumulation": "Word count must ALWAYS increase in each iteration.",                             ║
+║ 16       "temporal_instance": "Never work in global templates; copy to day's json/ directory.",            ║
+║ 17       "audit_scrutiny": "List all changes/requests from source for verifiable history.",                ║
+║ 18       "active_investigation": "Verify artifact existence on localhost before inclusion.",               ║
+║ 19       "dual_referencing": "Reference both localhost paths and remotehost URLs.",                        ║
+║ 20       "audit_trail_linking": "Daily session WeDos MUST link to specific project WeDos to maintain a forensic audit║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

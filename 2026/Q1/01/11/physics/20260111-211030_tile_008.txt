@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                                            ║
+║   Shell .venv/bin/python py/verify_environment.py && .venv/bin/python py/metagit_map.py [current working directory /║
+║                                                                                                            ║
+║                                                                                                            ║
+║   Shell .venv/bin/python py/verify_environment.py && .venv/bin/python py/metagit_map.py [current working directory /║
+║                                                                                                            ║
+║                                                                                                            ║
+║   Shell .venv/bin/python py/verify_environment.py && .venv/bin/python py/metagit_map.py [current working directory /║
+║                                                                                                            ║
+║                                                                                                            ║
+║   Shell .venv/bin/python py/verify_environment.py && .venv/bin/python py/metagit_map.py [current working directory /║
+║                                                                                                            ║
+║                                                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

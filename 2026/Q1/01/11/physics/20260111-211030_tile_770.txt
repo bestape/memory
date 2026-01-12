@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ 'No Tables Policy'.                                                                                        ║
+║ - **IMG-38**: Terminal view showing the identity anchoring process for agent Phronimon.                    ║
+║ - **IMG-39**: Terminal view documenting a name collision error for 'Phronimon' in the forensic graveyard.  ║
+║ - **IMG-40**: Terminal view displaying the 'remote_pull.wedo.json' manifest, outlining the protocol for bulk PR║
+║ ingestion.                                                                                                 ║
+║ - **IMG-41**: Terminal view displaying the 'report_boilerplate.wedo.json' structure, ensuring consistent session║
+║ reporting.                                                                                                 ║
+║ - **IMG-42**: Terminal view displaying the 'startup.wedo.json' tasks, establishing the irreducible serial thread for║
+║ incarnation.                                                                                               ║
+║ - **IMG-43**: Terminal view displaying the 'state_purge_protocol.wedo.json' tasks for substrate cleaning.  ║
+║ - **IMG-44**: Terminal view documenting a failure analysis of the 'replace' tool due to semantic misalignment.║
+║ - **IMG-45**: Terminal view illustrating the 'AI Unix Philosophy' of an interactive workflow with modular scripts and║
+║ boomerang feedback.                                                                                        ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

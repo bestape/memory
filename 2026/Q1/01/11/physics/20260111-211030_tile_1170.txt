@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║  YOLO mode (ctrl + y to toggle)                                                                            ║
+║  I've rebuilt the Linear view with a true terminal emulator logic. It now understands that your terminal   ║
+║  Implementing the Cursor Logic (esc to cancel, 3s)                                                         ║
+║                                                                                                            ║
+║   Shell cat repos/diy-make/memory/comms/20260111-114028_Prodicus.json [current working directory /home/bestape/gemin║
+║                                                                                                            ║
+║ {                                                                                                          ║
+║   "name": "Prodicus",                                                                                      ║
+║                                                                                                            ║
+║   Shell tail -n 100 dynamic/stream/20260111-113056_metagit_chat.txt [current working directory /home/bestape/gemini]║
+║                                                                                                            ║
+║                                                                                                            ║
+║                                                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

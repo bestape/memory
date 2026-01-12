@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ entries to the shared 'daily_image_journal.json' in that same directory."                                  ║
+║   },                                                                                                       ║
+║   "required_files": {                                                                                      ║
+║     "formatter": "py/format_todo.py",                                                                      ║
+║     "meta_protocol": "repos/diy-make/memory/public/json/wedo/meta_wedo.wedo.json"                          ║
+║   },                                                                                                       ║
+║   "process_protocol": {                                                                                    ║
+║     "source_inbox": "repos/diy-make/memory/inbox/png/",                                                    ║
+║     "loop_instructions": "Execute the following sequence in 3-by-3 metabolic batches to balance session velocity with║
+║ human oversight. Ensure the active WeDo being updated is the one residing in the folder of the artifacts' creation║
+║ date:",                                                                                                    ║
+║     "steps": [                                                                                             ║
+║       {                                                                                                    ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

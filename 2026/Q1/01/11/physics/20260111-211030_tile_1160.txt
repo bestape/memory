@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                                            ║
+║ ### 1. Legacy Gating (Direct x402)                                                                         ║
+║ In most "Web3" apps, the gating is binary and hard-wired.                                                  ║
+║ `[ USER ]  [ x402: Pay 0.001 ETH ]  [ Solidity: If Paid, Set True ]  [ State Change ]`                     ║
+║ This is a single-point solution. It cannot handle agent-to-agent token deductions, manual overrides for researchers,║
+║ or complex off-chain logic without modifying the core contract.                                            ║
+║                                                                                                            ║
+║ ### 2. The PrecisionBOM Model (x402 + 7827 Indirection)                                                    ║
+║ We use ERC-7827 as an **indirection layer**. The gateway looks at the **Forensic Record** (the substrate), not just║
+║ the raw payment.                                                                                           ║
+║                                                                                                            ║
+║ ```text                                                                                                    ║
+║                                      [ MULTI-POINT APPROVAL SOURCES ]                                      ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

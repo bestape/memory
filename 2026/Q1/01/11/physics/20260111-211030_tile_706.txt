@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ `repos/diy-make/memory/used_agent_names.json`.                                                             ║
+║ - **GNU Screen Title Stability**: The Screen tab title is anchored to the agent's name at registration. Agents must║
+║ NEVER rename the tab of a peer. Failure to anchor the tab is a breach of entry protocol.                   ║
+║ - **The Grep Prohibition & Precise Discovery**: Unstructured recursive searching across the metarepo is strictly║
+║ prohibited. Systems of this magnitude (71+ repositories) cannot be 'grepped' without destroying the agent's context║
+║ window and causing computational OOM.                                                                      ║
+║ - **Substrate-Aware Search**: Agents must prioritize structured file discovery (ls, glob) over recursive grep.║
+║ Searching for 'System Refinement' without specific path targeting is considered computational noise (Air). ║
+║ - **Real-Time Peer Sync**: When multiple agents are active, every major state change (e.g., protocol update, directory║
+║ move) must be followed by an immediate broadcast to all active agent PIDs in comms/.                       ║
+║ - **Heartwood .json+.py Substrate**: The legislative source of truth (DNA) must reside in structured `.json` and `.py`║
+║ files within the Heartwood. Agents must use the Tool Registry (`json/trunk/orchestration_tools.json`) to identify the║
+║ correct `.py` interface for interpreting DNA.                                                              ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

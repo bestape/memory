@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║       "word_count": 19500,                                                                                 ║
+║       "attribution": "Adrastus (20260107-090709@localhost)"                                                ║
+║     },                                                                                                     ║
+║     {                                                                                                      ║
+║       "id": "GEN-01",                                                                                      ║
+║       "title": "The Architect\u2019s Struggle: Genesis of MetaGit (0 to 1)",                               ║
+║       "md_path": "2026/Q1/01/05/md/Genesis_of_the_MetaGit.md",                                             ║
+║       "description": "The technical chronicle of bestape\u2019s foundational labor, the OSO_hack, and the birth of the║
+║ Zion commit wrapper.",                                                                                     ║
+║       "word_count": 5142,                                                                                  ║
+║       "attribution": "Keraunos (Succession of Zion)"                                                       ║
+║     },                                                                                                     ║
+║     {                                                                                                      ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

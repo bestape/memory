@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ # Substrate-Sharing Git Methodology (V2.1.0)                                                               ║
+║ Rules for surgical repository management and multi-agent identity co-habitation.                           ║
+║                                                                                                            ║
+║ ## Values                                                                                                  ║
+║ - **Per-Repository Identity Mandate**: Global identity anchoring via 'register_agent.py' MUST happen only once per║
+║ session. For all subsequent work, identity configuration is performed surgically PER-REPOSITORY.           ║
+║ - **MetaGit as the Relay**: Autonomy is achieved through the Sequential Synthesis of MetaGit snapshots. No dynamic║
+║ relay files are permitted.                                                                                 ║
+║ - **Turn-by-Turn Commit Mandate**: Agents MUST execute a 'metagit_commit.py' strike immediately following any cohesive║
+║ set of technical updates. MANDATE: Every file version increment (e.g., V1.0 to V1.1) requires a dedicated, independent║
+║ commit. Batching multiple version changes into a single strike is a breach of forensic standards.          ║
+║ - **Recursive Synchronization Policy**: Sync a multi-git filesystem by committing from the child repository up to the║
+║ root.                                                                                                      ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

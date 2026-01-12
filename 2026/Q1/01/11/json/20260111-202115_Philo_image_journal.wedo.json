@@ -1,0 +1,23 @@
+{
+  "wedo_instance": {
+    "id": "WEDO-JOURNAL-01",
+    "title": "📸 Forensic Image Journal: Inbox Artifacts 📸",
+    "status": "[x]",
+    "description": "Clinical cataloging of physical image assets within the memory inbox, representing the visual expansion of the firm's entropic surface area.",
+    "tasks": [
+      {
+        "id": "JOURNAL-JPG-01",
+        "name": "Phase I: JPG Inbox Stabilization",
+        "status": "[x]",
+        "description": "Cataloging of raw JPG photo assets. These files represent the 'outside' capture of physical reality into the 'inside' substrate hierarchy."
+      },
+      {
+        "id": "JOURNAL-PNG-01",
+        "name": "Phase II: PNG Metadata Extraction",
+        "status": "[x]",
+        "description": "Extraction and cataloging of PNG screenshot artifacts, primarily documenting the structural evolution of the Meta-Root."
+      }
+    ]
+  },
+  "attribution": "Philo (20260111-202115@localhost)"
+}

@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                                            ║
+║  t/src/internal/core/providers/http.ts:116:21)                                                             ║
+║                                                                                                            ║
+║  t/src/internal/core/providers/http.ts:116:21)                                                             ║
+║                                                                                                            ║
+║  t/src/internal/core/providers/http.ts:116:21)                                                             ║
+║                                                                                                            ║
+║  t/src/internal/core/providers/http.ts:116:21)                                                             ║
+║                                                                                                            ║
+║  116:21)                                                                                                   ║
+║                                                                                                            ║
+║                                                                                                            ║
+║ (/home/bestape/gemini/repos/diy-make/part-sourcing-hackathon/node_modules/hardhat/src/internal/core/providers/http.ts:║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

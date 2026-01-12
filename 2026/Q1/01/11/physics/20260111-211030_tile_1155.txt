@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ 20260111-183925_Eukles_Bootup_Report.json                                                                  ║
+║ 20260111-194042_Sarpedon_Bootup_Report.json                                                                ║
+║ 20260111-194042_Sarpedon_RELAY_active_context.wedo.json                                                    ║
+║ 20260111-194042_Sarpedon_RELAY_image_journal.wedo.json                                                     ║
+║ 20260111-194042_Sarpedon_RELAY_RELAY_active_context.wedo.json                                              ║
+║ 20260111-194042_Sarpedon_startup.wedo.json                                                                 ║
+║ 20260111-194533_Sarpedon_Bootup_Report.json                                                                ║
+║ 20260111-194701_Antigone_Bootup_Report.json                                                                ║
+║ 20260111-194701_Antigone_Recovery_Report.json                                                              ║
+║ 20260111-194701_Antigone_RELAY_active_context.wedo.json                                                    ║
+║ 20260111-194701_Antigone_RELAY_image_journal.wedo.json                                                     ║
+║ 20260111-194701_Antigone_RELAY_RELAY_active_context.wedo.json                                              ║
+║ 20260111-194701_Antigone_startup.wedo.json                                                                 ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

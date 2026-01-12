@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║  88 + [ USER ]  [ x402 Gate ]  [ ERC-7827 UNOPINIONATED SUBSTRATE ]  [ STATE CHANGE ]                      ║
+║  89 +                                      (Receipt of Reality)                                            ║
+║  90   ```                                                                                                  ║
+║  91                                                                                                        ║
+║  77 - ## II. Agents as Comptrollers                                                                        ║
+║  78 - In our terminal, agents are the **Comptrollers of Thermodynamic Capital**. They manage user tokens during the║
+║     session (**Session Trust**) and anchor the results to the blockchain as an **Optimistic Receipt**.     ║
+║                                                                                                            ║
+║  92 + ---                                                                                                  ║
+║  93                                                                                                        ║
+║  80 - ![Sourcing Strike]({report_data['chronicle_instance']['sections'][1]['image']})                      ║
+║                                                                                                            ║
+║  94 + ## III. AGENTS AS COMPTROLLERS OF THERMODYNAMIC CAPITAL                                              ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝

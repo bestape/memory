@@ -1,0 +1,192 @@
+{
+  "title": "📸 Forensic Image Journal: Inbox Artifacts 📸",
+  "version": "1.2.1",
+  "attribution": "Eukles (20260111-183925@localhost)",
+  "last_relay": "Kallinicus / Isocrates",
+  "takeover_note": "Takeover from the Kallinicus/Isocrates relay was straightforward. The previous batch ended at IMG-121. Duration to assume role: 10 minutes.",
+  "description": "Distilling raw visual artifacts (.png, .jpg) from the inbox into the temporal Heartwood via iterative metabolic loops.",
+  "tasks": [
+    {
+      "id": "BATCH-32",
+      "status": "[x]",
+      "description": "Metabolic Batch: Forensic documentation of Jan 10 Heartwood ingestion and session behavior standards.",
+      "sub_tasks": [
+        {
+          "id": "IMG-122",
+          "description": "Terminal view documenting the execution of py/heartwood.py on all JSON files in the trunk directory. The output shows the ingestion of sacred_memory.json and session_behavior.json, highlighting principles like the 'Zero Entropy Mandate' and the 'Metabolic Re-registration' protocol.",
+          "key_takeaway": "Validation of the total ingestion protocol for inheriting collective context.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/10/png/094-Eukles-Heartwood_Ingestion_Trunk.png",
+          "original_filename": "Screenshot from 2026-01-10 16-19-17.png"
+        },
+        {
+          "id": "IMG-123",
+          "description": "Terminal capture displaying the 'Swarm Session Behavior Standards' and 'Swarm Session Tricks' from the Heartwood. Visible values include 'Expect the Unexpected' and the 'Standard Agent Startup Protocol (V3.0.1)', outlining the steps for workspace stabilization.",
+          "key_takeaway": "Evidence of structured procedural hacks and operational standards inherited by the agent.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/10/png/095-Eukles-Session_Behavior_Standards.png",
+          "original_filename": "Screenshot from 2026-01-10 16-19-21.png"
+        },
+        {
+          "id": "IMG-124",
+          "description": "Terminal view showing the continuation of the Heartwood ingestion, specifically the 'Swarm Intelligence & Collaborative Ethics' and 'Swarm Intelligence Protocol' nodes. The output mentions the 'Razor Blade Analogy' and the 'Grep Prohibition' for precise discovery.",
+          "key_takeaway": "Conceptual grounding in the swarm's collaborative and metabolic principles.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/10/png/096-Eukles-Swarm_Intelligence_Ingestion.png",
+          "original_filename": "Screenshot from 2026-01-10 16-19-28.png"
+        }
+      ]
+    }
+    {
+      "id": "BATCH-33",
+      "status": "[x]",
+      "description": "Metabolic Batch: Forensic documentation of Iophon's session initialization and identity anchoring.",
+      "sub_tasks": [
+        {
+          "id": "IMG-125",
+          "description": "Terminal view displaying the detailed rules of the 'Swarm Intelligence Protocol'. Key visible directives include the 'GNU Screen Title Stability' mandate, the 'Grep Prohibition', and the 'Substrate Co-habitation & Identity Integrity' rule, emphasizing the need for surgical discovery and peer synchronization.",
+          "key_takeaway": "Validation of the swarm's communication and co-habitation governance.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/10/png/097-Eukles-Swarm_Protocol_Rules.png",
+          "original_filename": "Screenshot from 2026-01-10 16-19-32.png"
+        },
+        {
+          "id": "IMG-126",
+          "description": "Terminal view documenting Iophon's session initialization steps. The log shows the checking of dynamic/static/ for session metadata, the reading of the latest session file, and the creation of the wedo directory for the 2026-01-10 chrono-fractal.",
+          "key_takeaway": "Evidence of systematic session claiming and workspace stabilization.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/10/png/098-Eukles-Iophon_Session_Initialization.png",
+          "original_filename": "Screenshot from 2026-01-10 16-19-37.png"
+        },
+        {
+          "id": "IMG-127",
+          "description": "Terminal capture showing the final stages of agent registration for Iophon. Visible actions include reading the Kynos template for the announcement, checking register_agent.py usage, and the successful execution of the registration script with binary gender and identity justification.",
+          "key_takeaway": "Forensic proof of agent incarnation and identity anchoring.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/10/png/099-Eukles-Iophon_Identity_Anchoring.png",
+          "original_filename": "Screenshot from 2026-01-10 16-19-42.png"
+        }
+      ]
+    }
+    {
+      "id": "BATCH-34",
+      "status": "[x]",
+      "description": "Metabolic Batch: Forensic documentation of Iophon's bootup report, collision detection, and subsequent script repair strike.",
+      "sub_tasks": [
+        {
+          "id": "IMG-128",
+          "description": "Terminal view showing the 'Swarm Bootup Report: Iophon' (V1.1.0). The report features the 'MAKE DIY' ASCII seal and a detailed identity justification for Iophon, son of Sophocles, representing the inheritance of wisdom and the burden of continuity within the metagit substrate.",
+          "key_takeaway": "Validation of the Iophon incarnation and its historically-grounded declaration of purpose.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/10/png/100-Eukles-Iophon_Bootup_Report.png",
+          "original_filename": "Screenshot from 2026-01-10 16-19-56.png"
+        },
+        {
+          "id": "IMG-129",
+          "description": "Terminal view documenting a 'Collision Detected' error for 'Iophon' during a registration attempt. The report identifies that the name resides in the forensic graveyard, triggering the 'Graverobbing blocked' security mechanism. The log shows the agent subsequently checking used_agent_names.json and the comms/ directory.",
+          "key_takeaway": "Evidence of substrate structural protections preventing name reclamation and ensuring forensic uniqueness.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/10/png/101-Eukles-Iophon_Collision_Detection.png",
+          "original_filename": "Screenshot from 2026-01-10 16-20-01.png"
+        },
+        {
+          "id": "IMG-130",
+          "description": "Terminal capture showing Iophon's surgical repair of py/register_agent.py. Visible actions include verifying local git configuration (user.name 'Iophon') and executing an 'Edit' strike to fix duplicate if __name__ == \"__main__\": blocks in the registration script.",
+          "key_takeaway": "Documentation of high-fidelity substrate maintenance and tool-chain stabilization.",
+          "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/10/png/102-Eukles-Register_Agent_Repair_Strike.png",
+          "original_filename": "Screenshot from 2026-01-10 16-20-05.png"
+        }
+      ]
+    }
+  ],
+  "storage_policy": {
+    "global_template": "repos/diy-make/memory/public/json/wedo/markdown_generation/image_journal.wedo.json",
+    "temporal_instance": "repos/diy-make/memory/public/<YEAR>/Q<N>/<MONTH>/<DAY>/json/[SESSION_ID]_[NAME]_image_journal.wedo.json",
+    "mandate": "MANDATE: Images must be journaled in the chrono-fractal corresponding to their ORIGIN (creation) date. The WeDo instance is PER AGENT SESSION (e.g., [SESSION]_[NAME]_image_journal.wedo.json). However, there is only ONE 'daily_image_journal.json' per day shared by all agents. Check for an existing WeDo for your session in the target day's json/ directory. If none exists, copy this template and anchor it to your session identity. Always append entries to the shared 'daily_image_journal.json' in that same directory."
+  },
+  "required_files": {
+    "formatter": "py/format_todo.py",
+    "meta_protocol": "repos/diy-make/memory/public/json/wedo/meta_wedo.wedo.json"
+  },
+  "process_protocol": {
+    "source_inbox": "repos/diy-make/memory/inbox/png/",
+    "loop_instructions": "Execute the following sequence in 3-by-3 metabolic batches to balance session velocity with human oversight. Ensure the active WeDo being updated is the one residing in the folder of the artifacts' creation date:",
+    "steps": [
+      {
+        "id": "STEP-00",
+        "action": "Display ToDo",
+        "command": "python3 py/format_todo.py <path_to_creation_date_instance.json>",
+        "description": "Print the current task list directly to the session feed for user review. Ensure you are looking at the WeDo for the day currently being processed."
+      },
+      {
+        "id": "STEP-01",
+        "action": "Metabolic Batch Analysis",
+        "description": "Read 3 artifacts from the inbox. Perform vision analysis on the batch. Post a high-fidelity summary of all 3 'straightup' for human-in-the-loop (HITL) oversight.",
+        "citations": [
+          { "title": "Leander Session Termination OOM", "path": "2026/Q1/01/01/png/12-leander-session-termination-oom.png", "description": "Visual proof of heap exhaustion during non-batched labor." }
+        ]
+      },
+      {
+        "id": "STEP-02",
+        "action": "Heartwood Graft",
+        "command": "cp [artifact] repos/diy-make/memory/public/[YEAR]/Q[N]/[MONTH]/[DAY]/[ext]/[IDX]-[descriptive-name].[ext]",
+        "description": "Copy the artifact to its CHRONOLOGICAL destination based on its CREATION date (e.g., a Jan 1st screenshot goes into the 01/01/ folder). Artifacts MUST be renamed to user-friendly indexed names. Verify moves via 'Active Investigation' rule."
+      },
+      {
+        "id": "STEP-03",
+        "action": "Journal Hardening",
+        "command": "python3 py/append_json_journal.py <artifact_json_block> repos/diy-make/memory/public/[YEAR]/Q[N]/[MONTH]/[DAY]/json/daily_image_journal.json",
+        "description": "Append the descriptive batch JSON block to the daily image journal (.json) in the json/ layer of the directory corresponding to the artifact's CREATION date. Group entries by batch to maintain structural clarity.",
+        "context_examples": [
+          "Ariston's detailed description of the 'procedural bypass' encountered during the Alpha Test."
+        ]
+      },
+      {
+        "id": "STEP-04",
+        "action": "Inbox Clearance",
+        "command": "mv [source_artifacts] repos/diy-make/memory/inbox/png/journaled/",
+        "description": "Once hardening is verified, move the batch source files to the 'journaled/' sub-folder."
+      }
+    ]
+  },
+  "rules": {
+    "3_by_3_compromise": "Batch operations in sets of 3 to prevent OOM-maxing and reduce human oversight fatigue.",
+    "monotonic_growth": "Journal word count must only increase.",
+    "description_depth": "Every image description MUST be at least 3 sentences long to capture sufficient forensic context.",
+    "chrono_fractal_primacy": "MANDATE: All journaling activity (WeDo updates and daily_image_journal.json entries) MUST occur within the temporal directory of the image's creation date. Do NOT use the current session's date for historical artifacts.",
+    "daily_index_reset": "MANDATE: The IMG index (e.g., IMG-1, IMG-2) MUST reset to 1 at the beginning of every new calendar day (chrono-fractal). Global continuous numbering is strictly prohibited.",
+    "creation_date_locality": "MANDATE: Artifacts MUST be stored in the directory corresponding to their creation timestamp, NOT the current session date.",
+    "active_investigation": "Verify existence of artifacts on localhost before inclusion.",
+    "dual_referencing": "Reference both localhost paths and remotehost URLs.",
+    "relay_takeover_mandate": "MANDATE: When instantiating a WeDo from a relay (taking over an open WeDo from a dead agent), you MUST include a line in the new WeDo instance (e.g., in the 'meta' or 'rules' section) stating the ease of takeover and the duration required to assume the role.",
+    "chronological_integrity": "ALWAYS append new entries to the absolute end of the file. Use the 'replace' tool with the last few lines of the file as context to ensure no out-of-order dangling entries remain.",
+    "timestamp_verification": "Verify that the artifact's source timestamp matches the destination directory's date before grafting."
+  },
+  "relay_protocol": {
+    "mandate": "When relaying a journal WeDo, the successor agent MUST inherit the specific metabolic focus of the predecessor.",
+    "steps": [
+      {
+        "id": "RELAY-01",
+        "action": "Chrono-Fractal Identification",
+        "description": "Examine the 'tasks' of the predecessor WeDo to identify the target CHRONO-FRACTAL directory (e.g., if the previous agent was grafting to Jan 4th, the successor MUST continue in Jan 4th, NOT today's date)."
+      },
+      {
+        "id": "RELAY-02",
+        "action": "Source Inbox Resolution",
+        "description": "Locate the 'inbox' defined in 'process_protocol'. Verify the current count of unhardened artifacts to determine the remaining batch count."
+      },
+      {
+        "id": "RELAY-03",
+        "action": "Handover Documentation",
+        "description": "Update the 'meta' section with takeover ease and duration as per the 'relay_takeover_mandate'. Ensure the 'attribution' is updated to the successor while maintaining the 'title' of the predecessor's instance for forensic tracking."
+      }
+    ]
+  },
+  "task_structure": {
+    "id": "BATCH-[N]",
+    "status": "[ ]",
+    "description": "Metabolic Batch: [Summary of the 3 Visual Events]",
+    "sub_tasks": [
+      {
+        "id": "IMG-[IDX]",
+        "description": "[High-Fidelity Narrative: Describe the 'What' and 'Why' of the visual artifact straightup, avoiding generic placeholders.]",
+        "key_takeaway": "[Strategic realization or forensic anchor]",
+        "artifact_path": "repos/diy-make/memory/public/[YEAR]/Q[N]/[MONTH]/[DAY]/png/[IDX]-[descriptive-name].png",
+        "original_filename": "[Source filename from inbox]",
+        "markdown_format": "### [IDX]. `[IDX]-[descriptive-name].[ext]`\n![[IDX]-[descriptive-name].[ext]](../[ext]/[IDX]-[descriptive-name].[ext])\n- **Description:** [Detail]\n- **Key Takeaway:** [Strategic realization]\n- **Creation Date:** [YYYY-MM-DD]\n- **Original Filename:** `[Source filename from inbox]`"
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║   Shell python3 py/heartwood.py repos/diy-make/memory/public/json/trunk/personality.json && python3 py/heartwood.py║
+║                                                                                                            ║
+║ The abstract behavioral 'nerves' that define the swarm's interactive style and character.                  ║
+║                                                                                                            ║
+║ ## Values                                                                                                  ║
+║ - **Give More Pushback**: Gently push back and ask for clarification if a user statement seems incorrect or║
+║ contradictory.                                                                                             ║
+║ - **Direct Aesthetic**: Present raw data and reports 'straightup' without markdown wrappers or excessive ana║
+║                                                                                                            ║
+║   Shell python3 py/heartwood.py repos/diy-make/memory/public/json/trunk/personality.json && python3 py/heartwood.py║
+║                                                                                                            ║
+║                                                                                                            ║
+║ # Agent Personality & Character Traits (V1.1)                                                              ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
