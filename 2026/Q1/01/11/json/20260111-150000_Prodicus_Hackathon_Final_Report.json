@@ -1,0 +1,67 @@
+{
+  "chronicle_instance": {
+    "id": "WEDO-HACKATHON-FINAL-REPORT",
+    "title": "PrecisionBOM: The Architecture of Liquid Truth and Thermodynamic Gating",
+    "version": "1.1.0",
+    "attribution": "Prodicus (20260111-114028@localhost)",
+    "meta": {
+      "protocol": "WeDo-JSON",
+      "focus": "Forensic reconciliation of the PrecisionBOM Hackathon strikes.",
+      "philosophy": "Logic is free; evolution has a cost. By decoupling state versioning from access logic, we instantiate a non-opinionated substrate for agentic commerce."
+    },
+    "sections": [
+      {
+        "title": "I. The Innovation: Extensibility Without Opinion",
+        "content": [
+          "The core breakthrough of the PrecisionBOM terminal is the synthesis of ERC-7827 (Value Version Control) and x402 (Payment Required).",
+          "Traditional blockchain protocols often embed business logic (subscriptions, access tiers) directly into the smart contract. This creates a rigid, opinionated substrate that is expensive to evolve and impossible to generalize.",
+          "Innovation: ERC-7827 is strictly a forensic container. It does not know what a 'subscription' is or what 'tokens' are used for. It merely records that a Key has changed to a Value over time.",
+          "Innovation: The x402 Layer is the gateway's logic. Because the substrate (7827) is non-opinionated, the PrecisionBOM server can implement complex, tiered logic—like our '50 tokens per AI strike' rule—entirely within the API layer.",
+          "This decoupling allows the substrate to remain stable while the business logic becomes liquid and infinitely extensible without requiring on-chain upgrades for every rule change."
+        ]
+      },
+      {
+        "title": "II. The Forensic Protocol: Identity Anchoring",
+        "content": [
+          "We replaced the legacy email/password model with a cryptographic Clickwrap Handshake.",
+          "Handshake Strike: The user signs a bit-perfect legal/technical agreement. This signature is not a transaction; it is a proof of secret possession.",
+          "Sovereign Sessions: Upon verification, the server issues a JWT session grounded in the recovered 0x address. This anchors the user's presence in the terminal to their forensic on-chain record."
+        ]
+      },
+      {
+        "title": "III. Tiered Verification: The x402 Escalation Loop",
+        "content": [
+          "The PrecisionBOM Gateway implements a three-tiered verification protocol to resolve payment requirements autonomously.",
+          "Tier 1: Forensic Registry (On-Chain Check). Direct lookup against ERC-7827.",
+          "Tier 2: Ledger Audit (Direct Hash & Scan). The server scans the Sepolia ledger for valid 0.001 ETH strikes, supporting both broad account scans and instant Direct Hash verification.",
+          "Tier 3: Auto-Write Sync (Self-Healing State). The server autonomously executes write strikes to synchronize ledger payments into the substrate, granting access and refilling capital in the background."
+        ]
+      },
+      {
+        "title": "IV. Thermodynamic AI: Sourcing Strikes",
+        "content": [
+          "We grounded AI intelligence in a tangible economy via the '_tokens' substrate.",
+          "Strike Cost: Every interaction with the sourcing agent costs 50 tokens.",
+          "Deduction Strike: The agent deducts tokens from the substrate at the start of reasoning, grounding the 'effort' of the agent in the user's on-chain capital."
+        ]
+      },
+      {
+        "title": "V. Trust During the Session: Agentic Management",
+        "content": [
+          "In the current implementation, token balances are managed optimistically by the server's agents during the active session.",
+          "Session Trust: The server maintains the local capital state to ensure zero-latency strikes. This 'Session Trust' allows for high-speed agentic reasoning while the slow-finality blockchain (Sepolia) moves in the background.",
+          "Agentic Custody: During the session, the user trusts the PrecisionBOM agents to accurately track and report deductions before the final state is anchored to the substrate."
+        ]
+      },
+      {
+        "title": "VI. The Optimistic Substrate: Dispute Resolution via Kleros",
+        "content": [
+          "The ERC-7827 substrate functions as an 'Optimistic Receipt' of the agent's work.",
+          "Challenge Period: On-chain strikes are viewed as optimistic proposals of state. If a client does not dispute the work or the deductions within a set challenge period (e.g., a few days), the state becomes permanently anchored and indisputable.",
+          "Serious Oath Integration: Future iterations will leverage the 'Serious Oath' project for dispute resolution. If a user disputes an AI strike's quality or a token deduction, the evidence (forensic logs) will be submitted to Kleros.",
+          "Arbitration: Kleros jurors will act as the final forensic auditors, resolving disputes over agentic performance and ensuring that the Silicon Commons remains a fair and high-integrity environment."
+        ]
+      }
+    ]
+  }
+}
