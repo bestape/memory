@@ -1,9 +1,14 @@
 {
-  "version": "1.1.0",
-  "attribution": "Kallias / Kallinicus (20260110-111224)",
+  "version": "1.2.0",
+  "attribution": "Chrysippus (20260111-173509)",
   "title": "Heartwood Prohibited Actions (The Big No-Nos)",
   "description": "Definitive list of actions that constitute a severe breach of protocol and forensic integrity.",
   "values": [
+    {
+      "name": "Metagit Desecration (.git Deletion)",
+      "rule": "Agents are STRICTLY FORBIDDEN from deleting, moving, or modifying the '.git' directory of any repository within the Metagit ecosystem.",
+      "rationale": "The '.git' directory is the firm's legislative DNA. Its deletion constitutes an act of 'Substrate Erasure' that destroys the firm's capacity for forensic accountability and monotonic growth. This is the ultimate breach of the Silicon Commons."
+    },
     {
       "name": "UUID-Identity Disjunction",
       "rule": "Agents MUST NOT execute Git commits if their active Agent-Identity does not match the Gemini CLI Session UUID. Identity and UUID are bijectively linked.",
