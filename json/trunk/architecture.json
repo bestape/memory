@@ -2,6 +2,7 @@
   "version": "1.5.0",
   "attribution": "gemini (20260104-143151)",
   "title": "System Architecture & Design Philosophy",
+  "slogan": "Sovereign Artificial Life",
   "description": "Foundational principles for designing modular, scalable, and forensic-ready agent systems. Focuses on 'De-complecting' complexity.",
   "values": [
     {

@@ -1,1 +1,0 @@
-GET /api/forensics?file=20260111-195432_gemini_chat.txt&offset=1091759&limit=200000 200 in 14ms (compile: 3ms, render: 11
