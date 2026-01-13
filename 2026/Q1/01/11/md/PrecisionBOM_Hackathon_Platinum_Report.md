@@ -11,7 +11,7 @@ Traditional blockchain architecture suffers from 'Logic Bloat,' a design flaw wh
 
 PrecisionBOM instantiates a fundamental shift in **Legal Engineering**: **Forensics as a Substrate.** 🧬 By utilizing **ERC-7827** as a non-opinionated state container and **x402** as a liquid gateway, we enable a terminal where human utility and legal clarity come first. We have successfully moved forensics from an 'after-the-fact' audit to a 'before-the-action' substrate.
 
-![Project Initialization](repos/diy-make/memory/public/2026/Q1/01/10/png/010-Kallinicus-Startup_WeDo_Initialization.png)
+![Project Initialization](../../10/png/010-Kallinicus-Startup_WeDo_Initialization.png)
 *Image: The initial strike—setting up the forensic environment for the Silicon Commons.*
 
 ---
@@ -27,7 +27,7 @@ The core breakthrough of the PrecisionBOM terminal is the removal of 'Business O
 
 **Why this matters for humans:** We can add new tiers, adjust pricing, or implement enterprise-grade compliance rules tomorrow without a single line of Solidity changing. The forensic proof remains immutable, while the commerce logic remains liquid.
 
-![ERC-7827 Logic](repos/diy-make/memory/public/2026/Q1/01/10/png/069-Kallinicus-ERC_7827_Standard_Compliant_Contract_Logic.png)
+![ERC-7827 Logic](../../10/png/069-Kallinicus-ERC_7827_Standard_Compliant_Contract_Logic.png)
 *Image: Implementation of the non-opinionated state container logic.*
 
 ---
@@ -38,14 +38,14 @@ We have eliminated legacy authentication models (email/password) that create cen
 ### 1. The Handshake Strike
 Before interacting with the terminal, the user must sign a specific technical and legal agreement. This signature is not an on-chain transaction; it is a **Proof of Intent** grounded in the user's private key.
 
-![MetaMask Clickwrap Login](repos/diy-make/memory/public/2026/Q1/01/11/png/18-nicomachus-ui-strike-wallet-gated-login.png)
+![MetaMask Clickwrap Login](../png/18-nicomachus-ui-strike-wallet-gated-login.png)
 *Image: The MetaMask interface presenting the Clickwrap Handshake to the user.*
 
 ### 2. Legal Sovereignty
 - **Verification:** The signature is verified server-side via `ecrecover`.
 - **Outcome:** A sovereign session where the user's 0x address is the primary key. This ensures that every action taken within the terminal is legally attributable to the signer, creating a high-integrity audit trail for sourcing operations.
 
-![Identity Recovery](repos/diy-make/memory/public/2026/Q1/01/11/png/30-Philo-Signer_Identity_Recovery.png)
+![Identity Recovery](../png/30-Philo-Signer_Identity_Recovery.png)
 *Image: Forensic audit of the signer identity recovery process.*
 
 ---
@@ -57,7 +57,7 @@ To solve the friction of blockchain finality, we implemented a three-tiered veri
 2. **Tier 2: Direct Hash Verification.** When a user executes a payment strike, they provide the `txHash`. The terminal queries the Sepolia node directly via RPC. This grants **Instant Access** based on a verified transaction before it is even indexed by third parties.
 3. **Tier 3: Ledger Audit.** A fallback scan of the Sepolia ledger to recover access if a transaction was missed or executed outside the primary UI.
 
-![Authorization Success](repos/diy-make/memory/public/2026/Q1/01/10/png/141-Philo-Authorization_Strike_Success.png)
+![Authorization Success](../../10/png/141-Philo-Authorization_Strike_Success.png)
 *Image: Validation of a successful authorization strike via multi-tiered verification.*
 
 ---
@@ -67,7 +67,7 @@ The final innovation is the **Optimistic Truth Model**. The anchored state on ER
 
 If a user disputes a sourcing result or a token deduction, the terminal provides the full forensic log as evidence. In future iterations, these logs will be submitted to **Kleros** for arbitration. This "Serious Oath" ensures that even in an automated system, the human right to dispute and fair arbitration is preserved.
 
-![Forensic Ledger Audit](repos/diy-make/memory/public/2026/Q1/01/11/png/136-Philo-Forensic_Ledger_Audit.png)
+![Forensic Ledger Audit](../png/136-Philo-Forensic_Ledger_Audit.png)
 *Image: Auditing the forensic ledger to ensure every transaction is accounted for.*
 
 ---
@@ -77,7 +77,7 @@ For a minute-by-minute breakdown of how these legal engineering innovations were
 - [📔 January 10, 2026: Day 1 - Substrate Instantiation](../../10/md/2026-01-10_Daily_Journal.md)
 - [📔 January 11, 2026: Day 2 - High-Fidelity Realization](../../11/md/2026-01-11_Daily_Journal.md)
 
-![Journal Crystalization](repos/diy-make/memory/public/2026/Q1/01/11/png/087-Philo-Hackathon_Report_Crystalization.png)
+![Journal Crystalization](../png/087-Philo-Hackathon_Report_Crystalization.png)
 *Image: The final crystallization of the forensic journals into the public ledger.*
 
 ---
@@ -91,16 +91,16 @@ PrecisionBOM is more than a sourcing tool; it is a **Legal Substrate**. By decou
 ### 🎨 VISUAL FORENSIC ARCHIVE
 
 **[Archive A] Contract Write Strike**
-![Contract Write](repos/diy-make/memory/public/2026/Q1/01/10/png/075-Kallinicus-ERC_7827_Solidity_Contract_Write_Strike.png)
+![Contract Write](../../10/png/075-Kallinicus-ERC_7827_Solidity_Contract_Write_Strike.png)
 
 **[Archive B] Shared Wallet Generation**
-![Wallet Generation](repos/diy-make/memory/public/2026/Q1/01/10/png/083-Kallinicus-Shared_Wallet_Generation_and_Deploy_Script_Update.png)
+![Wallet Generation](../../10/png/083-Kallinicus-Shared_Wallet_Generation_and_Deploy_Script_Update.png)
 
 **[Archive C] Contract Verification**
-![Contract Verification](repos/diy-make/memory/public/2026/Q1/01/10/png/146-Philo-Contract_Verification_on_Explorer.png)
+![Contract Verification](../../10/png/146-Philo-Contract_Verification_on_Explorer.png)
 
 **[Archive D] Final Project Audit**
-![Final Audit](repos/diy-make/memory/public/2026/Q1/01/11/png/139-Philo-Judging_Report_Final_Audit.png)
+![Final Audit](../png/139-Philo-Judging_Report_Final_Audit.png)
 
 ---
 **THE MISSION IS SECURED.**
