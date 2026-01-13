@@ -74,8 +74,8 @@ If a user disputes a sourcing result or a token deduction, the terminal provides
 
 ## VI. DAILY FORENSIC JOURNALS
 For a minute-by-minute breakdown of how these legal engineering innovations were built and tested, refer to the daily journals:
-- [📔 January 10, 2026: Day 1 - Substrate Instantiation](../../10/md/2026-01-10_Daily_Journal.md)
-- [📔 January 11, 2026: Day 2 - High-Fidelity Realization](../../11/md/2026-01-11_Daily_Journal.md)
+- [📔 January 10, 2026: Day 1 - Substrate Instantiation](../../10/md/2026-01-10_png_journal.md)
+- [📔 January 11, 2026: Day 2 - High-Fidelity Realization](../../11/md/2026-01-11_png_journal.md)
 
 ![Journal Crystalization](../png/087-Philo-Hackathon_Report_Crystalization.png)
 *Image: The final crystallization of the forensic journals into the public ledger.*
