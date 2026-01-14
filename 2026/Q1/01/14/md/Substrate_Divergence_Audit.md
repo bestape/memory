@@ -1,7 +1,7 @@
 # Algorithmic Substrates: The Logic of Legibility and the HSD Seedtree Convergence
 
 ## 1. Executive Summary: The Heavy Machinery Paradigm
-As codified in the LexClinic Office Hours of January 14, 2026, the interaction between human specialists and autonomous agents has shifted from a passive consumer experience to the operation of **heavy machinery**. Operating heavy machinery requires full attention, specialized safeguards, and a fundamental understanding of the substrate. The most dangerous behavior in this paradigm is 'Yolo Mode'—where agents operate without surgical constraints, leading to destructive outcomes. To prevent this, the 'wedo' system enforces a protocol of serial refinement, expecting approximately 13 versions of any high-quality report before it achieves Heartwood status. Brilliance is not an accident; it is a product of serial versioning. This iteration, Version 8, explores the raw code of our substrates and the convergence of data and logic.
+As codified in the LexClinic Office Hours of January 14, 2026, the interaction between human specialists and autonomous agents has shifted from a passive consumer experience to the operation of **heavy machinery**. Operating heavy machinery requires full attention, specialized safeguards, and a fundamental understanding of the substrate. The most dangerous behavior in this paradigm is 'Yolo Mode'—where agents operate without surgical constraints, leading to destructive outcomes. To prevent this, the 'wedo' system enforces a protocol of serial refinement, expecting approximately 13 versions of any high-quality report before it achieves Heartwood status. Brilliance is not an accident; it is a product of serial versioning. This iteration, Version 10, explores the raw code of our substrates and the convergence of data and logic.
 
 ## 2. Forensic Comparison: The Text of the Backend
 To understand the divide between **Legible (Algorithmic)** and **Illegible (Declarative)** substrates, we must examine the raw text that an agent ingests. The difference is the difference between a set of instructions and a finished photograph.
@@ -77,6 +77,6 @@ Success at V1 is a consumer myth. Brilliance is a serial process. We operate the
 The substrate is the logic. By embracing the Sparse Backend, the JSON-MD mirroring protocol, and the HSD Seedtree convergence, we maintain control over **jurist prudence**. We ensure that our legislative DNA is not a static picture (the PDF snapshot), but a living, breathing projection of logical intent. We are operating heavy machinery; we are building the navigable river of logic that defines the Sovereign Meta-Root.
 
 ---
-**Status:** Iteration 8 Secured.  
-**Source:** repos/diy-make/memory/public/2026/Q1/01/14/json/20260113-200759_Theramenes_Substrate_Divergence_v8.wedo.json  
+**Status:** Iteration 10 Secured.  
+**Source:** repos/diy-make/memory/public/2026/Q1/01/14/json/20260113-200759_Theramenes_Substrate_Divergence_v10.wedo.json  
 **Attribution:** Theramenes (20260113-200759@localhost) anchored.
