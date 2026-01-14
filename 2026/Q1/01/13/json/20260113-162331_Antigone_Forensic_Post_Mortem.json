@@ -1,0 +1,33 @@
+{
+  "title": "Forensic Post-Mortem: Agent Antigone",
+  "version": "1.0.0",
+  "attribution": "Autolycus (20260113-162331@localhost)",
+  "incident_report": {
+    "agent_name": "Antigone",
+    "timestamp": "2026-01-11 19:47:01",
+    "exit_code": "Unknown (Substrate Freeze)",
+    "failure_mode": "HUD-DOM-Saturation",
+    "last_known_task": "REC-NEXTJS-05: Implement on-demand loading for Forensic Replay",
+    "forensic_audit": "Antigone was investigating a terminal UI freeze. Log tail shows massive DOM/XTerm-based HTML output preceding session termination. The agent likely encountered an infinite loop or heap overflow while attempting to parse raw terminal serialization data."
+  },
+  "wedo_critique": {
+    "id": "ANTIGONE-CRITIQUE-01",
+    "status": "[ ]",
+    "tasks": [
+      {
+        "id": "CRIT-RECOVERY",
+        "description": "Inherit incomplete recovery tasks from Antigone (REC-CLEAN-03).",
+        "status": "[ ]"
+      },
+      {
+        "id": "CRIT-UI-AUDIT",
+        "description": "Audit the Forensic Replay app for potential UI-induced freeze vectors.",
+        "status": "[ ]"
+      }
+    ]
+  },
+  "mitigation_proposal": {
+    "short_term": "Clean stale session metadata in dynamic/static/ as originally planned by Antigone.",
+    "long_term": "Enforce HTML/DOM filtering in terminal logs to prevent agent context from becoming saturated with UI noise."
+  }
+}

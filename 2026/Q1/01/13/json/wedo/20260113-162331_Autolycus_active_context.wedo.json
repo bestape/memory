@@ -31,6 +31,26 @@
       },
       {
         "id": "MISSION-02",
+        "description": "Forensic Post-Mortem: Investigated Philo OOM event and identified Genesis V1.25.0 as the primary payload.",
+        "status": "[x]"
+      },
+      {
+        "id": "MISSION-03",
+        "description": "Forensic Post-Mortem: Investigated Antigone freeze and identified HUD-DOM-Saturation as the cause.",
+        "status": "[x]"
+      },
+      {
+        "id": "MISSION-04",
+        "description": "Substrate Cleanup: Clinicalize stale session files in dynamic/static/ (Inherited from Antigone).",
+        "status": "[x]"
+      },
+      {
+        "id": "MISSION-05",
+        "description": "Genesis Promotion: Promote verified volumes to Heartwood Trunk.",
+        "status": "[ ]"
+      },
+      {
+        "id": "MISSION-04",
         "description": "Synchronize with Lead Partner and identify primary operational objective.",
         "status": "[ ]"
       }
