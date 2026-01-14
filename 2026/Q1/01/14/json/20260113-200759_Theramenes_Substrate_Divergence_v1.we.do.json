@@ -1,0 +1,42 @@
+{
+  "wedo_instance": {
+    "id": "SUBSTRATE-DIVERGENCE-V1",
+    "description": "Technical audit of the programmatic backend divergence between Algorithmic Substrates (MD/SVG) and Declarative Snapshots (DOCX/PDF).",
+    "status": "[ ]",
+    "meta": {
+      "protocol": "WeDo-JSON",
+      "version": "1.0.0",
+      "iteration": "1 of 13",
+      "philosophy": "The WeDo is the irreducible serial thread that synchronizes the agent's async capacity with the human's single-threaded focus.",
+      "versioning_context": "MANDATE: This report is subject to a snowballing versioning protocol. We expect approximately 13 iterations of WeDo back-and-forth before achieving Heartwood status. Each iteration must be committed via metagit to ensure a clear forensic trail. Success is not achieved at V1; brilliance is a product of serial refinement."
+    },
+    "rules": {
+      "accumulation": "Word count must ALWAYS increase in each iteration.",
+      "commit_mandatory": "MANDATE: Agents MUST Git commit each version of a WeDo report immediately after creation/modification to ensure forensic versioning.",
+      "logic_priority": "All Logical DNA (json/py) precedes Human Reflection (md).",
+      "heavy_machinery": "Agentic interaction is the operation of heavy machinery; safeguards must be explicit."
+    },
+    "tasks": [
+      {
+        "id": "SUB-01",
+        "description": "Audit MD/SVG programmatic backends vs DOCX/PDF static snapshots.",
+        "status": "[x]"
+      },
+      {
+        "id": "SUB-02",
+        "description": "Integrate LexClinic Office Hours (Jan 14, 2026) context regarding 'Heavy Machinery' and 'Snowballing Versioning'.",
+        "status": "[x]"
+      },
+      {
+        "id": "SUB-03",
+        "description": "Establish forensic commit trail for 13 expected versions.",
+        "status": "[ ]"
+      }
+    ],
+    "report": {
+      "subject": "Algorithmic Substrates vs. Declarative Snapshots",
+      "content": "The fundamental divergence between Markdown/SVG and DOCX/PDF lies in the nature of their 'backends.' Markdown and SVG are algorithmic substrates; they represent instructions that require a programming language backend (Parser/Renderer) to instantiate their final form. Conversely, DOCX and PDF are declarative snapshots; they represent finalized states intended for passive consumption by static layout engines.\n\nMarkdown does not exist as a visual entity until it is processed by a logic-heavy backend. The renderMarkdown function demonstrate that every Markdown symbol is a trigger for a programmatic conditional. SVG backends allow for direct manipulation via JavaScript. An SVG is a living branch of the DOM tree, whereas a PDF is an opaque binary blob.\n\nDOCX and PDF represent the 'Legacy Substrate'—formats designed to hide their logic and present only the artifact. Word processors like Google Docs or Microsoft Word are optimized for consumer experience and printing but sacrifice the integrity and legibility of the underlying artifact (the asset), making them unsuitable for professional outputs that require agents to efficiently process information. The ideal format for agents is JSON because of its tree structure, which allows agents to grab only specific lines for processing.\n\nAs codified in the LexClinic Office Hours (2026-01-14), interacting with agents must be viewed as operating heavy machinery, requiring full attention and care. This necessitates safeguards against destructive agent capabilities (like .git folder deletion). The 'We Do' system utilizes algorithmic substrates to turn the 'firehose into a garden creek' through fractal sharding and sophisticated agent loops (e.g., .we.do.json naming conventions).\n\nVersioning is an intentional snowballing process. A high-quality report typically requires around 13 versions to reach a satisfactory quality. This WeDo instance serves as Version 1, established under the mandate of forensic commit trails."
+    }
+  },
+  "attribution": "Theramenes (20260113-200759@localhost)"
+}

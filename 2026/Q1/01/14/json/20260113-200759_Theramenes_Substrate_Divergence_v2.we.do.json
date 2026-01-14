@@ -1,0 +1,48 @@
+{
+  "wedo_instance": {
+    "id": "SUBSTRATE-DIVERGENCE-V2",
+    "description": "Technical audit of the programmatic backend divergence between Algorithmic Substrates (MD/SVG) and Declarative Snapshots (DOCX/PDF).",
+    "status": "[ ]",
+    "meta": {
+      "protocol": "WeDo-JSON",
+      "version": "1.1.0",
+      "iteration": "2 of 13",
+      "philosophy": "The WeDo is the irreducible serial thread that synchronizes the agent's async capacity with the human's single-threaded focus.",
+      "versioning_context": "MANDATE: This report is subject to a snowballing versioning protocol. We expect approximately 13 iterations of WeDo back-and-forth before achieving Heartwood status. Each iteration must be committed via metagit to ensure a clear forensic trail."
+    },
+    "rules": {
+      "accumulation": "Word count must ALWAYS increase in each iteration.",
+      "commit_mandatory": "MANDATE: Agents MUST Git commit each version of a WeDo report immediately after creation/modification to ensure forensic versioning.",
+      "logic_priority": "All Logical DNA (json/py) precedes Human Reflection (md).",
+      "heavy_machinery": "Agentic interaction is the operation of heavy machinery; safeguards must be explicit.",
+      "jurist_prudence": "Substrates must preserve control over jurist prudence through legible markup (SGML/MD)."
+    },
+    "tasks": [
+      {
+        "id": "SUB-01",
+        "description": "Audit MD/SVG programmatic backends vs DOCX/PDF static snapshots.",
+        "status": "[x]"
+      },
+      {
+        "id": "SUB-02",
+        "description": "Integrate LexClinic Office Hours (Jan 14, 2026) context regarding 'Heavy Machinery' and 'Snowballing Versioning'.",
+        "status": "[x]"
+      },
+      {
+        "id": "SUB-03",
+        "description": "Establish forensic commit trail for 13 expected versions.",
+        "status": "[/]"
+      },
+      {
+        "id": "SUB-04",
+        "description": "Deep dive into the history of SGML and its relation to legal engineering.",
+        "status": "[ ]"
+      }
+    ],
+    "report": {
+      "subject": "Algorithmic Substrates vs. Declarative Snapshots: The Logic of Jurist Prudence",
+      "content": "The fundamental divergence between Markdown/SVG and DOCX/PDF lies in the nature of their 'backends.' Markdown and SVG are algorithmic substrates; they represent instructions that require a programming language backend (Parser/Renderer) to instantiate their final form. Conversely, DOCX and PDF are declarative snapshots; they represent finalized states intended for passive consumption by static layout engines.\n\nMarkdown does not exist as a visual entity until it is processed by a logic-heavy backend. The renderMarkdown function demonstrate that every Markdown symbol is a trigger for a programmatic conditional. SVG backends allow for direct manipulation via JavaScript. An SVG is a living branch of the DOM tree, whereas a PDF is an opaque binary blob. Algorithmic Geometry in SVG defines shapes as math (logic); a circle is not a set of pixels, but parameters interpreted by the browser’s rendering backend.\n\nDOCX and PDF represent the 'Legacy Substrate'—formats designed to hide their logic and present only the artifact. While DOCX is technically XML, it is a complex web of cross-referenced static files that describes 'what' but does not 'do' anything. It lacks a native scriptable backend. Word processors like Google Docs or Microsoft Word are optimized for consumer experience and printing but sacrifice the integrity and legibility of the underlying artifact (the asset), making them unsuitable for professional outputs that require agents to efficiently process information. The ideal format for agents is JSON because of its tree structure, which allows agents to grab only specific lines for processing.\n\nAs codified in the LexClinic Office Hours (2026-01-14), interacting with agents must be viewed as operating heavy machinery, requiring full attention and care. This necessitates safeguards against destructive agent capabilities (like .git folder deletion). The 'We Do' system utilizes algorithmic substrates to turn the 'firehose into a garden creek' through fractal sharding and sophisticated agent loops (e.g., .we.do.json naming conventions). This approach was key to successfully plugging the app into the terminal to create a faithful reproduction of the feed, which serves as a 'heads-up display' for the user-agent relationship.\n\nLegal engineering requires a return to the original intent of markup languages. conclusion: while word processors can be used as a convenient shortcut, the legal profession should embrace markup language (like the original SGML, which was designed by lawyers) to maintain control over jurist prudence. Versioning is an intentional snowballing process. A high-quality report typically requires around 13 versions to reach a satisfactory quality. This WeDo instance serves as Version 2, established under the mandate of serial refinement and metagit versioning."
+    }
+  },
+  "attribution": "Theramenes (20260113-200759@localhost)"
+}

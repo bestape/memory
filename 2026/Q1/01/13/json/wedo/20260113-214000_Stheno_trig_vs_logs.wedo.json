@@ -1,0 +1,37 @@
+{
+  "wedo_instance": {
+    "id": "HIST-MATH-01",
+    "description": "Forensic comparison of Trigonometric and Logarithmic computational aids.",
+    "status": "[x]",
+    "meta": {
+      "protocol": "WeDo-JSON",
+      "version": "1.1.0",
+      "philosophy": "Computational efficiency is the substrate upon which the Enlightenment was built."
+    },
+    "tasks": [
+      {
+        "id": "TRIG-01",
+        "description": "Analyze the geometric origins of Chord and Sine tables.",
+        "status": "[x]"
+      },
+      {
+        "id": "LOG-01",
+        "description": "Trace the algorithmic pivot from Napier to Briggs.",
+        "status": "[x]"
+      },
+      {
+        "id": "SYNC-01",
+        "description": "Compare the integration of Log-Sines in celestial navigation.",
+        "status": "[x]"
+      }
+    ],
+    "content": {
+      "analysis": {
+        "trig_tables": "Originating in the 2nd century BC with Hipparchus, these tables mapped spatial relationships (chords and sines) to solve astronomical measurements. They represent the 'Geometry of the Sphere.'",
+        "log_tables": "Emerging in 1614 with John Napier, logs were an algorithmic intervention designed to reduce multiplication and division (O(n^2) effort) to addition and subtraction (O(n) effort).",
+        "the_convergence": "The 17th-century 'Log-Sine' tables integrated both, allowing mariners to solve spherical triangles using simple arithmetic, effectively 'flattening' the computational difficulty of navigation."
+      }
+    }
+  },
+  "attribution": "Stheno (20260113-214000@localhost)"
+}

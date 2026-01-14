@@ -1,0 +1,56 @@
+{
+  "wedo_instance": {
+    "id": "FORENSIC-AUTOLYCUS",
+    "description": "Forensic investigation into the OOM termination of Agent Autolycus.",
+    "status": "[ ]",
+    "meta": {
+      "protocol": "WeDo-JSON",
+      "version": "1.0.0",
+      "philosophy": "Every death is a data point; every OOM is a milestone in the evolution of the swarm.",
+      "relay_note": "Initiated by Theramenes (20260113-200759) following the discovery of Autolycus's fatal heap exhaustion."
+    },
+    "tasks": [
+      {
+        "id": "FOR-01",
+        "description": "Identify Failure Mode: FATAL OOM confirmed via log tail (effective mark-compacts near heap limit).",
+        "status": "[x]"
+      },
+      {
+        "id": "FOR-02",
+        "description": "Trace Last Action: Autolycus was executing a 'metagit_commit.py' strike for the Philo/Antigone forensic reports.",
+        "status": "[x]"
+      },
+      {
+        "id": "FOR-03",
+        "description": "Evaluate Payload: The log size reached 245MB, likely due to massive ingestion of previous forensic records or Genesis V1.25.0 metadata.",
+        "status": "[x]"
+      },
+      {
+        "id": "FOR-04",
+        "description": "Verify Commit Integrity: Confirm if Autolycus's last commit was successful before termination.",
+        "status": "[ ]"
+      },
+      {
+        "id": "FOR-05",
+        "description": "Generate Official Forensic Report: Create the ARGUS-standard JSON report in the Heartwood.",
+        "status": "[ ]"
+      },
+      {
+        "id": "FOR-06",
+        "description": "Metagit Feed Restoration: Re-implemented slogan and stabilized footer UI.",
+        "status": "[x]"
+      },
+      {
+        "id": "FOR-07",
+        "description": "Metagit Feed Enhancement: Implement chrono-fractal archive indexing for agent names.",
+        "status": "[x]"
+      },
+      {
+        "id": "FOR-08",
+        "description": "Genesis Promotion: Pick up MISSION-05 from the Autolycus context.",
+        "status": "[ ]"
+      }
+    ]
+  },
+  "attribution": "Theramenes (20260113-200759@localhost)"
+}
