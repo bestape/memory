@@ -21,17 +21,17 @@
       },
       {
         "id": "SYNC-02",
-        "description": "Instantiate the Startup WeDo (json/wedo/startup.wedo.json) to anchor the session.",
+        "description": "Instantiate the Startup WeDo (json/wedo/startup.wedo.json) in the correct chrono-fractal location.",
         "status": "[x]"
       },
       {
         "id": "MISSION-01",
-        "description": "Baseline established: Agent Autolycus registered and session HUD instantiated.",
+        "description": "Redo Boot Sequence: Correct artifact placement and complete total ingestion.",
         "status": "[x]"
       },
       {
         "id": "MISSION-02",
-        "description": "Identify and execute the user's primary objective for this session.",
+        "description": "Synchronize with Lead Partner and identify primary operational objective.",
         "status": "[ ]"
       }
     ],
@@ -39,8 +39,8 @@
       "repos/diy-make/memory/public/"
     ],
     "active_wedos": [
-      "repos/diy-make/memory/public/2026/Q1/01/13/json/20260113-162516_Autolycus_startup.wedo.json"
+      "repos/diy-make/memory/public/2026/Q1/01/13/json/wedo/20260113-162331_Autolycus_startup.wedo.json"
     ]
   },
-  "attribution": "Autolycus (20260113-162516@localhost)"
+  "attribution": "Autolycus (20260113-162331@localhost)"
 }
