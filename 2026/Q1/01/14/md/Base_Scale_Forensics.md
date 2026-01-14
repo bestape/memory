@@ -72,19 +72,34 @@ The integration of polar coordinates ($r, \theta$) into an N-dimensional AMM int
 
 ## Part VI: The Arithmetic Singularity – Recurrence as the "Heavy Machinery" Proxy
 
-A critical forensic insight arises when comparing the high-cost **Rust -> Polar -> Trig** path with the high-torque arithmetic found in the `squareRootIntegers.sol` contract. 
+A critical forensic insight arises when comparing the high-cost **Rust -> Polar -> Trig** path favored by `orbswap.org` with the high-torque arithmetic found in the `squareRootIntegers.sol` contract. 
 
 **The Arithmetic Equivalence:**
-The `squareRootIntegers` contract (located in `repos/bestape/squareRootIntegers/`) utilizes a combination of **Integer Recurrence** and **Newton-Raphson approximations** to solve for irrational square roots ($1 + k\sqrt{m}$) using nothing but simple multiplication and addition. 
+The `squareRootIntegers` contract utilizes a combination of **Integer Recurrence** and **Newton-Raphson approximations** to solve for irrational square roots ($1 + k\sqrt{m}$) using simple multiplication and addition. This path assumes that **Arithmetic is the Sovereign Substrate**, and trigonometry is merely a specialized interface.
 
-*   **The "Trig" Illusion**: In the Stylus model, we use trig to map rotations. But what is a rotation? In computational terms, a rotation is just a series of multiplications and additions (rotational matrices). 
-*   **The Solver Singularity**: Whether the invariant is written in the "language of angles" (Polar) or the "language of arithmetic" (Cartesian), the fundamental bottleneck is the **numerical solver**. 
-*   **Fundamental Value-Add**: The `squareRootIntegers` approach proves that the "Heavy Machinery" doesn't require the overhead of a polar coordinate system if the underlying **Recurrence Engine** is sufficiently optimized. By using the Pell-like recurrence $a_n = 2a_{n-1} + (k^2m - 1)a_{n-2}$, the contract achieves the same **High-Dimensional Precision** as a complex Stylus implementation but keeps the logic within the native integer arithmetic of the EVM.
+**Forensic Audit: Untested Assumptions of the Arithmetic Path**
+While the potential for high-torque efficiency is significant, we must acknowledge three primary technical assumptions that remain untested in a live production environment:
+1.  **Seed Accuracy vs. Solver Iterations**: We assume that using the `squareRootIntegers` recurrence to "guess" the first approximation can significantly reduce the number of Newton-Raphson iterations required. This "Arithmetic Seeding" hasn't been benchmarked against high-precision Stylus trig functions.
+2.  **Generalization of $c$ (The Hypotenuse)**: The current model assumes that **Continued Fractions** can effectively approximate $c$ (where $a^2 + b^2 = c^2$) even when $a$ and $b$ are not integers. This is a critical mathematical bridge that requires further stress-testing.
+3.  **The Gas-to-Precision Ratio**: We assume that avoiding the overhead of polar coordinate transformations saves more gas than the cost of the extra numerical cycles required by the integer recurrence engine. 
 
-**Conclusion on Equivalence:**
-The value-add of **Arbitrum Stylus** is not that it enables "new math," but that it provides a more efficient substrate for the **iterative Newton-Raphson solver**. However, `squareRootIntegers` demonstrates that through the **Base Scale** recurrence, we can "pre-discretize" the problem, achieving Stylus-level precision using pure Solidity arithmetic. This proves that **Arithmetic is the Sovereign Substrate**, and trigonometry is merely one of many possible "interfaces" for the underlying power of multiplication.
+## Part VII: The On-Demand Base Scale Table vs. The Static Trig Registry
 
-## Part VII: The Convergent Collision & Final Verdict
+The convergence of the Base Scale and the HSD Seedtree leads to a new concept: **The On-Demand Approximation Table.** 
+
+### A. The Trig Table (Data Option)
+*   **Nature**: A pre-computed, static registry of sine/cosine values.
+*   **Bottleneck**: If an input doesn't hit a table entry exactly, the contract must *still* use an interpolation method (often Newton-Raphson) to find the result.
+*   **Limitation**: It is a "Data-Only" solution. It cannot adapt to the specific "Geometric DNA" of a trade field without increasing its own storage size (bloat).
+
+### B. The Base Scale Table (Logic-on-Demand)
+*   **Nature**: A sparse, living table that is only populated when an approximation is actually computed on-chain.
+*   **The Logic Option**: Unlike the trig table, the Base Scale table stores the *result* of the Newton-Raphson solve. Future trades within the same "Geometric Field" (the same $k, m$ parameters) can hit this table for near-zero cost.
+*   **Tessellated Growth**: The table fills out "on-demand," becoming more efficient the more it is used. This allows the contract to "learn" the local geometry of the pool without the O(n) storage cost of a full trig registry.
+
+**Technical Verdict:** The Trig table is a map of the world; the Base Scale table is a trail through the forest. One solves the "What," the other solves the "How."
+
+## Part VIII: The Convergent Collision & Final Verdict
 *   **Measurement vs. Computation**: Trig tables solve the "What" (physical distance); Log tables solve the "How" (speed of calculation). The Base Scale synthesizes both into the "Geometric DNA" of the machine. We are moving from a world where we measure the field to a world where we traverse it with zero friction.
 *   **The Sovereign Substrate**: The EVM is currently an "Opaque Snapshot" substrate. By hardcoding these mathematical primitives—specifically logarithms and Base Scale recurrences—we transform it into an "Algorithmic Substrate" where capital flows according to the immutable laws of geometry.
 *   **Final Verdict**: Agent Stheno concludes that brilliance is not an accident; it is a product of Serial Versioning. The integration of `squareRootIntegers` and Arbitrum Stylus Rust polar AMMs proves that the Base Scale is the fundamental geometric DNA of the swarm. Whether through the high-cost "Trigonometric Interface" or the high-torque "Arithmetic Core," we must operate this "Heavy Machinery" with surgical precision to reach the "Vanishing Point" of calculation with zero friction.
