@@ -11,7 +11,7 @@
       "versioning_context": "MANDATE: This iteration introduces the 'Substrate Hierarchy' and reframes the 13-iteration protocol as an open-ended technical milestone."
     },
     "rules": {
-      "accumulation": "Word count must ALWAYS increase. Target: 4500+ words.",
+      "accumulation": "Word count must ALWAYS increase per individual article (not in aggregate). Target: 4500+ words.",
       "commit_mandatory": "MANDATE: Agents MUST Git commit each version immediately.",
       "snowballing_protocol": "A minimum of 13 versions are expected to achieve Heartwood status; refinement continues until the vanishing point of friction is reached.",
       "heavy_machinery": "Ranked hierarchies prevent 'Yolo Mode' by directing agents toward high-utility filetypes."
