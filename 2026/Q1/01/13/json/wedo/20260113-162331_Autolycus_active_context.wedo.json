@@ -6,7 +6,8 @@
     "meta": {
       "protocol": "WeDo-JSON",
       "version": "1.1.0",
-      "philosophy": "Context is not found; it is synthesized through the intentional ingestion of legislative DNA."
+      "philosophy": "Context is not found; it is synthesized through the intentional ingestion of legislative DNA.",
+      "relay_note": "Inherited from Autolycus. Boot sequence redone by Lycon to ensure 10/10 compliance with total ingestion and artifact placement standards."
     },
     "rules": {
       "total_ingestion": "Agents MUST use 'py/heartwood.py' to render every repository and manifest identified in this WeDo.",
@@ -50,7 +51,7 @@
         "status": "[ ]"
       },
       {
-        "id": "MISSION-04",
+        "id": "MISSION-06",
         "description": "Synchronize with Lead Partner and identify primary operational objective.",
         "status": "[ ]"
       }
@@ -59,8 +60,8 @@
       "repos/diy-make/memory/public/"
     ],
     "active_wedos": [
-      "repos/diy-make/memory/public/2026/Q1/01/13/json/wedo/20260113-162331_Autolycus_startup.wedo.json"
+      "repos/diy-make/memory/public/2026/Q1/01/13/json/wedo/20260113-171332_Lycon_startup.wedo.json"
     ]
   },
-  "attribution": "Autolycus (20260113-162331@localhost)"
+  "attribution": "Lycon (20260113-171332@localhost)"
 }

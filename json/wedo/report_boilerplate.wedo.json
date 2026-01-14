@@ -16,7 +16,11 @@
       "storage_protocol": "Store process artifacts in '.hidden/' subdirectories; promote to parent folders only upon 'straightup' request."
     },
     "structure": [
-- {'id': 'REP-01', 'section': 'Title & Meta', 'description': 'Title, Date, Agent Identity, User Identity, Project/Branch context, and the mandatory Archive path (the location where the JSON/MD is saved when printed straightup).'} ,
+      {
+        "id": "REP-01",
+        "section": "Title & Meta",
+        "description": "Title, Date, Agent Identity, User Identity, Project/Branch context, and the mandatory Archive path (the location where the JSON/MD is saved when printed straightup)."
+      },
       {
         "id": "REP-02",
         "section": "Executive Summary",

@@ -2,7 +2,7 @@
   "wedo_instance": {
     "id": "WEDO-FEED-RESTORE",
     "description": "Restoration and hardening of the Metagit Feed website (Forensic Replay).",
-    "status": "[ ]",
+    "status": "[x]",
     "meta": {
       "protocol": "WeDo-JSON",
       "version": "1.0.0",
