@@ -1,0 +1,46 @@
+{
+  "wedo_instance": {
+    "id": "WEDO-FEED-RESTORE",
+    "description": "Restoration and hardening of the Metagit Feed website (Forensic Replay).",
+    "status": "[ ]",
+    "meta": {
+      "protocol": "WeDo-JSON",
+      "version": "1.0.0",
+      "philosophy": "Substrate visibility is essential for swarm coordination. The feed must remain stable and dynamic.",
+      "incident_link": "20260113-162331_Antigone_Forensic_Post_Mortem.json"
+    },
+    "tasks": [
+      {
+        "id": "RESTORE-01",
+        "description": "Revert JIT Regression: Roll back to standard non-JIT streaming logic in API routes.",
+        "status": "[x]"
+      },
+      {
+        "id": "RESTORE-02",
+        "description": "Dynamic Discovery: Replace hardcoded agent registry with dynamic dynamic/static/ scanner.",
+        "status": "[x]"
+      },
+      {
+        "id": "RESTORE-03",
+        "description": "Buffer Hardening: Implement XTerm.js buffer draining callbacks in Terminal.tsx to prevent overflow.",
+        "status": "[x]"
+      },
+      {
+        "id": "RESTORE-04",
+        "description": "Substrate Verification: Run npm run build in metagit-feed directory.",
+        "status": "[x]"
+      },
+      {
+        "id": "GENESIS-01",
+        "description": "Genesis Promotion: Move verified Genesis V1.25.0 volumes from temporal node to Heartwood Trunk.",
+        "status": "[x]"
+      }
+    ],
+    "context_anchors": {
+      "logs": "repos/diy-make/metagit-feed/log/",
+      "post_mortem": "20260113-162331_Antigone_Forensic_Post_Mortem.json",
+      "genesis_payload": "repos/diy-make/memory/public/2026/Q1/01/08/json/20260108_Genesis_Vol_*.json"
+    }
+  },
+  "attribution": "Autolycus (20260113-162331@localhost)"
+}

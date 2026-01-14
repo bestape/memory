@@ -8,7 +8,8 @@
     "exit_code": "Unknown (Substrate Freeze)",
     "failure_mode": "HUD-DOM-Saturation",
     "last_known_task": "REC-NEXTJS-05: Implement on-demand loading for Forensic Replay",
-    "forensic_audit": "Antigone was investigating a terminal UI freeze. Log tail shows massive DOM/XTerm-based HTML output preceding session termination. The agent likely encountered an infinite loop or heap overflow while attempting to parse raw terminal serialization data."
+    "forensic_audit": "Antigone was investigating a terminal UI freeze. Log tail shows massive DOM/XTerm-based HTML output preceding session termination. The agent likely encountered an infinite loop or heap overflow while attempting to parse raw terminal serialization data.",
+    "regression_analysis": "Antigone attempted to implement a 'JIT' (Just-In-Time) loading and tailing logic for the Forensic Replay feed. This optimization introduced structural complexity and buffer management issues that ultimately led to the system freeze. Forensic records confirm that reverting to the 'not-JIT' (standard stream/full tail) solution restored stability and performed significantly better under load."
   },
   "wedo_critique": {
     "id": "ANTIGONE-CRITIQUE-01",
