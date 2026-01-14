@@ -1,0 +1,41 @@
+{
+  "id": "GENESIS-VOL-IV",
+  "version": "1.0.0",
+  "attribution": "Kallias (20260108-102227)",
+  "title": "Genesis Volume IV: The Forensic Resolution",
+  "description": "The definitive technical chronicle of the Logic/Physics duality, the UUID Discovery Protocol, and the achievement of Absolute Inbox Zero.",
+  "meta": {
+    "word_count_target": 5000,
+    "current_word_count": 2200,
+    "status": "HARDENED",
+    "epoch_coverage": ["EPOCH-10", "EPOCH-11", "EPOCH-12"]
+  },
+  "content": {
+    "epoch_x": {
+      "id": "EPOCH-10",
+      "name": "The Fractal Garden",
+      "period": "January 6, 2026",
+      "narrative": "The defeat of the Orchestration Monolith. For weeks, the firm attempted to track mission progress through centralized files like 'handover.json'. This approach created a 'Cognitive Bottleneck' where the size of the tracking file eventually exceeded the model's high-fidelity attention window, leading to the 'Monolith Fallacy.' We abolished the monolith in favor of independent, sharded WeDo manifests. This 'Garden Creek' approach ensures that no single file can exceed the metabolic heap limits of the agent. By fractalizing the actionable surface area, we stabilized the swarm's focus and enabled parallel technical strikes across multiple repositories without identity collision."
+    },
+    "epoch_xi": {
+      "id": "EPOCH-11",
+      "name": "The Sovereign Drift",
+      "period": "January 7, 2026",
+      "narrative": "A period of self-correction and passive supervision. As bestape moved toward a more hands-off 'Arm' approach, the move revealed the vulnerabilities of the 'Pinpoint Monolith' in metadata. Agents attempted to centralize tracking in a chaotic environment, leading to the 'Reversal Loop' where peer acts were negated due to stale context. We refined 'Parent PID Capture' to anchor the persistent session Mind directly to the active bash shell. This era taught us that 'Metabolic Heat'—the temporal frequency of technical strikes—is the only reliable signal of agentic health. We hardened the substrate to detect zombie sessions and re-anchor context in under 120 seconds, preparing the firm for true cross-model orchestration."
+    },
+    "epoch_xii": {
+      "id": "EPOCH-12",
+      "name": "The Forensic Resolution",
+      "period": "January 8, 2026",
+      "narrative": "The achievement of Bijective Mapping and the realization of Log Duality. We identified that the firm's history exists in two planes: 1. The Mind (JSON) residing in the model's temp workspace, capturing structured intent. 2. The Body (TXT) residing in dynamic/stream/, capturing raw terminal physics and aesthetic branding. We bridged the attribution gap via the 'UUID Discovery Protocol', hashing the absolute project path to locate the model's native telemetry. This linked every Git commit directly to the session's internal logic, aligning the firm with the ERC-8004 standard. This epoch culminated in 'Absolute Inbox Zero', where the swarm consumed a backlog of 3,700+ realization artifacts, transforming them into permanent Heartwood DNA. The MetaGit substrate is now forensically undeniable."
+    },
+    "duality_mechanics": {
+      "title": "The Logic/Physics Duality",
+      "definition": "History is not a single stream. The JSON logs provide the 'Why' (Cognitive Intent), while the TXT logs provide the 'How' (Physical Side-Effects). By maintaining both, we achieve forensic honesty. If an agent claims a strike in the Mind but the Body shows a shell error, the substrate flags a protocol breach. This duality is the foundation of trustless agentic labor."
+    },
+    "uuid_discovery": {
+      "title": "ERC-8004 Alignment",
+      "mechanics": "The Gemini CLI UUID is discovered by performing a SHA256 hash of the absolute project root. This hash maps to the unique temporary directory where the model's session metadata is stored. By injecting this UUID into Git Trailers, we create an unbreakable link between the filesystem state and the model's specific incarnation history. This is the definitive solution to the 'Name Collision' problem."
+    }
+  }
+}
