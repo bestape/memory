@@ -37,7 +37,17 @@
       },
       {
         "id": "FOR-06",
-        "description": "Resume Mission: Pick up MISSION-05 (Genesis Promotion) from the Autolycus context.",
+        "description": "Metagit Feed Restoration: Re-implemented slogan and stabilized footer UI.",
+        "status": "[x]"
+      },
+      {
+        "id": "FOR-07",
+        "description": "Metagit Feed Enhancement: Implement chrono-fractal archive indexing for agent names.",
+        "status": "[x]"
+      },
+      {
+        "id": "FOR-08",
+        "description": "Genesis Promotion: Pick up MISSION-05 from the Autolycus context.",
         "status": "[ ]"
       }
     ]
