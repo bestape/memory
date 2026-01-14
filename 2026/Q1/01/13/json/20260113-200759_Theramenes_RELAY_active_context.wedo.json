@@ -37,7 +37,7 @@
       {
         "id": "MISSION-05",
         "description": "Genesis Promotion: Promote verified volumes to Heartwood Trunk.",
-        "status": "[ ]"
+        "status": "[x]"
       }
     ],
     "memory_repositories": [
