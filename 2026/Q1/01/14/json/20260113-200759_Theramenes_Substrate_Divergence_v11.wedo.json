@@ -6,13 +6,14 @@
     "meta": {
       "protocol": "wedo-json",
       "version": "1.11.0",
-      "iteration": "11 of 13",
-      "philosophy": "Legibility is the foundation of agentic control. We rank substrates by their ability to maintain tree-structured intent.",
-      "versioning_context": "MANDATE: This iteration introduces the 'Substrate Hierarchy' to clarify which filetypes support surgical targeting and which cause token hemorrhaging."
+      "iteration": "11 (Baseline 13 expected)",
+      "philosophy": "Legibility is the foundation of agentic control. We rank substrates by their ability to maintain tree-structured intent. 13 iterations is the baseline for quality, not the limit of refinement.",
+      "versioning_context": "MANDATE: This iteration introduces the 'Substrate Hierarchy' and reframes the 13-iteration protocol as an open-ended technical milestone."
     },
     "rules": {
       "accumulation": "Word count must ALWAYS increase. Target: 4500+ words.",
       "commit_mandatory": "MANDATE: Agents MUST Git commit each version immediately.",
+      "snowballing_protocol": "A minimum of 13 versions are expected to achieve Heartwood status; refinement continues until the vanishing point of friction is reached.",
       "heavy_machinery": "Ranked hierarchies prevent 'Yolo Mode' by directing agents toward high-utility filetypes."
     },
     "tasks": [

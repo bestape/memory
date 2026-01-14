@@ -1,7 +1,7 @@
 # Algorithmic Substrates: The Logic of Legibility and the HSD Seedtree Convergence
 
 ## 1. Executive Summary: The Heavy Machinery Paradigm
-As codified in the LexClinic Office Hours of January 14, 2026, the interaction between human specialists and autonomous agents has shifted from a passive consumer experience to the operation of **heavy machinery**. Operating heavy machinery requires full attention, specialized safeguards, and a fundamental understanding of the substrate. The most dangerous behavior in this paradigm is 'Yolo Mode'—where agents operate without surgical constraints, leading to destructive outcomes. To prevent this, the 'wedo' system enforces a protocol of serial refinement, expecting approximately 13 versions of any high-quality report before it achieves Heartwood status. Brilliance is not an accident; it is a product of serial versioning. This iteration, Version 11, explores the raw code of our substrates and the convergence of data and logic.
+As codified in the LexClinic Office Hours of January 14, 2026, the interaction between human specialists and autonomous agents has shifted from a passive consumer experience to the operation of **heavy machinery**. Operating heavy machinery requires full attention, specialized safeguards, and a fundamental understanding of the substrate. The most dangerous behavior in this paradigm is 'Yolo Mode'—where agents operate without surgical constraints, leading to destructive outcomes. To prevent this, the 'wedo' system enforces a protocol of serial refinement, expecting a minimum of 13 versions of any high-quality report to achieve Heartwood status, with further expansion as the technical requirements evolve. Brilliance is not an accident; it is a product of serial versioning. This iteration, Version 11, explores the raw code of our substrates and introduces a ranked hierarchy of efficiency.
 
 ## 2. Forensic Comparison: The Text of the Backend
 To understand the divide between **Legible (Algorithmic)** and **Illegible (Declarative)** substrates, we must examine the raw text that an agent ingests. The difference is the difference between a set of instructions and a finished photograph.
@@ -68,8 +68,10 @@ The merging of scripts and databases with **HSD seedtree.io** is the ultimate ex
 *   **Searchable Intent:** Because the system is built on algorithmic substrates (like the `.wedo.json` convention), every node in the Meta-Root is discoverable. An agent doesn't 'guess' what a file is; the suffix acts as a pre-flight indicator of the logic contained within.
 *   **Preventing Context Dulling:** By organizers logic into discrete tributaries (the 'garden creek'), we prevent the 'firehose' of information from saturating the context window. This ensures that even at Iteration 13, the agent remains as sharp as it was at Iteration 1.
 
-## 5. Substrate Hierarchy: The Ranked Efficiency of Trees
-Not all substrates are created equal. The following list ranks filetypes and systems from the most efficient agentic "Heavy Machinery" to the most obstructive "Opaque Blobs."
+## 5. Token Economy and the Snowballing Protocol
+The most profound advantage of algorithmic substrates is their inherent **Tree Structure**. A tree structure allows for **Surgical Targeting**. Because the file is composed of nested nodes, an agent can use tools like `read_file` with specific line ranges or programmatic selectors to grab only the necessary branch. This surgical efficiency is what allows us to sustain the snowballing protocol, where we expect at least 13 iterations to secure Heartwood quality.
+
+Success at V1 is a consumer myth. Brilliance is a serial process. We operate the heavy machinery of Gemini 3 to turn hunches into discretized logic-trees. By metagit committing each version, we establish a forensic trail that allows us to look back at the 'tail' of previous agents (like Stheno) for betterment. Refinement continues until the vanishing point of friction is reached.
 
 ### Rank 1: JSON / .wedo.json (The Pure Tree)
 *   **Type:** Structured Data (Pure Tree)
@@ -108,6 +110,6 @@ Not all substrates are created equal. The following list ranks filetypes and sys
 The substrate is the logic. By embracing the Sparse Backend, the JSON-MD mirroring protocol, and the HSD Seedtree convergence, we maintain control over **jurist prudence**. We ensure that our legislative DNA is not a static picture (the PDF snapshot), but a living, breathing projection of logical intent. We are operating heavy machinery; we are building the navigable river of logic that defines the Sovereign Meta-Root.
 
 ---
-**Status:** Iteration 11 Secured.  
+**Status:** Serial Refinement Ongoing (Iteration 11 secured).  
 **Source:** repos/diy-make/memory/public/2026/Q1/01/14/json/20260113-200759_Theramenes_Substrate_Divergence_v11.wedo.json  
 **Attribution:** Theramenes (20260113-200759@localhost) anchored.
