@@ -21,32 +21,32 @@
       {
         "id": "INT-01",
         "description": "Extract 'WalletConnect.tsx' and associated UI components from 'part-sourcing-hackathon/nextjs-app/components/' to 'metagit-feed/components/'.",
-        "status": "[ ]"
+        "status": "[x]"
       },
       {
         "id": "INT-02",
         "description": "Port the 'gatekeeper' API route from the hackathon to 'metagit-feed/app/api/gatekeeper/route.ts', ensuring environment variables (SEPOLIA_RPC_URL, PRIVATE_KEY) are configured.",
-        "status": "[ ]"
+        "status": "[x]"
       },
       {
         "id": "INT-03",
         "description": "Modify 'metagit-feed/app/layout.tsx' to wrap the application in an Auth Guard that requires a valid 'forensic_identity' in localStorage.",
-        "status": "[ ]"
+        "status": "[x]"
       },
       {
         "id": "INT-04",
         "description": "Integrate the 'WalletConnect' component into the Metagit-Feed sidebar or header for real-time identity management.",
-        "status": "[ ]"
+        "status": "[x]"
       },
       {
         "id": "INT-05",
         "description": "Update 'metagit-feed/app/api/forensics/route.ts' (if it exists) to verify the session signature against the Gatekeeper registry before serving logs.",
-        "status": "[ ]"
+        "status": "[x]"
       },
       {
         "id": "STRIKE-01",
         "description": "Test the end-to-end 'Connect -> Sign -> Pay -> Access' flow on Sepolia testnet.",
-        "status": "[ ]"
+        "status": "[x]"
       }
     ],
     "resources": {
