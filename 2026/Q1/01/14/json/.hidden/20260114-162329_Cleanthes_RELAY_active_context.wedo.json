@@ -43,6 +43,11 @@
         "id": "MISSION-06",
         "description": "Wallet Integration: Bridge Part-Sourcing-Hackathon Auth to Metagit-Feed access control.",
         "status": "[ ]"
+      },
+      {
+        "id": "MISSION-07",
+        "description": "Base Scale Forensics: Continue Stheno's snowballing protocol (Iteration 09/13).",
+        "status": "[ ]"
       }
     ],
     "memory_repositories": [

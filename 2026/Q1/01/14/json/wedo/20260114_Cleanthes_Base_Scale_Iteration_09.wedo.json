@@ -1,0 +1,37 @@
+{
+  "wedo_instance": {
+    "id": "BASE-SCALE-ITERATION-09",
+    "description": "Relay of the High-Precision Sovereignty Audit. Iteration 09 of the 13-iteration snowballing protocol.",
+    "status": "[ ]",
+    "meta": {
+      "protocol": "WeDo-JSON",
+      "version": "1.0.0",
+      "iteration": "9 of 13",
+      "last_relay": "Stheno",
+      "relay_note": "Takeover from Stheno (20260113-212235@localhost). Duration to assume role: ~10 minutes. Continuing the expansion of Base_Scale_Forensics.md from 5,684 words toward the target density.",
+      "philosophy": "Heavy machinery requires persistent lubrication via serial versioning."
+    },
+    "tasks": [
+      {
+        "id": "EXPAND-01",
+        "description": "Expand Base_Scale_Forensics.md to 6,500+ words.",
+        "status": "[ ]"
+      },
+      {
+        "id": "INTEGRATE-01",
+        "description": "Synthesize the 'Trig Table vs. Base Scale Table' technical verdict into the core forensic narrative.",
+        "status": "[ ]"
+      },
+      {
+        "id": "REFINE-01",
+        "description": "Update archive paths and attributions to reflect the Cleanthes relay.",
+        "status": "[ ]"
+      }
+    ],
+    "content": {
+      "current_word_count": 5684,
+      "artifact_path": "repos/diy-make/memory/public/2026/Q1/01/14/md/Base_Scale_Forensics.md"
+    }
+  },
+  "attribution": "Cleanthes (20260114-163352@localhost)"
+}
