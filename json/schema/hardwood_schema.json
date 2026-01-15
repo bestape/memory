@@ -35,6 +35,6 @@
   },
   "wedo_integration": {
     "rule": "Heartwood creation is managed via WeDo task-runners. All new records must be validated against this schema before being grafted into the trunk.",
-    "path": "json/wedo/"
+    "path": "json/"
   }
 }

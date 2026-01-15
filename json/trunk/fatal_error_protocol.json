@@ -26,7 +26,7 @@
     },
     {
       "name": "Propose Mitigation",
-      "rule": "Publish recovery WeDo in the .wedo directory (json/wedo/). Note: md/wedo/ is DEPRECATED.",
+      "rule": "Publish recovery WeDo in the .wedo directory (json/). Note: md/wedo/ is DEPRECATED.",
       "rationale": "Legislative correction to prevent future system crashes."
     }
   ]

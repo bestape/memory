@@ -16,7 +16,7 @@
     "tasks": [
       {
         "id": "META-01",
-        "description": "Audit all json/wedo/ templates against the status_mandate.",
+        "description": "Audit all json/ templates against the status_mandate.",
         "status": "[ ]"
       },
       {

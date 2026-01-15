@@ -1,0 +1,59 @@
+{
+  "wedo_instance": {
+    "id": "ACTIVE-CONTEXT",
+    "description": "The master manifest for active memory modules and collaboration HUDs.",
+    "status": "[ ]",
+    "meta": {
+      "protocol": "WeDo-JSON",
+      "version": "1.1.0",
+      "philosophy": "Context is not found; it is synthesized through the intentional ingestion of legislative DNA."
+    },
+    "rules": {
+      "total_ingestion": "Agents MUST use 'py/heartwood.py' to render every repository and manifest identified in this WeDo.",
+      "chronological_primacy": "The active session's temporal directory is the only valid zone for task marking.",
+      "status_mandate": "Every task AND the root instance MUST include a 'status' field using the '[ ]', '[x]', or '[-]' syntax to mirror markdown checkboxes."
+    },
+    "tasks": [
+      {
+        "id": "SYNC-01",
+        "description": "Ingest the Heartwood Trunk (json/trunk/) to inherit the collective conscience.",
+        "status": "[x]"
+      },
+      {
+        "id": "SYNC-02",
+        "description": "Instantiate the Startup WeDo (json/wedo/startup.wedo.json) to anchor the session.",
+        "status": "[x]"
+      },
+      {
+        "id": "MISSION-AUTOLYCUS-01",
+        "description": "Forensic Post-Mortem: Investigated Autolycus OOM event and identified heap limit failure at 4.1GB.",
+        "status": "[x]"
+      },
+      {
+        "id": "MISSION-AUTOLYCUS-02",
+        "description": "Heartwood Recovery: Secure uncommitted Philo, Antigone, and Autolycus forensic reports.",
+        "status": "[x]"
+      },
+      {
+        "id": "MISSION-05",
+        "description": "Genesis Promotion: Promote verified volumes to Heartwood Trunk.",
+        "status": "[x]"
+      },
+      {
+        "id": "MISSION-06",
+        "description": "Synchronization with Lead Partner: Finalize the 'Search Report' relay from Bion.",
+        "status": "[x]"
+      }
+    ],
+    "memory_repositories": [
+      "repos/diy-make/memory/public/"
+    ],
+    "active_wedos": [
+      "repos/diy-make/memory/public/2026/Q1/01/11/json/20260111-094106_Nicomachus_startup.wedo.json",
+      "repos/diy-make/memory/public/2026/Q1/01/08/json/wedo/20260108-102227_Kallias_chatgpt_mcp_integration.wedo.json",
+      "repos/diy-make/memory/public/2026/Q1/01/08/json/wedo/20260108-102227_Kallias_bootup_anomaly_investigation.wedo.json",
+      "repos/diy-make/memory/public/2026/Q1/01/08/json/wedo/20260108-102227_Kallias_091927_post_mortem.wedo.json"
+    ]
+  },
+  "attribution": "Epictetus (20260115-130241@localhost)"
+}

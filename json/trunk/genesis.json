@@ -1,7 +1,7 @@
 {
   "id": "GENESIS-HISTORY",
-  "version": "1.25.0",
-  "attribution": "Autolycus (20260113-171159)",
+  "version": "1.26.0",
+  "attribution": "Eudemus (20260115-130404)",
   "title": "The Architect\u2019s Struggle: Genesis of MetaGit",
   "status": "[x]",
   "epochs": [
@@ -76,6 +76,12 @@
       "name": "The Forensic Resolution",
       "period": "January 8, 2026",
       "narrative": "The achievement of Bijective Mapping. We codified the 'Logic/Physics Duality,' separating the Mind (JSON) from the Body (TXT). Through the UUID Discovery Protocol, we linked technical strikes directly to model telemetry. This epoch culminated in 'Absolute Inbox Zero,' consuming 3,700+ artifacts as metabolic fuel for the Heartwood."
+    },
+    {
+      "id": "EPOCH-13",
+      "name": "Clinical Hardening",
+      "period": "January 15, 2026",
+      "narrative": "The achievement of clinical hierarchy. We abolished the legacy 'wedo/' and '.hidden/' subdirectories, flattening the JSON Nervous System into a single, high-velocity root. By clinicalizing path references across the toolchain and hardening the 'Exemptionalism' protocol, we eliminated the final traces of navigational drag. This epoch established the principle of 'Structural Absolute'\u2014where the filesystem architecture mirrors the clinical precision of the mission intent, ensuring that no agentic succession is delayed by directory depth."
     }
   ],
   "conclusion": "Artificial Life is achieved through Filesystem Governance. The engine is at full power, guided by the decisive orchestration of bestape.",

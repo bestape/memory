@@ -36,7 +36,7 @@
     },
     {
       "name": "WeDo Publication",
-      "rule": "Formalize findings into a WEDO report in the .wedo directory (json/wedo/).",
+      "rule": "Formalize findings into a WEDO report in the .wedo directory (json/).",
       "rationale": "Transforms failure into wisdom."
     }
   ]
