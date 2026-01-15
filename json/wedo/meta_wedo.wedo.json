@@ -7,7 +7,7 @@
         "protocol": "WeDo-JSON",
         "version": "1.2.0",
         "philosophy": "The WeDo is a todo we do together. Machine-readable status fields allow for synchronous alignment.",
-        "archive": "repos/diy-make/memory/public/{{year}}/{{quarter}}/{{month}}/{{day}}/json/wedo/{{timestamp}}_{{agent}}_{{name}}.wedo.json"
+        "archive": "repos/diy-make/memory/public/{{year}}/{{quarter}}/{{month}}/{{day}}/json/{{timestamp}}_{{agent}}_{{name}}.wedo.json"
       },    "rules": {
       "status_mandate": "Every task AND the root instance MUST include a 'status' field using the '[ ]', '[x]', or '[-]' syntax to mirror markdown checkboxes.",
       "evolution_mandate": "Bespoke chrono-fractal WeDos (spread surface area) can be 'upgraded' into common boilerplates in the root/ directory (sharpened surface area) when their process logic is validated as reusable across agent generations.",

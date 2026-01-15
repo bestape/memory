@@ -18,7 +18,7 @@
       "dual_referencing": "Reference both localhost paths and remotehost URLs.",
       "audit_trail_linking": "Daily session WeDos MUST link to specific project WeDos to maintain a forensic audit trail.",
       "commit_mandatory": "MANDATE: Agents MUST Git commit each version of a WeDo report immediately after creation/modification to ensure forensic versioning.",
-      "output_location": "All active task instances and WeDo reports MUST reside in the day's temporal json/wedo/ directory.",
+      "output_location": "All active task instances and WeDo reports MUST reside in the day's temporal json/ directory.",
       "finalization_protocol": "Agents MUST default to .json for all logic and reports. The transition to a curated .md version in the 'md/' layer occurs ONLY upon an explicit 'straightup' request from the user. Converting JSON to MD is a task performed only when the User mandates a human-centric reflection.",
       "versioning_archival": "When updating Markdown documents, always rename the previous version and move it to the local context/ directory (e.g., <AGENT>_<SESSION>_<NAME>_v<OLD>.md) before establishing the new version in the primary md/ location.",
       "relay_takeover_mandate": "MANDATE: When instantiating a WeDo from a relay (taking over an open WeDo from a dead agent), you MUST include a line in the new WeDo instance (e.g., in the 'meta' or 'rules' section) stating the ease of takeover and the duration required to assume the role.",

@@ -13,7 +13,7 @@
       "active_investigation": "Verify artifact existence on localhost before inclusion.",
       "relay_takeover_mandate": "MANDATE: When instantiating a WeDo from a relay (taking over an open WeDo from a dead agent), you MUST include a line in the new WeDo instance (e.g., in the 'meta' or 'rules' section) stating the ease of takeover and the duration required to assume the role.",
       "turn_by_turn_commit": "DON'T FORGET TO COMMIT: Adhere to the Turn-by-Turn Commit Mandate. Every significant set of technical strikes must be secured via 'metagit_commit.py' before concluding the turn.",
-      "storage_protocol": "Store process artifacts in '.hidden/' subdirectories; promote to parent folders only upon 'straightup' request."
+      "storage_protocol": "Store process artifacts directly in the temporal leaf folder; promote to Heartwood only upon 'straightup' request."
     },
     "structure": [
       {

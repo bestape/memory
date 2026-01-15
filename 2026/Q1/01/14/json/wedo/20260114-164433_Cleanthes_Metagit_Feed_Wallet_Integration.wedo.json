@@ -1,0 +1,60 @@
+{
+  "wedo_instance": {
+    "id": "METAGIT-FEED-WALLET-AUTH",
+    "version": "1.0.0",
+    "attribution": "Cleanthes (20260114-164433@localhost)",
+    "title": "Integration Plan: Wallet-Gated Access for Metagit-Feed",
+    "description": "Utilizing the PrecisionBOM WalletConnect and Gatekeeper API from the Part-Sourcing-Hackathon repository to provide secure, subscription-based access to the Metagit-Feed replay substrate.",
+    "status": "[ ]",
+    "meta": {
+      "protocol": "WeDo-JSON",
+      "philosophy": "Sovereignty is verified at the edge through cryptographic signatures and on-chain registries.",
+      "relay_note": "New mission instantiated by Cleanthes to bridge the Hackathon's authentication layer with the Feed's replay cortex.",
+      "archive_path": "repos/diy-make/memory/public/2026/Q1/01/14/json/wedo/20260114-164433_Cleanthes_Metagit_Feed_Wallet_Integration.wedo.json"
+    },
+    "rules": {
+      "total_ingestion": "MANDATE: Ingest the source WalletConnect.tsx and gatekeeper/route.ts before Turn 1 of implementation.",
+      "turn_by_turn_commit": "MANDATE: Commit each modular integration (Component, API, Layout) independently via 'metagit_commit.py'.",
+      "direct_aesthetic": "MANDATE: All implementation reports must be shared 'straightup' in the chat."
+    },
+    "tasks": [
+      {
+        "id": "INT-01",
+        "description": "Extract 'WalletConnect.tsx' and associated UI components from 'part-sourcing-hackathon/nextjs-app/components/' to 'metagit-feed/components/'.",
+        "status": "[ ]"
+      },
+      {
+        "id": "INT-02",
+        "description": "Port the 'gatekeeper' API route from the hackathon to 'metagit-feed/app/api/gatekeeper/route.ts', ensuring environment variables (SEPOLIA_RPC_URL, PRIVATE_KEY) are configured.",
+        "status": "[ ]"
+      },
+      {
+        "id": "INT-03",
+        "description": "Modify 'metagit-feed/app/layout.tsx' to wrap the application in an Auth Guard that requires a valid 'forensic_identity' in localStorage.",
+        "status": "[ ]"
+      },
+      {
+        "id": "INT-04",
+        "description": "Integrate the 'WalletConnect' component into the Metagit-Feed sidebar or header for real-time identity management.",
+        "status": "[ ]"
+      },
+      {
+        "id": "INT-05",
+        "description": "Update 'metagit-feed/app/api/forensics/route.ts' (if it exists) to verify the session signature against the Gatekeeper registry before serving logs.",
+        "status": "[ ]"
+      },
+      {
+        "id": "STRIKE-01",
+        "description": "Test the end-to-end 'Connect -> Sign -> Pay -> Access' flow on Sepolia testnet.",
+        "status": "[ ]"
+      }
+    ],
+    "resources": {
+      "source_auth_component": "repos/diy-make/part-sourcing-hackathon/nextjs-app/components/WalletConnect.tsx",
+      "source_gatekeeper_api": "repos/diy-make/part-sourcing-hackathon/nextjs-app/app/api/gatekeeper/route.ts",
+      "target_app": "repos/diy-make/metagit-feed/app/",
+      "contract_address": "0x6d9Deb320173e202fEEA60092cB29B64615fBb3e",
+      "vault_address": "0xd24fD54959A2303407505dC602e94BCdA5F4AcDD"
+    }
+  }
+}

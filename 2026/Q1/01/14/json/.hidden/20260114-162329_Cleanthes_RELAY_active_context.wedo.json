@@ -38,6 +38,11 @@
         "id": "MISSION-05",
         "description": "Genesis Promotion: Promote verified volumes to Heartwood Trunk.",
         "status": "[x]"
+      },
+      {
+        "id": "MISSION-06",
+        "description": "Wallet Integration: Bridge Part-Sourcing-Hackathon Auth to Metagit-Feed access control.",
+        "status": "[ ]"
       }
     ],
     "memory_repositories": [
