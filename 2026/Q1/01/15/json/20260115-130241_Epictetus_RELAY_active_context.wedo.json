@@ -2,7 +2,7 @@
   "wedo_instance": {
     "id": "ACTIVE-CONTEXT",
     "description": "The master manifest for active memory modules and collaboration HUDs.",
-    "status": "[ ]",
+    "status": "[x]",
     "meta": {
       "protocol": "WeDo-JSON",
       "version": "1.1.0",
