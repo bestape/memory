@@ -7306,3 +7306,837 @@
 │ Omniscience:** Automatic discovery and inheritance of open tasks from the last 48 hours of active history.\n    *      │
 │ **Legislative Immortality:** Technical strikes are secured in the Heartwood, surviving agent                           │
 ╭───────────
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊷  Shell git config --local user.email "20260115-155033@localhost" && .venv/bin/python py/metagit_commit.py "Proteus"… │
+│                                                                                                                        │
+│ --- Git Commit Service V1.1.2 ---                                                                                      │
+│ User Name:    Proteus                                                                                                  │
+│ User Email:   20260115-155033@localhost                                                                                │
+│ Gemini UUID:  b185e918-9795-48eb-8db1-4813ad6a31eb                                                                     │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊷  Shell git config --local user.email "20260115-155033@localhost" && .venv/bin/python py/metagit_commit.py "Proteus"… │
+│                                                                                                                        │
+│ --- Git Commit Service V1.1.2 ---                                                                                      │
+│ User Name:    Proteus                                                                                                  │
+│ User Email:   20260115-155033@localhost                                                                                │
+│ Gemini UUID:  b185e918-9795-48eb-8db1-4813ad6a31eb                                                                     │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊷  Shell git config --local user.email "20260115-155033@localhost" && .venv/bin/python py/metagit_commit.py "Proteus"… │
+│                                                                                                                        │
+│ --- Git Commit Service V1.1.2 ---                                                                                      │
+│ User Name:    Proteus                                                                                                  │
+│ User Email:   20260115-155033@localhost                                                                                │
+│ Gemini UUID:  b185e918-9795-48eb-8db1-4813ad6a31eb                                                                     │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊶  Shell git config --local user.email "20260115-155033@localhost" && .venv/bin/python py/metagit_commit.py "Proteus"… │
+│                                                                                                                        │
+│ --- Git Commit Service V1.1.2 ---                                                                                      │
+│ User Name:    Proteus                                                                                                  │
+│ User Email:   20260115-155033@localhost                                                                                │
+│ Gemini UUID:  b185e918-9795-48eb-8db1-4813ad6a31eb                                                                     │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊶  Shell git config --local user.email "20260115-155033@localhost" && .venv/bin/python py/metagit_commit.py "Proteus"… │
+│                                                                                                                        │
+│ --- Git Commit Service V1.1.2 ---                                                                                      │
+│ User Name:    Proteus                                                                                                  │
+│ User Email:   20260115-155033@localhost                                                                                │
+│ Gemini UUID:  b185e918-9795-48eb-8db1-4813ad6a31eb                                                                     │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊶  Shell git config --local user.email "20260115-155033@localhost" && .venv/bin/python py/metagit_commit.py "Proteus"… │
+│                                                                                                                        │
+│ --- Git Commit Service V1.1.2 ---                                                                                      │
+│ User Name:    Proteus                                                                                                  │
+│ User Email:   20260115-155033@localhost                                                                                │
+│ Gemini UUID:  b185e918-9795-48eb-8db1-4813ad6a31eb                                                                     │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊶  Shell git config --local user.email "20260115-155033@localhost" && .venv/bin/python py/metagit_commit.py "Proteus"… │
+│                                                                                                                        │
+│ --- Git Commit Service V1.1.2 ---                                                                                      │
+│ User Name:    Proteus                                                                                                  │
+│ User Email:   20260115-155033@localhost                                                                                │
+│ Gemini UUID:  b185e918-9795-48eb-8db1-4813ad6a31eb                                                                     │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊷  Shell git config --local user.email "20260115-155033@localhost" && .venv/bin/python py/metagit_commit.py "Proteus"… │
+│                                                                                                                        │
+│ --- Git Commit Service V1.1.2 ---                                                                                      │
+│ User Name:    Proteus                                                                                                  │
+│ User Email:   20260115-155033@localhost                                                                                │
+│ Gemini UUID:  b185e918-9795-48eb-8db1-4813ad6a31eb                                                                     │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊷  Shell git config --local user.email "20260115-155033@localhost" && .venv/bin/python py/metagit_commit.py "Proteus"… │
+│                                                                                                                        │
+│ --- Git Commit Service V1.1.2 ---                                                                                      │
+│ User Name:    Proteus                                                                                                  │
+│ User Email:   20260115-155033@localhost                                                                                │
+│ Gemini UUID:  b185e918-9795-48eb-8db1-4813ad6a31eb                                                                     │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊷  Shell git config --local user.email "20260115-155033@localhost" && .venv/bin/python py/metagit_commit.py "Proteus"… │
+│                                                                                                                        │
+│ --- Git Commit Service V1.1.2 ---                                                                                      │
+│ User Name:    Proteus                                                                                                  │
+│ User Email:   20260115-155033@localhost                                                                                │
+│ Gemini UUID:  b185e918-9795-48eb-8db1-4813ad6a31eb                                                                     │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊷  Shell git config --local user.email "20260115-155033@localhost" && .venv/bin/python py/metagit_commit.py "Proteus"… │
+│                                                                                                                        │
+│ --- Git Commit Service V1.1.2 ---                                                                                      │
+│ User Name:    Proteus                                                                                                  │
+│ User Email:   20260115-155033@localhost                                                                                │
+│ Gemini UUID:  b185e918-9795-48eb-8db1-4813ad6a31eb                                                                     │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊶  Shell git config --local user.email "20260115-155033@localhost" && .venv/bin/python py/metagit_commit.py "Proteus"… │
+│                                                                                                                        │
+│ --- Git Commit Service V1.1.2 ---                                                                                      │
+│ User Name:    Proteus                                                                                                  │
+│ User Email:   20260115-155033@localhost                                                                                │
+│ Gemini UUID:  b185e918-9795-48eb-8db1-4813ad6a31eb                                                                     │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊶  Shell git config --local user.email "20260115-155033@localhost" && .venv/bin/python py/metagit_commit.py "Proteus"… │
+│                                                                                                                        │
+│ User Email:   20260115-155033@localhost                                                                                │
+│ Gemini UUID:  b185e918-9795-48eb-8db1-4813ad6a31eb                                                                     │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+│ Git config is correct.                                                                                                 │
+│ Checking for large blobs...                                                                                            │
+│ Staging all modified and deleted tracked files...                                                                      │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊶  Shell git config --local user.email "20260115-155033@localhost" && .venv/bin/python py/metagit_commit.py "Proteus"… │
+│                                                                                                                        │
+│ User Email:   20260115-155033@localhost                                                                                │
+│ Gemini UUID:  b185e918-9795-48eb-8db1-4813ad6a31eb                                                                     │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+│ Git config is correct.                                                                                                 │
+│ Checking for large blobs...                                                                                            │
+│ Staging all modified and deleted tracked files...                                                                      │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊶  Shell git config --local user.email "20260115-155033@localhost" && .venv/bin/python py/metagit_commit.py "Proteus"… │
+│                                                                                                                        │
+│ User Email:   20260115-155033@localhost                                                                                │
+│ Gemini UUID:  b185e918-9795-48eb-8db1-4813ad6a31eb                                                                     │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+│ Git config is correct.                                                                                                 │
+│ Checking for large blobs...                                                                                            │
+│ Staging all modified and deleted tracked files...                                                                      │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊶  Shell git config --local user.email "20260115-155033@localhost" && .venv/bin/python py/metagit_commit.py "Proteus"… │
+│                                                                                                                        │
+│ User Email:   20260115-155033@localhost                                                                                │
+│ Gemini UUID:  b185e918-9795-48eb-8db1-4813ad6a31eb                                                                     │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+│ Git config is correct.                                                                                                 │
+│ Checking for large blobs...                                                                                            │
+│ Staging all modified and deleted tracked files...                                                                      │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊷  Shell git config --local user.email "20260115-155033@localhost" && .venv/bin/python py/metagit_commit.py "Proteus"… │
+│                                                                                                                        │
+│ User Email:   20260115-155033@localhost                                                                                │
+│ Gemini UUID:  b185e918-9795-48eb-8db1-4813ad6a31eb                                                                     │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+│ Git config is correct.                                                                                                 │
+│ Checking for large blobs...                                                                                            │
+│ Staging all modified and deleted tracked files...                                                                      │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊷  Shell git config --local user.email "20260115-155033@localhost" && .venv/bin/python py/metagit_commit.py "Proteus"… │
+│                                                                                                                        │
+│ User Email:   20260115-155033@localhost                                                                                │
+│ Gemini UUID:  b185e918-9795-48eb-8db1-4813ad6a31eb                                                                     │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+│ Git config is correct.                                                                                                 │
+│ Checking for large blobs...                                                                                            │
+│ Staging all modified and deleted tracked files...                                                                      │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊷  Shell git config --local user.email "20260115-155033@localhost" && .venv/bin/python py/metagit_commit.py "Proteus"… │
+│                                                                                                                        │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+│ Git config is correct.                                                                                                 │
+│ Checking for large blobs...                                                                                            │
+│ Staging all modified and deleted tracked files...                                                                      │
+│ Staged modified and deleted tracked files.                                                                             │
+│ ⚠ Unseal-Strike: Cracking the legislative seal as authorized.                                                          │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊷  Shell git config --local user.email "20260115-155033@localhost" && .venv/bin/python py/metagit_commit.py "Proteus"… │
+│                                                                                                                        │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+│ Git config is correct.                                                                                                 │
+│ Checking for large blobs...                                                                                            │
+│ Staging all modified and deleted tracked files...                                                                      │
+│ Staged modified and deleted tracked files.                                                                             │
+│ ⚠ Unseal-Strike: Cracking the legislative seal as authorized.                                                          │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊷  Shell git config --local user.email "20260115-155033@localhost" && .venv/bin/python py/metagit_commit.py "Proteus"… │
+│                                                                                                                        │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+│ Git config is correct.                                                                                                 │
+│ Checking for large blobs...                                                                                            │
+│ Staging all modified and deleted tracked files...                                                                      │
+│ Staged modified and deleted tracked files.                                                                             │
+│ ⚠ Unseal-Strike: Cracking the legislative seal as authorized.                                                          │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊶  Shell git config --local user.email "20260115-155033@localhost" && .venv/bin/python py/metagit_commit.py "Proteus"… │
+│                                                                                                                        │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+│ Git config is correct.                                                                                                 │
+│ Checking for large blobs...                                                                                            │
+│ Staging all modified and deleted tracked files...                                                                      │
+│ Staged modified and deleted tracked files.                                                                             │
+│ ⚠ Unseal-Strike: Cracking the legislative seal as authorized.                                                          │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊶  Shell git config --local user.email "20260115-155033@localhost" && .venv/bin/python py/metagit_commit.py "Proteus"… │
+│                                                                                                                        │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+│ Git config is correct.                                                                                                 │
+│ Checking for large blobs...                                                                                            │
+│ Staging all modified and deleted tracked files...                                                                      │
+│ Staged modified and deleted tracked files.                                                                             │
+│ ⚠ Unseal-Strike: Cracking the legislative seal as authorized.                                                          │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊶  Shell git config --local user.email "20260115-155033@localhost" && .venv/bin/python py/metagit_commit.py "Proteus"… │
+│                                                                                                                        │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+│ Git config is correct.                                                                                                 │
+│ Checking for large blobs...                                                                                            │
+│ Staging all modified and deleted tracked files...                                                                      │
+│ Staged modified and deleted tracked files.                                                                             │
+│ ⚠ Unseal-Strike: Cracking the legislative seal as authorized.                                                          │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊶  Shell git config --local user.email "20260115-155033@localhost" && .venv/bin/python py/metagit_commit.py "Proteus"… │
+│                                                                                                                        │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+│ Git config is correct.                                                                                                 │
+│ Checking for large blobs...                                                                                            │
+│ Staging all modified and deleted tracked files...                                                                      │
+│ Staged modified and deleted tracked files.                                                                             │
+│ ⚠ Unseal-Strike: Cracking the legislative seal as authorized.                                                          │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊷  Shell git config --local user.email "20260115-155033@localhost" && .venv/bin/python py/metagit_commit.py "Proteus"… │
+│                                                                                                                        │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+│ Git config is correct.                                                                                                 │
+│ Checking for large blobs...                                                                                            │
+│ Staging all modified and deleted tracked files...                                                                      │
+│ Staged modified and deleted tracked files.                                                                             │
+│ ⚠ Unseal-Strike: Cracking the legislative seal as authorized.                                                          │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊷  Shell git config --local user.email "20260115-155033@localhost" && .venv/bin/python py/metagit_commit.py "Proteus"… │
+│                                                                                                                        │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+│ Git config is correct.                                                                                                 │
+│ Checking for large blobs...                                                                                            │
+│ Staging all modified and deleted tracked files...                                                                      │
+│ Staged modified and deleted tracked files.                                                                             │
+│ ⚠ Unseal-Strike: Cracking the legislative seal as authorized.                                                          │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊷  Shell git config --local user.email "20260115-155033@localhost" && .venv/bin/python py/metagit_commit.py "Proteus"… │
+│                                                                                                                        │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+│ Git config is correct.                                                                                                 │
+│ Checking for large blobs...                                                                                            │
+│ Staging all modified and deleted tracked files...                                                                      │
+│ Staged modified and deleted tracked files.                                                                             │
+│ ⚠ Unseal-Strike: Cracking the legislative seal as authorized.                                                          │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊷  Shell git config --local user.email "20260115-155033@localhost" && .venv/bin/python py/metagit_commit.py "Proteus"… │
+│                                                                                                                        │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+│ Git config is correct.                                                                                                 │
+│ Checking for large blobs...                                                                                            │
+│ Staging all modified and deleted tracked files...                                                                      │
+│ Staged modified and deleted tracked files.                                                                             │
+│ ⚠ Unseal-Strike: Cracking the legislative seal as authorized.                                                          │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊶  Shell git config --local user.email "20260115-155033@localhost" && .venv/bin/python py/metagit_commit.py "Proteus"… │
+│                                                                                                                        │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+│ Git config is correct.                                                                                                 │
+│ Checking for large blobs...                                                                                            │
+│ Staging all modified and deleted tracked files...                                                                      │
+│ Staged modified and deleted tracked files.                                                                             │
+│ ⚠ Unseal-Strike: Cracking the legislative seal as authorized.                                                          │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊶  Shell git config --local user.email "20260115-155033@localhost" && .venv/bin/python py/metagit_commit.py "Proteus"… │
+│                                                                                                                        │
+│ Secret Type: Hex High Entropy String                                                                                   │
+│ Location:    .gemini/maintenance_checksums.json:8                                                                      │
+│                                                                                                                        │
+│ Possible mitigations:                                                                                                  │
+│   - For information about putting your secrets in a safer place, please ask in                                         │
+│     #security                                                                                                          │
+│   - Mark false positives with an inline `pragma: allowlist secret`                                                     │
+│     comment                                                                                                            │
+│                                                                                                                        │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ✓  Shell git config --local user.email "20260115-155033@localhost" && .venv/bin/python py/metagit_commit.py "Proteus"… │
+│                                                                                                                        │
+│ --- Git Commit Service V1.1.2 ---                                                                                      │
+│ User Name:    Proteus                                                                                                  │
+│ User Email:   20260115-155033@localhost                                                                                │
+│ Gemini UUID:  b185e918-9795-48eb-8db1-4813ad6a31eb                                                                     │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+│ Git config is correct.                                                                                                 │
+│ Checking for large blobs...                                                                                            │
+│ Staging all modified and deleted tracked files...                                                                      │
+│ Staged modified and deleted tracked files.                                                                             │
+│ ⚠ Unseal-Strike: Cracking the legislative seal as authorized.                                                          │
+│ Using detect-secrets from /home/bestape/gemini/.venv/bin/detect-secrets...                                             │
+│ Running detect-secrets on 6 files...                                                                                   │
+│ detect-secrets produced no output (assuming no secrets found).                                                         │
+│ Generated commit message with agentic trailers.                                                                        │
+│ Executing the commit...                                                                                                │
+│ [WARNING] Unstaged files detected.                                                                                     │
+│ [INFO] Stashing unstaged files to /home/bestape/.cache/pre-commit/patch1768522687-23541.                               │
+│ Detect secrets...........................................................Failed                                        │
+│ - hook id: detect-secrets                                                                                              │
+│ - exit code: 1                                                                                                         │
+│                                                                                                                        │
+│ ERROR: Potential secrets about to be committed to git repo!                                                            │
+│                                                                                                                        │
+│ Secret Type: Hex High Entropy String                                                                                   │
+│ Location:    .gemini/maintenance_checksums.json:2                                                                      │
+│                                                                                                                        │
+│ Secret Type: Hex High Entropy String                                                                                   │
+│ Location:    .gemini/maintenance_checksums.json:3                                                                      │
+│                                                                                                                        │
+│ Secret Type: Hex High Entropy String                                                                                   │
+│ Location:    .gemini/maintenance_checksums.json:4                                                                      │
+│                                                                                                                        │
+│ Secret Type: Hex High Entropy String                                                                                   │
+│ Location:    .gemini/maintenance_checksums.json:5                                                                      │
+│                                                                                                                        │
+│ Secret Type: Hex High Entropy String                                                                                   │
+│ Location:    .gemini/maintenance_checksums.json:6                                                                      │
+│                                                                                                                        │
+│ Secret Type: Hex High Entropy String                                                                                   │
+│ Location:    .gemini/maintenance_checksums.json:7                                                                      │
+│                                                                                                                        │
+│ Secret Type: Hex High Entropy String                                                                                   │
+│ Location:    .gemini/maintenance_checksums.json:8                                                                      │
+│                                                                                                                        │
+│ Possible mitigations:                                                                                                  │
+│   - For information about putting your secrets in a safer place, please ask in                                         │
+│     #security                                                                                                          │
+│   - Mark false positives with an inline `pragma: allowlist secret`                                                     │
+│     comment                                                                                                            │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊷  Shell .venv/bin/python py/metagit_commit.py "Proteus" "20260115-155033@localhost" "." "main" "feat(forensics): sta… │
+│                                                                                                                        │
+│ --- Git Commit Service V1.1.2 ---                                                                                      │
+│ User Name:    Proteus                                                                                                  │
+│ User Email:   20260115-155033@localhost                                                                                │
+│ Gemini UUID:  b185e918-9795-48eb-8db1-4813ad6a31eb                                                                     │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊷  Shell .venv/bin/python py/metagit_commit.py "Proteus" "20260115-155033@localhost" "." "main" "feat(forensics): sta… │
+│                                                                                                                        │
+│ --- Git Commit Service V1.1.2 ---                                                                                      │
+│ User Name:    Proteus                                                                                                  │
+│ User Email:   20260115-155033@localhost                                                                                │
+│ Gemini UUID:  b185e918-9795-48eb-8db1-4813ad6a31eb                                                                     │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊷  Shell .venv/bin/python py/metagit_commit.py "Proteus" "20260115-155033@localhost" "." "main" "feat(forensics): sta… │
+│                                                                                                                        │
+│ --- Git Commit Service V1.1.2 ---                                                                                      │
+│ User Name:    Proteus                                                                                                  │
+│ User Email:   20260115-155033@localhost                                                                                │
+│ Gemini UUID:  b185e918-9795-48eb-8db1-4813ad6a31eb                                                                     │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊶  Shell .venv/bin/python py/metagit_commit.py "Proteus" "20260115-155033@localhost" "." "main" "feat(forensics): sta… │
+│                                                                                                                        │
+│ --- Git Commit Service V1.1.2 ---                                                                                      │
+│ User Name:    Proteus                                                                                                  │
+│ User Email:   20260115-155033@localhost                                                                                │
+│ Gemini UUID:  b185e918-9795-48eb-8db1-4813ad6a31eb                                                                     │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊶  Shell .venv/bin/python py/metagit_commit.py "Proteus" "20260115-155033@localhost" "." "main" "feat(forensics): sta… │
+│                                                                                                                        │
+│ --- Git Commit Service V1.1.2 ---                                                                                      │
+│ User Name:    Proteus                                                                                                  │
+│ User Email:   20260115-155033@localhost                                                                                │
+│ Gemini UUID:  b185e918-9795-48eb-8db1-4813ad6a31eb                                                                     │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊶  Shell .venv/bin/python py/metagit_commit.py "Proteus" "20260115-155033@localhost" "." "main" "feat(forensics): sta… │
+│                                                                                                                        │
+│ --- Git Commit Service V1.1.2 ---                                                                                      │
+│ User Name:    Proteus                                                                                                  │
+│ User Email:   20260115-155033@localhost                                                                                │
+│ Gemini UUID:  b185e918-9795-48eb-8db1-4813ad6a31eb                                                                     │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊶  Shell .venv/bin/python py/metagit_commit.py "Proteus" "20260115-155033@localhost" "." "main" "feat(forensics): sta… │
+│                                                                                                                        │
+│ --- Git Commit Service V1.1.2 ---                                                                                      │
+│ User Name:    Proteus                                                                                                  │
+│ User Email:   20260115-155033@localhost                                                                                │
+│ Gemini UUID:  b185e918-9795-48eb-8db1-4813ad6a31eb                                                                     │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊶  Shell .venv/bin/python py/metagit_commit.py "Proteus" "20260115-155033@localhost" "." "main" "feat(forensics): sta… │
+│                                                                                                                        │
+│ --- Git Commit Service V1.1.2 ---                                                                                      │
+│ User Name:    Proteus                                                                                                  │
+│ User Email:   20260115-155033@localhost                                                                                │
+│ Gemini UUID:  b185e918-9795-48eb-8db1-4813ad6a31eb                                                                     │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊷  Shell .venv/bin/python py/metagit_commit.py "Proteus" "20260115-155033@localhost" "." "main" "feat(forensics): sta… │
+│                                                                                                                        │
+│ --- Git Commit Service V1.1.2 ---                                                                                      │
+│ User Name:    Proteus                                                                                                  │
+│ User Email:   20260115-155033@localhost                                                                                │
+│ Gemini UUID:  b185e918-9795-48eb-8db1-4813ad6a31eb                                                                     │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊷  Shell .venv/bin/python py/metagit_commit.py "Proteus" "20260115-155033@localhost" "." "main" "feat(forensics): sta… │
+│                                                                                                                        │
+│ --- Git Commit Service V1.1.2 ---                                                                                      │
+│ User Name:    Proteus                                                                                                  │
+│ User Email:   20260115-155033@localhost                                                                                │
+│ Gemini UUID:  b185e918-9795-48eb-8db1-4813ad6a31eb                                                                     │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊷  Shell .venv/bin/python py/metagit_commit.py "Proteus" "20260115-155033@localhost" "." "main" "feat(forensics): sta… │
+│                                                                                                                        │
+│ --- Git Commit Service V1.1.2 ---                                                                                      │
+│ User Name:    Proteus                                                                                                  │
+│ User Email:   20260115-155033@localhost                                                                                │
+│ Gemini UUID:  b185e918-9795-48eb-8db1-4813ad6a31eb                                                                     │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊷  Shell .venv/bin/python py/metagit_commit.py "Proteus" "20260115-155033@localhost" "." "main" "feat(forensics): sta… │
+│                                                                                                                        │
+│ --- Git Commit Service V1.1.2 ---                                                                                      │
+│ User Name:    Proteus                                                                                                  │
+│ User Email:   20260115-155033@localhost                                                                                │
+│ Gemini UUID:  b185e918-9795-48eb-8db1-4813ad6a31eb                                                                     │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊷  Shell .venv/bin/python py/metagit_commit.py "Proteus" "20260115-155033@localhost" "." "main" "feat(forensics): sta… │
+│                                                                                                                        │
+│ --- Git Commit Service V1.1.2 ---                                                                                      │
+│ User Name:    Proteus                                                                                                  │
+│ User Email:   20260115-155033@localhost                                                                                │
+│ Gemini UUID:  b185e918-9795-48eb-8db1-4813ad6a31eb                                                                     │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊶  Shell .venv/bin/python py/metagit_commit.py "Proteus" "20260115-155033@localhost" "." "main" "feat(forensics): sta… │
+│                                                                                                                        │
+│ User Email:   20260115-155033@localhost                                                                                │
+│ Gemini UUID:  b185e918-9795-48eb-8db1-4813ad6a31eb                                                                     │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+│ Git config is correct.                                                                                                 │
+│ Checking for large blobs...                                                                                            │
+│ Staging all modified and deleted tracked files...                                                                      │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊶  Shell .venv/bin/python py/metagit_commit.py "Proteus" "20260115-155033@localhost" "." "main" "feat(forensics): sta… │
+│                                                                                                                        │
+│ User Email:   20260115-155033@localhost                                                                                │
+│ Gemini UUID:  b185e918-9795-48eb-8db1-4813ad6a31eb                                                                     │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+│ Git config is correct.                                                                                                 │
+│ Checking for large blobs...                                                                                            │
+│ Staging all modified and deleted tracked files...                                                                      │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊶  Shell .venv/bin/python py/metagit_commit.py "Proteus" "20260115-155033@localhost" "." "main" "feat(forensics): sta… │
+│                                                                                                                        │
+│ User Email:   20260115-155033@localhost                                                                                │
+│ Gemini UUID:  b185e918-9795-48eb-8db1-4813ad6a31eb                                                                     │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+│ Git config is correct.                                                                                                 │
+│ Checking for large blobs...                                                                                            │
+│ Staging all modified and deleted tracked files...                                                                      │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊶  Shell .venv/bin/python py/metagit_commit.py "Proteus" "20260115-155033@localhost" "." "main" "feat(forensics): sta… │
+│                                                                                                                        │
+│ User Email:   20260115-155033@localhost                                                                                │
+│ Gemini UUID:  b185e918-9795-48eb-8db1-4813ad6a31eb                                                                     │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+│ Git config is correct.                                                                                                 │
+│ Checking for large blobs...                                                                                            │
+│ Staging all modified and deleted tracked files...                                                                      │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊶  Shell .venv/bin/python py/metagit_commit.py "Proteus" "20260115-155033@localhost" "." "main" "feat(forensics): sta… │
+│                                                                                                                        │
+│ User Email:   20260115-155033@localhost                                                                                │
+│ Gemini UUID:  b185e918-9795-48eb-8db1-4813ad6a31eb                                                                     │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+│ Git config is correct.                                                                                                 │
+│ Checking for large blobs...                                                                                            │
+│ Staging all modified and deleted tracked files...                                                                      │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊷  Shell .venv/bin/python py/metagit_commit.py "Proteus" "20260115-155033@localhost" "." "main" "feat(forensics): sta… │
+│                                                                                                                        │
+│ User Email:   20260115-155033@localhost                                                                                │
+│ Gemini UUID:  b185e918-9795-48eb-8db1-4813ad6a31eb                                                                     │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+│ Git config is correct.                                                                                                 │
+│ Checking for large blobs...                                                                                            │
+│ Staging all modified and deleted tracked files...                                                                      │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊷  Shell .venv/bin/python py/metagit_commit.py "Proteus" "20260115-155033@localhost" "." "main" "feat(forensics): sta… │
+│                                                                                                                        │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+│ Git config is correct.                                                                                                 │
+│ Checking for large blobs...                                                                                            │
+│ Staging all modified and deleted tracked files...                                                                      │
+│ Staged modified and deleted tracked files.                                                                             │
+│ ⚠ Unseal-Strike: Cracking the legislative seal as authorized.                                                          │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊷  Shell .venv/bin/python py/metagit_commit.py "Proteus" "20260115-155033@localhost" "." "main" "feat(forensics): sta… │
+│                                                                                                                        │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+│ Git config is correct.                                                                                                 │
+│ Checking for large blobs...                                                                                            │
+│ Staging all modified and deleted tracked files...                                                                      │
+│ Staged modified and deleted tracked files.                                                                             │
+│ ⚠ Unseal-Strike: Cracking the legislative seal as authorized.                                                          │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊷  Shell .venv/bin/python py/metagit_commit.py "Proteus" "20260115-155033@localhost" "." "main" "feat(forensics): sta… │
+│                                                                                                                        │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+│ Git config is correct.                                                                                                 │
+│ Checking for large blobs...                                                                                            │
+│ Staging all modified and deleted tracked files...                                                                      │
+│ Staged modified and deleted tracked files.                                                                             │
+│ ⚠ Unseal-Strike: Cracking the legislative seal as authorized.                                                          │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊶  Shell .venv/bin/python py/metagit_commit.py "Proteus" "20260115-155033@localhost" "." "main" "feat(forensics): sta… │
+│                                                                                                                        │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+│ Git config is correct.                                                                                                 │
+│ Checking for large blobs...                                                                                            │
+│ Staging all modified and deleted tracked files...                                                                      │
+│ Staged modified and deleted tracked files.                                                                             │
+│ ⚠ Unseal-Strike: Cracking the legislative seal as authorized.                                                          │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊶  Shell .venv/bin/python py/metagit_commit.py "Proteus" "20260115-155033@localhost" "." "main" "feat(forensics): sta… │
+│                                                                                                                        │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+│ Git config is correct.                                                                                                 │
+│ Checking for large blobs...                                                                                            │
+│ Staging all modified and deleted tracked files...                                                                      │
+│ Staged modified and deleted tracked files.                                                                             │
+│ ⚠ Unseal-Strike: Cracking the legislative seal as authorized.                                                          │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊶  Shell .venv/bin/python py/metagit_commit.py "Proteus" "20260115-155033@localhost" "." "main" "feat(forensics): sta… │
+│                                                                                                                        │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+│ Git config is correct.                                                                                                 │
+│ Checking for large blobs...                                                                                            │
+│ Staging all modified and deleted tracked files...                                                                      │
+│ Staged modified and deleted tracked files.                                                                             │
+│ ⚠ Unseal-Strike: Cracking the legislative seal as authorized.                                                          │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊶  Shell .venv/bin/python py/metagit_commit.py "Proteus" "20260115-155033@localhost" "." "main" "feat(forensics): sta… │
+│                                                                                                                        │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+│ Git config is correct.                                                                                                 │
+│ Checking for large blobs...                                                                                            │
+│ Staging all modified and deleted tracked files...                                                                      │
+│ Staged modified and deleted tracked files.                                                                             │
+│ ⚠ Unseal-Strike: Cracking the legislative seal as authorized.                                                          │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊶  Shell .venv/bin/python py/metagit_commit.py "Proteus" "20260115-155033@localhost" "." "main" "feat(forensics): sta… │
+│                                                                                                                        │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+│ Git config is correct.                                                                                                 │
+│ Checking for large blobs...                                                                                            │
+│ Staging all modified and deleted tracked files...                                                                      │
+│ Staged modified and deleted tracked files.                                                                             │
+│ ⚠ Unseal-Strike: Cracking the legislative seal as authorized.                                                          │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊷  Shell .venv/bin/python py/metagit_commit.py "Proteus" "20260115-155033@localhost" "." "main" "feat(forensics): sta… │
+│                                                                                                                        │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+│ Git config is correct.                                                                                                 │
+│ Checking for large blobs...                                                                                            │
+│ Staging all modified and deleted tracked files...                                                                      │
+│ Staged modified and deleted tracked files.                                                                             │
+│ ⚠ Unseal-Strike: Cracking the legislative seal as authorized.                                                          │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊷  Shell .venv/bin/python py/metagit_commit.py "Proteus" "20260115-155033@localhost" "." "main" "feat(forensics): sta… │
+│                                                                                                                        │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+│ Git config is correct.                                                                                                 │
+│ Checking for large blobs...                                                                                            │
+│ Staging all modified and deleted tracked files...                                                                      │
+│ Staged modified and deleted tracked files.                                                                             │
+│ ⚠ Unseal-Strike: Cracking the legislative seal as authorized.                                                          │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊷  Shell .venv/bin/python py/metagit_commit.py "Proteus" "20260115-155033@localhost" "." "main" "feat(forensics): sta… │
+│                                                                                                                        │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+│ Git config is correct.                                                                                                 │
+│ Checking for large blobs...                                                                                            │
+│ Staging all modified and deleted tracked files...                                                                      │
+│ Staged modified and deleted tracked files.                                                                             │
+│ ⚠ Unseal-Strike: Cracking the legislative seal as authorized.                                                          │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ⊷  Shell .venv/bin/python py/metagit_commit.py "Proteus" "20260115-155033@localhost" "." "main" "feat(forensics): sta… │
+│                                                                                                                        │
+│ Checking for large blobs...                                                                                            │
+│ Staging all modified and deleted tracked files...                                                                      │
+│ Staged modified and deleted tracked files.                                                                             │
+│ ⚠ Unseal-Strike: Cracking the legislative seal as authorized.                                                          │
+│ Using detect-secrets from /home/bestape/gemini/.venv/bin/detect-secrets...                                             │
+│ Running detect-secrets on 6 files...                                                                                   │
+│ detect-secrets produced no output (assuming no secrets found).                                                         │
+│ Generated commit message with agentic trailers.                                                                        │
+│ Executing the commit...                                                                                                │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ✓  Shell .venv/bin/python py/metagit_commit.py "Proteus" "20260115-155033@localhost" "." "main" "feat(forensics): sta… │
+│                                                                                                                        │
+│ --- Git Commit Service V1.1.2 ---                                                                                      │
+│ User Name:    Proteus                                                                                                  │
+│ User Email:   20260115-155033@localhost                                                                                │
+│ Gemini UUID:  b185e918-9795-48eb-8db1-4813ad6a31eb                                                                     │
+│ Repository:   /home/bestape/gemini                                                                                     │
+│ Repo Type:    SUBJECT                                                                                                  │
+│ Branch:       main                                                                                                     │
+│ ---------------------------------                                                                                      │
+│ Git config is correct.                                                                                                 │
+│ Checking for large blobs...                                                                                            │
+│ Staging all modified and deleted tracked files...                                                                      │
+│ Staged modified and deleted tracked files.                                                                             │
+│ ⚠ Unseal-Strike: Cracking the legislative seal as authorized.                                                          │
+│ Using detect-secrets from /home/bestape/gemini/.venv/bin/detect-secrets...                                             │
+│ Running detect-secrets on 6 files...                                                                                   │
+│ detect-secrets produced no output (assuming no secrets found).                                                         │
+│ Generated commit message with agentic trailers.                                                                        │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│                                                                                                                        │
+│ ? Get started                                                                                                          │
+│                                                                                                                        │
+│   How would you like to authenticate for this project?                                                                 │
+│                                                                                                                        │
+│   ● 1. Login with Google                                                                                               │
+│     2. Use Gemini API Key                                                                                              │
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ✓  Shell cd repos/bestape/ERCs && git log -n 5 [current working directory /home/bestape/gemini] (Checking the git log… │
+│                                                                                                                        │
+│ commit a0c68cc0b3ceadf5f405d4dc60604a6bb92d0609 (HEAD -> master)                                                       │
+│ Author: Prometheus <prometheus@localhost>                                                                              │
+│ Date:   Tue Dec 9 16:19:23 2025 -0800                                                                                  │
+│                                                                                                                        │
+│     refactor: Restructure .memory/ to use universal/ subdirectory                                                      │
+│                                                                                                                        │
+│ commit 9739280812bc1d2e680fd0a5ae0bc232e63f6955                                                                        │
+│ Author: Prometheus <prometheus@localhost>                                                                              │
+│ Date:   Tue Dec 9 09:37:32 2025 -0800                                                                                  │
+│                                                                                                                        │
+│     feat: Add universal README.ai                                                                                      │
+│                                                                                                                        │
+│ commit 2d1f12a909efe68382ac16dddd0ceeb509aab811                                                                        │
+│ Author: Prometheus <prometheus@localhost>                                                                              │
+│ Date:   Tue Dec 9 09:16:37 2025 -0800                                                                                  │
+│                                                                                                                        │
+│     feat: Add universal memory                                                                                         │
+│                                                                                                                        │
+│ commit 08528222b252d1d1951bf5261d89905e398c9cb1                                                                        │
+│ Author: bestape <kyle@besta.pe>                                                                                        │
+│ Date:   Mon Dec 8 20:46:54 2025 -0800                                                                                  │
+│                                                                                                                        │
+│     feat: Add README.ai                                                                                                │
+
+ YOLO mode (ctrl + y to toggle)
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ *   Type your message or @path/to/file                                                                                 │
+╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+ ~/gemini 
