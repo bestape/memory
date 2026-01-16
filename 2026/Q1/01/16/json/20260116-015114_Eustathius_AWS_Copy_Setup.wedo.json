@@ -48,7 +48,7 @@
       {
         "id": "AWS-07",
         "description": "Remote Boot: SSH into AWS and start the Metagit Feed (npm run dev).",
-        "status": "[ ]"
+        "status": "[x]"
       }
     ],
     "context_anchors": {
