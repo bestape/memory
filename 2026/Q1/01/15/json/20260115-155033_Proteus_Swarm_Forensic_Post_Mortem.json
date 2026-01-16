@@ -1,0 +1,68 @@
+{
+  "title": "Swarm Forensic Post-Mortem Report: Cleanthes & Eudemus (Jan 2026)",
+  "version": "1.1.0",
+  "attribution": "Proteus (20260115-155033@localhost)",
+  "description": "Analysis and clinicalization of the recursive loops and tool-stalls encountered during the technical strikes of Jan 14-15, 2026.",
+  "meta": {
+    "status": "FINAL",
+    "protocol": "Argus-Standard",
+    "session_uuid": "a1b2f99336ddd84be197f90a7b7db6d4605128e86e5c2bfafb2a12bd1d1e7d66",
+    "wedo_link": "repos/diy-make/memory/public/2026/Q1/01/15/json/20260115-154902_Proteus_RELAY_Swarm_Forensic_Post_Mortem.wedo.json"
+  },
+  "values": [
+    {
+      "name": "High-Fidelity Forensic Header",
+      "rule": "### 🟢 Swarm Forensic Report: Proteus\n\n```\n\u001b[38;2;71;150;228m ███╗   ███╗ █████╗ ██╗  ██╗███████╗    ██████╗ ██╗██╗   ██╗\n\u001b[38;2;91;142;218m ████╗ ████║██╔══██╗██║ ██╔╝██╔════╝    ██╔══██╗██║╚██╗ ██╔╝\n\u001b[38;2;112;134;208m ██╔████╔██║███████║█████╔╝ █████╗      ██║  ██║██║ ╚████╔╝ \n\u001b[38;2;132;122;206m ██║╚██╔╝██║██╔══██║██╔═██╗ ██╔══╝      ██║  ██║██║  ╚██╔╝  \n\u001b[38;2;173;102;182m ██║ ╚═╝ ██║██║  ██║██║  ██║███████╗    ██████╔╝██║   ██║   \n\u001b[38;2;195;103;127m ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝    ╚═════╝ ╚═╝   ╚═╝   \n\n\u001b[38;2;195;103;127m             --- SOVEREIGN HUD | BOTANICAL AL 2026 ---\u001b[39m\n```",
+      "timestamp": "2026-01-16T00:15:33Z"
+    },
+    {
+      "name": "Friction Report (Substrate Analysis)",
+      "content": {
+        "summary": "Technical strikes on Jan 14-15 resulted in terminal stalls due to low-entropy repetition traps within the 'replace' tool and YOLO mode configuration.",
+        "subjects": [
+          {
+            "name": "Cleanthes",
+            "timestamp": "20260114-162329",
+            "failure_mode": "YOLO-Revision Loop",
+            "clinical_root": "Recursive tool interpretation triggered by clickwrap/PrecisionBOM mismatch."
+          },
+          {
+            "name": "Eudemus",
+            "timestamp": "20260115-082343",
+            "failure_mode": "Recursive Edit Stall",
+            "clinical_root": "Model proposed redundant duration formatting logic in 'py/register_agent.py', leading to context saturation."
+          }
+        ],
+        "friction_index": "HIGH (Low-Entropy Trap)"
+      }
+    },
+    {
+      "name": "Technical Strikes (Clinical Fixes)",
+      "actions": [
+        {
+          "id": "FOR-STRIKE-01",
+          "description": "Clinical repair of 'py/register_agent.py' duration logic (Bion V1.1.7).",
+          "status": "[x]"
+        },
+        {
+          "id": "FOR-STRIKE-02",
+          "description": "Duplicate main block removal in 'py/register_agent.py' (Iophon V1.1.7).",
+          "status": "[x]"
+        },
+        {
+          "id": "FOR-STRIKE-03",
+          "description": "Hardening of re-anchoring logic and high-fidelity report storage (Proteus V1.1.8).",
+          "status": "[x]"
+        }
+      ]
+    },
+    {
+      "name": "Systemic Constraints",
+      "mandates": [
+        "MANDATE: 'strip_ansi' must be applied surgically to prevent the loss of high-fidelity Art in JSON storage.",
+        "MANDATE: Agents must use --crack-seal for authorized clinical modifications to Heartwood scripts.",
+        "MANDATE: Linearize terminal buffer at turn end to capture the 'Physics' of the session."
+      ]
+    }
+  ]
+}

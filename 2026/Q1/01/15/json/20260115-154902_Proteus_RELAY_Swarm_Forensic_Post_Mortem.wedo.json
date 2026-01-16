@@ -2,7 +2,7 @@
   "wedo_instance": {
     "id": "SWARM-FORENSIC-20260115",
     "description": "Forensic post-mortem of the session freezes encountered by Cleanthes and Eudemus on January 15, 2026.",
-    "status": "[ ]",
+    "status": "[x]",
     "meta": {
       "protocol": "WeDo-JSON",
       "version": "1.1.0",
@@ -30,17 +30,17 @@
       {
         "id": "FOR-STRIKE-01",
         "description": "Identify and clinicalize the specific 'py/register_agent.py' edit that triggered the Eudemus stall.",
-        "status": "[ ]"
+        "status": "[x]"
       },
       {
         "id": "FOR-STRIKE-02",
         "description": "Verify integrity of 'py/register_agent.py' and restore to known-good state if corrupted by recursive edits.",
-        "status": "[ ]"
+        "status": "[x]"
       },
       {
         "id": "FOR-STRIKE-03",
         "description": "Generate ARGUS-standard report for the Swarm.",
-        "status": "[ ]"
+        "status": "[x]"
       }
     ]
   },
