@@ -23,12 +23,12 @@
       {
         "id": "AWS-02",
         "description": "Identity Provisioning: Create bestape-admin IAM user and configure 'aws configure'.",
-        "status": "[ ]"
+        "status": "[x]"
       },
       {
         "id": "AWS-03",
         "description": "Key Generation: Create 'eustathius-key' PEM and set chmod 400.",
-        "status": "[ ]"
+        "status": "[x]"
       },
       {
         "id": "AWS-04",
