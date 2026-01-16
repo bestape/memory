@@ -38,11 +38,11 @@
       {
         "id": "AWS-05",
         "description": "Domain Handshake: Point Namecheap nameservers to Cloudflare and create 'al' A record.",
-        "status": "[ ]"
+        "status": "[x]"
       },
       {
         "id": "AWS-06",
-        "description": "DNA Mirroring: Run './aws_strike.sh sync' to initialize remote substrate.",
+        "description": "DNA Mirroring: Run './aws_strike.sh sync' (Restricted to Jan logs + core repos).",
         "status": "[ ]"
       },
       {
