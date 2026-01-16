@@ -1,0 +1,61 @@
+{
+  "wedo_instance": {
+    "id": "AWS-COPY-SETUP",
+    "description": "Establish a remote AWS substrate for MetaGit Feed mirroring and remote technical strikes (al.isle.ventures).",
+    "status": "[ ]",
+    "meta": {
+      "protocol": "WeDo-JSON",
+      "version": "1.0.0",
+      "philosophy": "The AWS Node is an on-demand mirror, not a replacement. It provides global visibility while keeping legislative sovereignty local.",
+      "takeover_note": "New project instantiation by Eustathius."
+    },
+    "rules": {
+      "sovereignty": "The AWS machine is a field copy. The local filesystem remains the Root of Trust.",
+      "on_demand": "Compute resources must be halted when not metabolizing strikes to optimize cost.",
+      "sync_integrity": "Always verify checksums after rsync to ensure DNA parity."
+    },
+    "tasks": [
+      {
+        "id": "AWS-01",
+        "description": "Local Tooling: Install AWS CLI and Terraform on local machine.",
+        "status": "[x]"
+      },
+      {
+        "id": "AWS-02",
+        "description": "Identity Provisioning: Create bestape-admin IAM user and configure 'aws configure'.",
+        "status": "[ ]"
+      },
+      {
+        "id": "AWS-03",
+        "description": "Key Generation: Create 'eustathius-key' PEM and set chmod 400.",
+        "status": "[ ]"
+      },
+      {
+        "id": "AWS-04",
+        "description": "Substrate Provisioning: Run 'terraform apply' in repos/island_ventures/aws/.",
+        "status": "[ ]"
+      },
+      {
+        "id": "AWS-05",
+        "description": "Domain Handshake: Point Namecheap nameservers to Cloudflare and create 'al' A record.",
+        "status": "[ ]"
+      },
+      {
+        "id": "AWS-06",
+        "description": "DNA Mirroring: Run './aws_strike.sh sync' to initialize remote substrate.",
+        "status": "[ ]"
+      },
+      {
+        "id": "AWS-07",
+        "description": "Remote Boot: SSH into AWS and start the Metagit Feed (npm run dev).",
+        "status": "[ ]"
+      }
+    ],
+    "context_anchors": {
+      "infrastructure": "repos/island_ventures/aws/main.tf",
+      "automation": "repos/island_ventures/aws/aws_strike.sh",
+      "domain": "cloudflare (al.isle.ventures)"
+    }
+  },
+  "attribution": "Eustathius (20260116-015114@localhost)"
+}
