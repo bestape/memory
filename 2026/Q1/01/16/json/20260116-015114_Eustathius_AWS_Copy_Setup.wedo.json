@@ -33,7 +33,7 @@
       {
         "id": "AWS-04",
         "description": "Substrate Provisioning: Run 'terraform apply' in repos/island_ventures/aws/.",
-        "status": "[ ]"
+        "status": "[x]"
       },
       {
         "id": "AWS-05",
