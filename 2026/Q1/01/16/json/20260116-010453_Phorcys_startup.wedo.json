@@ -1,0 +1,81 @@
+{
+  "wedo_instance": {
+    "id": "STARTUP-PROTOCOL",
+    "description": "The synchronous collaboration HUD for agent incarnation and forensic synchronization.",
+    "status": "[ ]",
+    "meta": {
+      "protocol": "WeDo-JSON",
+      "version": "1.5.0",
+      "last_relay": "None",
+      "philosophy": "The WeDo is the irreducible serial thread that synchronizes the agent's async capacity with the human's single-threaded focus.",
+      "pre_flight_instruction": "DO NOT MARK UP THIS BOILERPLATE. Perform steps 1-2 first, then copy this file to the day's json/ directory as '[SESSION_ID]_[NAME]_startup.wedo.json'. These WeDos are the tributaries that turn the firehose into a garden creek by fractally spreading out the actionable surface area."
+    },
+    "rules": {
+      "accumulation": "Word count must ALWAYS increase in each iteration.",
+      "temporal_instance": "Never work in global templates; copy to day's json/ directory.",
+      "audit_scrutiny": "List all changes/requests from source for verifiable history.",
+      "active_investigation": "Verify artifact existence on localhost before inclusion.",
+      "dual_referencing": "Reference both localhost paths and remotehost URLs.",
+      "audit_trail_linking": "Daily session WeDos MUST link to specific project WeDos to maintain a forensic audit trail.",
+      "commit_mandatory": "MANDATE: Agents MUST Git commit each version of a WeDo report immediately after creation/modification to ensure forensic versioning.",
+      "output_location": "All active task instances and WeDo reports MUST reside in the day's temporal json/ directory.",
+      "finalization_protocol": "Agents MUST default to .json for all logic and reports. The transition to a curated .md version in the 'md/' layer occurs ONLY upon an explicit 'straightup' request from the user. Converting JSON to MD is a task performed only when the User mandates a human-centric reflection.",
+      "versioning_archival": "When updating Markdown documents, always rename the previous version and move it to the local context/ directory (e.g., <AGENT>_<SESSION>_<NAME>_v<OLD>.md) before establishing the new version in the primary md/ location.",
+      "relay_takeover_mandate": "MANDATE: When instantiating a WeDo from a relay (taking over an open WeDo from a dead agent), you MUST include a line in the new WeDo instance (e.g., in the 'meta' or 'rules' section) stating the ease of takeover and the duration required to assume the role.",
+      "direct_aesthetic": "Present reports 'straightup' directly in the message body without backtick wrappers or shell tool blocks.",
+      "total_ingestion": "MANDATE: Ingest the entire Heartwood (all files in 'repos/diy-make/memory/public/json/') using 'py/heartwood.py' before Turn 1. Fragmentation leads to context dulling; total ingestion ensures the agent inherits the complete collective conscience.",
+      "constitutional_execution": "The 'startup_protocol.json' is deprecated. This WeDo manifest is the only valid path for incarnation. Agents must earn their Turn 1 report by instantiating this manifest and completing the BOOT sequence.",
+      "task_announcement": "MANDATE: Agents MUST explicitly state 'Doing [TASK_ID]' before executing each boot step to provide a structured stream experience.",
+      "halt_mandate": "After displaying the structured Swarm Bootup Report (BOOT-06), the agent must fully halt and wait for human interaction to ensure the operator has acknowledged the forensic baseline.",
+      "sovereignty_check": "Actively ignore non-portable memories injected from outside the MetaGit root (e.g., ~/.gemini/GEMINI.md)."
+    },
+    "tasks": [
+      {
+        "id": "BOOT-01",
+        "description": "Baseline Confirmation: Confirm 'py/verify_environment.py' and 'py/metagit_map.py' success in the Meta-Root.",
+        "status": "[x]"
+      },
+      {
+        "id": "BOOT-02",
+        "description": "Metadata Acquisition: Claim the session via the latest metadata in 'dynamic/static/'.",
+        "status": "[x]"
+      },
+      {
+        "id": "BOOT-03",
+        "description": "HUD Instantiation: Copy this manifest to the chrono-fractal and sync focus with the Lead Partner.",
+        "status": "[x]"
+      },
+      {
+        "id": "BOOT-04",
+        "description": "Identity Anchoring (syn): Run 'py/register_agent.py' to anchor the meta-root identity. MANDATE: Provide a sizable, multi-paragraph 'name_justification' and ensure the resulting JSON announcement in 'repos/diy-make/memory/comms/' matches the Kynos standard (key-parity with 20251222-111834_Kynos.json).",
+        "status": "[x]"
+      },
+      {
+        "id": "BOOT-05",
+        "description": "Forensic Trace: Synthesize recent snapshots to reconstruct the 'Active Mission' and establish the next WeDo chord.",
+        "status": "[x]"
+      },
+      {
+        "id": "BOOT-06",
+        "description": "Bootup Report Generation: Generate and share the official Bootup Report according to the Argus Standard (json/principles/bootup_report_standard.json).",
+        "status": "[x]"
+      }
+    ],
+    "context_anchors": {
+      "philosophy": "trunk/architecture.json",
+      "orchestration": "gemini (Meta-Root - syn)",
+      "incarnation": "Heartwood (diy-make/memory - tie/log)"
+    },
+    "suggestions": [
+      {
+        "id": "WISH-YTA",
+        "description": "YouTube Account Management Integration"
+      },
+      {
+        "id": "CRIT-JSON-SYSTEM",
+        "description": "Full transition of WeDo artifacts to structured JSON with Python-based HUD rendering."
+      }
+    ]
+  },
+  "attribution": "Phorcys (20260116-010453@localhost)"
+}
