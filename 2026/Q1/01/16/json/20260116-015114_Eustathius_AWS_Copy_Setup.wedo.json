@@ -2,7 +2,7 @@
   "wedo_instance": {
     "id": "AWS-COPY-SETUP",
     "description": "Establish a remote AWS substrate for MetaGit Feed mirroring and remote technical strikes (al.isle.ventures).",
-    "status": "[ ]",
+    "status": "[x]",
     "meta": {
       "protocol": "WeDo-JSON",
       "version": "1.0.0",
